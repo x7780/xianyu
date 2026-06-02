@@ -1,0 +1,1884 @@
+- generic [active] [ref=e1]:
+  - img
+  - img
+  - banner [ref=e49]:
+    - link "Skip to main content" [ref=e51] [cursor=pointer]:
+      - /url: "#mainContent"
+    - navigation [ref=e52]:
+      - generic [ref=e53]:
+        - generic [ref=e55]:
+          - text: Hi!
+          - link "Sign in" [ref=e56] [cursor=pointer]:
+            - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+          - generic [ref=e57]:
+            - text: or
+            - link "register" [ref=e58] [cursor=pointer]:
+              - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+        - link "Deals" [ref=e60] [cursor=pointer]:
+          - /url: https://www.ebay.com/deals
+        - link "Brand Outlet" [ref=e62] [cursor=pointer]:
+          - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+        - link "Gift Cards" [ref=e64] [cursor=pointer]:
+          - /url: https://www.ebay.com/giftcards
+        - link "Help & Contact" [ref=e66] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+      - generic [ref=e67]:
+        - link "Sell" [ref=e70] [cursor=pointer]:
+          - /url: https://www.ebay.com/sl/sell
+        - generic [ref=e71]:
+          - link "Watchlist" [ref=e72] [cursor=pointer]:
+            - /url: https://www.ebay.com/mye/myebay/watchlist
+            - generic [ref=e73]: Watchlist
+            - img
+          - button "Expand Watch List" [ref=e74]
+        - generic [ref=e75]:
+          - link "My eBay" [ref=e76] [cursor=pointer]:
+            - /url: https://www.ebay.com/mys/home?source=GBH
+            - generic [ref=e77]: My eBay
+            - img
+          - button "Expand My eBay" [ref=e78]
+        - button "Notifications" [ref=e81] [cursor=pointer]:
+          - img
+          - generic [ref=e82]: Notifications
+        - generic [ref=e84]:
+          - link "Your shopping cart contains 0 items" [ref=e85] [cursor=pointer]:
+            - /url: https://cart.ebay.com
+            - generic "Your shopping cart contains 0 items" [ref=e86]:
+              - img
+          - button "Expand Cart" [ref=e87]
+    - generic [ref=e88]:
+      - generic [ref=e89]:
+        - link "eBay Home" [ref=e90] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - img "eBay Home" [ref=e91]
+        - button "Shop by category" [ref=e99] [cursor=pointer]:
+          - generic [ref=e100]: Shop by category
+          - img
+      - generic [ref=e101]:
+        - status [ref=e102]
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - combobox "Search for anything" [ref=e106]: MT7981 wifi6 router openwrt
+            - img
+          - combobox "Select a category for search" [ref=e107]:
+            - option "All Categories" [selected]
+            - option "Antiques"
+            - option "Art"
+            - option "Baby"
+            - option "Books & Magazines"
+            - option "Business & Industrial"
+            - option "Cameras & Photo"
+            - option "Cell Phones & Accessories"
+            - option "Clothing, Shoes & Accessories"
+            - option "Coins & Paper Money"
+            - option "Collectibles"
+            - option "Computers/Tablets & Networking"
+            - option "Consumer Electronics"
+            - option "Crafts"
+            - option "Dolls & Bears"
+            - option "Entertainment Memorabilia"
+            - option "Everything Else"
+            - option "Gift Cards & Coupons"
+            - option "Health & Beauty"
+            - option "Home & Garden"
+            - option "Jewelry & Watches"
+            - option "Movies & TV"
+            - option "Music"
+            - option "Musical Instruments & Gear"
+            - option "Pet Supplies"
+            - option "Pottery & Glass"
+            - option "Real Estate"
+            - option "Specialty Services"
+            - option "Sporting Goods"
+            - option "Sports Mem, Cards & Fan Shop"
+            - option "Stamps"
+            - option "Tickets & Experiences"
+            - option "Toys & Hobbies"
+            - option "Travel"
+            - option "Video Games & Consoles"
+        - generic [ref=e108]:
+          - button "Search" [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]: Search
+          - link "Advanced" [ref=e111] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/ebayadvsearch?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000
+  - generic [ref=e113]:
+    - generic [ref=e114]:
+      - generic [ref=e115]:
+        - text: "Related:"
+        - generic [ref=e116]:
+          - link "eero pro 6e" [ref=e117] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=eero+pro+6e&_sop=12
+          - link "router" [ref=e118] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+router&_sop=12
+          - link "wifi 7 router" [ref=e119] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+wifi+7+router&_sop=12
+          - link "eero pro 6" [ref=e120] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+eero+pro+6&_sop=12
+          - link "eero max 7" [ref=e121] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+eero+max+7&_sop=12
+          - link "eero" [ref=e122] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+eero&_sop=12
+          - link "tp link deco" [ref=e123] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+tp+link+deco&_sop=12
+          - link "eero 6" [ref=e124] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+eero+6&_sop=12
+          - link "wifi router" [ref=e125] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+wifi+router&_sop=12
+          - link "asus router" [ref=e126] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+asus+router&_sop=12
+          - link "google wifi" [ref=e127] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+google+wifi&_sop=12
+          - link "eero 6 plus" [ref=e128] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=+eero+6+plus&_sop=12
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - checkbox "Include description" [ref=e132]
+          - generic [ref=e133]:
+            - img
+        - text: Include description
+    - generic [ref=e135]:
+      - heading "Filter" [level=2] [ref=e136]
+      - list [ref=e137]:
+        - listitem [ref=e138]:
+          - list [ref=e139]:
+            - listitem [ref=e140]:
+              - button "Update your location Shipping to 60025" [ref=e144] [cursor=pointer]:
+                - generic [ref=e145]: Update your location
+                - img
+                - text: Shipping to
+                - generic [ref=e146]: "60025"
+            - listitem [ref=e147]:
+              - heading "Shipping and pickup" [level=3] [ref=e148]:
+                - button "Shipping and pickup" [expanded] [ref=e149] [cursor=pointer]:
+                  - text: Shipping and pickup
+                  - generic [ref=e150]:
+                    - img
+              - list [ref=e152]:
+                - listitem [ref=e153]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - checkbox
+                        - generic:
+                          - img
+                      - generic:
+                        - generic:
+                          - generic: Arrives in 2-4 days
+                - listitem [ref=e154]:
+                  - link "Free Shipping" [ref=e156] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_FS=1
+                    - generic [ref=e157]:
+                      - generic [ref=e158]:
+                        - checkbox [ref=e159]
+                        - generic [ref=e160]:
+                          - img
+                      - generic [ref=e163]: Free Shipping
+                - listitem [ref=e166]:
+                  - link "Local Pickup within 25 miles" [ref=e168] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&_fspt=1&_stpos=60025&LH_PrefLoc=99&_sadis=25&LH_LPickup=1
+                    - generic [ref=e169]:
+                      - generic [ref=e170]:
+                        - checkbox [ref=e171]
+                        - generic [ref=e172]:
+                          - img
+                      - generic [ref=e174]:
+                        - generic [ref=e175]: Local Pickup within
+                        - generic [ref=e177]: 25 miles
+                  - button "25 mi" [ref=e179] [cursor=pointer]:
+                    - generic [ref=e181]: 25 mi
+            - listitem [ref=e182]:
+              - heading "Price" [level=3] [ref=e183]:
+                - button "Price" [expanded] [ref=e184] [cursor=pointer]:
+                  - text: Price
+                  - generic [ref=e185]:
+                    - img
+              - generic [ref=e188]:
+                - generic [ref=e190]:
+                  - generic [ref=e191]:
+                    - generic [ref=e193]: $
+                    - generic [ref=e195]:
+                      - generic: Min
+                      - textbox "Minimum Value in $" [ref=e197]
+                  - generic [ref=e198]: to
+                  - generic [ref=e199]:
+                    - generic [ref=e201]: $
+                    - generic [ref=e203]:
+                      - generic: Max
+                      - textbox "Maximum Value in $" [ref=e205]
+                  - generic [ref=e206]:
+                    - button "Submit price range" [disabled]:
+                      - img
+                - alert
+            - listitem [ref=e207]:
+              - heading "Buying Format" [level=3] [ref=e208]:
+                - button "Buying Format" [expanded] [ref=e209] [cursor=pointer]:
+                  - text: Buying Format
+                  - generic [ref=e210]:
+                    - img
+              - list [ref=e212]:
+                - listitem [ref=e213]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - radio [checked] [disabled]
+                          - generic:
+                            - img
+                        - generic: All Listings
+                      - generic: Filter Applied
+                - listitem [ref=e214]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - radio [disabled]
+                          - generic:
+                            - img
+                        - generic: Auction
+                - listitem [ref=e215]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - radio [disabled]
+                          - generic:
+                            - img
+                        - generic: Buy It Now
+                - listitem [ref=e216]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - radio [disabled]
+                          - generic:
+                            - img
+                        - generic: Accepts Offers
+            - listitem [ref=e217]:
+              - heading "Item Location" [level=3] [ref=e218]:
+                - button "Item Location" [expanded] [ref=e219] [cursor=pointer]:
+                  - text: Item Location
+                  - generic [ref=e220]:
+                    - img
+              - list [ref=e222]:
+                - listitem [ref=e223]:
+                  - link "Default Filter Applied" [ref=e225] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_PrefLoc=98
+                    - generic [ref=e226]:
+                      - generic [ref=e227]:
+                        - generic [ref=e228]:
+                          - radio [checked] [ref=e229]
+                          - generic [ref=e230]:
+                            - img
+                        - generic [ref=e231]: Default
+                      - generic [ref=e232]: Filter Applied
+                - listitem [ref=e233]:
+                  - generic [ref=e235] [cursor=pointer]:
+                    - generic [ref=e236]:
+                      - radio [ref=e237]
+                      - generic [ref=e238]:
+                        - img
+                    - link "Within 25 mi" [ref=e239]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&_sadis=25&_stpos=60025&_fspt=1
+                      - text: Within
+                      - generic [ref=e240]: 25 mi
+                    - button "25 mi" [ref=e241]:
+                      - generic [ref=e243]: 25 mi
+                - listitem [ref=e244]:
+                  - link "US Only" [ref=e246] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_PrefLoc=1
+                    - generic [ref=e248]:
+                      - generic [ref=e249]:
+                        - radio [ref=e250]
+                        - generic [ref=e251]:
+                          - img
+                      - generic [ref=e252]: US Only
+                - listitem [ref=e253]:
+                  - link "North America" [ref=e255] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_PrefLoc=3
+                    - generic [ref=e257]:
+                      - generic [ref=e258]:
+                        - radio [ref=e259]
+                        - generic [ref=e260]:
+                          - img
+                      - generic [ref=e261]: North America
+                - listitem [ref=e262]:
+                  - link "Worldwide" [ref=e264] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_PrefLoc=2
+                    - generic [ref=e266]:
+                      - generic [ref=e267]:
+                        - radio [ref=e268]
+                        - generic [ref=e269]:
+                          - img
+                      - generic [ref=e270]: Worldwide
+            - listitem [ref=e271]:
+              - heading "Show only" [level=3] [ref=e272]:
+                - button "Show only" [expanded] [ref=e273] [cursor=pointer]:
+                  - text: Show only
+                  - generic [ref=e274]:
+                    - img
+              - generic [ref=e275]:
+                - list [ref=e276]:
+                  - listitem [ref=e277]:
+                    - link "Free Returns" [ref=e279] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_FR=1
+                      - generic [ref=e280]:
+                        - generic [ref=e281]:
+                          - checkbox [ref=e282]
+                          - generic [ref=e283]:
+                            - img
+                        - generic [ref=e286]: Free Returns
+                  - listitem [ref=e289]:
+                    - link "Returns Accepted" [ref=e291] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_RPA=1
+                      - generic [ref=e292]:
+                        - generic [ref=e293]:
+                          - checkbox [ref=e294]
+                          - generic [ref=e295]:
+                            - img
+                        - generic [ref=e298]: Returns Accepted
+                  - listitem [ref=e301]:
+                    - link "Authorized Seller" [ref=e303] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_AS=1
+                      - generic [ref=e304]:
+                        - generic [ref=e305]:
+                          - checkbox [ref=e306]
+                          - generic [ref=e307]:
+                            - img
+                        - generic [ref=e310]: Authorized Seller
+                  - listitem [ref=e313]:
+                    - link "Completed Items" [ref=e315] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_Complete=1
+                      - generic [ref=e316]:
+                        - generic [ref=e317]:
+                          - checkbox [ref=e318]
+                          - generic [ref=e319]:
+                            - img
+                        - generic [ref=e322]: Completed Items
+                  - listitem [ref=e325]:
+                    - link "Sold Items" [ref=e327] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_Sold=1
+                      - generic [ref=e328]:
+                        - generic [ref=e329]:
+                          - checkbox [ref=e330]
+                          - generic [ref=e331]:
+                            - img
+                        - generic [ref=e334]: Sold Items
+                  - listitem [ref=e337]:
+                    - link "Deals & Savings" [ref=e339] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_Savings=1
+                      - generic [ref=e340]:
+                        - generic [ref=e341]:
+                          - checkbox [ref=e342]
+                          - generic [ref=e343]:
+                            - img
+                        - generic [ref=e346]: Deals & Savings
+                - button "see all - Show only - opens dialog" [ref=e351] [cursor=pointer]:
+                  - generic [ref=e352]: see all
+        - listitem [ref=e353]:
+          - button "More filters..." [ref=e355] [cursor=pointer]:
+            - generic [ref=e356]: More filters...
+    - main [ref=e357]:
+      - generic [ref=e359]:
+        - generic [ref=e361]:
+          - heading "0 results for MT7981 wifi6 router openwrt" [level=1] [ref=e363]
+          - button "Save this search MT7981 wifi6 router openwrt search" [ref=e367] [cursor=pointer]:
+            - generic [ref=e368]:
+              - img
+            - text: Save this search
+        - generic [ref=e370]:
+          - list [ref=e373]:
+            - listitem [ref=e374]:
+              - link "All selected" [ref=e375] [cursor=pointer]:
+                - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_All=1
+                - generic "All selected" [ref=e376]: All
+            - listitem [ref=e377]:
+              - link "Auction" [ref=e378] [cursor=pointer]:
+                - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_Auction=1
+                - generic [ref=e379]: Auction
+            - listitem [ref=e380]:
+              - link "Buy It Now" [ref=e381] [cursor=pointer]:
+                - /url: https://www.ebay.com/sch/i.html?_nkw=MT7981+wifi6+router+openwrt&LH_ItemCondition=3000&rt=nc&LH_BIN=1
+                - generic [ref=e382]: Buy It Now
+          - generic [ref=e383]:
+            - button "Condition" [ref=e385]:
+              - generic [ref=e386]:
+                - generic [ref=e387]: Condition
+                - img
+            - button "Item Location" [ref=e389]:
+              - generic [ref=e390]:
+                - generic [ref=e391]: Item Location
+                - img
+      - generic [ref=e393]:
+        - listitem [ref=e395]:
+          - generic [ref=e396]:
+            - link [ref=e400] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e401]:
+              - generic [ref=e402]:
+                - link [ref=e403] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e404]: Shop on eBay
+                - generic [ref=e406]: Brand New
+              - generic [ref=e408]:
+                - generic [ref=e409]: $20.00
+                - generic [ref=e410]: or Best Offer
+              - heading [level=6] [ref=e415]: derosnopS
+        - listitem [ref=e417]:
+          - generic [ref=e418]:
+            - link [ref=e422] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e423]:
+              - generic [ref=e424]:
+                - link [ref=e425] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e426]: Shop on eBay
+                - generic [ref=e428]: Brand New
+              - generic [ref=e430]:
+                - generic [ref=e431]: $20.00
+                - generic [ref=e432]: or Best Offer
+              - heading [level=6] [ref=e437]: derosnopS
+        - generic [ref=e438]:
+          - generic [ref=e440]:
+            - generic [ref=e441]:
+              - heading "No exact matches found" [level=3] [ref=e442]
+              - generic [ref=e443]: Save this search to receive email alerts and notifications when new items are available.
+            - button "Save this search MT7981 wifi6 router openwrt search" [ref=e447] [cursor=pointer]:
+              - generic [ref=e448]:
+                - img
+              - text: Save this search
+          - region [ref=e451]:
+            - generic [ref=e452]:
+              - img
+            - paragraph [ref=e454]: Results matching fewer words
+          - list [ref=e455]:
+            - listitem [ref=e456]:
+              - generic [ref=e457]:
+                - generic [ref=e459]:
+                  - generic [ref=e460]:
+                    - group [ref=e461]:
+                      - generic [ref=e462]:
+                        - button "Previous Slide" [disabled] [ref=e463]:
+                          - img
+                        - list [ref=e465]:
+                          - listitem [ref=e466]:
+                            - link "MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB Image 1 of 2" [ref=e468] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/327128701619?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6SFP7BRESKHHHJMYB&hash=item4c2a63dab3%3Ag%3AO80AAeSwuYNp8TR7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCqdk90JI9mCI0UzfNNIKlrj%2B5eNUsBVLPfzSm4IBgJj8XCZB50Jgj%2F1YcrxSJ2IbXB3xaeog%2Fd6ZJqzrjZo0WcY%2FXmY9z75j3ENrdHj3JvGJvnhrcwCwO85%2BQEJaey3MU%2BlVwlR6%2FGj%2BMYivoKs5HUBYwMoqfncmYvQfrP06vcs3SdSKbHf%2FDHqOXqEuHkm7gQQ1MAeeBjrPgBzCEPc2Jx2sc%2FczY%2BnKiAlDR80HZiUGHZzViZxaQDpZSjNhPKiwfcQZdJLuc3W8hikE%2F7Oiuw3XJLEaAcUwQkF5jZRFLAORtrwhG1bUZ4Jjc%2FyHhieN8%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB Image 1 of 2" [ref=e469]
+                          - listitem [ref=e470]:
+                            - link "MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB Image 2 of 2" [ref=e472] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/327128701619?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6SFP7BRESKHHHJMYB&hash=item4c2a63dab3%3Ag%3AO80AAeSwuYNp8TR7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCqdk90JI9mCI0UzfNNIKlrj%2B5eNUsBVLPfzSm4IBgJj8XCZB50Jgj%2F1YcrxSJ2IbXB3xaeog%2Fd6ZJqzrjZo0WcY%2FXmY9z75j3ENrdHj3JvGJvnhrcwCwO85%2BQEJaey3MU%2BlVwlR6%2FGj%2BMYivoKs5HUBYwMoqfncmYvQfrP06vcs3SdSKbHf%2FDHqOXqEuHkm7gQQ1MAeeBjrPgBzCEPc2Jx2sc%2FczY%2BnKiAlDR80HZiUGHZzViZxaQDpZSjNhPKiwfcQZdJLuc3W8hikE%2F7Oiuw3XJLEaAcUwQkF5jZRFLAORtrwhG1bUZ4Jjc%2FyHhieN8%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e473]:
+                          - img
+                    - img [ref=e474]
+                  - link "watch MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB" [ref=e480] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=327128701619&pt=null&srt=01000b00000050b496bd005909e0649636444e732529475420bd2a714df2459c806195f6091fe339e1513dd0daad63881f2efdd887e7fb87302b64716c17a6873ad5f979e1dd00956807bc18dc237783611cf15f9c0a5e&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e481]:
+                      - img
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - link "MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB Opens in a new window or tab" [ref=e484] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/327128701619?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6SFP7BRESKHHHJMYB&hash=item4c2a63dab3%3Ag%3AO80AAeSwuYNp8TR7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCqdk90JI9mCI0UzfNNIKlrj%2B5eNUsBVLPfzSm4IBgJj8XCZB50Jgj%2F1YcrxSJ2IbXB3xaeog%2Fd6ZJqzrjZo0WcY%2FXmY9z75j3ENrdHj3JvGJvnhrcwCwO85%2BQEJaey3MU%2BlVwlR6%2FGj%2BMYivoKs5HUBYwMoqfncmYvQfrP06vcs3SdSKbHf%2FDHqOXqEuHkm7gQQ1MAeeBjrPgBzCEPc2Jx2sc%2FczY%2BnKiAlDR80HZiUGHZzViZxaQDpZSjNhPKiwfcQZdJLuc3W8hikE%2F7Oiuw3XJLEaAcUwQkF5jZRFLAORtrwhG1bUZ4Jjc%2FyHhieN8%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                      - heading "MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB Opens in a new window or tab" [level=3] [ref=e485]:
+                        - text: MIT Wireless Beam X-71 Long Range LTE / 4G / WAN Router NOB
+                        - generic [ref=e486]: Opens in a new window or tab
+                    - generic [ref=e488]: Pre-Owned
+                  - generic [ref=e489]:
+                    - generic [ref=e490]:
+                      - generic [ref=e491]: $40.00
+                      - generic [ref=e492]: or Best Offer
+                      - generic [ref=e493]: +$7.26 delivery
+                      - generic [ref=e494]: Located in United States
+                    - generic [ref=e496]: rb_quick 100% positive (558)
+                  - heading "Sponsored" [level=6] [ref=e501]: derosnopS
+            - listitem [ref=e502]:
+              - generic [ref=e503]:
+                - generic [ref=e505]:
+                  - generic [ref=e506]:
+                    - group [ref=e507]:
+                      - generic [ref=e508]:
+                        - button "Previous Slide" [disabled] [ref=e509]:
+                          - img
+                        - list [ref=e511]:
+                          - listitem [ref=e512]:
+                            - link "pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls Image 1 of 2" [ref=e514] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/277664442532?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6Y8VPYTR8GRHMPV2T&hash=item40a61728a4%3Ag%3AEmUAAeSwYb1o4We6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCwT9Hk%2FqDrqh%2F1FrTceANob9osmm3qnEFaOI6pKNZW89aBIMf7oDcOC8Dwi%2F60naXUOrBDACrB8OonKSt2eaZOtnRhLgfdWjHLXJHH95%2FnzWhNh8iaA5NWZi3d1xAC4LctIDa5Qld1UKAv4zdrJ0Okxvj2GYlFo8oAjkjbrR0qQR2urjBWNhFocvoGfs1UtuLp86Dcm7QTkBSrPCoNGDoBTUgCG32vFFS4rLND1wy33pVSHvCmH0Q90iJFsIkU8kQsoLZHezDLjJmrGL6ROXXsOdJcqUOGDE%2BPg0nvGdRzQg%3D%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls Image 1 of 2" [ref=e515]
+                          - listitem [ref=e516]:
+                            - link "pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls Image 2 of 2" [ref=e518] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/277664442532?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6Y8VPYTR8GRHMPV2T&hash=item40a61728a4%3Ag%3AEmUAAeSwYb1o4We6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCwT9Hk%2FqDrqh%2F1FrTceANob9osmm3qnEFaOI6pKNZW89aBIMf7oDcOC8Dwi%2F60naXUOrBDACrB8OonKSt2eaZOtnRhLgfdWjHLXJHH95%2FnzWhNh8iaA5NWZi3d1xAC4LctIDa5Qld1UKAv4zdrJ0Okxvj2GYlFo8oAjkjbrR0qQR2urjBWNhFocvoGfs1UtuLp86Dcm7QTkBSrPCoNGDoBTUgCG32vFFS4rLND1wy33pVSHvCmH0Q90iJFsIkU8kQsoLZHezDLjJmrGL6ROXXsOdJcqUOGDE%2BPg0nvGdRzQg%3D%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e519]:
+                          - img
+                    - img [ref=e520]
+                  - link "watch pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls" [ref=e526] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=277664442532&pt=null&srt=01000b00000050c88b85ec4c6e9c729437db704b685c484d5ce30fc1e298f89e45cbd7b3d20d6cbbaff3da8a62d4d4420bc6e3aa475248947fe30619de845b52f154e065189e4ebf7814a9fc93d2684950883497d373a3&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e527]:
+                      - img
+                - generic [ref=e528]:
+                  - generic [ref=e529]:
+                    - link "pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls Opens in a new window or tab" [ref=e530] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/277664442532?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6Y8VPYTR8GRHMPV2T&hash=item40a61728a4%3Ag%3AEmUAAeSwYb1o4We6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCwT9Hk%2FqDrqh%2F1FrTceANob9osmm3qnEFaOI6pKNZW89aBIMf7oDcOC8Dwi%2F60naXUOrBDACrB8OonKSt2eaZOtnRhLgfdWjHLXJHH95%2FnzWhNh8iaA5NWZi3d1xAC4LctIDa5Qld1UKAv4zdrJ0Okxvj2GYlFo8oAjkjbrR0qQR2urjBWNhFocvoGfs1UtuLp86Dcm7QTkBSrPCoNGDoBTUgCG32vFFS4rLND1wy33pVSHvCmH0Q90iJFsIkU8kQsoLZHezDLjJmrGL6ROXXsOdJcqUOGDE%2BPg0nvGdRzQg%3D%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                      - heading "pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls Opens in a new window or tab" [level=3] [ref=e531]:
+                        - text: pcWRT Gigabit VPN Mesh Router with multiple SSIDs, ad block, parental controls
+                        - generic [ref=e532]: Opens in a new window or tab
+                    - generic [ref=e534]: WireGuard,IKEv2,OpenVPN, concurrent VPN client & server
+                    - generic [ref=e536]: Pre-Owned
+                  - generic [ref=e537]:
+                    - generic [ref=e538]:
+                      - generic [ref=e539]: $69.00
+                      - generic [ref=e540]: or Best Offer
+                      - generic [ref=e541]: Free delivery
+                      - generic [ref=e542]: Located in United States
+                      - generic [ref=e543]: Last one
+                      - generic [ref=e544]: 14 sold
+                      - generic [ref=e545]: Save up to 15% when you buy more
+                    - generic [ref=e547]: 1baytrader 100% positive (44)
+                  - heading "Sponsored" [level=6] [ref=e552]: derosnopS
+            - listitem [ref=e553]:
+              - generic [ref=e554]:
+                - generic [ref=e556]:
+                  - generic [ref=e557]:
+                    - group [ref=e558]:
+                      - generic [ref=e559]:
+                        - button "Previous Slide" [disabled] [ref=e560]:
+                          - img
+                        - list [ref=e562]:
+                          - listitem [ref=e563]:
+                            - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Image 1 of 2" [ref=e565] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/157955869925?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B61M5855Y1459DGSDP&hash=item24c6e74ce5%3Ag%3ApCAAAeSwRqxqG3Kn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhIzdKUu1sOsudAkc9OEfMPRa9BJU%2BvhDBH%2BLjyGxJll8mNaYoF3y3Ah%2ByLXthS%2B3YO7QtRNNw0VXUKjlOiB2UqBBBwrCHNovobZ%2BJxZgMoHa%2FlrrQte7Y1jcJy%2Bb6LDCIkYGW6SCjLKBdlIJ33PZX3wHJP4hEjsVTNL%2B1zTUaqT1VW9J0mYY%2BVxQE13uTcahcRizvPzoYrHimBp6Z5vcduabQeQtyX7oU9EtqML%2BaDSmX3k3PRWo7myFrDJTRvdRqFkSMdGs2RXiJvwUKSzMGlccQokBmu5i9jbAfNCS56FnuYrzLZ3zPeMhylajMu6M%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Image 1 of 2" [ref=e566]
+                          - listitem [ref=e567]:
+                            - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Image 2 of 2" [ref=e569] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/157955869925?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B61M5855Y1459DGSDP&hash=item24c6e74ce5%3Ag%3ApCAAAeSwRqxqG3Kn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhIzdKUu1sOsudAkc9OEfMPRa9BJU%2BvhDBH%2BLjyGxJll8mNaYoF3y3Ah%2ByLXthS%2B3YO7QtRNNw0VXUKjlOiB2UqBBBwrCHNovobZ%2BJxZgMoHa%2FlrrQte7Y1jcJy%2Bb6LDCIkYGW6SCjLKBdlIJ33PZX3wHJP4hEjsVTNL%2B1zTUaqT1VW9J0mYY%2BVxQE13uTcahcRizvPzoYrHimBp6Z5vcduabQeQtyX7oU9EtqML%2BaDSmX3k3PRWo7myFrDJTRvdRqFkSMdGs2RXiJvwUKSzMGlccQokBmu5i9jbAfNCS56FnuYrzLZ3zPeMhylajMu6M%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e570]:
+                          - img
+                    - img [ref=e571]
+                  - link "watch Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast" [ref=e577] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=157955869925&pt=null&srt=01000b00000050ddb855571fb7f421ba8c1c84afdae0ea216c4e53b9f1bdc3f662ea6542cde207556a5be2aea1cb06b931dd9411506dd503d9917f88ade16dbf455f9d6529831d4657e1a145b4edf23de6ce3377c98b92&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e578]:
+                      - img
+                - generic [ref=e579]:
+                  - generic [ref=e580]:
+                    - generic "NEW LOW PRICE" [ref=e582]
+                    - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Opens in a new window or tab" [ref=e583] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/157955869925?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B61M5855Y1459DGSDP&hash=item24c6e74ce5%3Ag%3ApCAAAeSwRqxqG3Kn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhIzdKUu1sOsudAkc9OEfMPRa9BJU%2BvhDBH%2BLjyGxJll8mNaYoF3y3Ah%2ByLXthS%2B3YO7QtRNNw0VXUKjlOiB2UqBBBwrCHNovobZ%2BJxZgMoHa%2FlrrQte7Y1jcJy%2Bb6LDCIkYGW6SCjLKBdlIJ33PZX3wHJP4hEjsVTNL%2B1zTUaqT1VW9J0mYY%2BVxQE13uTcahcRizvPzoYrHimBp6Z5vcduabQeQtyX7oU9EtqML%2BaDSmX3k3PRWo7myFrDJTRvdRqFkSMdGs2RXiJvwUKSzMGlccQokBmu5i9jbAfNCS56FnuYrzLZ3zPeMhylajMu6M%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Opens in a new window or tab" [level=3] [ref=e584]:
+                        - text: Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast
+                        - generic [ref=e585]: Opens in a new window or tab
+                    - generic [ref=e587]: Pre-Owned
+                  - generic [ref=e588]:
+                    - generic [ref=e589]:
+                      - generic [ref=e590]: $125.00
+                      - generic [ref=e591]: or Best Offer
+                      - generic [ref=e592]: +$18.00 delivery
+                      - generic [ref=e593]: Located in United States
+                    - generic [ref=e595]: zenzenli_67 100% positive (34)
+                  - heading "Sponsored" [level=6] [ref=e600]: derosnopS
+            - listitem [ref=e601]:
+              - generic [ref=e602]:
+                - generic [ref=e604]:
+                  - generic [ref=e605]:
+                    - group [ref=e606]:
+                      - generic [ref=e607]:
+                        - button "Previous Slide" [disabled] [ref=e608]:
+                          - img
+                        - list [ref=e610]:
+                          - listitem [ref=e611]:
+                            - link "CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR Image 1 of 2" [ref=e613] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/388261999625?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6REYPH6JGMY50TXF3&hash=item5a6637f409%3Ag%3Aj5EAAeSw325n%7EYYA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBw4%2FM%2Bs0Fh%2FVVum7rdfY72yS1hPEcRw%2BJPse2m27REUHql5LmQgI8poY32kJISEVWiDKNSpDT814E0NnDUuAype4xmv4z%2BzSzCB2tLTQz%2BA1%2F6LNCFMpc3lxhXdFTxKmxvBTOXJTrSI7Wa7aAyeAjCEsn8agtGsfPctHRkAZnvHQxdO7AlOgvCumzh7PeS95wGd8pLA1PhIiigMP15C1GC4lEx1CKo5mnkp%2F8mnUEsjrDIoE01yCtwBxRSh1y5C8XIXukKgdTBDdO6Np6oUD%2BCXaH4dEf0yt98Xb%2BIsWsu1w%3D%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR Image 1 of 2" [ref=e614]
+                          - listitem [ref=e615]:
+                            - link "CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR Image 2 of 2" [ref=e617] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/388261999625?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6REYPH6JGMY50TXF3&hash=item5a6637f409%3Ag%3Aj5EAAeSw325n%7EYYA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBw4%2FM%2Bs0Fh%2FVVum7rdfY72yS1hPEcRw%2BJPse2m27REUHql5LmQgI8poY32kJISEVWiDKNSpDT814E0NnDUuAype4xmv4z%2BzSzCB2tLTQz%2BA1%2F6LNCFMpc3lxhXdFTxKmxvBTOXJTrSI7Wa7aAyeAjCEsn8agtGsfPctHRkAZnvHQxdO7AlOgvCumzh7PeS95wGd8pLA1PhIiigMP15C1GC4lEx1CKo5mnkp%2F8mnUEsjrDIoE01yCtwBxRSh1y5C8XIXukKgdTBDdO6Np6oUD%2BCXaH4dEf0yt98Xb%2BIsWsu1w%3D%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                              - img "CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e618]:
+                          - img
+                    - img [ref=e619]
+                  - link "watch CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR" [ref=e625] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=388261999625&pt=null&srt=01000b00000050678fea258afcdb519ab658a0c146bd68534829ef4063a521b5765b9d9c7301b2c292fa8a6404b43d27d94e46d31ba4d037da54f0cdf75c980c234ebe7c545bf59c91c623fe42ea7d3a2b03fc8103b4ed&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e626]:
+                      - img
+                - generic [ref=e627]:
+                  - generic [ref=e628]:
+                    - link "CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR Opens in a new window or tab" [ref=e629] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/388261999625?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6REYPH6JGMY50TXF3&hash=item5a6637f409%3Ag%3Aj5EAAeSw325n%7EYYA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBw4%2FM%2Bs0Fh%2FVVum7rdfY72yS1hPEcRw%2BJPse2m27REUHql5LmQgI8poY32kJISEVWiDKNSpDT814E0NnDUuAype4xmv4z%2BzSzCB2tLTQz%2BA1%2F6LNCFMpc3lxhXdFTxKmxvBTOXJTrSI7Wa7aAyeAjCEsn8agtGsfPctHRkAZnvHQxdO7AlOgvCumzh7PeS95wGd8pLA1PhIiigMP15C1GC4lEx1CKo5mnkp%2F8mnUEsjrDIoE01yCtwBxRSh1y5C8XIXukKgdTBDdO6Np6oUD%2BCXaH4dEf0yt98Xb%2BIsWsu1w%3D%3D%7Ctkp%3ABFBM3rWAstFn&LH_ItemCondition=3000
+                      - heading "CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR Opens in a new window or tab" [level=3] [ref=e630]:
+                        - text: CONNECTEDIO ER1000T-NA 4G LTE (ROUTER BOX ONLY) WiFi LTE 4G CELLULAR
+                        - generic [ref=e631]: Opens in a new window or tab
+                    - generic [ref=e633]: Pre-Owned
+                  - generic [ref=e634]:
+                    - generic [ref=e635]:
+                      - generic [ref=e636]: $30.00
+                      - generic [ref=e637]: or Best Offer
+                      - generic [ref=e638]: +$13.64 delivery
+                      - generic [ref=e639]: Located in United States
+                    - generic [ref=e641]: antro_9023 100% positive (20)
+                  - heading "Sponsored" [level=6] [ref=e646]: derosnopS
+            - listitem [ref=e647]:
+              - generic [ref=e648]:
+                - generic [ref=e650]:
+                  - generic [ref=e651]:
+                    - group [ref=e652]:
+                      - generic [ref=e653]:
+                        - button "Previous Slide" [disabled] [ref=e654]:
+                          - img
+                        - list [ref=e656]:
+                          - listitem [ref=e657]:
+                            - link "D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT Image 1 of 2" [ref=e659] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/168407825435?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6EBG7PSTBRQM3CAY8&hash=item2735e37c1b%3Ag%3A7KUAAeSwI3ZqFxf6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC2bmzTgrYidRlkS1kkWLIWwn7u0YjZrzrg2dKqVQsK%2BmOQdV8amTwbC4T%2FFTObrHBL2M8otK2KmphY72MxdDtyfNv1e1adL%2BMxhgTFMNbZOEiWXkJlN83F6b%2BkfFm0Y8wP0dEaEbDm2zETRowXcfXaK0okO5EmxiBW0qBkXS%2BLidm2LYpbHIT3Ejzv60TLOZcW4YSZD8hR4qqIf3wR8SusamFOc8%2Bfg%2FjcbFhytv%2B9FOE6u0%2Bt5Hwt8%2BarpGGZH71wGFY941qBaYeOt1cbbcrrMfR1a%2FwLx9OW9ENjV5lFps9bjlrKmgW4QlWgaKkupjw%3D%7Ctkp%3ABk9SR961gLLRZw&LH_ItemCondition=3000
+                              - img "D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT Image 1 of 2" [ref=e660]
+                          - listitem [ref=e661]:
+                            - link "D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT Image 2 of 2" [ref=e663] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/168407825435?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6EBG7PSTBRQM3CAY8&hash=item2735e37c1b%3Ag%3A7KUAAeSwI3ZqFxf6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC2bmzTgrYidRlkS1kkWLIWwn7u0YjZrzrg2dKqVQsK%2BmOQdV8amTwbC4T%2FFTObrHBL2M8otK2KmphY72MxdDtyfNv1e1adL%2BMxhgTFMNbZOEiWXkJlN83F6b%2BkfFm0Y8wP0dEaEbDm2zETRowXcfXaK0okO5EmxiBW0qBkXS%2BLidm2LYpbHIT3Ejzv60TLOZcW4YSZD8hR4qqIf3wR8SusamFOc8%2Bfg%2FjcbFhytv%2B9FOE6u0%2Bt5Hwt8%2BarpGGZH71wGFY941qBaYeOt1cbbcrrMfR1a%2FwLx9OW9ENjV5lFps9bjlrKmgW4QlWgaKkupjw%3D%7Ctkp%3ABk9SR961gLLRZw&LH_ItemCondition=3000
+                              - img "D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT Image 2 of 2" [ref=e664]
+                        - button "Next Slide" [disabled] [ref=e665]:
+                          - img
+                    - img [ref=e666]
+                  - link "watch D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT" [ref=e672] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=168407825435&pt=null&srt=01000b000000507d078995cc2c63f7f0870180844746422d81c90b811730b6fb67129803972276d5fafd45c62cb774e88d0450e4c1f9dbb16b8c9ae5cc342aa5380086d93c9eb45643b4adb53e5b5c71715101f1ae4124&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e673]:
+                      - img
+                - generic [ref=e674]:
+                  - generic [ref=e675]:
+                    - link "D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT Opens in a new window or tab" [ref=e676] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/168407825435?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6EBG7PSTBRQM3CAY8&hash=item2735e37c1b%3Ag%3A7KUAAeSwI3ZqFxf6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC2bmzTgrYidRlkS1kkWLIWwn7u0YjZrzrg2dKqVQsK%2BmOQdV8amTwbC4T%2FFTObrHBL2M8otK2KmphY72MxdDtyfNv1e1adL%2BMxhgTFMNbZOEiWXkJlN83F6b%2BkfFm0Y8wP0dEaEbDm2zETRowXcfXaK0okO5EmxiBW0qBkXS%2BLidm2LYpbHIT3Ejzv60TLOZcW4YSZD8hR4qqIf3wR8SusamFOc8%2Bfg%2FjcbFhytv%2B9FOE6u0%2Bt5Hwt8%2BarpGGZH71wGFY941qBaYeOt1cbbcrrMfR1a%2FwLx9OW9ENjV5lFps9bjlrKmgW4QlWgaKkupjw%3D%7Ctkp%3ABk9SR961gLLRZw&LH_ItemCondition=3000
+                      - heading "D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT Opens in a new window or tab" [level=3] [ref=e677]:
+                        - text: D-Link Aquila Pro AI AX3000 Smart Mesh Wifi 6 Router M30 OpenWRT
+                        - generic [ref=e678]: Opens in a new window or tab
+                    - generic [ref=e680]: Flashed with OpenWRT
+                    - generic [ref=e682]: Pre-Owned
+                  - generic [ref=e683]:
+                    - generic [ref=e684]:
+                      - generic [ref=e685]: $25.50
+                      - generic [ref=e686]: or Best Offer
+                      - generic [ref=e687]: +$8.61 delivery
+                      - generic [ref=e688]: Located in United States
+                      - generic [ref=e689]: Last one
+                      - generic [ref=e690]: 1 watchers
+                      - generic [ref=e691]: Save up to 20% when you buy more
+                    - generic [ref=e693]: buds_bazaar 100% positive (205)
+                  - heading [level=6] [ref=e698]: derosnopS
+            - listitem [ref=e699]:
+              - generic [ref=e700]:
+                - generic [ref=e702]:
+                  - generic [ref=e703]:
+                    - group [ref=e704]:
+                      - generic [ref=e705]:
+                        - button "Previous Slide" [disabled] [ref=e706]:
+                          - img
+                        - list [ref=e708]:
+                          - listitem [ref=e709]:
+                            - link "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested Image 1 of 2" [ref=e711] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/298295422089?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6VP1JDSW6VPM7VV0Q&hash=item4573caec89%3Ag%3AUYsAAeSw0rNp-6ER&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCISeYKgmsbI7bt7MdfMwYO9V6h8Ksf1X5o%2BE5VXiNk4n3LNwPGFmwVPw%2B3oMYcdr3wLuoN8fR4cgptZXBPlcYRFo72MMU4fsW%2FmIvvbeBwrhnuD9vuahTV4UbsrPxoKNWxKM2tvNlM%2BW1gcXUT48A9aSfigBFGW%2FcpDT8eQmWJY4%2FS8OCn4S1HtbfCzmYI7GqDtaMgVztJnCJiBq394BqGuxebPOH5vwHHx40tWGmCAFtzz3UJ0O4yjhAWGHEzs4FlCR5udJbik7gKRYPQWZ2VdW0Uq6QUixgULfzEyjaVHKh3%2FRGcJ1zrZ1wel7QODOk%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                              - img "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested Image 1 of 2" [ref=e712]
+                          - listitem [ref=e713]:
+                            - link "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested Image 2 of 2" [ref=e715] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/298295422089?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6VP1JDSW6VPM7VV0Q&hash=item4573caec89%3Ag%3AUYsAAeSw0rNp-6ER&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCISeYKgmsbI7bt7MdfMwYO9V6h8Ksf1X5o%2BE5VXiNk4n3LNwPGFmwVPw%2B3oMYcdr3wLuoN8fR4cgptZXBPlcYRFo72MMU4fsW%2FmIvvbeBwrhnuD9vuahTV4UbsrPxoKNWxKM2tvNlM%2BW1gcXUT48A9aSfigBFGW%2FcpDT8eQmWJY4%2FS8OCn4S1HtbfCzmYI7GqDtaMgVztJnCJiBq394BqGuxebPOH5vwHHx40tWGmCAFtzz3UJ0O4yjhAWGHEzs4FlCR5udJbik7gKRYPQWZ2VdW0Uq6QUixgULfzEyjaVHKh3%2FRGcJ1zrZ1wel7QODOk%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                              - img "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e716]:
+                          - img
+                    - img [ref=e717]
+                  - link "watch Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested" [ref=e723] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=298295422089&pt=null&srt=01000b000000506c6e9e779a68f048c24365010b709c838fcc27f2f1676c194e799662d0656102d6aae4904545eaaccea9b7cd9fca28e5f6ae223126cac373ac2baeb2c8cbe141ddc8ebcba910ec832bb06c7ab677d795&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e724]:
+                      - img
+                - generic [ref=e725]:
+                  - generic [ref=e726]:
+                    - link "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested Opens in a new window or tab" [ref=e727] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/298295422089?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6VP1JDSW6VPM7VV0Q&hash=item4573caec89%3Ag%3AUYsAAeSw0rNp-6ER&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCISeYKgmsbI7bt7MdfMwYO9V6h8Ksf1X5o%2BE5VXiNk4n3LNwPGFmwVPw%2B3oMYcdr3wLuoN8fR4cgptZXBPlcYRFo72MMU4fsW%2FmIvvbeBwrhnuD9vuahTV4UbsrPxoKNWxKM2tvNlM%2BW1gcXUT48A9aSfigBFGW%2FcpDT8eQmWJY4%2FS8OCn4S1HtbfCzmYI7GqDtaMgVztJnCJiBq394BqGuxebPOH5vwHHx40tWGmCAFtzz3UJ0O4yjhAWGHEzs4FlCR5udJbik7gKRYPQWZ2VdW0Uq6QUixgULfzEyjaVHKh3%2FRGcJ1zrZ1wel7QODOk%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested Opens in a new window or tab" [level=3] [ref=e728]:
+                        - text: Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Tested
+                        - generic [ref=e729]: Opens in a new window or tab
+                    - generic [ref=e731]: Pre-Owned
+                  - generic [ref=e732]:
+                    - generic [ref=e733]:
+                      - generic [ref=e734]: $119.95
+                      - generic [ref=e735]: Buy It Now
+                      - generic [ref=e736]: Free delivery
+                      - generic [ref=e737]: Located in United States
+                      - generic [ref=e738]: Free returns
+                    - generic [ref=e742]:
+                      - img "Top Rated Plus" [ref=e743]:
+                        - img
+                      - generic [ref=e744]: pcvsolutions 99.8% positive (8.3K)
+                  - heading [level=6] [ref=e749]: derosnopS
+            - listitem [ref=e750]:
+              - generic [ref=e751]:
+                - generic [ref=e753]:
+                  - generic [ref=e754]:
+                    - group [ref=e755]:
+                      - generic [ref=e756]:
+                        - button "Previous Slide" [disabled] [ref=e757]:
+                          - img
+                        - list [ref=e759]:
+                          - listitem [ref=e760]:
+                            - link "NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT Image 1 of 2" [ref=e762] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/397996534529?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6FSJ0QYYTDFA43KNW&hash=item5caa712b01%3Ag%3ATk8AAeSwcg9qFzIh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTPj8bGzst7UduSiKOoZuJS%2Fu1ZOIACpkbxhcON8OMzR7PjY2jv70jZPtRbX7fnMzPqv6lD7k%2FxT5eAdprbyJVaqHlpd02ZAH0GDSHwH6gljCeHH%2FBAMLoHx%2F82VvzzX%2BOCnas4tLYuzGiG1upLqTSTRAX4zIBw67GfBTBMSfx7GzynTfJ7h9MnHAAaDWiUS1FOSD9Vibaz9G4dye%2B%2FU65gH6%2Frz8cuWK%2Fk90Epg%2FbqEpNni6hUTijmvFk1940sfBW205IiOhrQyFW2ovcQBpJAqWIGmFzaTuIfzl3iVbDB3FEon99uAiRilYS4XO4M7k%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                              - img "NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT Image 1 of 2" [ref=e763]
+                          - listitem [ref=e764]:
+                            - link "NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT Image 2 of 2" [ref=e766] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/397996534529?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6FSJ0QYYTDFA43KNW&hash=item5caa712b01%3Ag%3ATk8AAeSwcg9qFzIh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTPj8bGzst7UduSiKOoZuJS%2Fu1ZOIACpkbxhcON8OMzR7PjY2jv70jZPtRbX7fnMzPqv6lD7k%2FxT5eAdprbyJVaqHlpd02ZAH0GDSHwH6gljCeHH%2FBAMLoHx%2F82VvzzX%2BOCnas4tLYuzGiG1upLqTSTRAX4zIBw67GfBTBMSfx7GzynTfJ7h9MnHAAaDWiUS1FOSD9Vibaz9G4dye%2B%2FU65gH6%2Frz8cuWK%2Fk90Epg%2FbqEpNni6hUTijmvFk1940sfBW205IiOhrQyFW2ovcQBpJAqWIGmFzaTuIfzl3iVbDB3FEon99uAiRilYS4XO4M7k%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                              - img "NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e767]:
+                          - img
+                    - img [ref=e768]
+                  - link "watch NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT" [ref=e774] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=397996534529&pt=null&srt=01000b000000505af991ccb077c9b153a2ac62f352b6aa913743fd9ab1fc3d1f17a47cc0ad8d26c02c16abc91559806ad46f319f0fddb45736c0f5011e764b62238fdd0ba6db8d09043a07e396cae3ca15fa6ebbcfe82a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e775]:
+                      - img
+                - generic [ref=e776]:
+                  - generic [ref=e777]:
+                    - link "NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT Opens in a new window or tab" [ref=e778] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/397996534529?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6FSJ0QYYTDFA43KNW&hash=item5caa712b01%3Ag%3ATk8AAeSwcg9qFzIh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTPj8bGzst7UduSiKOoZuJS%2Fu1ZOIACpkbxhcON8OMzR7PjY2jv70jZPtRbX7fnMzPqv6lD7k%2FxT5eAdprbyJVaqHlpd02ZAH0GDSHwH6gljCeHH%2FBAMLoHx%2F82VvzzX%2BOCnas4tLYuzGiG1upLqTSTRAX4zIBw67GfBTBMSfx7GzynTfJ7h9MnHAAaDWiUS1FOSD9Vibaz9G4dye%2B%2FU65gH6%2Frz8cuWK%2Fk90Epg%2FbqEpNni6hUTijmvFk1940sfBW205IiOhrQyFW2ovcQBpJAqWIGmFzaTuIfzl3iVbDB3FEon99uAiRilYS4XO4M7k%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT Opens in a new window or tab" [level=3] [ref=e779]:
+                        - text: NETGEAR Nighthawk X6 R8000 AC3200 Tri-Band WiFi Router – OpenWRT
+                        - generic [ref=e780]: Opens in a new window or tab
+                    - generic [ref=e782]: Pre-Owned
+                  - generic [ref=e783]:
+                    - generic [ref=e784]:
+                      - generic [ref=e785]: $59.99
+                      - generic [ref=e786]: Buy It Now
+                      - generic [ref=e787]: Free delivery
+                      - generic [ref=e788]: Located in United States
+                    - generic [ref=e790]: gooseandgander 100% positive (187)
+                  - heading [level=6] [ref=e795]: derosnopS
+            - listitem [ref=e796]:
+              - generic [ref=e797]:
+                - generic [ref=e799]:
+                  - generic [ref=e800]:
+                    - group [ref=e801]:
+                      - generic [ref=e802]:
+                        - button "Previous Slide" [disabled] [ref=e803]:
+                          - img
+                        - list [ref=e805]:
+                          - listitem [ref=e806]:
+                            - link "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Image 1 of 2" [ref=e808] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/267634561907?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B60ZZTMHYSM8SG9KZW&hash=item3e50435373%3Ag%3AInAAAeSwzJ1p1qNK&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDHH%2BPgRcwSUCX5zXt4zr4Cy%2BnyHlLiM3otK3vLe%2FtL98v7YLdfpJdbhGt7AZfLBGaxOcEXBgTpO39kV2rICCC5Y%2Fd5iTaugSy9xK6NoKpVJ6%2FFtIdZGdNXT%2B0NwyWhe9S6BBrCz2WSY8TH36EwwIPCp4B%2BZOWsoovNzrdGgdsfKtiRce4jWEvCfRY1dyVN%2FGhmMmzSf04Xd4AasDkhFqr%2B0BdBCqL0Npi5gJmIqQoyI95f2T2m11xR6lDODfPlozySsYVXBr%2BJ5WE%2BzvgivTu8%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                              - img "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Image 1 of 2" [ref=e809]
+                          - listitem [ref=e810]:
+                            - link "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Image 2 of 2" [ref=e812] [cursor=pointer]:
+                              - /url: https://www.ebay.com/itm/267634561907?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B60ZZTMHYSM8SG9KZW&hash=item3e50435373%3Ag%3AInAAAeSwzJ1p1qNK&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDHH%2BPgRcwSUCX5zXt4zr4Cy%2BnyHlLiM3otK3vLe%2FtL98v7YLdfpJdbhGt7AZfLBGaxOcEXBgTpO39kV2rICCC5Y%2Fd5iTaugSy9xK6NoKpVJ6%2FFtIdZGdNXT%2B0NwyWhe9S6BBrCz2WSY8TH36EwwIPCp4B%2BZOWsoovNzrdGgdsfKtiRce4jWEvCfRY1dyVN%2FGhmMmzSf04Xd4AasDkhFqr%2B0BdBCqL0Npi5gJmIqQoyI95f2T2m11xR6lDODfPlozySsYVXBr%2BJ5WE%2BzvgivTu8%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                              - img "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Image 2 of 2"
+                        - button "Next Slide" [disabled] [ref=e813]:
+                          - img
+                    - img [ref=e814]
+                  - link "watch Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports" [ref=e820] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=267634561907&pt=null&srt=01000b0000005006313668ca853e0ecafe2bb9d1ba160b32fe4b09f31f11f8c1b361bd18fe13a213d383b154287c39b4c477116e0e1ccbb0422ab0fa03447f8a5d1344683e1f9e795111241402cdfe864f2e844825efa0&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e821]:
+                      - img
+                - generic [ref=e822]:
+                  - generic [ref=e823]:
+                    - link "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Opens in a new window or tab" [ref=e824] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/267634561907?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B60ZZTMHYSM8SG9KZW&hash=item3e50435373%3Ag%3AInAAAeSwzJ1p1qNK&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDHH%2BPgRcwSUCX5zXt4zr4Cy%2BnyHlLiM3otK3vLe%2FtL98v7YLdfpJdbhGt7AZfLBGaxOcEXBgTpO39kV2rICCC5Y%2Fd5iTaugSy9xK6NoKpVJ6%2FFtIdZGdNXT%2B0NwyWhe9S6BBrCz2WSY8TH36EwwIPCp4B%2BZOWsoovNzrdGgdsfKtiRce4jWEvCfRY1dyVN%2FGhmMmzSf04Xd4AasDkhFqr%2B0BdBCqL0Npi5gJmIqQoyI95f2T2m11xR6lDODfPlozySsYVXBr%2BJ5WE%2BzvgivTu8%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports Opens in a new window or tab" [level=3] [ref=e825]:
+                        - text: Motorola MT8733 DOCSIS 3.1 WiFi 6 AX600 CableModem-Router + 2 Phone Ports
+                        - generic [ref=e826]: Opens in a new window or tab
+                    - generic [ref=e828]: Pre-Owned
+                  - generic [ref=e829]:
+                    - generic [ref=e830]:
+                      - generic [ref=e831]: $111.99
+                      - generic [ref=e832]: or Best Offer
+                      - generic [ref=e833]: +$11.52 delivery
+                      - generic [ref=e834]: Located in United States
+                    - generic [ref=e836]: 5boydad 99.7% positive (441)
+                  - heading [level=6] [ref=e841]: derosnopS
+            - listitem [ref=e842]:
+              - generic [ref=e843]:
+                - generic [ref=e845]:
+                  - link "Motorola MT8733 DOCSIS 3.1 Cable Modem Router WiFi 6 AX6000 Voice Black" [ref=e847] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/800004735611?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6BKCZFT36CY9XW4XH&hash=itemba43ff827b%3Ag%3AoGIAAeSw9cNqAJUv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCh7%2BaA%2BU7O6FWn51p6yIrQf%2F9AAWtfUEmD%2FMjIHprSF8m3U3v2Mbs3vQmOi44QQ09ZDKgfGKfIhO0e0EwqWruLi3wr2nwjRMlDq6oqF%2Ba47rFaHVNCuW8DmOXEXDRY1e7tx94OVXSQWWC57WgReYjEyU7jOrJNp7F%2FzxpLZudK3OBH4CpNx%2BmsRV6sqjYGjQNzkJw%2FT7ZYmCVsbvU1GtuNXCUpwkM--Jo7ysrSfKQz1caQIqgbsmusBtVjNxB%2FVBFSFE2VpEKbDn0%2Bkpvp7AoMhmjcadS32cLJaaXPQErBd5Gr9Sji0vv9WEkwVF1Mhho%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT8733 DOCSIS 3.1 Cable Modem Router WiFi 6 AX6000 Voice Black" [ref=e848]
+                  - link "watch Motorola MT8733 DOCSIS 3.1 Cable Modem Router WiFi 6 AX6000 Voice Black" [ref=e851] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=800004735611&pt=null&srt=01000b000000500332206e02cc7ce5a760212ff1f569adceba670045d86b4935e28e263a682bcdd7e9036bacb6a824e39bb644a3820eb4894e0e499cbaae090b54e87748629bea50658e4a6067e83f646161e72a134ce0&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e852]:
+                      - img
+                - generic [ref=e853]:
+                  - generic [ref=e854]:
+                    - link "Motorola MT8733 DOCSIS 3.1 Cable Modem Router WiFi 6 AX6000 Voice Black Opens in a new window or tab" [ref=e855] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/800004735611?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6BKCZFT36CY9XW4XH&hash=itemba43ff827b%3Ag%3AoGIAAeSw9cNqAJUv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCh7%2BaA%2BU7O6FWn51p6yIrQf%2F9AAWtfUEmD%2FMjIHprSF8m3U3v2Mbs3vQmOi44QQ09ZDKgfGKfIhO0e0EwqWruLi3wr2nwjRMlDq6oqF%2Ba47rFaHVNCuW8DmOXEXDRY1e7tx94OVXSQWWC57WgReYjEyU7jOrJNp7F%2FzxpLZudK3OBH4CpNx%2BmsRV6sqjYGjQNzkJw%2FT7ZYmCVsbvU1GtuNXCUpwkM--Jo7ysrSfKQz1caQIqgbsmusBtVjNxB%2FVBFSFE2VpEKbDn0%2Bkpvp7AoMhmjcadS32cLJaaXPQErBd5Gr9Sji0vv9WEkwVF1Mhho%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 DOCSIS 3.1 Cable Modem Router WiFi 6 AX6000 Voice Black Opens in a new window or tab" [level=3] [ref=e856]:
+                        - text: Motorola MT8733 DOCSIS 3.1 Cable Modem Router WiFi 6 AX6000 Voice Black
+                        - generic [ref=e857]: Opens in a new window or tab
+                    - generic [ref=e859]: Pre-Owned
+                  - generic [ref=e860]:
+                    - generic [ref=e861]:
+                      - generic [ref=e862]: $149.99
+                      - generic [ref=e863]: Buy It Now
+                      - generic [ref=e864]: +$18.95 delivery
+                      - generic [ref=e865]: Located in United States
+                    - generic [ref=e867]: unparalleled_loots 98.6% positive (837)
+                  - heading [level=6] [ref=e872]: derosnopS
+            - listitem [ref=e873]:
+              - generic [ref=e874]:
+                - generic [ref=e876]:
+                  - link "Spectrum Wireless Router SAX1V1K A Wifi 6 Openwrt" [ref=e878] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/287313626204?_skw=MT7981+wifi6+router+openwrt&epid=24057389684&itmmeta=01KT5J03B633CJDZS6DBGHFZBJ&hash=item42e53a045c%3Ag%3AW0IAAeSwwilp-jH%7E&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDQZWP91cOHSJZ0tkuPgl1fmwkjPLwVnlUP%2FvrEhTOV0dEw%2FwV7ayy1HhsBuJ2OAQrNWuTi%2Fkw2BBuAWCvJp4gXTHQL--N2w%2BqY23Nic2GoeS7ams%2BBFeYPyJrdvD6rJ5q%2FFVU14p3k8lrohFDoLUHQgWLZcWxDiLaqYgU6pq%2FJwbaD%2BGYOqpRsyN4oDD1FC%2FKFuQU8Fa%2BRuqjaHL6umO63W2dohAw5UmSU2YAY7V9cHTbNFF65rCmvCpY0RqKrI19YzX5StM7l3OzoBJ3Vo4tRgFf6cU72o%2BBc0gyD3YDfBPh94JSNER3ynxT5biK1dZM%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                    - img "Spectrum Wireless Router SAX1V1K A Wifi 6 Openwrt" [ref=e879]
+                  - link "watch Spectrum Wireless Router SAX1V1K A Wifi 6 Openwrt" [ref=e882] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=287313626204&pt=null&srt=01000b00000050d5f7b1c5e00d9c8657f4f7048d5931cedddb2bd8238694d27db2008e6d6cf8c275e61ed966d23cd4f849eaa54f69a6bf2a8740bc37cf745e26a871c357c07f471a8997f3e3138d815e26f10dc071bcdf&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e883]:
+                      - img
+                - generic [ref=e884]:
+                  - generic [ref=e885]:
+                    - link "Spectrum Wireless Router SAX1V1K A Wifi 6 Openwrt Opens in a new window or tab" [ref=e886] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/287313626204?_skw=MT7981+wifi6+router+openwrt&epid=24057389684&itmmeta=01KT5J03B633CJDZS6DBGHFZBJ&hash=item42e53a045c%3Ag%3AW0IAAeSwwilp-jH%7E&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDQZWP91cOHSJZ0tkuPgl1fmwkjPLwVnlUP%2FvrEhTOV0dEw%2FwV7ayy1HhsBuJ2OAQrNWuTi%2Fkw2BBuAWCvJp4gXTHQL--N2w%2BqY23Nic2GoeS7ams%2BBFeYPyJrdvD6rJ5q%2FFVU14p3k8lrohFDoLUHQgWLZcWxDiLaqYgU6pq%2FJwbaD%2BGYOqpRsyN4oDD1FC%2FKFuQU8Fa%2BRuqjaHL6umO63W2dohAw5UmSU2YAY7V9cHTbNFF65rCmvCpY0RqKrI19YzX5StM7l3OzoBJ3Vo4tRgFf6cU72o%2BBc0gyD3YDfBPh94JSNER3ynxT5biK1dZM%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Spectrum Wireless Router SAX1V1K A Wifi 6 Openwrt Opens in a new window or tab" [level=3] [ref=e887]:
+                        - text: Spectrum Wireless Router SAX1V1K A Wifi 6 Openwrt
+                        - generic [ref=e888]: Opens in a new window or tab
+                    - generic [ref=e890]: Pre-Owned
+                  - generic [ref=e891]:
+                    - generic [ref=e892]:
+                      - generic [ref=e893]: $79.99
+                      - generic [ref=e894]: Buy It Now
+                      - generic [ref=e895]: +$18.17 delivery
+                      - generic [ref=e896]: Located in United States
+                    - generic [ref=e898]: aixelis 98.6% positive (452)
+                  - heading [level=6] [ref=e903]: derosnopS
+            - listitem [ref=e904]:
+              - generic [ref=e905]:
+                - generic [ref=e907]:
+                  - link "Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used)" [ref=e909] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/137195523650?_skw=MT7981+wifi6+router+openwrt&epid=7053629153&itmmeta=01KT5J03B6GZX2GPD5PZ99ZXFH&hash=item1ff17d8e42%3Ag%3A5MwAAeSwPSxp0JLo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAJjHpQqhrdmPSP6FKWEgQVm9Ox2kj2JjrB2mmalAfaFMSzRmr0Opl8y9kAxhFfRNzrP9%2FdDSG6vQu9BOa78NbaGRh9RE5HWavg54bd42qJpNvzCBLSZP2Yprgz9KxMRiT2WasYkcC3UndXqczdr8lCJ9Zwcml%2Bu%2B0d3kUdEo5TPqjIFvGm633Oii2jBTmPVOhsHk%2BJGuaN9qIbVHkNTIC4FDWWuhic5ViDALApkNS2EpvJfYRqrvNqo8qtfdJ02hVG07378QBHm3OV9VrEf%2FYy0PQ06fuhczLu%2FqM%2BhudjT%2FuDVmXRiCjhR12y%2FDnughc%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used)" [ref=e910]
+                  - link "watch Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used)" [ref=e913] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=137195523650&pt=null&srt=01000b0000005070b48072783cc2335bb17adeb6078b419c378ed5c74cb2a8b5ce56b8c6f23dca09d8bf583f1de2f84e3478669134cc6963e5392f8722476423a844e25d411e0e958b51e5374729ad8092b7420b8042e4&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e914]:
+                      - img
+                - generic [ref=e915]:
+                  - generic [ref=e916]:
+                    - link "Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used) Opens in a new window or tab" [ref=e917] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/137195523650?_skw=MT7981+wifi6+router+openwrt&epid=7053629153&itmmeta=01KT5J03B6GZX2GPD5PZ99ZXFH&hash=item1ff17d8e42%3Ag%3A5MwAAeSwPSxp0JLo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAJjHpQqhrdmPSP6FKWEgQVm9Ox2kj2JjrB2mmalAfaFMSzRmr0Opl8y9kAxhFfRNzrP9%2FdDSG6vQu9BOa78NbaGRh9RE5HWavg54bd42qJpNvzCBLSZP2Yprgz9KxMRiT2WasYkcC3UndXqczdr8lCJ9Zwcml%2Bu%2B0d3kUdEo5TPqjIFvGm633Oii2jBTmPVOhsHk%2BJGuaN9qIbVHkNTIC4FDWWuhic5ViDALApkNS2EpvJfYRqrvNqo8qtfdJ02hVG07378QBHm3OV9VrEf%2FYy0PQ06fuhczLu%2FqM%2BhudjT%2FuDVmXRiCjhR12y%2FDnughc%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used) Opens in a new window or tab" [level=3] [ref=e918]:
+                        - text: Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used)
+                        - generic [ref=e919]: Opens in a new window or tab
+                    - generic [ref=e921]: Pre-Owned
+                    - link "5.0 out of 5 stars. 7 product ratings - Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used)" [ref=e924] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/7053629153?iid=137195523650#UserReviews
+                      - generic [ref=e925]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e926]: 5.0 out of 5 stars.
+                      - generic [ref=e927]:
+                        - generic [ref=e928]: 7 product ratings
+                        - generic [ref=e929]: "- Motorola MT8733 Wireless Modem WiFi 6 Router/ MultiGig Cable Modem (Gently Used)"
+                  - generic [ref=e930]:
+                    - generic [ref=e931]:
+                      - generic [ref=e932]: $120.00
+                      - generic [ref=e933]: Buy It Now
+                      - generic [ref=e934]: +$8.61 delivery
+                      - generic [ref=e935]: Located in United States
+                    - generic [ref=e937]: vv4yne 100% positive (14)
+                  - heading [level=6] [ref=e942]: derosnopS
+            - listitem [ref=e943]:
+              - generic [ref=e944]:
+                - link "Gigabit Speeds Wifi 6 router Mesh AX1800 Firmware freedom XiaoMi/AsusWRT/OpenWRT" [ref=e948] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/204582386037?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B65KXPBQXKRYP55W0H&hash=item2fa20f7975%3Ag%3A9NsAAOSwSdplfVCb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBbnGMB8gz8u6HYecTXSQLSwAXOIzFeaSjmZ5vRwBnp4B324xoNDRJolM5Zqw1l19RQMJoRbxWBS5uau9t%2B0b3j2m25QkARZ9Ih%2F7VD6kIbPtmqt%2FeSV7hBqJXxc7%2Fxffrft5DjGUu0rFqCCg33mMqEbnpPBDOmEiSrfMige17mMVJGH8h1hDrg5kddA7GNVjy88rAWQzEoVhLpNdvPy7pUa1mbfp9xpyjJPIQvi919CjFQVm%2B9WMKdQTAS3U6adnNlpZN3xHBx%2FhKYef27j7U8ZZqr0UD449ggBkdLoEuyuC6g1xpCgmDfyPlxtrcwfdE%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                  - img "Gigabit Speeds Wifi 6 router Mesh AX1800 Firmware freedom XiaoMi/AsusWRT/OpenWRT" [ref=e949]
+                - generic [ref=e950]:
+                  - generic [ref=e951]:
+                    - link "Gigabit Speeds Wifi 6 router Mesh AX1800 Firmware freedom XiaoMi/AsusWRT/OpenWRT Opens in a new window or tab" [ref=e952] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/204582386037?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B65KXPBQXKRYP55W0H&hash=item2fa20f7975%3Ag%3A9NsAAOSwSdplfVCb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBbnGMB8gz8u6HYecTXSQLSwAXOIzFeaSjmZ5vRwBnp4B324xoNDRJolM5Zqw1l19RQMJoRbxWBS5uau9t%2B0b3j2m25QkARZ9Ih%2F7VD6kIbPtmqt%2FeSV7hBqJXxc7%2Fxffrft5DjGUu0rFqCCg33mMqEbnpPBDOmEiSrfMige17mMVJGH8h1hDrg5kddA7GNVjy88rAWQzEoVhLpNdvPy7pUa1mbfp9xpyjJPIQvi919CjFQVm%2B9WMKdQTAS3U6adnNlpZN3xHBx%2FhKYef27j7U8ZZqr0UD449ggBkdLoEuyuC6g1xpCgmDfyPlxtrcwfdE%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Gigabit Speeds Wifi 6 router Mesh AX1800 Firmware freedom XiaoMi/AsusWRT/OpenWRT Opens in a new window or tab" [level=3] [ref=e953]:
+                        - text: Gigabit Speeds Wifi 6 router Mesh AX1800 Firmware freedom XiaoMi/AsusWRT/OpenWRT
+                        - generic [ref=e954]: Opens in a new window or tab
+                    - generic [ref=e956]: Pre-Owned
+                  - generic [ref=e957]:
+                    - generic [ref=e958]:
+                      - generic [ref=e959]:
+                        - text: $41.40
+                        - text: $45.00
+                      - generic [ref=e960]: Buy It Now
+                      - generic [ref=e961]: +$10.00 delivery
+                      - generic [ref=e962]: Located in China
+                      - generic [ref=e963]: Free returns
+                      - generic [ref=e964]: 10+ watchers
+                    - generic [ref=e966]: nicolaask 100% positive (2.1K)
+                  - heading [level=6] [ref=e971]: derosnopS
+            - listitem [ref=e972]:
+              - generic [ref=e973]:
+                - generic [ref=e975]:
+                  - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast" [ref=e977] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/306756944575?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B65X3CDGTA3ENQRP57&hash=item476c2382bf%3Ag%3ASm0AAeSwFLVph%7Edw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC22iGarSxq%2BZJIHrYGhiHZms9S1Bjf51yG%2BQJVEQrVpremCBBdml6wWr%2Bq5OGXAtSl2NIuyIaHbq4MzB1k0Hy2KsnXge3obskcQwQ4uy3ANsGL8Td70B69a%2BjtxIM6Y7gUHmhvrEfTUXu06M2IwneRblcnQpL7ubyhcCHTn5pebiuo8Nhl%2FeufAcV0gCZoCqTbPq2Wmnuk4A7VORFremyLkAnaT59gx%2B8UkXLi6AlOGgXpcq5djmTRhvs3JqJdPlGxzeT%2BRxCwn%2B6HjUIS0twqCHKL5CfesGgMW10QaiuG8zakW0gJdBtEJ3fsm55sO%2Bs%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast"
+                  - link "watch Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast" [ref=e980] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=306756944575&pt=null&srt=01000b000000507b1d98499df61298bd596bf4fbf0beb2c423af5a7d8c9e64dfa550ab8cedeef92b66d8ce1caa3f624955d88cb01f33e05fb22efb9d7cfebff76ad56b4aa5252242721b97686b0d650b9006444effe312&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e981]:
+                      - img
+                - generic [ref=e982]:
+                  - generic [ref=e983]:
+                    - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Opens in a new window or tab" [ref=e984] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/306756944575?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B65X3CDGTA3ENQRP57&hash=item476c2382bf%3Ag%3ASm0AAeSwFLVph%7Edw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC22iGarSxq%2BZJIHrYGhiHZms9S1Bjf51yG%2BQJVEQrVpremCBBdml6wWr%2Bq5OGXAtSl2NIuyIaHbq4MzB1k0Hy2KsnXge3obskcQwQ4uy3ANsGL8Td70B69a%2BjtxIM6Y7gUHmhvrEfTUXu06M2IwneRblcnQpL7ubyhcCHTn5pebiuo8Nhl%2FeufAcV0gCZoCqTbPq2Wmnuk4A7VORFremyLkAnaT59gx%2B8UkXLi6AlOGgXpcq5djmTRhvs3JqJdPlGxzeT%2BRxCwn%2B6HjUIS0twqCHKL5CfesGgMW10QaiuG8zakW0gJdBtEJ3fsm55sO%2Bs%3D%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Opens in a new window or tab" [level=3] [ref=e985]:
+                        - text: Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast
+                        - generic [ref=e986]: Opens in a new window or tab
+                    - generic [ref=e988]: Pre-Owned
+                  - generic [ref=e989]:
+                    - generic [ref=e990]:
+                      - generic [ref=e991]: $200.00
+                      - generic [ref=e992]: or Best Offer
+                      - generic [ref=e993]: +$18.95 delivery
+                      - generic [ref=e994]: Located in United States
+                    - generic [ref=e996]: petehann805 100% positive (85)
+                  - heading [level=6] [ref=e1001]: derosnopS
+            - listitem [ref=e1002]:
+              - generic [ref=e1003]:
+                - generic [ref=e1005]:
+                  - link "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router FAST Free Shipping" [ref=e1007] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/236394187185?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6E5Q7JN3W0B6J0WN7&hash=item370a3109b1%3Ag%3AnHsAAeSwp%7Exo8Tbn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA2K%2Benz1ZWZO2TV2S0ichFAMchO1AKj32VCncqy0FukrXEJXopVBB8ZtEf0xQEZgzBsDVx%2B2S%2F3CvQmB7zkwmP48B2rphazGBMWhcMrPIegHkhqQY00zyXgTnpdv2E6zfDH0SI66s2hDcN7CG6qlOMu0uK3sdUADPz6mGuge6TOwdeV2ilDILb2Y%2FGNl4sPix8e53BSz8pbqjgv5UDmGmF--QQimoM3rd5dt4NdiQMSkw%2BUIbcezLpTS3ajxVwrAHUBZUz2l5w%2BWcsfsn5FupxqhePwO6t2lPXc8B5L4kfk0KOIq%2B9GB5gaAXP%2BBwYmr0%3D%7Ctkp%3ABFBM4LWAstFn&LH_ItemCondition=3000
+                    - img "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router FAST Free Shipping"
+                  - link "watch Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router FAST Free Shipping" [ref=e1010] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=236394187185&pt=null&srt=01000b000000501d4d2cac8de98fdf477b3be6388de810b63476974be118357836fb5b1da90b6c18f4764e15352358b22dbb8e553d33bdfbe4d42cc4c3c9eea53b4314c3dd4162db4a0801f1149c521f735c9711732f8b&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1011]:
+                      - img
+                - generic [ref=e1012]:
+                  - generic [ref=e1013]:
+                    - link "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router FAST Free Shipping Opens in a new window or tab" [ref=e1014] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/236394187185?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6E5Q7JN3W0B6J0WN7&hash=item370a3109b1%3Ag%3AnHsAAeSwp%7Exo8Tbn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA2K%2Benz1ZWZO2TV2S0ichFAMchO1AKj32VCncqy0FukrXEJXopVBB8ZtEf0xQEZgzBsDVx%2B2S%2F3CvQmB7zkwmP48B2rphazGBMWhcMrPIegHkhqQY00zyXgTnpdv2E6zfDH0SI66s2hDcN7CG6qlOMu0uK3sdUADPz6mGuge6TOwdeV2ilDILb2Y%2FGNl4sPix8e53BSz8pbqjgv5UDmGmF--QQimoM3rd5dt4NdiQMSkw%2BUIbcezLpTS3ajxVwrAHUBZUz2l5w%2BWcsfsn5FupxqhePwO6t2lPXc8B5L4kfk0KOIq%2B9GB5gaAXP%2BBwYmr0%3D%7Ctkp%3ABFBM4LWAstFn&LH_ItemCondition=3000
+                      - heading "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router FAST Free Shipping Opens in a new window or tab" [level=3] [ref=e1015]:
+                        - text: Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router FAST Free Shipping
+                        - generic [ref=e1016]: Opens in a new window or tab
+                    - generic [ref=e1018]: Pre-Owned
+                  - generic [ref=e1019]:
+                    - generic [ref=e1020]:
+                      - generic [ref=e1021]: $199.00
+                      - generic [ref=e1022]: or Best Offer
+                      - generic [ref=e1023]: Free delivery
+                      - generic [ref=e1024]: Located in United States
+                      - generic [ref=e1025]: Free returns
+                    - generic [ref=e1027]: ticktock1-2-3 98.3% positive (58.7K)
+                  - heading "Sponsored" [level=6] [ref=e1032]: derosnopS
+            - listitem [ref=e1033]:
+              - generic [ref=e1034]:
+                - generic [ref=e1036]:
+                  - link "Renewed-Motorola MT8733 WiFi 6 Router + Multi-Gig Cable Modem + 2 Phone Ports" [ref=e1038] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/227240349132?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6YEHJX57ACSAWXNXB&hash=item34e8948dcc%3Ag%3AzZwAAeSwrA1ppu8y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAVk1yAn0AHvAmyQHaiYpltYirhI4QAlY35j1xDTZ4dvK2qEIYkVHEgIISFv66BB%2FIHQWPrRhKnmTLG6VXv%2BnhvdlQb5tjjzpyWx6nMpv24S7ZdoQFJKqXSPKTM0MMQO%2B6yu2B9Qpz7dwr43I7daH4py0JcRcm7731j3nER9jTG4%2F8B%2FCw%2FFzQLGbrwlJuexaydIKa00BPFlXpBJB%2BZS9uiQtRyU4oGDagtnqac%2FCEmh%2FIntlW5NjkFyNPw0rxYSyUGYkGWb%2BTby9hHs8A2jFiO4osaf2hlr88O922d9bXa7F3YlJdnmXUldmoa%2BNlzcVU%3D%7Ctkp%3ABFBM4LWAstFn&LH_ItemCondition=3000
+                    - img "Renewed-Motorola MT8733 WiFi 6 Router + Multi-Gig Cable Modem + 2 Phone Ports"
+                  - link "watch Renewed-Motorola MT8733 WiFi 6 Router + Multi-Gig Cable Modem + 2 Phone Ports" [ref=e1041] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=227240349132&pt=null&srt=01000b00000050c1c35bb42a5a6c6493bfbed80e62dba4e3191206f38d4a4e4f99a5c923f270ea3a17183cbd49a4e2de59cc2275390b19a7eae06f78fed827aa90e92a623439b016a085a717ba0206fcfe1747b93baac6&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1042]:
+                      - img
+                - generic [ref=e1043]:
+                  - generic [ref=e1044]:
+                    - link "Renewed-Motorola MT8733 WiFi 6 Router + Multi-Gig Cable Modem + 2 Phone Ports Opens in a new window or tab" [ref=e1045] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/227240349132?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B6YEHJX57ACSAWXNXB&hash=item34e8948dcc%3Ag%3AzZwAAeSwrA1ppu8y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAVk1yAn0AHvAmyQHaiYpltYirhI4QAlY35j1xDTZ4dvK2qEIYkVHEgIISFv66BB%2FIHQWPrRhKnmTLG6VXv%2BnhvdlQb5tjjzpyWx6nMpv24S7ZdoQFJKqXSPKTM0MMQO%2B6yu2B9Qpz7dwr43I7daH4py0JcRcm7731j3nER9jTG4%2F8B%2FCw%2FFzQLGbrwlJuexaydIKa00BPFlXpBJB%2BZS9uiQtRyU4oGDagtnqac%2FCEmh%2FIntlW5NjkFyNPw0rxYSyUGYkGWb%2BTby9hHs8A2jFiO4osaf2hlr88O922d9bXa7F3YlJdnmXUldmoa%2BNlzcVU%3D%7Ctkp%3ABFBM4LWAstFn&LH_ItemCondition=3000
+                      - heading "Renewed-Motorola MT8733 WiFi 6 Router + Multi-Gig Cable Modem + 2 Phone Ports Opens in a new window or tab" [level=3] [ref=e1046]:
+                        - text: Renewed-Motorola MT8733 WiFi 6 Router + Multi-Gig Cable Modem + 2 Phone Ports
+                        - generic [ref=e1047]: Opens in a new window or tab
+                    - generic [ref=e1049]: Pre-Owned
+                  - generic [ref=e1050]:
+                    - generic [ref=e1051]:
+                      - generic [ref=e1052]: $144.51
+                      - generic [ref=e1053]: Buy It Now
+                      - generic [ref=e1054]: +$30.61 delivery
+                      - generic [ref=e1055]: Located in Canada
+                    - generic [ref=e1057]: bid416auctions 97.4% positive (626)
+                  - heading "Sponsored" [level=6] [ref=e1062]: derosnopS
+            - listitem [ref=e1063]:
+              - img "Busy" [ref=e1066]:
+                - img
+            - listitem [ref=e1067]:
+              - generic [ref=e1068]:
+                - generic [ref=e1070]:
+                  - link "Potable Internet Router Wireless Router WiFi Modem" [ref=e1072] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127605586397?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7VACHWBA725QMS6YR&hash=item1db5e2b9dd%3Ag%3Abm8AAeSwMW1pW8vo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAPNT0zaFQnVebbJJ%2FpSxwFhk6IgpWhBQLpvN9KolsHrIEW%2FxQfWv2Vjxu%2Bn62FNKnIOgi7YmXt4ecbXj4U8uwpKIrtUhnQydAYNloBgaF8drrkTMEvHROBr%2BxsSZuK57kCLllaGMJBbxLdMF5Oq97xkzYctJ5cfT5M5uL%2BltX%2FMeIC%2F8AsD3b4GrtPqksQmirEIGmw%2F%2Bo5XqkFv0UJJC2guTZ%2F3AwHUNwK0djAEEWggkhZOrjBd3B1xr9PgDBOC1oqIfSfDoFK9ZHSmeGErFzS882W7WLr48OXJJONwXQOBazd6TSbKQKXGyNI8MxcQx0%3D%7Ctkp%3ABFBM4LWAstFn&LH_ItemCondition=3000
+                    - img "Potable Internet Router Wireless Router WiFi Modem"
+                  - link "watch Potable Internet Router Wireless Router WiFi Modem" [ref=e1075] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=127605586397&pt=null&srt=01000b00000050f0c4c4499e9a8905a6f2d5746ea17035c6344d12e94da799d2c1a06060b73ce3ed348f619b8b401c7566c026fa9ac1470850079f81aecb8b82f08761be0c1db292596423c33da54c44764d03d5c9f06c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1076]:
+                      - img
+                - generic [ref=e1077]:
+                  - generic [ref=e1078]:
+                    - link "Potable Internet Router Wireless Router WiFi Modem Opens in a new window or tab" [ref=e1079] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127605586397?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7VACHWBA725QMS6YR&hash=item1db5e2b9dd%3Ag%3Abm8AAeSwMW1pW8vo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAPNT0zaFQnVebbJJ%2FpSxwFhk6IgpWhBQLpvN9KolsHrIEW%2FxQfWv2Vjxu%2Bn62FNKnIOgi7YmXt4ecbXj4U8uwpKIrtUhnQydAYNloBgaF8drrkTMEvHROBr%2BxsSZuK57kCLllaGMJBbxLdMF5Oq97xkzYctJ5cfT5M5uL%2BltX%2FMeIC%2F8AsD3b4GrtPqksQmirEIGmw%2F%2Bo5XqkFv0UJJC2guTZ%2F3AwHUNwK0djAEEWggkhZOrjBd3B1xr9PgDBOC1oqIfSfDoFK9ZHSmeGErFzS882W7WLr48OXJJONwXQOBazd6TSbKQKXGyNI8MxcQx0%3D%7Ctkp%3ABFBM4LWAstFn&LH_ItemCondition=3000
+                      - heading "Potable Internet Router Wireless Router WiFi Modem Opens in a new window or tab" [level=3] [ref=e1080]:
+                        - text: Potable Internet Router Wireless Router WiFi Modem
+                        - generic [ref=e1081]: Opens in a new window or tab
+                    - generic [ref=e1083]: Pre-Owned
+                  - generic [ref=e1084]:
+                    - generic [ref=e1085]:
+                      - generic [ref=e1086]: $60.00
+                      - generic [ref=e1087]: or Best Offer
+                      - generic [ref=e1088]: Free delivery
+                      - generic [ref=e1089]: Located in United States
+                    - generic [ref=e1091]: realg4life2015 100% positive (469)
+                  - heading "Sponsored" [level=6] [ref=e1096]: derosnopS
+            - listitem [ref=e1097]:
+              - generic [ref=e1098]:
+                - generic [ref=e1100]:
+                  - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast" [ref=e1102] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/227310819978?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7JAGGYCR9ZKW09RR1&hash=item34ecc7da8a%3Ag%3A6gkAAeSwf5Np55gu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDvDt3EL8ZoJIxOim5yJfros2VQXJNtxH3nOUX4Ss9Vo7kdeMWNq6mYs2WZ9fBVBU0mwmgznvgbex4ZDfXcV5nMBF7pP1NOEt%2ByEkKajwLtXMmssOrEVXMDHB7thJVJKTpUfI6VIjT93aBlsW6rwMFFU5tjhu2liYuJfUtSVBzX53xwyjRSeSV2ErBs9fdqlZUShyW8pXhG9hBHKw%2FxYk5yOWiSdTmV1fOPiLhoBsfgn0kwPRxCYTbJvZefruR4ZzSnisG%2BWrcsBepkNsT0VDOq%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast"
+                  - link "watch Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast" [ref=e1105] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=227310819978&pt=null&srt=01000b00000050ac6e260a90ee36cccfe9d0c8666db0144307f9aa9b9dca050320617542756c812d87cda83fdd7425c0804be36c8e15ad80a40cc71e76ea3008cd36ebe71db83823684836f67552b53b98a2b2d7c1e932&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1106]:
+                      - img
+                - generic [ref=e1107]:
+                  - generic [ref=e1108]:
+                    - link "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Opens in a new window or tab" [ref=e1109] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/227310819978?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7JAGGYCR9ZKW09RR1&hash=item34ecc7da8a%3Ag%3A6gkAAeSwf5Np55gu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDvDt3EL8ZoJIxOim5yJfros2VQXJNtxH3nOUX4Ss9Vo7kdeMWNq6mYs2WZ9fBVBU0mwmgznvgbex4ZDfXcV5nMBF7pP1NOEt%2ByEkKajwLtXMmssOrEVXMDHB7thJVJKTpUfI6VIjT93aBlsW6rwMFFU5tjhu2liYuJfUtSVBzX53xwyjRSeSV2ErBs9fdqlZUShyW8pXhG9hBHKw%2FxYk5yOWiSdTmV1fOPiLhoBsfgn0kwPRxCYTbJvZefruR4ZzSnisG%2BWrcsBepkNsT0VDOq%7Ctkp%3ABk9SR-C1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast Opens in a new window or tab" [level=3] [ref=e1110]:
+                        - text: Motorola MT8733 WiFi 6 Router + Multi-Gig Modem + 2 Phone Ports for Comcast
+                        - generic [ref=e1111]: Opens in a new window or tab
+                    - generic [ref=e1113]: Pre-Owned
+                  - generic [ref=e1114]:
+                    - generic [ref=e1115]:
+                      - generic [ref=e1116]: $149.00
+                      - generic [ref=e1117]: Buy It Now
+                      - generic [ref=e1118]: Free delivery
+                      - generic [ref=e1119]: Located in United States
+                    - generic [ref=e1121]: gm3mtm 80% positive (317)
+                  - heading [level=6] [ref=e1126]: derosnopS
+            - listitem [ref=e1127]:
+              - generic [ref=e1128]:
+                - generic [ref=e1130]:
+                  - link "Netduma R1 Ultimate Gaming Router" [ref=e1132] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/188251376344?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7JAS5E0QA8JBFGB0G&hash=item2bd4a80ad8%3Ag%3AnfUAAeSwrAtp1Bvp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCUjq4eZc5FYuVZfu%2FHE%2FdJECwV5Jg8m0LcGpRvYM8M7ofEq61033LjGN8lNLZtVAMHnK4Y10StFzf51iK3SbZmN5wcMi3h5b1MppnLd%2FeQnc4o%2FEmK%2FLILZv%2FO9EGTRU3MBjMuG3dwpy1b%2Bw95JczJisqDgjChFtRfgBNJcsH7jb%2FEzzlhp6T19ABc6xkT8FGKVd05Xjbl%2FUL7y053Yl8eoAVMZT%2BLx5yrLvCFT8iXo%2FqqKsLPbjLuV5l3WG7ZFcuYdc5h1uOq7pq%2BIyPf%2Fn%2BsK7SWopvKI9RBNoICrMFUiX32cFOXN%2Bb8XRi1aB2Rvh0%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Netduma R1 Ultimate Gaming Router"
+                  - link "watch Netduma R1 Ultimate Gaming Router" [ref=e1135] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=188251376344&pt=null&srt=01000b00000050e158b615ab9f31676064b40307755f582045f1503e6d8fe2ba642c8e4f0d776a75a2f0a614efc95d8cbc75c570952985123cac0bd06df5fef3292b0343ba94eafebcfdd5cbec23edfa58385a51407a87&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1136]:
+                      - img
+                - generic [ref=e1137]:
+                  - generic [ref=e1138]:
+                    - link "Netduma R1 Ultimate Gaming Router Opens in a new window or tab" [ref=e1139] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/188251376344?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7JAS5E0QA8JBFGB0G&hash=item2bd4a80ad8%3Ag%3AnfUAAeSwrAtp1Bvp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCUjq4eZc5FYuVZfu%2FHE%2FdJECwV5Jg8m0LcGpRvYM8M7ofEq61033LjGN8lNLZtVAMHnK4Y10StFzf51iK3SbZmN5wcMi3h5b1MppnLd%2FeQnc4o%2FEmK%2FLILZv%2FO9EGTRU3MBjMuG3dwpy1b%2Bw95JczJisqDgjChFtRfgBNJcsH7jb%2FEzzlhp6T19ABc6xkT8FGKVd05Xjbl%2FUL7y053Yl8eoAVMZT%2BLx5yrLvCFT8iXo%2FqqKsLPbjLuV5l3WG7ZFcuYdc5h1uOq7pq%2BIyPf%2Fn%2BsK7SWopvKI9RBNoICrMFUiX32cFOXN%2Bb8XRi1aB2Rvh0%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Netduma R1 Ultimate Gaming Router Opens in a new window or tab" [level=3] [ref=e1140]:
+                        - text: Netduma R1 Ultimate Gaming Router
+                        - generic [ref=e1141]: Opens in a new window or tab
+                    - generic [ref=e1143]: Pre-Owned
+                  - generic [ref=e1144]:
+                    - generic [ref=e1145]:
+                      - generic [ref=e1146]: $50.00
+                      - generic [ref=e1147]: or Best Offer
+                      - generic [ref=e1148]: +$8.13 delivery
+                      - generic [ref=e1149]: Located in United States
+                    - generic [ref=e1151]: grica96 100% positive (92)
+                  - heading [level=6] [ref=e1156]: derosnopS
+            - listitem [ref=e1157]:
+              - generic [ref=e1158]:
+                - generic [ref=e1160]:
+                  - link "Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast)" [ref=e1162] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/306906809744?_skw=MT7981+wifi6+router+openwrt&epid=10027543510&itmmeta=01KT5J03B7GP9WPEE3D2VKFRJ1&hash=item4775124590%3Ag%3A8KMAAeSwZQpp8N0v&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAzMpWU0EZR7RMZGTAANjY1%2BAVCStkV%2FLKgCuZVRRTonnylv0jlYP%2BcNs%2BIwdDFQKTbx%2FLRdo4kK2ldkrGKaMByNjSA5fhfa7WI9NOS4mRi1ymDoNa6EjY3fk74xG%2FY2t%2BKqctMM5pYvV7kKeOkNBwej2rag6XEwzz5sOOXQhKxePh05Mkpbws7No8Pe0g9cs1HLj6bQBmIb1EqNEWKK2GEcm0VdsBT%2FO9ZWDhFcwbi6Sm9qOnPJeQ2lEJkcK2JiHnw1XPeFrzj67%2FozOgbnD60%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast)"
+                  - link "watch Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast)" [ref=e1165] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=306906809744&pt=null&srt=01000b000000502031a63eacdce62910b8e81d9374fa7f6d776848ef7f15fa0cc475ef87b086858db2cb67ea7cb006870b7c918fec95e358bc8ce638eb29fd16c070b85492756edb78d7504bdd2e5b5aaca2ecb5873249&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1166]:
+                      - img
+                - generic [ref=e1167]:
+                  - generic [ref=e1168]:
+                    - link "Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast) Opens in a new window or tab" [ref=e1169] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/306906809744?_skw=MT7981+wifi6+router+openwrt&epid=10027543510&itmmeta=01KT5J03B7GP9WPEE3D2VKFRJ1&hash=item4775124590%3Ag%3A8KMAAeSwZQpp8N0v&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAzMpWU0EZR7RMZGTAANjY1%2BAVCStkV%2FLKgCuZVRRTonnylv0jlYP%2BcNs%2BIwdDFQKTbx%2FLRdo4kK2ldkrGKaMByNjSA5fhfa7WI9NOS4mRi1ymDoNa6EjY3fk74xG%2FY2t%2BKqctMM5pYvV7kKeOkNBwej2rag6XEwzz5sOOXQhKxePh05Mkpbws7No8Pe0g9cs1HLj6bQBmIb1EqNEWKK2GEcm0VdsBT%2FO9ZWDhFcwbi6Sm9qOnPJeQ2lEJkcK2JiHnw1XPeFrzj67%2FozOgbnD60%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast) Opens in a new window or tab" [level=3] [ref=e1170]:
+                        - text: Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast)
+                        - generic [ref=e1171]: Opens in a new window or tab
+                    - generic [ref=e1173]: Pre-Owned
+                    - link "4.5 out of 5 stars. 70 product ratings - Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast)" [ref=e1176] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/10027543510?iid=306906809744#UserReviews
+                      - generic [ref=e1177]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e1178]: 4.5 out of 5 stars.
+                      - generic [ref=e1179]:
+                        - generic [ref=e1180]: 70 product ratings
+                        - generic [ref=e1181]: "- Motorola MT7711 AC1900 Wi-Fi Modem Router with Voice (For Xfinity Comcast)"
+                  - generic [ref=e1182]:
+                    - generic [ref=e1183]:
+                      - generic [ref=e1184]: $24.99
+                      - generic [ref=e1185]: or Best Offer
+                      - generic [ref=e1186]: +$7.45 delivery
+                      - generic [ref=e1187]: Located in United States
+                    - generic [ref=e1189]: asanti123 100% positive (66)
+                  - heading [level=6] [ref=e1194]: derosnopS
+            - listitem [ref=e1195]:
+              - generic [ref=e1196]:
+                - generic [ref=e1198]:
+                  - link "Moxee LTE Home Internet Router w/ Antennas & Power Cord Tested Powers On" [ref=e1200] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/336495697574?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7QPCKP3GJK0VQ2RM9&hash=item4e58b4dea6%3Ag%3AU6EAAeSwdAJpwNgw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASiMiuBD4kM98UVUscyPFZe6%2FXbYgGL6fO3X6Gbu9FYSgFnQ8kYfPPtH5%2B0gAXVX76xBfirJmRJd4RZtNPhmZrhIfM47dspHMMsRf--5LNoImpwCPqjFvmjGcfthN23EW9eAEr%2FEu5zwJO76o1XnDyajfTh6Eu3rpxhwOVYMWcC7v3q5yy%2Fx6O8tCXshyKXyyhL8zH2IHzF8ac67BFoql6MGMSNun8mheDayM%2FS5RKFndOHjhnzs8p4pchymfgV3txlXttGarpNI9KPOX1n%2B%2FE%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Moxee LTE Home Internet Router w/ Antennas & Power Cord Tested Powers On"
+                  - link "watch Moxee LTE Home Internet Router w/ Antennas & Power Cord Tested Powers On" [ref=e1203] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=336495697574&pt=null&srt=01000b00000050af7ffe19cfa8348d1c9e666d42dfea2fa06e87e80eabfd5aa84e5ac14b025f00295a2accb336b012e07556a4a4bb47b5dd13df8abdec6c0f7d010f4a3b31f2b961d2ac1b5e0f7e83343e23e96e2c0b3f&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1204]:
+                      - img
+                - generic [ref=e1205]:
+                  - generic [ref=e1206]:
+                    - link "Moxee LTE Home Internet Router w/ Antennas & Power Cord Tested Powers On Opens in a new window or tab" [ref=e1207] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/336495697574?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7QPCKP3GJK0VQ2RM9&hash=item4e58b4dea6%3Ag%3AU6EAAeSwdAJpwNgw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASiMiuBD4kM98UVUscyPFZe6%2FXbYgGL6fO3X6Gbu9FYSgFnQ8kYfPPtH5%2B0gAXVX76xBfirJmRJd4RZtNPhmZrhIfM47dspHMMsRf--5LNoImpwCPqjFvmjGcfthN23EW9eAEr%2FEu5zwJO76o1XnDyajfTh6Eu3rpxhwOVYMWcC7v3q5yy%2Fx6O8tCXshyKXyyhL8zH2IHzF8ac67BFoql6MGMSNun8mheDayM%2FS5RKFndOHjhnzs8p4pchymfgV3txlXttGarpNI9KPOX1n%2B%2FE%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Moxee LTE Home Internet Router w/ Antennas & Power Cord Tested Powers On Opens in a new window or tab" [level=3] [ref=e1208]:
+                        - text: Moxee LTE Home Internet Router w/ Antennas & Power Cord Tested Powers On
+                        - generic [ref=e1209]: Opens in a new window or tab
+                    - generic [ref=e1211]: Pre-Owned
+                  - generic [ref=e1212]:
+                    - generic [ref=e1213]:
+                      - generic [ref=e1214]: $19.99
+                      - generic [ref=e1215]: or Best Offer
+                      - generic [ref=e1216]: +$11.39 delivery
+                      - generic [ref=e1217]: Located in United States
+                    - generic [ref=e1219]: onawhimbywendy 100% positive (665)
+                  - heading [level=6] [ref=e1224]: derosnopS
+            - listitem [ref=e1225]:
+              - generic [ref=e1226]:
+                - generic [ref=e1228]:
+                  - link "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0" [ref=e1230] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/297682436947?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7XWGWWWKKF4MFRGFK&hash=item454f418353%3Ag%3AlJoAAeSw5dxo7YL8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA0Di8Hk6xaI5akqgnkYJoXCzFasrPZ0rdNHcrkXpUL6rbsE7NsqZQsYz0jco%2FlDjnb2F0xtm4OoIVTzZ5Y9UOJP%2BnaAfoGpUlqZBnq022W5tmcELjNUnk7znmBf0GTP8eVzSyOPLIhGqOgJhKo3fKN9p%2Ff3EVxR6zlum1Z1SaqdNMKR6q%2FgjsT4UstV7PHAm1vamRvn2klmpUgx%2B9oOxLql7ISoJ989NCIbYTwWfFBmswp9OvTDrQQB7pBV8mgVRAfgXZwlOv0nMSCCbGPSyNY%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0"
+                  - link "watch Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0" [ref=e1233] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=297682436947&pt=null&srt=01000b00000050ccace9c7280d9ae06658227388e344aadc135fa513b9acbadbf6425d2db902aa689021415f744a32c646804b1ae39810b4a023e6bb458339843e428d5507a6d2d2bbe45ad0d28d1cd002f6b6227c5b65&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1234]:
+                      - img
+                - generic [ref=e1235]:
+                  - generic [ref=e1236]:
+                    - link "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0 Opens in a new window or tab" [ref=e1237] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/297682436947?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7XWGWWWKKF4MFRGFK&hash=item454f418353%3Ag%3AlJoAAeSw5dxo7YL8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA0Di8Hk6xaI5akqgnkYJoXCzFasrPZ0rdNHcrkXpUL6rbsE7NsqZQsYz0jco%2FlDjnb2F0xtm4OoIVTzZ5Y9UOJP%2BnaAfoGpUlqZBnq022W5tmcELjNUnk7znmBf0GTP8eVzSyOPLIhGqOgJhKo3fKN9p%2Ff3EVxR6zlum1Z1SaqdNMKR6q%2FgjsT4UstV7PHAm1vamRvn2klmpUgx%2B9oOxLql7ISoJ989NCIbYTwWfFBmswp9OvTDrQQB7pBV8mgVRAfgXZwlOv0nMSCCbGPSyNY%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0 Opens in a new window or tab" [level=3] [ref=e1238]:
+                        - text: Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0
+                        - generic [ref=e1239]: Opens in a new window or tab
+                    - generic [ref=e1241]: Pre-Owned
+                  - generic [ref=e1242]:
+                    - generic [ref=e1243]:
+                      - generic [ref=e1244]: $15.00
+                      - generic [ref=e1245]: or Best Offer
+                      - generic [ref=e1246]: +$13.70 delivery
+                      - generic [ref=e1247]: Located in United States
+                    - generic [ref=e1249]: mustang65ld 100% positive (816)
+                  - heading [level=6] [ref=e1254]: derosnopS
+            - listitem [ref=e1255]:
+              - generic [ref=e1256]:
+                - generic [ref=e1258]:
+                  - link "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity 24x8 DOCSIS 3.0" [ref=e1260] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/336439924323?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7PR293EHRE51ETR3Y&hash=item4e5561d663%3Ag%3AnIcAAeSwyRpplObz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBf9vHvN%2FWxzag5SkKUzio7yUKAQcZjiZejbd66l4RW7Xzhg2BSQWVXp14lRwavmM%2FfAXXneGTHId8GFKkBBAkVBQcSCx%2FPE1yXg%2FWTLn4R2nxRKBPEQixzCXsws56zgwA%2BFOIfUJxDXHoBJ0j96ewvXaRSnfbL5S5uTImyvo9HPqBvhfXAEnHg5wC0FOSqYTax76EXmknTWZimc75Y%2F7rBfNb97E9FhZU5URqe4Cf6BtFuGBfRqFtM6PQXYb5Asp%2Bz%2BVBhrLbdjftmYbc9fZfC%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity 24x8 DOCSIS 3.0"
+                  - link "watch Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity 24x8 DOCSIS 3.0" [ref=e1263] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=336439924323&pt=null&srt=01000b00000050f31dfcead7f750004d376b16b83d0747116e3f90e5ae54777cc1959cb211c9b332728658bcac19a28ec8897f72bd8a51f0b46253735eafc62aa3aa730d59887b03be5ead82366c5272f5b02dd4814952&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1264]:
+                      - img
+                - generic [ref=e1265]:
+                  - generic [ref=e1266]:
+                    - link "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity 24x8 DOCSIS 3.0 Opens in a new window or tab" [ref=e1267] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/336439924323?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7PR293EHRE51ETR3Y&hash=item4e5561d663%3Ag%3AnIcAAeSwyRpplObz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBf9vHvN%2FWxzag5SkKUzio7yUKAQcZjiZejbd66l4RW7Xzhg2BSQWVXp14lRwavmM%2FfAXXneGTHId8GFKkBBAkVBQcSCx%2FPE1yXg%2FWTLn4R2nxRKBPEQixzCXsws56zgwA%2BFOIfUJxDXHoBJ0j96ewvXaRSnfbL5S5uTImyvo9HPqBvhfXAEnHg5wC0FOSqYTax76EXmknTWZimc75Y%2F7rBfNb97E9FhZU5URqe4Cf6BtFuGBfRqFtM6PQXYb5Asp%2Bz%2BVBhrLbdjftmYbc9fZfC%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity 24x8 DOCSIS 3.0 Opens in a new window or tab" [level=3] [ref=e1268]:
+                        - text: Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity 24x8 DOCSIS 3.0
+                        - generic [ref=e1269]: Opens in a new window or tab
+                    - generic [ref=e1271]: Pre-Owned
+                  - generic [ref=e1272]:
+                    - generic [ref=e1273]:
+                      - generic [ref=e1274]: $41.00
+                      - generic [ref=e1275]: or Best Offer
+                      - generic [ref=e1276]: +$10.15 delivery
+                      - generic [ref=e1277]: Located in United States
+                    - generic [ref=e1279]: lui590 100% positive (60)
+                  - heading [level=6] [ref=e1284]: derosnopS
+            - listitem [ref=e1285]:
+              - generic [ref=e1286]:
+                - generic [ref=e1288]:
+                  - link "One AC750M Wireless Router 2.4G + 5G Used but Working Well" [ref=e1290] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/256495827410?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7PN4RZ7JKPG1PYE7Q&hash=item3bb857b9d2%3Ag%3A1kgAAOSw2TBmMBVc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB22TLORWg42dQEdZjuAQGlWi1MR%2FA8pQn%2B6pTL9Nfwg%2FCNEdAEtTnGDpdkcytT0YclEsNWE5TsQB4D1scd9Cpb5xNOzzBsfYv30AVrZ%2BT6OhzmEVn0ick0%2BtDwOY1biN%2BtCnsq8uv8TL8CiPRmzi%2FySJxQlIf9ScNZwYm2qb9iRFwCZQ4b0BJCJtu6AUIqkdrD5udnbY9%2B3wKKWUkAIZRD0OKdNJjjT7hXqQg3UkhUX66HTxWHaQk5nr3mI%2FaR6KwANQ0%2Be2uLPXXjzS3ufBoN%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "One AC750M Wireless Router 2.4G + 5G Used but Working Well"
+                  - link "watch One AC750M Wireless Router 2.4G + 5G Used but Working Well" [ref=e1293] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=256495827410&pt=null&srt=01000b0000005049409aac6c18022bccc05c5073f1ab9dafbc691967f9c2f67f843ea60d8230a681902c23715609b9902e641b77e40a5da6c714ec47fa77b8b11c4786a1e739b4a44cd05865287fd6534af74c0ce9a37a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1294]:
+                      - img
+                - generic [ref=e1295]:
+                  - generic [ref=e1296]:
+                    - link "One AC750M Wireless Router 2.4G + 5G Used but Working Well Opens in a new window or tab" [ref=e1297] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/256495827410?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7PN4RZ7JKPG1PYE7Q&hash=item3bb857b9d2%3Ag%3A1kgAAOSw2TBmMBVc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB22TLORWg42dQEdZjuAQGlWi1MR%2FA8pQn%2B6pTL9Nfwg%2FCNEdAEtTnGDpdkcytT0YclEsNWE5TsQB4D1scd9Cpb5xNOzzBsfYv30AVrZ%2BT6OhzmEVn0ick0%2BtDwOY1biN%2BtCnsq8uv8TL8CiPRmzi%2FySJxQlIf9ScNZwYm2qb9iRFwCZQ4b0BJCJtu6AUIqkdrD5udnbY9%2B3wKKWUkAIZRD0OKdNJjjT7hXqQg3UkhUX66HTxWHaQk5nr3mI%2FaR6KwANQ0%2Be2uLPXXjzS3ufBoN%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "One AC750M Wireless Router 2.4G + 5G Used but Working Well Opens in a new window or tab" [level=3] [ref=e1298]:
+                        - text: One AC750M Wireless Router 2.4G + 5G Used but Working Well
+                        - generic [ref=e1299]: Opens in a new window or tab
+                    - generic [ref=e1301]: Pre-Owned
+                  - generic [ref=e1302]:
+                    - generic [ref=e1303]:
+                      - generic [ref=e1304]: $14.99
+                      - generic [ref=e1305]: or Best Offer
+                      - generic [ref=e1306]: +$11.50 delivery
+                      - generic [ref=e1307]: Located in United States
+                    - generic [ref=e1309]: yanjin2003 97.5% positive (283)
+                  - heading [level=6] [ref=e1314]: derosnopS
+            - listitem [ref=e1315]:
+              - generic [ref=e1316]:
+                - generic [ref=e1318]:
+                  - link "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router" [ref=e1320] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/355759071250?_skw=MT7981+wifi6+router+openwrt&epid=11067545796&itmmeta=01KT5J03B7WM9V1BTR6SYH3FN1&hash=item52d4e4a012%3Ag%3AU1QAAOSwrVpmW1l9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAAO9IMGDGsuknj3tOUJqKYdHSv9EdYC6E5qdo%2BJUdxNW6TXXa7YNAWDlYZJSG0NUPqFWN4iOP0I8WLQ40PB4eKduEbp7CwWV5P1emeeHZep3J%2BBljnNnXVxA2l37l4IVvkeqpVzMLo1ygUF%2BU%2BjIRDM3IogrozLGM8mW%2B3RPOe7TK%2FSl0O1rBp8duyzdBq1LJ8sqGZUGAA0I2NzTV3IbHEqBmOr9sPsL3rD9OfJFCt311kPvCzRUyidUzNEsFQTabEuD5hYA5ktjYuu2a6HOQHmnFuiV7t2lLbeUDYLoN35%2Bik8IHcSV3A7OxVSTWQy6I%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router"
+                  - link "watch Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router" [ref=e1323] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=355759071250&pt=null&srt=01000b00000050e47b60bcd9b170cd76e6dcb0977068b80bd582eb63c9a95c077551e04f1624f5116f916f36318291106f4cd8dff71a63fa15cf4473d1d4f31a05e194f9a41d20cb4ed34a9c1bff4e74f82ccd8aec620c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1324]:
+                      - img
+                - generic [ref=e1325]:
+                  - generic [ref=e1326]:
+                    - link "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router Opens in a new window or tab" [ref=e1327] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/355759071250?_skw=MT7981+wifi6+router+openwrt&epid=11067545796&itmmeta=01KT5J03B7WM9V1BTR6SYH3FN1&hash=item52d4e4a012%3Ag%3AU1QAAOSwrVpmW1l9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAAO9IMGDGsuknj3tOUJqKYdHSv9EdYC6E5qdo%2BJUdxNW6TXXa7YNAWDlYZJSG0NUPqFWN4iOP0I8WLQ40PB4eKduEbp7CwWV5P1emeeHZep3J%2BBljnNnXVxA2l37l4IVvkeqpVzMLo1ygUF%2BU%2BjIRDM3IogrozLGM8mW%2B3RPOe7TK%2FSl0O1rBp8duyzdBq1LJ8sqGZUGAA0I2NzTV3IbHEqBmOr9sPsL3rD9OfJFCt311kPvCzRUyidUzNEsFQTabEuD5hYA5ktjYuu2a6HOQHmnFuiV7t2lLbeUDYLoN35%2Bik8IHcSV3A7OxVSTWQy6I%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router Opens in a new window or tab" [level=3] [ref=e1328]:
+                        - text: Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router
+                        - generic [ref=e1329]: Opens in a new window or tab
+                    - generic [ref=e1331]: Pre-Owned
+                  - generic [ref=e1332]:
+                    - generic [ref=e1333]:
+                      - generic [ref=e1334]: $130.00
+                      - generic [ref=e1335]: Buy It Now
+                      - generic [ref=e1336]: Free delivery
+                      - generic [ref=e1337]: Located in United States
+                      - generic [ref=e1338]: Save up to 20% when you buy more
+                    - generic [ref=e1340]: horizon_marketplace 100% positive (60)
+                  - heading [level=6] [ref=e1345]: derosnopS
+            - listitem [ref=e1346]:
+              - generic [ref=e1347]:
+                - generic [ref=e1349]:
+                  - link "Band 71 LTE Mobile Router" [ref=e1351] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127288446808?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7DTRNRTNV18J2HAVC&hash=item1da2fb8f58%3Ag%3ABRYAAeSwVdxokS18&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBrrPI7hobsUCquD%2FvD8fJ5RVndhDyLlWdo0Cdm8CG3J0lJDy4wCSQ9b2p3cyPGiUMGqmS1uIZojGjPP2ijpKJmjyX--WqHi9W0R%2BxBoB%2Fh5Up8BQ3ni2Vkmc7zwpIG%2FGYeEHagSYaXCCcRAEuxzPRsHEjmDFMOVu6XHSzrQjJHtHS%2BeCVzv8sc1ZWkvva5zI%2BxY9eI3U0uh1cEpWFr9V8%2BRRpm7stLn6KCojkWn9sZfbWmVs3ENQiy0jfu681eH2wEmDtaMNIDi%2FnN2MUs70E0%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Band 71 LTE Mobile Router"
+                  - link "watch Band 71 LTE Mobile Router" [ref=e1354] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=127288446808&pt=null&srt=01000b00000050313f37602b461ef4c24317242ff8cea3d25ba89de68a102e8ac84b3bc85944cd876d2994ee20d1b8174a444854a883ceee8d3765149b1f627b3b0d268dd4645dbe691196dd9dd4fabe1414a67b9970fe&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1355]:
+                      - img
+                - generic [ref=e1356]:
+                  - generic [ref=e1357]:
+                    - link "Band 71 LTE Mobile Router Opens in a new window or tab" [ref=e1358] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127288446808?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7DTRNRTNV18J2HAVC&hash=item1da2fb8f58%3Ag%3ABRYAAeSwVdxokS18&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBrrPI7hobsUCquD%2FvD8fJ5RVndhDyLlWdo0Cdm8CG3J0lJDy4wCSQ9b2p3cyPGiUMGqmS1uIZojGjPP2ijpKJmjyX--WqHi9W0R%2BxBoB%2Fh5Up8BQ3ni2Vkmc7zwpIG%2FGYeEHagSYaXCCcRAEuxzPRsHEjmDFMOVu6XHSzrQjJHtHS%2BeCVzv8sc1ZWkvva5zI%2BxY9eI3U0uh1cEpWFr9V8%2BRRpm7stLn6KCojkWn9sZfbWmVs3ENQiy0jfu681eH2wEmDtaMNIDi%2FnN2MUs70E0%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Band 71 LTE Mobile Router Opens in a new window or tab" [level=3] [ref=e1359]:
+                        - text: Band 71 LTE Mobile Router
+                        - generic [ref=e1360]: Opens in a new window or tab
+                    - generic [ref=e1362]: Pre-Owned
+                  - generic [ref=e1363]:
+                    - generic [ref=e1364]:
+                      - generic [ref=e1365]: $40.00
+                      - generic [ref=e1366]: Buy It Now
+                      - generic [ref=e1367]: +$9.69 delivery
+                      - generic [ref=e1368]: Located in United States
+                    - generic [ref=e1370]: lelda30 100% positive (7)
+                  - heading [level=6] [ref=e1375]: derosnopS
+            - listitem [ref=e1376]:
+              - generic [ref=e1377]:
+                - generic [ref=e1379]:
+                  - link "Motorola MT7711 Wi-Fi Gigabit Router 24x8 Cable Modem + AC1900 - Gray" [ref=e1381] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/157940807687?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B73KNRN8JGHZ7ZSJ4H&hash=item24c6017807%3Ag%3A35oAAeSwURdpCOdQ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBEtf6KjdQNZCirDW4PG%2FR1Nmec6YRxEL2wrCCL1smriuDk63nTYHNQlznO0UVmD677o1FfmhtmRsiK%2B6xw2LC1uPjN7GwD8FehmN9f8yDZYA9AliTwybRESsuiZbCL0Fsfv1BfijUCXVQsfayfZiG5jE%2Bx88GIS0tvqnMWDIcgrBRESEq%2BZS769CTdfBAZl48hm2SkHmO8BPKMHyYfsmyPzyZPQifs4Jntw%2B3icFkUSatc%2BOJduhsiVB3PecUeqwP53%2BSK%2BTEIKSRbLFhGJy8H%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT7711 Wi-Fi Gigabit Router 24x8 Cable Modem + AC1900 - Gray"
+                  - link "watch Motorola MT7711 Wi-Fi Gigabit Router 24x8 Cable Modem + AC1900 - Gray" [ref=e1384] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=157940807687&pt=null&srt=01000b00000050c055364fcd0451c02f17a1bd007da72a14f760d5cde270d16e972052059d306a87dda4ee43cdf1098d468f6aa8b9aa12b477f1e9c04470eac524211b5b86f1a83f40788c5a277fa60281cc6f4f7fce5a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1385]:
+                      - img
+                - generic [ref=e1386]:
+                  - generic [ref=e1387]:
+                    - link "Motorola MT7711 Wi-Fi Gigabit Router 24x8 Cable Modem + AC1900 - Gray Opens in a new window or tab" [ref=e1388] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/157940807687?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B73KNRN8JGHZ7ZSJ4H&hash=item24c6017807%3Ag%3A35oAAeSwURdpCOdQ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBEtf6KjdQNZCirDW4PG%2FR1Nmec6YRxEL2wrCCL1smriuDk63nTYHNQlznO0UVmD677o1FfmhtmRsiK%2B6xw2LC1uPjN7GwD8FehmN9f8yDZYA9AliTwybRESsuiZbCL0Fsfv1BfijUCXVQsfayfZiG5jE%2Bx88GIS0tvqnMWDIcgrBRESEq%2BZS769CTdfBAZl48hm2SkHmO8BPKMHyYfsmyPzyZPQifs4Jntw%2B3icFkUSatc%2BOJduhsiVB3PecUeqwP53%2BSK%2BTEIKSRbLFhGJy8H%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT7711 Wi-Fi Gigabit Router 24x8 Cable Modem + AC1900 - Gray Opens in a new window or tab" [level=3] [ref=e1389]:
+                        - text: Motorola MT7711 Wi-Fi Gigabit Router 24x8 Cable Modem + AC1900 - Gray
+                        - generic [ref=e1390]: Opens in a new window or tab
+                    - generic [ref=e1392]: Pre-Owned
+                  - generic [ref=e1393]:
+                    - generic [ref=e1394]:
+                      - generic [ref=e1395]: $34.00
+                      - generic [ref=e1396]: or Best Offer
+                      - generic [ref=e1397]: Free delivery
+                      - generic [ref=e1398]: Located in United States
+                      - generic [ref=e1399]: Free returns
+                    - generic [ref=e1403]:
+                      - img "Top Rated Plus" [ref=e1404]:
+                        - img
+                      - generic [ref=e1405]: yesmulti 98.1% positive (5.4K)
+                  - heading [level=6] [ref=e1410]: derosnopS
+            - listitem [ref=e1411]:
+              - generic [ref=e1412]:
+                - generic [ref=e1414]:
+                  - link "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0" [ref=e1416] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/406883015419?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B74P7APBVVMBAG0E7M&hash=item5ebc1e1afb%3Ag%3AqmYAAeSwJy5p63kb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCBj0sl8EbTfICeVYV6eSUZoo7VmfTVEyEYKrUg3PUn%2FRpbyPf2tAc9R8tudv1SOqPtwONgCQtdHib0bBWIe4hjaG%2FtSlUeJpjf5ApQynFy0CV9F%2FWzDaw%2BTwBngv4TYOWhJJFyuEb8SXnyKr6SgFMBXghwn58iF6m0xBuf%2Fp2FSsPp1kMjRYT7qxjUhc20fkFlxG4rQg7wwpi9eHN4lNrI6W4eEibPooaU13YnMSbimIN33AUSmd%2BmuXAJBiZOW5O3QUtHwgx%2BvyHpTtL0wRDD4mCU94AJSl1SW97951VudLH5G7uKF7G6cU2eyb5HAi0%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0"
+                  - link "watch Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0" [ref=e1419] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=406883015419&pt=null&srt=01000b00000050d59eb99436590ac1bb4f91661ee1d52ca5054e45810950fa43104e93c7a23fd2bf12c8c80c97e3c2341caac609c905a8750297ba10321101c0e7112b4988bc706be558cb064d89210e0bdcc8dbd47e6f&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1420]:
+                      - img
+                - generic [ref=e1421]:
+                  - generic [ref=e1422]:
+                    - link "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0 Opens in a new window or tab" [ref=e1423] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/406883015419?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B74P7APBVVMBAG0E7M&hash=item5ebc1e1afb%3Ag%3AqmYAAeSwJy5p63kb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCBj0sl8EbTfICeVYV6eSUZoo7VmfTVEyEYKrUg3PUn%2FRpbyPf2tAc9R8tudv1SOqPtwONgCQtdHib0bBWIe4hjaG%2FtSlUeJpjf5ApQynFy0CV9F%2FWzDaw%2BTwBngv4TYOWhJJFyuEb8SXnyKr6SgFMBXghwn58iF6m0xBuf%2Fp2FSsPp1kMjRYT7qxjUhc20fkFlxG4rQg7wwpi9eHN4lNrI6W4eEibPooaU13YnMSbimIN33AUSmd%2BmuXAJBiZOW5O3QUtHwgx%2BvyHpTtL0wRDD4mCU94AJSl1SW97951VudLH5G7uKF7G6cU2eyb5HAi0%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0 Opens in a new window or tab" [level=3] [ref=e1424]:
+                        - text: Motorola MT7711 Modem Router Combo WiFi AC1900 Xfinity Voice 24x8 DOCSIS 3.0
+                        - generic [ref=e1425]: Opens in a new window or tab
+                    - generic [ref=e1427]: Pre-Owned
+                  - generic [ref=e1428]:
+                    - generic [ref=e1429]:
+                      - generic [ref=e1430]: $60.00
+                      - generic [ref=e1431]: or Best Offer
+                      - generic [ref=e1432]: +$18.30 delivery
+                      - generic [ref=e1433]: Located in United States
+                    - generic [ref=e1435]: brahol7094 100% positive (13)
+                  - heading [level=6] [ref=e1440]: derosnopS
+            - listitem [ref=e1441]:
+              - generic [ref=e1442]:
+                - generic [ref=e1444]:
+                  - link "Icomera X6s V1F Rail rated WiFi-Ethernet Multi LTE Router" [ref=e1446] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/336156571107?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7C55ZMVW7VTH0M0VK&hash=item4e447e35e3%3Ag%3AUxUAAeSwJcRothL-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBytCuorP19D4%2FXXZFMfOfHJT5ouXxpVG630d%2FE%2FeSq90STLoWA60qNIGJcidFHyECEVyO7RMreRmcjllkP90PUzWH45kkskp7010%2B9Qs75%2BukSKNSXN4JfDoL3tZnqw4R4khUreoccc%2FzHKRWkMHP3HZJMIF4yo1zYYGmskAiy9LOeoIstgtog7xac%2FKS1oTzWHrdROSYgARBER30Jbby8r0CTl8CJ7w5dHvjKOFyNJuReP%2FXf3J9mrRGZevKtwAwj%2BI1R4d8zAS9gVVilzWqQe5hLinJk49ghlmfA3UG7wYjDTDMGfaDnHPitYH2wjgI%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                    - img "Icomera X6s V1F Rail rated WiFi-Ethernet Multi LTE Router"
+                  - link "watch Icomera X6s V1F Rail rated WiFi-Ethernet Multi LTE Router" [ref=e1449] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=336156571107&pt=null&srt=01000b0000005094206fc39436da051c55835f9ed1b628c08ca854524ef7c6d72ee312f0f80f2dc7b7634d13b14c99ac0439eb122aa4dd3ad58544890bfaefd2e783b6151251979d0560d949872b24a16807a51e015cbc&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1450]:
+                      - img
+                - generic [ref=e1451]:
+                  - generic [ref=e1452]:
+                    - link "Icomera X6s V1F Rail rated WiFi-Ethernet Multi LTE Router Opens in a new window or tab" [ref=e1453] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/336156571107?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7C55ZMVW7VTH0M0VK&hash=item4e447e35e3%3Ag%3AUxUAAeSwJcRothL-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBytCuorP19D4%2FXXZFMfOfHJT5ouXxpVG630d%2FE%2FeSq90STLoWA60qNIGJcidFHyECEVyO7RMreRmcjllkP90PUzWH45kkskp7010%2B9Qs75%2BukSKNSXN4JfDoL3tZnqw4R4khUreoccc%2FzHKRWkMHP3HZJMIF4yo1zYYGmskAiy9LOeoIstgtog7xac%2FKS1oTzWHrdROSYgARBER30Jbby8r0CTl8CJ7w5dHvjKOFyNJuReP%2FXf3J9mrRGZevKtwAwj%2BI1R4d8zAS9gVVilzWqQe5hLinJk49ghlmfA3UG7wYjDTDMGfaDnHPitYH2wjgI%3D%7Ctkp%3ABk9SR-K1gLLRZw&LH_ItemCondition=3000
+                      - heading "Icomera X6s V1F Rail rated WiFi-Ethernet Multi LTE Router Opens in a new window or tab" [level=3] [ref=e1454]:
+                        - text: Icomera X6s V1F Rail rated WiFi-Ethernet Multi LTE Router
+                        - generic [ref=e1455]: Opens in a new window or tab
+                    - generic [ref=e1457]: Pre-Owned
+                  - generic [ref=e1458]:
+                    - generic [ref=e1459]:
+                      - generic [ref=e1460]: $699.00
+                      - generic [ref=e1461]: or Best Offer
+                      - generic [ref=e1462]: Free delivery
+                      - generic [ref=e1463]: Located in United States
+                      - generic [ref=e1464]: Free returns
+                    - generic [ref=e1466]: ticktock1-2-3 98.3% positive (58.7K)
+                  - heading [level=6] [ref=e1471]: derosnopS
+            - listitem [ref=e1472]:
+              - generic [ref=e1473]:
+                - generic [ref=e1475]:
+                  - link "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router" [ref=e1477] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/336156497379?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7FA1A7HRSJRGTCB3G&hash=item4e447d15e3%3Ag%3AA7AAAeSw9-Rotf9e&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD8k4b1%2F%2Bz3hV%2BHlaxfAFmTFHNAlpz0bO0lI3szV0LHpQ9l4Bl9iL2VGDbaHq6%2FSIxdKUhMKTbPkz4M0%2FNEEDwJi1ayqNjjIbDNR7L2gOJZ%2F8RJESgWLPjYUjr8CpQNTo3%2FDY2lHHYxPv3Zp3fTWpvhNfc06f%2B%2BRLjEXX6lYaNpUocMhjmhz2ma3X9b%2FulaoTx2JcIdQNqCDMfFBDzAX5Jq51evU92E%2BfpdkxViaQRAQv6khmqS%2F8IHIda305cDcVUFHahxKg3ZYjph%2BUmoUy8s8Kg4Nwop5yxAZqoeijEcKU6UJ0THQcgzgn%2FbzVeGC%2FQ%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                    - img "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router"
+                  - link "watch Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router" [ref=e1480] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=336156497379&pt=null&srt=01000b000000502859812f2b6bb82047167449ad14a7b00885898e0864730fb9213e035791221597944a62f16a8b205ecaa888d1653f1504b2dfa9343a9a504b6b9735211a7305a24a703cd716014651930fd542ffc531&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1481]:
+                      - img
+                - generic [ref=e1482]:
+                  - generic [ref=e1483]:
+                    - link "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router Opens in a new window or tab" [ref=e1484] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/336156497379?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7FA1A7HRSJRGTCB3G&hash=item4e447d15e3%3Ag%3AA7AAAeSw9-Rotf9e&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD8k4b1%2F%2Bz3hV%2BHlaxfAFmTFHNAlpz0bO0lI3szV0LHpQ9l4Bl9iL2VGDbaHq6%2FSIxdKUhMKTbPkz4M0%2FNEEDwJi1ayqNjjIbDNR7L2gOJZ%2F8RJESgWLPjYUjr8CpQNTo3%2FDY2lHHYxPv3Zp3fTWpvhNfc06f%2B%2BRLjEXX6lYaNpUocMhjmhz2ma3X9b%2FulaoTx2JcIdQNqCDMfFBDzAX5Jq51evU92E%2BfpdkxViaQRAQv6khmqS%2F8IHIda305cDcVUFHahxKg3ZYjph%2BUmoUy8s8Kg4Nwop5yxAZqoeijEcKU6UJ0THQcgzgn%2FbzVeGC%2FQ%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                      - heading "Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router Opens in a new window or tab" [level=3] [ref=e1485]:
+                        - text: Icomera X6 Rail rated WiFi-Ethernet Multi LTE Router
+                        - generic [ref=e1486]: Opens in a new window or tab
+                    - generic [ref=e1488]: Pre-Owned
+                  - generic [ref=e1489]:
+                    - generic [ref=e1490]:
+                      - generic [ref=e1491]: $699.00
+                      - generic [ref=e1492]: or Best Offer
+                      - generic [ref=e1493]: Free delivery
+                      - generic [ref=e1494]: Located in United States
+                      - generic [ref=e1495]: Free returns
+                    - generic [ref=e1497]: ticktock1-2-3 98.3% positive (58.7K)
+                  - heading "Sponsored" [level=6] [ref=e1502]: derosnopS
+            - listitem [ref=e1503]:
+              - generic [ref=e1504]:
+                - generic [ref=e1506]:
+                  - link "inhand IR791GS55 Industrial Cellular Router" [ref=e1508] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/285024263560?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7Y9S9ENBFNFZ352EZ&hash=item425cc51d88%3Ag%3AmQwAAOSwNwJjYoOm&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD54vrU903sdLLyP9FzBk3f00Fhgu7A2VdhtIFTLZAH4k88GY4H5esrdRF%2BCJkt2fK9Fy%2B3oqRa64pm5gNXxjloXF0kMYruIyMdm%2F76YKm2ptWli2bwPrOmZRSUkbpXGBgt9s8m%2BxjG%2FVC1koR9dLQJPa%2Bx%2FAIFu%2BZu4vUGImnsaaqVxwADiOFQ1G07j3cENsUaZbrL0sCagkfWdoq2Zeys7nAs%2Fp1vRt%2BizxMgLEhxoY0lZlRAcN7HL8Ru2S0JVKV22%2BqSv4UDWiEW%2BimwXXn2wYKDlORpYq74gM1a5LnHQ35Ri0eQ9Ply%2Fe9YJQDHqA0%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                    - img "inhand IR791GS55 Industrial Cellular Router"
+                  - link "watch inhand IR791GS55 Industrial Cellular Router" [ref=e1511] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=285024263560&pt=null&srt=01000b000000508aa6f45e442a18c778f15a3367cfcfc6c145b27537cb20c7d9f908766dc073e39f27f50d913c12b63bfd10a0095235be05dbaec9220cc46f5f4af7656ad71f14689fc2d6944b11fc88af5b199e0da9be&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1512]:
+                      - img
+                - generic [ref=e1513]:
+                  - generic [ref=e1514]:
+                    - link "inhand IR791GS55 Industrial Cellular Router Opens in a new window or tab" [ref=e1515] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/285024263560?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7Y9S9ENBFNFZ352EZ&hash=item425cc51d88%3Ag%3AmQwAAOSwNwJjYoOm&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD54vrU903sdLLyP9FzBk3f00Fhgu7A2VdhtIFTLZAH4k88GY4H5esrdRF%2BCJkt2fK9Fy%2B3oqRa64pm5gNXxjloXF0kMYruIyMdm%2F76YKm2ptWli2bwPrOmZRSUkbpXGBgt9s8m%2BxjG%2FVC1koR9dLQJPa%2Bx%2FAIFu%2BZu4vUGImnsaaqVxwADiOFQ1G07j3cENsUaZbrL0sCagkfWdoq2Zeys7nAs%2Fp1vRt%2BizxMgLEhxoY0lZlRAcN7HL8Ru2S0JVKV22%2BqSv4UDWiEW%2BimwXXn2wYKDlORpYq74gM1a5LnHQ35Ri0eQ9Ply%2Fe9YJQDHqA0%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                      - heading "inhand IR791GS55 Industrial Cellular Router Opens in a new window or tab" [level=3] [ref=e1516]:
+                        - text: inhand IR791GS55 Industrial Cellular Router
+                        - generic [ref=e1517]: Opens in a new window or tab
+                    - generic [ref=e1519]: Pre-Owned
+                  - generic [ref=e1520]:
+                    - generic [ref=e1521]:
+                      - generic [ref=e1522]: $280.25
+                      - generic [ref=e1523]: or Best Offer
+                      - generic [ref=e1524]: Free delivery
+                      - generic [ref=e1525]: Located in United Arab Emirates
+                      - generic [ref=e1526]: Free returns
+                    - generic [ref=e1530]:
+                      - img "Top Rated Plus" [ref=e1531]:
+                        - img
+                      - generic [ref=e1532]: heartofautomation 99.9% positive (3.8K)
+                  - heading "Sponsored" [level=6] [ref=e1537]: derosnopS
+            - listitem [ref=e1538]:
+              - generic [ref=e1539]:
+                - generic [ref=e1541]:
+                  - link "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1" [ref=e1543] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/224837027376?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7Z1S2TXNPW2XXTAPV&hash=item345954c630%3Ag%3A%7EnIAAOSwpvBiCVSW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCW3JNTxGlUX32LBcB5SClfFIn6U33svL7l%2Fr0IbvWFsWHDi99Nd23g%2BkZXCIuX4e7m%2BGlBQ94LRy%2F9zQ5%2FwppJadWr%2FWWAjmODI2FoPB7Q7E3M0ORPiJoZF05GQvclWc0LVJenZYK40jHymPFie2ETX33BL2lNfP9q4ovXlCxuG1osYJZyM2wYEe7NXaHdgLgsk6Wmu47K9QCVComB%2B2vLCauTddTOQzt4cPuq1aCTAYIAz7O3QnNltgjX6toH%2BL5h16GJkfy7sLJXtSuj5sqgfBXEOwKKM26VnXvc41GHDg%3D%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                    - img "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1"
+                  - link "watch Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1" [ref=e1546] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=224837027376&pt=null&srt=01000b000000508d84ee220dd2b4ff0479544c685adddcd587fed1e8fc1f77c55f2c482b2951bd0738aaca1928799b90ee3a263ca766837da883f7ccad7337bc07cdc915de4566b58cdcdbb701d6de153a14364448f1c1&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1547]:
+                      - img
+                - generic [ref=e1548]:
+                  - generic [ref=e1549]:
+                    - link "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1 Opens in a new window or tab" [ref=e1550] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/224837027376?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7Z1S2TXNPW2XXTAPV&hash=item345954c630%3Ag%3A%7EnIAAOSwpvBiCVSW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCW3JNTxGlUX32LBcB5SClfFIn6U33svL7l%2Fr0IbvWFsWHDi99Nd23g%2BkZXCIuX4e7m%2BGlBQ94LRy%2F9zQ5%2FwppJadWr%2FWWAjmODI2FoPB7Q7E3M0ORPiJoZF05GQvclWc0LVJenZYK40jHymPFie2ETX33BL2lNfP9q4ovXlCxuG1osYJZyM2wYEe7NXaHdgLgsk6Wmu47K9QCVComB%2B2vLCauTddTOQzt4cPuq1aCTAYIAz7O3QnNltgjX6toH%2BL5h16GJkfy7sLJXtSuj5sqgfBXEOwKKM26VnXvc41GHDg%3D%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                      - heading "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1 Opens in a new window or tab" [level=3] [ref=e1551]:
+                        - text: Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1
+                        - generic [ref=e1552]: Opens in a new window or tab
+                    - generic [ref=e1554]: Pre-Owned
+                  - generic [ref=e1555]:
+                    - generic [ref=e1556]:
+                      - generic [ref=e1557]:
+                        - text: $89.09
+                        - text: $98.99
+                      - generic [ref=e1558]: or Best Offer
+                      - generic [ref=e1559]: Free delivery in 2-4 days
+                      - generic [ref=e1560]: Located in United States
+                    - generic [ref=e1562]: catcheese 99.8% positive (4.6K)
+                  - heading "Sponsored" [level=6] [ref=e1567]: derosnopS
+            - listitem [ref=e1568]:
+              - generic [ref=e1569]:
+                - generic [ref=e1571]:
+                  - link "Gnet Broadband Router, With LPT1 Printer Port support." [ref=e1573] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/284673650534?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7MGHYYXV5J6C0SPG4&hash=item4247df2f66%3Ag%3AqrcAAOSwVThiHCB0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvu%2B7kiXt7JtcvNobpJpGZOUPyHkhBGmFEdKSWiPikxAjL1wXlbxJ0ZBfrXwB7Eq3LC36zIaBcp0d%2FmdsdUBH96Oui9V6%2BH9HUHSPsLRU8PTAr7OD91KLDc%2FyzcPm5XYQWQn9SlA4LjnR9Nl75Ek6fMmtzzzXKMPI3lLOYdfQS3QJVGqsi%2BcWxR44kL5aq6VzwJf9ayGgUuo%2FvM6lRCJtNlGJeqtLzmVwed24whuaBPJLFgi3qfVcOLimq33MmTD6WReMUyNFkJn3kH6%2F3nw8dMB9YYjdl5nzF8tfof1dD0g%3D%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                    - img "Gnet Broadband Router, With LPT1 Printer Port support."
+                  - link "watch Gnet Broadband Router, With LPT1 Printer Port support." [ref=e1576] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=284673650534&pt=null&srt=01000b00000050658cd648b46770114f909707dc7e2033eac361265aaacf728513a851688cb1d0fbb2b8056b98b3731fe74cfe31cfee1fa6c8e592786bf441970dcb8f9e2dc12dafd1db202c41abc2a09eef0cce8e79e7&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1577]:
+                      - img
+                - generic [ref=e1578]:
+                  - generic [ref=e1579]:
+                    - link "Gnet Broadband Router, With LPT1 Printer Port support. Opens in a new window or tab" [ref=e1580] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/284673650534?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B7MGHYYXV5J6C0SPG4&hash=item4247df2f66%3Ag%3AqrcAAOSwVThiHCB0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvu%2B7kiXt7JtcvNobpJpGZOUPyHkhBGmFEdKSWiPikxAjL1wXlbxJ0ZBfrXwB7Eq3LC36zIaBcp0d%2FmdsdUBH96Oui9V6%2BH9HUHSPsLRU8PTAr7OD91KLDc%2FyzcPm5XYQWQn9SlA4LjnR9Nl75Ek6fMmtzzzXKMPI3lLOYdfQS3QJVGqsi%2BcWxR44kL5aq6VzwJf9ayGgUuo%2FvM6lRCJtNlGJeqtLzmVwed24whuaBPJLFgi3qfVcOLimq33MmTD6WReMUyNFkJn3kH6%2F3nw8dMB9YYjdl5nzF8tfof1dD0g%3D%3D%7Ctkp%3ABFBM4rWAstFn&LH_ItemCondition=3000
+                      - heading "Gnet Broadband Router, With LPT1 Printer Port support. Opens in a new window or tab" [level=3] [ref=e1581]:
+                        - text: Gnet Broadband Router, With LPT1 Printer Port support.
+                        - generic [ref=e1582]: Opens in a new window or tab
+                    - generic [ref=e1584]: Pre-Owned
+                  - generic [ref=e1585]:
+                    - generic [ref=e1586]:
+                      - generic [ref=e1587]: $10.83
+                      - generic [ref=e1588]: Buy It Now
+                      - generic [ref=e1589]: +$22.12 delivery
+                      - generic [ref=e1590]: Located in Canada
+                    - generic [ref=e1592]: spokethedog 100% positive (663)
+                  - heading "Sponsored" [level=6] [ref=e1597]: derosnopS
+            - listitem [ref=e1598]:
+              - generic [ref=e1599]:
+                - generic [ref=e1601]:
+                  - 'link "Bundle: USRobotics MAXg Router + SpeedStream PCI NIC" [ref=e1603] [cursor=pointer]':
+                    - /url: https://www.ebay.com/itm/334565935914?_skw=MT7981+wifi6+router+openwrt&epid=57332649&itmmeta=01KT5J03B8MTD87ZA2YEM9A3P6&hash=item4de5af0b2a%3Ag%3ASPkAAOSwFrlmxy3A&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBkVeFvoCoh4dyX4gKOW4AwC0F7yEybqa8F%2B%2F6HwLNxwjsvpe%2FLtRNDONqyVt6fvGY3091jVYZrC5A4X4Xm9zzkj9TdV6KdebB%2FZgH5dIGPKylf8LCu17x7hkT4mMvKfrddpk%2BW9rqofpm9CYngHZFX5Xizp%2Bm2uZS%2BCTYzfltFcIlGS6hIEsCMYI%2FwNKX5J3ptrBgNhEmSsI0BidzErXPbq7yAYOFx0JhptvCkDKUS5cOQN%2Fke17n%2BypV%2BRzgftSMEI7PA2EyXJWU6FmuC8WF1cF%2FgjZhaH%2F64zQ%2BiWGPRfw%3D%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - 'img "Bundle: USRobotics MAXg Router + SpeedStream PCI NIC"'
+                  - 'link "watch Bundle: USRobotics MAXg Router + SpeedStream PCI NIC" [ref=e1606] [cursor=pointer]':
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=334565935914&pt=null&srt=01000b000000508853020edf1b5f6e6f0b7fa96fa2e96528dc62ef7d67bedf0bd547d857cd523b276a9d4935de37b3b7f1fb331060febc83b6f0ff740de502e83b17a034b51b0eaef68125bb6259d02ff3d55bf9f2a2c0&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1607]:
+                      - img
+                - generic [ref=e1608]:
+                  - generic [ref=e1609]:
+                    - 'link "Bundle: USRobotics MAXg Router + SpeedStream PCI NIC Opens in a new window or tab" [ref=e1610] [cursor=pointer]':
+                      - /url: https://www.ebay.com/itm/334565935914?_skw=MT7981+wifi6+router+openwrt&epid=57332649&itmmeta=01KT5J03B8MTD87ZA2YEM9A3P6&hash=item4de5af0b2a%3Ag%3ASPkAAOSwFrlmxy3A&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBkVeFvoCoh4dyX4gKOW4AwC0F7yEybqa8F%2B%2F6HwLNxwjsvpe%2FLtRNDONqyVt6fvGY3091jVYZrC5A4X4Xm9zzkj9TdV6KdebB%2FZgH5dIGPKylf8LCu17x7hkT4mMvKfrddpk%2BW9rqofpm9CYngHZFX5Xizp%2Bm2uZS%2BCTYzfltFcIlGS6hIEsCMYI%2FwNKX5J3ptrBgNhEmSsI0BidzErXPbq7yAYOFx0JhptvCkDKUS5cOQN%2Fke17n%2BypV%2BRzgftSMEI7PA2EyXJWU6FmuC8WF1cF%2FgjZhaH%2F64zQ%2BiWGPRfw%3D%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - 'heading "Bundle: USRobotics MAXg Router + SpeedStream PCI NIC Opens in a new window or tab" [level=3] [ref=e1611]':
+                        - text: "Bundle: USRobotics MAXg Router + SpeedStream PCI NIC"
+                        - generic [ref=e1612]: Opens in a new window or tab
+                    - generic [ref=e1614]: Pre-Owned
+                    - 'link "5.0 out of 5 stars. 1 product rating - Bundle: USRobotics MAXg Router + SpeedStream PCI NIC" [ref=e1617] [cursor=pointer]':
+                      - /url: https://www.ebay.com/p/57332649?iid=334565935914#UserReviews
+                      - generic [ref=e1618]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e1619]: 5.0 out of 5 stars.
+                      - generic [ref=e1620]:
+                        - generic [ref=e1621]: 1 product rating
+                        - generic [ref=e1622]: "- Bundle: USRobotics MAXg Router + SpeedStream PCI NIC"
+                  - generic [ref=e1623]:
+                    - generic [ref=e1624]:
+                      - generic [ref=e1625]: $5.50
+                      - generic [ref=e1626]: Buy It Now
+                      - generic [ref=e1627]: +$11.00 delivery
+                      - generic [ref=e1628]: Located in United States
+                    - generic [ref=e1630]: robjs76 100% positive (250)
+                  - heading [level=6] [ref=e1635]: derosnopS
+            - listitem [ref=e1636]:
+              - generic [ref=e1637]:
+                - generic [ref=e1639]:
+                  - link "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1" [ref=e1641] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/203851079694?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8074R8SM7BC9WQS4Q&hash=item2f7678a00e%3Ag%3A%7EhsAAOSw8TRiIR8f&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD7EAZYIvnUvuaXvRqlVRXeHbhSlIUcZdZ%2Bhg2KDX%2FW7z7wrueEN0P6PhgezvCrDh7%2FE4ukbw8Iwb1ZLq0dBQWwvQPO6cAe63hUa3MWkuQp7LxdbTpGAT84OMaHePOI2ZBv%2FKB%2BRsHX16nEbAO5omNjpbNBN69S2OfonHwARJ0xAMrWDfZvIuUIxY2RnWT5UYPPNPZ4WkrFR8XWnP%2Fv%2B%2FfBSeTlgfJn01hd9fzwlRdwpcKcm4%2FR1IC%2BoIT0tMoivs%2BitDjq5Jo787W%2BVcbpjjZptpiq2legTZ8HEz0jckkSSS5v5xQ7L4LiqQvLY6QKy18%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1"
+                  - link "watch Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1" [ref=e1644] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=203851079694&pt=null&srt=01000b0000005037415d8a412909fcdc1c8126608d950201c36dc9cdb7fca907b44feee468feb43b5227aeed0a6becdfd6381a6cef983dd0ac9c4d95ff89c08287454eb41dd0b15d0adaacd001e2b4f1702a7e84fe3895&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1645]:
+                      - img
+                - generic [ref=e1646]:
+                  - generic [ref=e1647]:
+                    - link "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1 Opens in a new window or tab" [ref=e1648] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/203851079694?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8074R8SM7BC9WQS4Q&hash=item2f7678a00e%3Ag%3A%7EhsAAOSw8TRiIR8f&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD7EAZYIvnUvuaXvRqlVRXeHbhSlIUcZdZ%2Bhg2KDX%2FW7z7wrueEN0P6PhgezvCrDh7%2FE4ukbw8Iwb1ZLq0dBQWwvQPO6cAe63hUa3MWkuQp7LxdbTpGAT84OMaHePOI2ZBv%2FKB%2BRsHX16nEbAO5omNjpbNBN69S2OfonHwARJ0xAMrWDfZvIuUIxY2RnWT5UYPPNPZ4WkrFR8XWnP%2Fv%2B%2FfBSeTlgfJn01hd9fzwlRdwpcKcm4%2FR1IC%2BoIT0tMoivs%2BitDjq5Jo787W%2BVcbpjjZptpiq2legTZ8HEz0jckkSSS5v5xQ7L4LiqQvLY6QKy18%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1 Opens in a new window or tab" [level=3] [ref=e1649]:
+                        - text: Industrial Cellular LTE Router with Dual SIM PayComplete 5006597-US1
+                        - generic [ref=e1650]: Opens in a new window or tab
+                    - generic [ref=e1652]: Pre-Owned
+                  - generic [ref=e1653]:
+                    - generic [ref=e1654]:
+                      - generic [ref=e1655]: $69.99
+                      - generic [ref=e1656]: Buy It Now
+                      - generic [ref=e1657]: +$9.99 delivery
+                      - generic [ref=e1658]: Located in United States
+                    - generic [ref=e1660]: palsrme 99% positive (1.8K)
+                  - heading [level=6] [ref=e1665]: derosnopS
+            - listitem [ref=e1666]:
+              - generic [ref=e1667]:
+                - generic [ref=e1669]:
+                  - link "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router" [ref=e1671] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/277635446764?_skw=MT7981+wifi6+router+openwrt&epid=11067545796&itmmeta=01KT5J03B8RMXHHMNCSCAC6JMV&hash=item40a45cb7ec%3Ag%3AavMAAeSwfp1pXrb6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xALqBF75CQBFsjJxhKFw36UYCe%2BGzx1B7gT5Li7Zyr6ypsXY2IFET5fgUB4eEwpIzgKs2rdMkIuzBepVfJaPu%2FatDVy1gv8NAH36bxYLmTyEi1IOAJYmVzBDQplp7LFjZU4p%2BLaY9XC10uTMMRqTEcPUkgQ2MuvvZ5mcnuFVv6YLxzsDE2sikEtqcktH2XCAJHk2KfUtXYHc0e2qEfm3PBf4HcBOF87f%2Firk8R3tIJAJlfkM8OWTwnpk29V7%2Br9Pfhdo5lswQ6QG0Ea%2BJ2lkyx8WkE8QEkNV9YiCsTWjcHbNRrLKMDiiLaiQjo7Y2mA6gk%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router"
+                  - link "watch Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router" [ref=e1674] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=277635446764&pt=null&srt=01000b000000500bf3fb4d352c2d9786e1b9daa4b9049acc8736bf209b730bf676a2a1047c8cf7093071c37ac681ca2a8660e5789e2402b99c161085ab0ee4fefc295b2e9c50097d8cc1ce511c6b7128c3dc25ab851745&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1675]:
+                      - img
+                - generic [ref=e1676]:
+                  - generic [ref=e1677]:
+                    - link "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router Opens in a new window or tab" [ref=e1678] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/277635446764?_skw=MT7981+wifi6+router+openwrt&epid=11067545796&itmmeta=01KT5J03B8RMXHHMNCSCAC6JMV&hash=item40a45cb7ec%3Ag%3AavMAAeSwfp1pXrb6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xALqBF75CQBFsjJxhKFw36UYCe%2BGzx1B7gT5Li7Zyr6ypsXY2IFET5fgUB4eEwpIzgKs2rdMkIuzBepVfJaPu%2FatDVy1gv8NAH36bxYLmTyEi1IOAJYmVzBDQplp7LFjZU4p%2BLaY9XC10uTMMRqTEcPUkgQ2MuvvZ5mcnuFVv6YLxzsDE2sikEtqcktH2XCAJHk2KfUtXYHc0e2qEfm3PBf4HcBOF87f%2Firk8R3tIJAJlfkM8OWTwnpk29V7%2Br9Pfhdo5lswQ6QG0Ea%2BJ2lkyx8WkE8QEkNV9YiCsTWjcHbNRrLKMDiiLaiQjo7Y2mA6gk%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router Opens in a new window or tab" [level=3] [ref=e1679]:
+                        - text: Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router
+                        - generic [ref=e1680]: Opens in a new window or tab
+                    - generic [ref=e1682]: Pre-Owned
+                  - generic [ref=e1683]:
+                    - generic [ref=e1684]:
+                      - generic [ref=e1685]: $150.00
+                      - generic [ref=e1686]: or Best Offer
+                      - generic [ref=e1687]: +$6.10 delivery
+                      - generic [ref=e1688]: Located in United States
+                    - generic [ref=e1690]: datadestruction 99.6% positive (1.1K)
+                  - heading [level=6] [ref=e1695]: derosnopS
+            - listitem [ref=e1696]:
+              - generic [ref=e1697]:
+                - generic [ref=e1699]:
+                  - link "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router" [ref=e1701] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/146809134255?_skw=MT7981+wifi6+router+openwrt&epid=11067545796&itmmeta=01KT5J03B8ZTR1YMMEF7C7GRBX&hash=item222e819caf%3Ag%3AVRgAAeSwrjBot1BJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD2lv0H15Khb8toibh4z35CwYelEWXpOXq4XpE16W4wmBjOtxgIvQXLGqIn50mrfT1HkK1iggRhZPaHXHJIMI0Mn9EkjI2m6CdKxCdDSUrUDj1A2yANw2cGNSC7VLy9P2O70AkGvgR6AnzMdRjo7B4Xan%2FzLqbsIsjJenP9gOjSPJcGyGUw6Pzv%2Fnk6sB50sMcX9FjKSPoCwHsu2aJqbGicItkSE%2BbihXWIQO8KFhVu34J6QmmvNVrnSJMbRa8W2hYK95yRyLdsKj%2Bvy0kpZpYQ2Vw2hyhQKjOUN%2ByfluYau3ET7I0Qyy8wXKG8ph03jfc%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router"
+                  - link "watch Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router" [ref=e1704] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=146809134255&pt=null&srt=01000b00000050362410527ba32a5c3f33bdd251ae469474445744cdf08d35581e65783f2f39442993f34662705e8e62f3cca85642e6ad068c79028adc513353aa18c7eae08e5a9832f64b1ffe7f564c788ba660512bc3&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1705]:
+                      - img
+                - generic [ref=e1706]:
+                  - generic [ref=e1707]:
+                    - link "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router Opens in a new window or tab" [ref=e1708] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/146809134255?_skw=MT7981+wifi6+router+openwrt&epid=11067545796&itmmeta=01KT5J03B8ZTR1YMMEF7C7GRBX&hash=item222e819caf%3Ag%3AVRgAAeSwrjBot1BJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD2lv0H15Khb8toibh4z35CwYelEWXpOXq4XpE16W4wmBjOtxgIvQXLGqIn50mrfT1HkK1iggRhZPaHXHJIMI0Mn9EkjI2m6CdKxCdDSUrUDj1A2yANw2cGNSC7VLy9P2O70AkGvgR6AnzMdRjo7B4Xan%2FzLqbsIsjJenP9gOjSPJcGyGUw6Pzv%2Fnk6sB50sMcX9FjKSPoCwHsu2aJqbGicItkSE%2BbihXWIQO8KFhVu34J6QmmvNVrnSJMbRa8W2hYK95yRyLdsKj%2Bvy0kpZpYQ2Vw2hyhQKjOUN%2ByfluYau3ET7I0Qyy8wXKG8ph03jfc%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router Opens in a new window or tab" [level=3] [ref=e1709]:
+                        - text: Multi-Tech MTR-LNA7-B07 Multi Connect rCell 100 Series Wi-Fi Wireless Router
+                        - generic [ref=e1710]: Opens in a new window or tab
+                    - generic [ref=e1712]: Pre-Owned
+                  - generic [ref=e1713]:
+                    - generic [ref=e1714]:
+                      - generic [ref=e1715]: $160.00
+                      - generic [ref=e1716]: Buy It Now
+                      - generic [ref=e1717]: +$14.18 delivery in 2-4 days
+                      - generic [ref=e1718]: Located in United States
+                    - generic [ref=e1720]: lvtll2011 100% positive (1.5K)
+                  - heading [level=6] [ref=e1725]: derosnopS
+            - listitem [ref=e1726]:
+              - generic [ref=e1727]:
+                - generic [ref=e1729]:
+                  - link "ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U )" [ref=e1731] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127471300507?_skw=MT7981+wifi6+router+openwrt&epid=26032151571&itmmeta=01KT5J03B8ZTCE5WVRKAE1TBQT&hash=item1dade1af9b%3Ag%3AXHYAAeSwyNdpCsgu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xALU5iecYZ9Hnh3iIoONDnNPmE1lZ8X8eTkkfAlFKWZZQWabaTAcJKYa4afzLp6%2BhZSh8L3umwkk%2B0OrMMewHoZXtcDawyZC%2BFLfp0FEoZYQU1IUER%2BnW1DFDPnxtHG%2B5uZJAEc201caq4Gd0Mj5dAyrOEEcBfDk7k7qHqJ8nOVwU1Pnki0nw33wqV%2Fs1vH--xXA%2BZiWRbsBoPJgI4%2FYkHhCd9OxHXTx52YSpbmz2n%2BYwWAId6b%2Fv8Gkhe27wB0zWVgpUT74G%2Fo8aNZzsoh%2BIdvfNCEUMQOAnYOW5W%2FpnZnfIcmozhi708N4b%2B6fKhieq4%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U )"
+                  - link "watch ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U )" [ref=e1734] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=127471300507&pt=null&srt=01000b00000050e67c9410f2a7ab4795b46c785a2c3449acdbe4b10e9a4f66e2754b3f2c4f0f0baff8f7c219217874a220073dc72770687fa6a81eafb00552bf3271120045003ee92d41376956b66a5f31417dc5da10ab&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1735]:
+                      - img
+                - generic [ref=e1736]:
+                  - generic [ref=e1737]:
+                    - link "ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U ) Opens in a new window or tab" [ref=e1738] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127471300507?_skw=MT7981+wifi6+router+openwrt&epid=26032151571&itmmeta=01KT5J03B8ZTCE5WVRKAE1TBQT&hash=item1dade1af9b%3Ag%3AXHYAAeSwyNdpCsgu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xALU5iecYZ9Hnh3iIoONDnNPmE1lZ8X8eTkkfAlFKWZZQWabaTAcJKYa4afzLp6%2BhZSh8L3umwkk%2B0OrMMewHoZXtcDawyZC%2BFLfp0FEoZYQU1IUER%2BnW1DFDPnxtHG%2B5uZJAEc201caq4Gd0Mj5dAyrOEEcBfDk7k7qHqJ8nOVwU1Pnki0nw33wqV%2Fs1vH--xXA%2BZiWRbsBoPJgI4%2FYkHhCd9OxHXTx52YSpbmz2n%2BYwWAId6b%2Fv8Gkhe27wB0zWVgpUT74G%2Fo8aNZzsoh%2BIdvfNCEUMQOAnYOW5W%2FpnZnfIcmozhi708N4b%2B6fKhieq4%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U ) Opens in a new window or tab" [level=3] [ref=e1739]:
+                        - text: ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U )
+                        - generic [ref=e1740]: Opens in a new window or tab
+                    - generic [ref=e1742]: Pre-Owned
+                    - link "5.0 out of 5 stars. 12 product ratings - ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U )" [ref=e1745] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/26032151571?iid=127471300507#UserReviews
+                      - generic [ref=e1746]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e1747]: 5.0 out of 5 stars.
+                      - generic [ref=e1748]:
+                        - generic [ref=e1749]: 12 product ratings
+                        - generic [ref=e1750]: "- ASUS Wifi AI Mesh Router Setup (ASUS GTAX11000 + 2 RTAX92Us + RTAC87U )"
+                  - generic [ref=e1751]:
+                    - generic [ref=e1752]:
+                      - generic [ref=e1753]: $299.00
+                      - generic [ref=e1754]: or Best Offer
+                      - generic [ref=e1755]: +$17.59 delivery
+                      - generic [ref=e1756]: Located in United States
+                    - generic [ref=e1758]: z_clip 100% positive (10)
+                  - heading [level=6] [ref=e1763]: derosnopS
+            - listitem [ref=e1764]:
+              - generic [ref=e1765]:
+                - generic [ref=e1767]:
+                  - link "Banana Pi BPI-R3 Open Source Smart Router Board MediaTek MT7986" [ref=e1769] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/206285244002?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8Q7K60E49PW23WZVJ&hash=item30078f0662%3Ag%3AHAUAAeSwNIpqDIbL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBzkC9XsY8xLGsE%2BkC6wADJ3IUr%2FnckX%2F64c%2BoQpAQgK2waUdFV8UrDfQpbkX2HUxPLf7N7pJRWEk75zj52j9kwMWV3k%2FLwgvpywGcN02Ak1cLzGCUxO6sZ87iF%2BMkJ0BCNQ9HFPgNdRzuRQIb4qN%2FMhVe023EWXk60uGGhj%2BExrF6m6Yn%2FReTplY17jlFrJgr1f4orQ3jbgrEpuMH3H353M2%2Fcycogm2Vhiq6k2mcvNMyydM7ja03ZuskhdBc2my4Z5ki4GjaRHbvxl8lIpU5IZnu8sEs1CYYslPUtsm26aJe5PnqEWrUqkO9KLYRbg%2Bw%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "Banana Pi BPI-R3 Open Source Smart Router Board MediaTek MT7986"
+                  - link "watch Banana Pi BPI-R3 Open Source Smart Router Board MediaTek MT7986" [ref=e1772] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=206285244002&pt=null&srt=01000b000000500441bce4024b8c83f7c55c2b55040b2925e54604b1ec95ec0a1adbf2c0eb8e0b4c29f6da610280e8c5faf9b58400439e9e201eec5725c609de0a64daccafb905b564eac6d9106cf8b49996363343684d&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1773]:
+                      - img
+                - generic [ref=e1774]:
+                  - generic [ref=e1775]:
+                    - generic "NEW LOW PRICE" [ref=e1777]
+                    - link "Banana Pi BPI-R3 Open Source Smart Router Board MediaTek MT7986 Opens in a new window or tab" [ref=e1778] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/206285244002?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8Q7K60E49PW23WZVJ&hash=item30078f0662%3Ag%3AHAUAAeSwNIpqDIbL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBzkC9XsY8xLGsE%2BkC6wADJ3IUr%2FnckX%2F64c%2BoQpAQgK2waUdFV8UrDfQpbkX2HUxPLf7N7pJRWEk75zj52j9kwMWV3k%2FLwgvpywGcN02Ak1cLzGCUxO6sZ87iF%2BMkJ0BCNQ9HFPgNdRzuRQIb4qN%2FMhVe023EWXk60uGGhj%2BExrF6m6Yn%2FReTplY17jlFrJgr1f4orQ3jbgrEpuMH3H353M2%2Fcycogm2Vhiq6k2mcvNMyydM7ja03ZuskhdBc2my4Z5ki4GjaRHbvxl8lIpU5IZnu8sEs1CYYslPUtsm26aJe5PnqEWrUqkO9KLYRbg%2Bw%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "Banana Pi BPI-R3 Open Source Smart Router Board MediaTek MT7986 Opens in a new window or tab" [level=3] [ref=e1779]:
+                        - text: Banana Pi BPI-R3 Open Source Smart Router Board MediaTek MT7986
+                        - generic [ref=e1780]: Opens in a new window or tab
+                    - generic [ref=e1782]: Pre-Owned
+                  - generic [ref=e1783]:
+                    - generic [ref=e1784]:
+                      - generic [ref=e1785]: $175.00
+                      - generic [ref=e1786]: or Best Offer
+                      - generic [ref=e1787]: Free delivery in 2-4 days
+                      - generic [ref=e1788]: Located in United States
+                    - generic [ref=e1790]: maddhatter81 100% positive (445)
+                  - heading [level=6] [ref=e1795]: derosnopS
+            - listitem [ref=e1796]:
+              - generic [ref=e1797]:
+                - generic [ref=e1799]:
+                  - link "RADWIZ 9.6K-2MBPS PICO ROUTER" [ref=e1801] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/326410627841?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8Z05DKPKWYVDYYFM1&hash=item4bff96eb01%3Ag%3ARiAAAOSwxGlnjBNV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDrqmH8nqs4OB%2BYnaEBShBV7v8v8NcWewGFOG4HznSujlBLpkwwc9lwuawccjDR%2F4UCM3rZavpw4AnlubmMNEuRJLUGEIPmMkUq8Ag1x0iwDUhqMXaWESDbdspvcYyarDuIh6tl1Nw9Ij02uVzBDs3TmDodVfxy231usnubksDLUBbpFvc%2F66M%2F3MqZl8EyvztCHf7U0d0uoMiXy9rRyf%2F83C7IzGvlej2t%2FIdI4zL60lofDs9uYyTXb40r7ujZk3g6NhaGehFuepKzO4FnUAqsypnR10EIkEkfwbI1NKIyg%3D%3D%7Ctkp%3ABFBM5LWAstFn&LH_ItemCondition=3000
+                    - img "RADWIZ 9.6K-2MBPS PICO ROUTER"
+                  - link "watch RADWIZ 9.6K-2MBPS PICO ROUTER" [ref=e1804] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=326410627841&pt=null&srt=01000b00000050253e7dcdb738feda1569307685d15eb6615e949005410767d2cca8a0624555e6c9423b2d89e99133fca47d5b81d604484c5078fd26fd5812bdd2c41750d2985383d0017cb0f09b66511a7ad9c7a58279&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1805]:
+                      - img
+                - generic [ref=e1806]:
+                  - generic [ref=e1807]:
+                    - link "RADWIZ 9.6K-2MBPS PICO ROUTER Opens in a new window or tab" [ref=e1808] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/326410627841?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8Z05DKPKWYVDYYFM1&hash=item4bff96eb01%3Ag%3ARiAAAOSwxGlnjBNV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDrqmH8nqs4OB%2BYnaEBShBV7v8v8NcWewGFOG4HznSujlBLpkwwc9lwuawccjDR%2F4UCM3rZavpw4AnlubmMNEuRJLUGEIPmMkUq8Ag1x0iwDUhqMXaWESDbdspvcYyarDuIh6tl1Nw9Ij02uVzBDs3TmDodVfxy231usnubksDLUBbpFvc%2F66M%2F3MqZl8EyvztCHf7U0d0uoMiXy9rRyf%2F83C7IzGvlej2t%2FIdI4zL60lofDs9uYyTXb40r7ujZk3g6NhaGehFuepKzO4FnUAqsypnR10EIkEkfwbI1NKIyg%3D%3D%7Ctkp%3ABFBM5LWAstFn&LH_ItemCondition=3000
+                      - heading "RADWIZ 9.6K-2MBPS PICO ROUTER Opens in a new window or tab" [level=3] [ref=e1809]:
+                        - text: RADWIZ 9.6K-2MBPS PICO ROUTER
+                        - generic [ref=e1810]: Opens in a new window or tab
+                    - generic [ref=e1812]: Pre-Owned
+                  - generic [ref=e1813]:
+                    - generic [ref=e1814]:
+                      - generic [ref=e1815]: $50.00
+                      - generic [ref=e1816]: or Best Offer
+                      - generic [ref=e1817]: +$27.00 delivery
+                      - generic [ref=e1818]: Located in Israel
+                      - generic [ref=e1819]: Free returns
+                    - generic [ref=e1821]: all-of-cpu 100% positive (1.6K)
+                  - heading "Sponsored" [level=6] [ref=e1826]: derosnopS
+            - listitem [ref=e1827]:
+              - generic [ref=e1828]:
+                - generic [ref=e1830]:
+                  - link "Mediatek MT7921LEN Wi-Fi 6 AW-XB468NF M.2 BT 5.2 802.11ax Card Genuine" [ref=e1832] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/326633516043?_skw=MT7981+wifi6+router+openwrt&epid=20069648580&itmmeta=01KT5J03B8GT400N7PJ5314YJK&hash=item4c0cdfec0b%3Ag%3AJ6oAAeSwDDBoSiXj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAmo6H14Kpkqb7fN8w2%2FJykup6DjsI0GzLzm1k3YnQKtnNjTZy9C%2BzF4rLui%2FDTv2JgMOJKzG5Za%2Fdakycd6Ij805mCo2i58PPSR7Yir8YUXfZEZGF3VFZ6UBD0aMGwtGU0YnNQpl%2FTrvFvZpE7A%2FEpsGlSOfrQj%2F7LCWNCf%2FDeNodA9Gt07vJnCAQDo48oxNIA3ywXL2gRxz%2BIVYQ6%2BoYYPqiIGB4Hi5U4DxztXQZpFa209TdV8S9fpKRV9GirUScpS85pxn9yt5hKG0xPkbAH%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "Mediatek MT7921LEN Wi-Fi 6 AW-XB468NF M.2 BT 5.2 802.11ax Card Genuine"
+                  - link "watch Mediatek MT7921LEN Wi-Fi 6 AW-XB468NF M.2 BT 5.2 802.11ax Card Genuine" [ref=e1835] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=326633516043&pt=null&srt=01000b000000509e81e9ddef67cd4da7ce35b302525bbb032f6239443c44c629e48b44a4e0aa68555a92fb4c31fbceab2ae0ad9dbce3506ead05036fe85b95f614a47655482e613a121750d69d26dda05dd97b9120de6c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1836]:
+                      - img
+                - generic [ref=e1837]:
+                  - generic [ref=e1838]:
+                    - link "Mediatek MT7921LEN Wi-Fi 6 AW-XB468NF M.2 BT 5.2 802.11ax Card Genuine Opens in a new window or tab" [ref=e1839] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/326633516043?_skw=MT7981+wifi6+router+openwrt&epid=20069648580&itmmeta=01KT5J03B8GT400N7PJ5314YJK&hash=item4c0cdfec0b%3Ag%3AJ6oAAeSwDDBoSiXj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAmo6H14Kpkqb7fN8w2%2FJykup6DjsI0GzLzm1k3YnQKtnNjTZy9C%2BzF4rLui%2FDTv2JgMOJKzG5Za%2Fdakycd6Ij805mCo2i58PPSR7Yir8YUXfZEZGF3VFZ6UBD0aMGwtGU0YnNQpl%2FTrvFvZpE7A%2FEpsGlSOfrQj%2F7LCWNCf%2FDeNodA9Gt07vJnCAQDo48oxNIA3ywXL2gRxz%2BIVYQ6%2BoYYPqiIGB4Hi5U4DxztXQZpFa209TdV8S9fpKRV9GirUScpS85pxn9yt5hKG0xPkbAH%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "Mediatek MT7921LEN Wi-Fi 6 AW-XB468NF M.2 BT 5.2 802.11ax Card Genuine Opens in a new window or tab" [level=3] [ref=e1840]:
+                        - text: Mediatek MT7921LEN Wi-Fi 6 AW-XB468NF M.2 BT 5.2 802.11ax Card Genuine
+                        - generic [ref=e1841]: Opens in a new window or tab
+                    - generic [ref=e1843]: Pre-Owned
+                  - generic [ref=e1844]:
+                    - generic [ref=e1845]:
+                      - generic [ref=e1846]: $14.99
+                      - generic [ref=e1847]: Buy It Now
+                      - generic [ref=e1848]: Free delivery in 2-4 days
+                      - generic [ref=e1849]: Located in United States
+                      - generic [ref=e1850]: Free returns
+                    - generic [ref=e1854]:
+                      - img "Top Rated Plus" [ref=e1855]:
+                        - img
+                      - generic [ref=e1856]: demtar 99.9% positive (2.2K)
+                  - heading [level=6] [ref=e1861]: derosnopS
+            - listitem [ref=e1862]:
+              - generic [ref=e1863]:
+                - generic [ref=e1865]:
+                  - link "Netduma R1 Router, Non-DumaOS firmware." [ref=e1867] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/194967830951?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8YCM3MZAZCP9S149T&hash=item2d64fd01a7%3Ag%3AGRkAAOSwMHZiUiHb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BQ%2BW9qc5pkJlzlyNZ2l96eSpDF7NJlyAtYMUNP0mU9X6w2Sa%2BrNje9Ku1NaInELogb4tewKRC2fQDg73fQITPK6RUjgt1fcFd5Tp1lvkptuqcxO7t3FTk%2BOZMcLiJD8BsU3F0qMaZJqqOThaePtNgfJKDQ6rp26J2PyB2LXlTPQMqCgAPKYyszzHk6JVSq29gj9kcHm5ugDvmWoSyWCZQZ0QegDb4C1Opx61kfLARHJZSIXYdQBKinanKswBzl7k6V5Jvi%2FCAhESN0QX%2FVjMZwg67FC2iKxYHq8yFQf78OY47RnLA685NkdcecxPovQ4%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "Netduma R1 Router, Non-DumaOS firmware."
+                  - link "watch Netduma R1 Router, Non-DumaOS firmware." [ref=e1870] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=194967830951&pt=null&srt=01000b000000503f75fd382455660482d558d454daa2d54c960ee02772d5faea6260f4104bddfc7a24261d0f34530c4f9e97b99cab0965db35bd398666e2a646380b46a398dbc8a0ca1578b3dfad3570e7f5b57af64008&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1871]:
+                      - img
+                - generic [ref=e1872]:
+                  - generic [ref=e1873]:
+                    - link "Netduma R1 Router, Non-DumaOS firmware. Opens in a new window or tab" [ref=e1874] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/194967830951?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8YCM3MZAZCP9S149T&hash=item2d64fd01a7%3Ag%3AGRkAAOSwMHZiUiHb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BQ%2BW9qc5pkJlzlyNZ2l96eSpDF7NJlyAtYMUNP0mU9X6w2Sa%2BrNje9Ku1NaInELogb4tewKRC2fQDg73fQITPK6RUjgt1fcFd5Tp1lvkptuqcxO7t3FTk%2BOZMcLiJD8BsU3F0qMaZJqqOThaePtNgfJKDQ6rp26J2PyB2LXlTPQMqCgAPKYyszzHk6JVSq29gj9kcHm5ugDvmWoSyWCZQZ0QegDb4C1Opx61kfLARHJZSIXYdQBKinanKswBzl7k6V5Jvi%2FCAhESN0QX%2FVjMZwg67FC2iKxYHq8yFQf78OY47RnLA685NkdcecxPovQ4%3D%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "Netduma R1 Router, Non-DumaOS firmware. Opens in a new window or tab" [level=3] [ref=e1875]:
+                        - text: Netduma R1 Router, Non-DumaOS firmware.
+                        - generic [ref=e1876]: Opens in a new window or tab
+                    - generic [ref=e1878]: Pre-Owned
+                  - generic [ref=e1879]:
+                    - generic [ref=e1880]:
+                      - generic [ref=e1881]: $99.00
+                      - generic [ref=e1882]: Buy It Now
+                      - generic [ref=e1883]: Free delivery
+                      - generic [ref=e1884]: Located in United States
+                    - generic [ref=e1886]: darbe878899 0% positive (4)
+                  - heading [level=6] [ref=e1891]: derosnopS
+            - listitem [ref=e1892]:
+              - generic [ref=e1893]:
+                - generic [ref=e1895]:
+                  - link "MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN" [ref=e1897] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/334959497322?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8FNAQ7WRWGMBWYDA7&hash=item4dfd24506a%3Ag%3AfdoAAOSw3otku6Rk&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBf3AX2wK2pjTcGTJzjHnG8yhyKS%2FA8992HMiwnystLf%2BnyeClGOWUb7b0vjTGilAJCzXudycyXiy1BfUCRsue55MM2kQ8I6p0eNEmtesva7lVCPfo8R52Cjs2VkEmhtwlKUp9%2FBBHJ9X%2B2arXWc2TiE%2FBM%2FNHFwn%2FWGfiI7XLLeoUS7bsYvI14rJIiOnYmfkusrBjIFC5JVijGXczgWup8ijhBc%2Br51mhjZ8BlCsXkNUtoIPwo6eDgC7MYfNwxVYja8T6x4yd%2FiOZMRwmLvBCS%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                    - img "MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN"
+                  - link "watch MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN" [ref=e1900] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=334959497322&pt=null&srt=01000b00000050bce5a3a12ddef0bf69678d3eb73d4813a3e6800f2d3392708bfbe6ac8b76251ddc10a63292670064a23f0b899bde9799c6db4bfccab0e5dccd9645d6fc53d6ddb5c5004a30922d1165a27d77bf738ae5&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+                    - generic [ref=e1901]:
+                      - img
+                  - button "Open product gallery MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN" [ref=e1903]:
+                    - img
+                - generic [ref=e1904]:
+                  - generic [ref=e1905]:
+                    - link "MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN Opens in a new window or tab" [ref=e1906] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/334959497322?_skw=MT7981+wifi6+router+openwrt&itmmeta=01KT5J03B8FNAQ7WRWGMBWYDA7&hash=item4dfd24506a%3Ag%3AfdoAAOSw3otku6Rk&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBf3AX2wK2pjTcGTJzjHnG8yhyKS%2FA8992HMiwnystLf%2BnyeClGOWUb7b0vjTGilAJCzXudycyXiy1BfUCRsue55MM2kQ8I6p0eNEmtesva7lVCPfo8R52Cjs2VkEmhtwlKUp9%2FBBHJ9X%2B2arXWc2TiE%2FBM%2FNHFwn%2FWGfiI7XLLeoUS7bsYvI14rJIiOnYmfkusrBjIFC5JVijGXczgWup8ijhBc%2Br51mhjZ8BlCsXkNUtoIPwo6eDgC7MYfNwxVYja8T6x4yd%2FiOZMRwmLvBCS%7Ctkp%3ABk9SR-S1gLLRZw&LH_ItemCondition=3000
+                      - heading "MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN Opens in a new window or tab" [level=3] [ref=e1907]:
+                        - text: MicroTik Routerboard 5xGigabit+5xFast Ethernet+1xSFP ports - RB2011UiAS-IN
+                        - generic [ref=e1908]: Opens in a new window or tab
+                    - generic [ref=e1910]: Pre-Owned
+                  - generic [ref=e1911]:
+                    - generic [ref=e1912]:
+                      - generic [ref=e1913]: $57.27
+                      - generic [ref=e1914]: Buy It Now
+                      - generic [ref=e1915]: +$33.80 delivery
+                      - generic [ref=e1916]: Located in Australia
+                    - generic [ref=e1918]: thlntct00 96.6% positive (310)
+                  - heading [level=6] [ref=e1923]: derosnopS
+            - listitem [ref=e1924]:
+              - link "Tell us what you think - opens in new window or tab" [ref=e1926] [cursor=pointer]:
+                - /url: https://connect.ebay.com/srv/survey/a/search.srp.node
+                - text: Tell us what you think
+                - generic [ref=e1927]: "- opens in new window or tab"
+      - generic [ref=e1929]:
+        - generic [ref=e1930]:
+          - heading "Related Searches" [level=2] [ref=e1931]
+          - group "Related Searches" [ref=e1934]:
+            - generic [ref=e1935]:
+              - button "Go to previous slide - Related Searches" [disabled] [ref=e1936]:
+                - img
+              - list [ref=e1938]:
+                - listitem [ref=e1939]:
+                  - link "eero pro 6e" [ref=e1941] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=eero+pro+6e
+                    - generic [ref=e1942]: eero pro 6e
+                - listitem [ref=e1943]:
+                  - link "router" [ref=e1945] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+router
+                    - generic [ref=e1946]: router
+                - listitem [ref=e1947]:
+                  - link "wifi 7 router" [ref=e1949] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+wifi+7+router
+                    - generic [ref=e1950]: wifi 7 router
+                - listitem [ref=e1951]:
+                  - link "eero pro 6" [ref=e1953] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+eero+pro+6
+                    - generic [ref=e1954]: eero pro 6
+                - listitem [ref=e1955]:
+                  - link "eero max 7" [ref=e1957] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+eero+max+7
+                    - generic [ref=e1958]: eero max 7
+                - listitem [ref=e1959]:
+                  - link "eero" [ref=e1961] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+eero
+                    - generic [ref=e1962]: eero
+                - listitem [ref=e1963]:
+                  - link "tp link deco" [ref=e1965] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+tp+link+deco
+                    - generic [ref=e1966]: tp link deco
+                - listitem [ref=e1967]:
+                  - link "eero 6" [ref=e1969] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+eero+6
+                    - generic [ref=e1970]: eero 6
+                - listitem [ref=e1971]:
+                  - link "wifi router" [ref=e1973] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+wifi+router
+                    - generic [ref=e1974]: wifi router
+                - listitem [ref=e1975]:
+                  - link [ref=e1977] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+asus+router
+                    - generic [ref=e1978]: asus router
+                - listitem [ref=e1979]:
+                  - link [ref=e1981] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+google+wifi
+                    - generic [ref=e1982]: google wifi
+                - listitem [ref=e1983]:
+                  - link [ref=e1985] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?LH_ItemCondition=3000&_nkw=+eero+6+plus
+                    - generic [ref=e1986]: eero 6 plus
+              - button "Go to next slide - Related Searches" [ref=e1987]:
+                - img
+        - img "Busy" [ref=e1990]:
+          - img
+  - generic [ref=e1991]:
+    - generic [ref=e1992] [cursor=pointer]:
+      - generic [ref=e1993]: Feedback
+      - link "Leave feedback about your eBay search experience - opens in new window or tab":
+        - /url: https://www.ebay.com/srv/survey/a/search.srp.node?ctx=url%3D%2Fsch%2Fi.html%3F_nkw%3DMT7981%2Bwifi6%2Brouter%2Bopenwrt%26LH_ItemCondition%3D3000
+        - generic [ref=e1995]: Leave feedback about your eBay search experience - opens in new window or tab
+    - generic [ref=e1997]:
+      - contentinfo [ref=e1998]:
+        - list [ref=e1999]:
+          - listitem [ref=e2000]:
+            - link "About eBay" [ref=e2001] [cursor=pointer]:
+              - /url: https://www.ebayinc.com
+          - listitem [ref=e2002]:
+            - link "Announcements" [ref=e2003] [cursor=pointer]:
+              - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+          - listitem [ref=e2004]:
+            - link "Community" [ref=e2005] [cursor=pointer]:
+              - /url: https://community.ebay.com
+          - listitem [ref=e2006]:
+            - link "Security Center" [ref=e2007] [cursor=pointer]:
+              - /url: https://pages.ebay.com/securitycenter/index.html
+          - listitem [ref=e2008]:
+            - link "Seller Center" [ref=e2009] [cursor=pointer]:
+              - /url: https://www.ebay.com/sellercenter
+          - listitem [ref=e2010]:
+            - link "Policies" [ref=e2011] [cursor=pointer]:
+              - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+          - listitem [ref=e2012]:
+            - link "Affiliates" [ref=e2013] [cursor=pointer]:
+              - /url: https://partnernetwork.ebay.com/
+          - listitem [ref=e2014]:
+            - link "Product Safety Tips" [ref=e2015] [cursor=pointer]:
+              - /url: https://pages.ebay.com/safetytips
+          - listitem [ref=e2016]:
+            - link "Help & Contact" [ref=e2017] [cursor=pointer]:
+              - /url: https://www.ebay.com/help/home
+          - listitem [ref=e2018]:
+            - link "Site Map" [ref=e2019] [cursor=pointer]:
+              - /url: https://pages.ebay.com/sitemap.html
+        - generic [ref=e2020]:
+          - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+          - link "Accessibility" [ref=e2021] [cursor=pointer]:
+            - /url: https://www.ebayinc.com/accessibility/
+          - text: ","
+          - link "User Agreement" [ref=e2022] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+          - text: ","
+          - link "Privacy" [ref=e2023] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+          - text: ","
+          - link "Consumer Health Data" [ref=e2024] [cursor=pointer]:
+            - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+          - text: ","
+          - link "Payments Terms of Use" [ref=e2025] [cursor=pointer]:
+            - /url: https://pages.ebay.com/payment/2.0/terms.html
+          - text: ","
+          - link "Cookies" [ref=e2026] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+          - text: ","
+          - link "CA Privacy Notice" [ref=e2027] [cursor=pointer]:
+            - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+          - text: ","
+          - link "Your Privacy Choices" [ref=e2028] [cursor=pointer]:
+            - /url: https://www.ebay.com/adchoice/ccpa
+          - text: and
+          - link "AdChoice" [ref=e2029] [cursor=pointer]:
+            - /url: https://www.ebay.com/adchoice
+            - text: AdChoice
+            - img
+      - button "Scroll to top" [ref=e2030] [cursor=pointer]:
+        - img
+    - generic [ref=e2032]:
+      - link "*Learn about pricing" [ref=e2034] [cursor=pointer]:
+        - /url: https://pages.ebay.com/buy/popup/pricing.html
+      - generic [ref=e2035]: "This page was last updated: Jun-2 18:36. Number of bids and bid amounts may be slightly out of date. See each listing for international shipping options and costs."
+  - img
+  - img [ref=e2044]

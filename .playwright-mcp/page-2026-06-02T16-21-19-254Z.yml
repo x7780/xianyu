@@ -1,0 +1,778 @@
+- generic [active] [ref=e1]:
+  - img
+  - img
+  - banner [ref=e42]:
+    - link "Skip to main content" [ref=e44] [cursor=pointer]:
+      - /url: "#mainContent"
+    - navigation [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e48]:
+          - text: Hello.
+          - link "Sign in" [ref=e49] [cursor=pointer]:
+            - /url: https://signin.ebay.co.uk/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+          - generic [ref=e50]:
+            - text: or
+            - link "register" [ref=e51] [cursor=pointer]:
+              - /url: https://signup.ebay.co.uk/pa/crte?ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+        - link "Collection" [ref=e53] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/localcollection
+        - link "Deals" [ref=e55] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/deals
+        - link "Fashion" [ref=e57] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/b/bn_7000259675
+        - link "Help & Contact" [ref=e59] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/help/home
+      - generic [ref=e60]:
+        - generic [ref=e62]:
+          - link "Sell" [ref=e63] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/sl/sell
+            - generic [ref=e64]: Sell
+            - img
+          - button "Expand Sell menu" [ref=e65]
+        - generic [ref=e66]:
+          - link "Watchlist" [ref=e67] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/mye/myebay/watchlist
+            - generic [ref=e68]: Watchlist
+            - img
+          - button "Expand Watchlist" [ref=e69]
+        - generic [ref=e70]:
+          - link "My eBay" [ref=e71] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/mys/home?source=GBH
+            - generic [ref=e72]: My eBay
+            - img
+          - button "Expand My eBay" [ref=e73]
+        - button "Notifications" [ref=e76] [cursor=pointer]:
+          - img
+          - generic [ref=e77]: Notifications
+        - generic [ref=e79]:
+          - link "Your shopping basket contains 0 items" [ref=e80] [cursor=pointer]:
+            - /url: https://cart.ebay.co.uk
+            - generic "Your shopping basket contains 0 items" [ref=e81]:
+              - img
+          - button "Expand Basket" [ref=e82]
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - link "eBay Home" [ref=e85] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk
+          - img "eBay Home" [ref=e86]
+        - button "Shop by category" [ref=e94] [cursor=pointer]:
+          - generic [ref=e95]: Shop by category
+          - img
+      - generic [ref=e96]:
+        - status [ref=e97]
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - combobox "Search for anything" [ref=e101]: CMCC RAX3000M router
+            - img
+          - combobox "Select a category for search" [ref=e102]:
+            - option "All Categories" [selected]
+            - option "Antiques"
+            - option "Art"
+            - option "Baby"
+            - option "Books, Comics & Magazines"
+            - option "Business, Office & Industrial"
+            - option "Cameras & Photography"
+            - option "Cars, Motorcycles & Vehicles"
+            - option "Clothes, Shoes & Accessories"
+            - option "Coins"
+            - option "Collectables"
+            - option "Computers/Tablets & Networking"
+            - option "Crafts"
+            - option "Dolls & Bears"
+            - option "Events Tickets"
+            - option "Everything Else"
+            - option "Films & TV"
+            - option "Garden & Patio"
+            - option "Health & Beauty"
+            - option "Holidays & Travel"
+            - option "Home, Furniture & DIY"
+            - option "Jewellery & Watches"
+            - option "Mobile Phones & Communication"
+            - option "Music"
+            - option "Musical Instruments & DJ Equipment"
+            - option "Pet Supplies"
+            - option "Pottery, Ceramics & Glass"
+            - option "Property"
+            - option "Sound & Vision"
+            - option "Sporting Goods"
+            - option "Sports Memorabilia"
+            - option "Stamps"
+            - option "Toys & Games"
+            - option "Vehicle Parts & Accessories"
+            - option "Video Games & Consoles"
+            - option "Wholesale & Job Lots"
+        - generic [ref=e103]:
+          - button "Search" [ref=e104] [cursor=pointer]:
+            - generic [ref=e105]: Search
+          - link "Advanced" [ref=e106] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/sch/ebayadvsearch?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0
+  - generic [ref=e107]:
+    - generic [ref=e110]:
+      - generic [ref=e111]:
+        - checkbox "Include description" [ref=e112]
+        - generic [ref=e113]:
+          - img
+      - text: Include description
+    - generic [ref=e115]:
+      - heading "Filter" [level=2] [ref=e116]
+      - list [ref=e117]:
+        - listitem [ref=e118]:
+          - list [ref=e119]:
+            - listitem [ref=e120]:
+              - button "Update your delivery location" [ref=e121] [cursor=pointer]:
+                - generic [ref=e122]: Update your delivery location
+            - listitem [ref=e123]:
+              - group [ref=e124]:
+                - generic "Delivery and collection" [ref=e125] [cursor=pointer]:
+                  - generic [ref=e126]: Delivery and collection
+                  - generic [ref=e127]:
+                    - img
+                - group "delivery" [ref=e130]:
+                  - generic [ref=e131]: delivery
+                  - generic [ref=e133]:
+                    - generic [ref=e135]:
+                      - img
+                    - generic [ref=e136]: Arrives in 1-3 days
+                  - link "Free P&P" [ref=e138] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_FS=1
+                    - generic [ref=e140]:
+                      - img
+                    - generic [ref=e141]: Free P&P
+                  - link "Click & Collect" [ref=e143] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_BOPIS=1
+                    - generic [ref=e145]:
+                      - img
+                    - generic [ref=e146]: Click & Collect
+                  - button "Collection in person" [ref=e148] [cursor=pointer]:
+                    - generic [ref=e150]:
+                      - img
+                    - text: Collection in person
+            - listitem [ref=e151]:
+              - group [ref=e152]:
+                - generic "Price" [ref=e153] [cursor=pointer]:
+                  - generic [ref=e154]: Price
+                  - generic [ref=e155]:
+                    - img
+                - generic [ref=e160]:
+                  - generic [ref=e162]:
+                    - generic [ref=e163]: £
+                    - textbox "Minimum value in £" [ref=e164]:
+                      - /placeholder: Min.
+                  - generic [ref=e165]: to
+                  - generic [ref=e167]:
+                    - generic [ref=e168]: £
+                    - textbox "Maximum value in £" [ref=e169]:
+                      - /placeholder: Max.
+                  - button "Submit price range" [disabled] [ref=e170]:
+                    - img
+                  - alert [ref=e171]
+            - listitem [ref=e172]:
+              - group [ref=e173]:
+                - generic "Buying format" [ref=e174] [cursor=pointer]:
+                  - generic [ref=e175]: Buying format
+                  - generic [ref=e176]:
+                    - img
+                - group "format" [ref=e179]:
+                  - generic [ref=e180]: format
+                  - link "All listings" [ref=e182] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc
+                    - generic [ref=e184]:
+                      - img
+                    - generic [ref=e185]: All listings
+                  - link "Auction" [ref=e187] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_Auction=1
+                    - generic [ref=e189]:
+                      - img
+                    - generic [ref=e190]: Auction
+                  - link "Buy it now" [ref=e192] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_BIN=1
+                    - generic [ref=e194]:
+                      - img
+                    - generic [ref=e195]: Buy it now
+                  - link "Accepts Offers" [ref=e197] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_BO=1
+                    - generic [ref=e199]:
+                      - img
+                    - generic [ref=e200]: Accepts Offers
+            - listitem [ref=e201]:
+              - group [ref=e202]:
+                - generic "Item location" [ref=e203] [cursor=pointer]:
+                  - generic [ref=e204]: Item location
+                  - generic [ref=e205]:
+                    - img
+                - group "location" [ref=e208]:
+                  - generic [ref=e209]: location
+                  - link "Default" [ref=e211] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_PrefLoc=98
+                    - generic [ref=e213]:
+                      - img
+                    - generic [ref=e214]: Default
+                  - button "Within 25 miles" [ref=e216] [cursor=pointer]:
+                    - generic [ref=e218]:
+                      - img
+                    - text: Within 25 miles
+                  - link "UK Only" [ref=e220] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_PrefLoc=1
+                    - generic [ref=e222]:
+                      - img
+                    - generic [ref=e223]: UK Only
+                  - link "European Union" [ref=e225] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_PrefLoc=3
+                    - generic [ref=e227]:
+                      - img
+                    - generic [ref=e228]: European Union
+                  - link "Continental Europe" [ref=e230] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_PrefLoc=6
+                    - generic [ref=e232]:
+                      - img
+                    - generic [ref=e233]: Continental Europe
+                  - link "Worldwide" [ref=e235] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_PrefLoc=2
+                    - generic [ref=e237]:
+                      - img
+                    - generic [ref=e238]: Worldwide
+            - listitem [ref=e239]:
+              - group [ref=e240]:
+                - generic "Show only" [ref=e241] [cursor=pointer]:
+                  - generic [ref=e242]: Show only
+                  - generic [ref=e243]:
+                    - img
+                - generic [ref=e244]:
+                  - group "globals" [ref=e246]:
+                    - generic [ref=e247]: globals
+                    - link "Free returns" [ref=e249] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_FR=1
+                      - generic [ref=e251]:
+                        - img
+                      - generic [ref=e252]: Free returns
+                    - link "Returns accepted" [ref=e254] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_RPA=1
+                      - generic [ref=e256]:
+                        - img
+                      - generic [ref=e257]: Returns accepted
+                    - link "Authorised seller" [ref=e259] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_AS=1
+                      - generic [ref=e261]:
+                        - img
+                      - generic [ref=e262]: Authorised seller
+                    - link "Completed items" [ref=e264] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_Complete=1
+                      - generic [ref=e266]:
+                        - img
+                      - generic [ref=e267]: Completed items
+                    - link "Sold items" [ref=e269] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_Sold=1
+                      - generic [ref=e271]:
+                        - img
+                      - generic [ref=e272]: Sold items
+                    - link "Deals & savings" [ref=e274] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_Savings=1
+                      - generic [ref=e276]:
+                        - img
+                      - generic [ref=e277]: Deals & savings
+                    - link "Brand Outlet" [ref=e279] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_Outlet=1
+                      - generic [ref=e281]:
+                        - img
+                      - generic [ref=e282]: Brand Outlet
+                  - button "see all – Show only – opens window" [ref=e284] [cursor=pointer]:
+                    - generic [ref=e285]: see all
+        - listitem [ref=e286]:
+          - button "More filters..." [ref=e288] [cursor=pointer]:
+            - generic [ref=e289]: More filters...
+    - main [ref=e290]:
+      - generic [ref=e292]:
+        - generic [ref=e294]:
+          - heading "0 results for CMCC RAX3000M router" [level=1] [ref=e296]
+          - button "Save this search CMCC RAX3000M routersearch" [ref=e300] [cursor=pointer]:
+            - generic [ref=e301]:
+              - img
+            - text: Save this search
+        - generic [ref=e303]:
+          - list [ref=e306]:
+            - listitem [ref=e307]:
+              - link "All selected" [ref=e308] [cursor=pointer]:
+                - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_All=1
+                - generic "All selected" [ref=e309]: All
+            - listitem [ref=e310]:
+              - link "Auction" [ref=e311] [cursor=pointer]:
+                - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_Auction=1
+                - generic [ref=e312]: Auction
+            - listitem [ref=e313]:
+              - link "Buy it now" [ref=e314] [cursor=pointer]:
+                - /url: https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router&LH_ItemCondition=3000&_sacat=0&rt=nc&LH_BIN=1
+                - generic [ref=e315]: Buy it now
+          - generic [ref=e316]:
+            - button "Condition" [ref=e318]:
+              - generic [ref=e319]:
+                - generic [ref=e320]: Condition
+                - img
+            - button "Item location" [ref=e322]:
+              - generic [ref=e323]:
+                - generic [ref=e324]: Item location
+                - img
+      - generic [ref=e326]:
+        - listitem [ref=e328]:
+          - generic [ref=e329]:
+            - link [ref=e336] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e337]:
+              - generic [ref=e338]:
+                - link [ref=e339] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e340]: Shop on eBay
+                - generic [ref=e342]: Brand New
+              - generic [ref=e344]:
+                - generic [ref=e345]: $20.00
+                - generic [ref=e346]: or Best Offer
+              - heading [level=6] [ref=e351]: derosnopS
+        - listitem [ref=e353]:
+          - generic [ref=e354]:
+            - link [ref=e361] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e362]:
+              - generic [ref=e363]:
+                - link [ref=e364] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e365]: Shop on eBay
+                - generic [ref=e367]: Brand New
+              - generic [ref=e369]:
+                - generic [ref=e370]: $20.00
+                - generic [ref=e371]: or Best Offer
+              - heading [level=6] [ref=e376]: derosnopS
+        - generic [ref=e377]:
+          - generic [ref=e379]:
+            - generic [ref=e380]:
+              - heading "No exact matches found" [level=3] [ref=e381]
+              - generic [ref=e382]: Save this search to receive email alerts and notifications when new items are available.
+            - button "Save this search CMCC RAX3000M routersearch" [ref=e386] [cursor=pointer]:
+              - generic [ref=e387]:
+                - img
+              - text: Save this search
+          - region [ref=e390]:
+            - generic [ref=e391]:
+              - img
+            - paragraph [ref=e393]: Results matching fewer words
+          - list [ref=e394]:
+            - listitem [ref=e395]:
+              - generic [ref=e396]:
+                - generic [ref=e398]:
+                  - link "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router Dual Band AX 3000" [ref=e403] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/188451606563?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5VYN00YC6C8XV3B71&hash=item2be0975023%3Ag%3AJGwAAeSwo7hpndRH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDiYnsSokn6%2Bxr44veU2HS0UvozyMiktyfUI3NwWA80GqbwTabJaomv3u3bBp8kOAmb7ZhLDizIk9YU954qL0R9ju5nyh4WzPt25oWD1qQUNLJERi5ik8vrqi5G5A8EEw%2F6z7shIwlt0DJzOz%2BJCQhR01%2FfqYGGYhoObyLN%2B%2FMrCBkrQXZ6JlGVRRg3xG3ivtK0%2FA6T7RahaDucVWxO7lp44I9SAp3xr2ecizySUrYcfjOQPQ4d3eAbW%2Fkp%2B7rSHT19a232jKXwORq5bpnNAIEq5gikDcwhbdpOEWAbXIb1A%3D%3D%7Ctkp%3ABFBMnJbxsdFn&LH_ItemCondition=3000
+                    - img "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router Dual Band AX 3000" [ref=e404]
+                  - link "watch NETGEAR Nighthawk AX4 RAX40-100 WiFi Router Dual Band AX 3000" [ref=e407] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=188451606563&pt=null&srt=01000b00000050210e4e9cfcefbea2f1561e56c5a9bf9555cb11b007eef31661067099d408e61fa5d71d5cb8653d12cc8cd4d1dda311975fd7953457e91aa41f2c584b96622dae81d7b598e0cedd6bffbf8cb1a0eb29f3&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e408]:
+                      - img
+                - generic [ref=e409]:
+                  - generic [ref=e410]:
+                    - link "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router Dual Band AX 3000 Opens in a new window or tab" [ref=e411] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/188451606563?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5VYN00YC6C8XV3B71&hash=item2be0975023%3Ag%3AJGwAAeSwo7hpndRH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDiYnsSokn6%2Bxr44veU2HS0UvozyMiktyfUI3NwWA80GqbwTabJaomv3u3bBp8kOAmb7ZhLDizIk9YU954qL0R9ju5nyh4WzPt25oWD1qQUNLJERi5ik8vrqi5G5A8EEw%2F6z7shIwlt0DJzOz%2BJCQhR01%2FfqYGGYhoObyLN%2B%2FMrCBkrQXZ6JlGVRRg3xG3ivtK0%2FA6T7RahaDucVWxO7lp44I9SAp3xr2ecizySUrYcfjOQPQ4d3eAbW%2Fkp%2B7rSHT19a232jKXwORq5bpnNAIEq5gikDcwhbdpOEWAbXIb1A%3D%3D%7Ctkp%3ABFBMnJbxsdFn&LH_ItemCondition=3000
+                      - heading "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router Dual Band AX 3000 Opens in a new window or tab" [level=3] [ref=e412]:
+                        - text: NETGEAR Nighthawk AX4 RAX40-100 WiFi Router Dual Band AX 3000
+                        - generic [ref=e413]: Opens in a new window or tab
+                    - generic [ref=e415]: Pre-owned
+                  - generic [ref=e416]:
+                    - generic [ref=e417]:
+                      - generic [ref=e418]: £31.69
+                      - generic [ref=e419]: or Best Offer
+                      - generic [ref=e420]: +£3.71 delivery
+                    - generic [ref=e422]: freefall511 100% positive (570)
+                  - generic [ref=e425]:
+                    - heading [level=6] [ref=e427]: derosnopS
+                    - button "More options" [ref=e428] [cursor=pointer]:
+                      - img
+            - listitem [ref=e429]:
+              - generic [ref=e430]:
+                - generic [ref=e432]:
+                  - link "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers (A462)" [ref=e437] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/306942665081?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5C3J1FPHVJ4HM481D&hash=item4777356179%3Ag%3ARDcAAeSwqBdqBy9W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDS6qhqOG%2FXRtryZYml5k01QJo66LKs8BibWzPt%2FqHaUoHiCqmyJgq35jlxi8xUDEa0yX3l1%2FSPD0isxAYqzzSlBNXB9fy95QEhutv3g0%2F7d%2FIic2hTa8G7K46VyNskgqEleinZfQwbXlWL4TXtnLMEfmQ%2BwDU%2FOu0eCINuyMDKN3lQsJKcLejCa2c2rEvSF8ZA4pBetbnxWOOf59Gv%2Bkul5JptX43y77ilMPtPep3Q%2BBn%2F17cM8KSBn197EHke3sNNBk2OqDD9n2QNBDap3cRg8Ab1hRk7xh1WXZpIL%2BMqYw%3D%3D%7Ctkp%3ABFBMnJbxsdFn&LH_ItemCondition=3000
+                    - img "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers (A462)" [ref=e438]
+                  - link "watch PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers (A462)" [ref=e441] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=306942665081&pt=null&srt=01000b000000506dd677f506cbb897d84bafec3f99521dc9dab15ab083c96a670a5d9c25f83a02ed1cc0c1ad2e691313193fface5a254da1fadeea5007f3152d36b76d20ed7c1e325dcc51fd1f936576b4e8148e4973db&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e442]:
+                      - img
+                - generic [ref=e443]:
+                  - generic [ref=e444]:
+                    - link "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers (A462) Opens in a new window or tab" [ref=e445] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/306942665081?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5C3J1FPHVJ4HM481D&hash=item4777356179%3Ag%3ARDcAAeSwqBdqBy9W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDS6qhqOG%2FXRtryZYml5k01QJo66LKs8BibWzPt%2FqHaUoHiCqmyJgq35jlxi8xUDEa0yX3l1%2FSPD0isxAYqzzSlBNXB9fy95QEhutv3g0%2F7d%2FIic2hTa8G7K46VyNskgqEleinZfQwbXlWL4TXtnLMEfmQ%2BwDU%2FOu0eCINuyMDKN3lQsJKcLejCa2c2rEvSF8ZA4pBetbnxWOOf59Gv%2Bkul5JptX43y77ilMPtPep3Q%2BBn%2F17cM8KSBn197EHke3sNNBk2OqDD9n2QNBDap3cRg8Ab1hRk7xh1WXZpIL%2BMqYw%3D%3D%7Ctkp%3ABFBMnJbxsdFn&LH_ItemCondition=3000
+                      - heading "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers (A462) Opens in a new window or tab" [level=3] [ref=e446]:
+                        - text: PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers (A462)
+                        - generic [ref=e447]: Opens in a new window or tab
+                    - generic [ref=e449]: Pre-owned
+                  - generic [ref=e450]:
+                    - generic [ref=e451]:
+                      - generic [ref=e452]: £14.99
+                      - generic [ref=e453]: or Best Offer
+                      - generic [ref=e454]: Free delivery
+                      - generic [ref=e455]: Click & Collect
+                    - generic [ref=e457]: oliverthrifter 99.8% positive (5.3K)
+                  - generic [ref=e460]:
+                    - heading "Sponsored Sponsored" [level=6] [ref=e462]: derosnopS
+                    - button "More options" [ref=e463] [cursor=pointer]:
+                      - img
+            - listitem [ref=e464]:
+              - generic [ref=e465]:
+                - generic [ref=e467]:
+                  - link "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Model RAX 40" [ref=e472] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/318043208341?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5465GJT41R5W96T21&hash=item4a0cda3a95%3Ag%3AiDgAAeSwVmposYet&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAg6Xx4OWOIJGi80rogrNgAv79rUG%2BIgU8zjNW1jydXvIacHktldVFbKqs%2F6XF79O0Cz8Ihmfvl8j2NEBOHGifnP716yi9lzUCXUzk99%2FbhuRyM4nCTP5aFx9ZvgvvrlDfzTdvKZmMHbwD0iKYYqBt2Zh1fSegYkMVnZYmECPySamSf%2BwWPXZa5arPHhkVe%2BbRWMz%2Fkq95MdjyhNegxKci5%2FQV6XlSfNAoNRxh1cEBxPgYoq8GgB04MqMgcb7dlaIMdPk5m129l4J7CLPqKAwZvYwXZ6Ue5O%2F8YCRkyL9YlIw%3D%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                    - img "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Model RAX 40" [ref=e473]
+                  - link "watch Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Model RAX 40" [ref=e476] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=318043208341&pt=null&srt=01000b00000050f9b443e5f14273ef7cfeb5613dfae31f67034571b0254c6511491e37ebca3a211ea2d594de58c28afce93c90ad0a2b6d7e8de2b1955658e6b916aa5ca04d193b5d197f67945c130ff07f8355d090bcdc&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e477]:
+                      - img
+                - generic [ref=e478]:
+                  - generic [ref=e479]:
+                    - link "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Model RAX 40 Opens in a new window or tab" [ref=e480] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/318043208341?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5465GJT41R5W96T21&hash=item4a0cda3a95%3Ag%3AiDgAAeSwVmposYet&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAg6Xx4OWOIJGi80rogrNgAv79rUG%2BIgU8zjNW1jydXvIacHktldVFbKqs%2F6XF79O0Cz8Ihmfvl8j2NEBOHGifnP716yi9lzUCXUzk99%2FbhuRyM4nCTP5aFx9ZvgvvrlDfzTdvKZmMHbwD0iKYYqBt2Zh1fSegYkMVnZYmECPySamSf%2BwWPXZa5arPHhkVe%2BbRWMz%2Fkq95MdjyhNegxKci5%2FQV6XlSfNAoNRxh1cEBxPgYoq8GgB04MqMgcb7dlaIMdPk5m129l4J7CLPqKAwZvYwXZ6Ue5O%2F8YCRkyL9YlIw%3D%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                      - heading "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Model RAX 40 Opens in a new window or tab" [level=3] [ref=e481]:
+                        - text: Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Model RAX 40
+                        - generic [ref=e482]: Opens in a new window or tab
+                    - generic [ref=e484]: Pre-owned
+                  - generic [ref=e485]:
+                    - generic [ref=e486]:
+                      - generic [ref=e487]: £36.75
+                      - generic [ref=e488]: Buy It Now
+                      - generic [ref=e489]: +£3.38 delivery
+                    - generic [ref=e491]: pkw1969 100% positive (16)
+                  - generic [ref=e494]:
+                    - heading [level=6] [ref=e496]: derosnopS
+                    - button "More options" [ref=e497] [cursor=pointer]:
+                      - img
+            - listitem [ref=e498]:
+              - generic [ref=e499]:
+                - generic [ref=e501]:
+                  - link "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed" [ref=e506] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/326576964267?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C530RD3QM8ZS3T0K0R&hash=item4c098102ab%3Ag%3A3i8AAOSwVhJoIfqP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDJ%2Ferf%2BVDaWxVDTl%2BgLNONbOBeVpqkwaGJCGh%2FlXumcaOjhUrr4pwb0xzC90Uk8hcp%2FB%2BtBj4F%2F7eIv%2FXVN2Kb5p2P0HkNGTpmHzINFd2PC8qfZ1y15SUQpXNKUyGTEG9TLr3lxH7KvSwZAIKkYAgg2JHjihrui%2B2hKC8OY4JyWYufeXr3o7Q1JYUqGNbAUpzR%2FyYSrqUCx2ZRKlU7M%2B8iHg2fsjB0OOGdLXZ5uJaNai9MOobzpHWTlBbEEMERiI4%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                    - img "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed" [ref=e507]
+                  - link "watch Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed" [ref=e510] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=326576964267&pt=null&srt=01000b000000503068f857f9e761ab257e39feca694cdad6d2eec19cf83be3442427234f5f967f0e3666739caaab6e3a76974923d6c8c48071fe95ca30fbdfe282fb1c788cbd8f077652ac1fb4b6f8f0b07b8c878effcb&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e511]:
+                      - img
+                - generic [ref=e512]:
+                  - generic [ref=e513]:
+                    - link "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed Opens in a new window or tab" [ref=e514] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/326576964267?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C530RD3QM8ZS3T0K0R&hash=item4c098102ab%3Ag%3A3i8AAOSwVhJoIfqP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDJ%2Ferf%2BVDaWxVDTl%2BgLNONbOBeVpqkwaGJCGh%2FlXumcaOjhUrr4pwb0xzC90Uk8hcp%2FB%2BtBj4F%2F7eIv%2FXVN2Kb5p2P0HkNGTpmHzINFd2PC8qfZ1y15SUQpXNKUyGTEG9TLr3lxH7KvSwZAIKkYAgg2JHjihrui%2B2hKC8OY4JyWYufeXr3o7Q1JYUqGNbAUpzR%2FyYSrqUCx2ZRKlU7M%2B8iHg2fsjB0OOGdLXZ5uJaNai9MOobzpHWTlBbEEMERiI4%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                      - heading "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed Opens in a new window or tab" [level=3] [ref=e515]:
+                        - text: Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed
+                        - generic [ref=e516]: Opens in a new window or tab
+                    - generic [ref=e518]: Pre-owned
+                  - generic [ref=e519]:
+                    - generic [ref=e520]:
+                      - generic [ref=e521]: £52.25
+                      - generic [ref=e522]: or Best Offer
+                      - generic [ref=e523]: +£3.38 delivery
+                    - generic [ref=e525]: r_a_payne 100% positive (126)
+                  - generic [ref=e528]:
+                    - heading "Sponsored" [level=6] [ref=e530]: derosnopS
+                    - button "More options" [ref=e531] [cursor=pointer]:
+                      - img
+            - listitem [ref=e532]:
+              - generic [ref=e533]:
+                - generic [ref=e535]:
+                  - link "D-Link M30 Aquila Pro AI AX3000 WiFi 6 router white, with OpenWRT" [ref=e540] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/277476860522?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5224BP1AJPP9CDFQQ&hash=item409ae8e26a%3Ag%3AZFsAAeSw9kto%7EpqB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD8jCja%2FZGYJ6UBqgz1cvqUlmMNsbQMFfiALSrMLd%2Bc%2BjAdp4ZYjUwGE%2FqF%2F6awMRdlh7Ii%2B8A78%2BjR4U2e07UGcLZAhT%2Fv4FFyal9ifYfAWrGAAX3QRmhqtYOvndt%2BT2RcdMryq%2BmiL%2BTZr9bvXBTNAvcdBQzfkZnF%2Be7kil2sqUB%2B0wO6CZEBbMrtG32Z%2FZ%2FzZURxDevnfyw2vev2gtXLpMP1SStgT5Hcw6WSQmu0V9xTDzgX7El33YgUuIq0bCfAZh5D68gOt1nd35OP112HuuDT5lHkJGiuIU0zHiR4nA%3D%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                    - img "D-Link M30 Aquila Pro AI AX3000 WiFi 6 router white, with OpenWRT" [ref=e541]
+                  - link "watch D-Link M30 Aquila Pro AI AX3000 WiFi 6 router white, with OpenWRT" [ref=e544] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=277476860522&pt=null&srt=01000b000000500cfb8ed456a5a9c9425523afb4920c2a9faef9981e016bae4c525df6ec34816b4d024f7d52bd7755a24e52ca88e88a502115d92701313cdc1903b043258ac82db2a6f9db9567b17e7e66d69843303bb3&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e545]:
+                      - img
+                - generic [ref=e546]:
+                  - generic [ref=e547]:
+                    - link "D-Link M30 Aquila Pro AI AX3000 WiFi 6 router white, with OpenWRT Opens in a new window or tab" [ref=e548] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/277476860522?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5224BP1AJPP9CDFQQ&hash=item409ae8e26a%3Ag%3AZFsAAeSw9kto%7EpqB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD8jCja%2FZGYJ6UBqgz1cvqUlmMNsbQMFfiALSrMLd%2Bc%2BjAdp4ZYjUwGE%2FqF%2F6awMRdlh7Ii%2B8A78%2BjR4U2e07UGcLZAhT%2Fv4FFyal9ifYfAWrGAAX3QRmhqtYOvndt%2BT2RcdMryq%2BmiL%2BTZr9bvXBTNAvcdBQzfkZnF%2Be7kil2sqUB%2B0wO6CZEBbMrtG32Z%2FZ%2FzZURxDevnfyw2vev2gtXLpMP1SStgT5Hcw6WSQmu0V9xTDzgX7El33YgUuIq0bCfAZh5D68gOt1nd35OP112HuuDT5lHkJGiuIU0zHiR4nA%3D%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                      - heading "D-Link M30 Aquila Pro AI AX3000 WiFi 6 router white, with OpenWRT Opens in a new window or tab" [level=3] [ref=e549]:
+                        - text: D-Link M30 Aquila Pro AI AX3000 WiFi 6 router white, with OpenWRT
+                        - generic [ref=e550]: Opens in a new window or tab
+                    - generic [ref=e552]: Pre-owned
+                  - generic [ref=e553]:
+                    - generic [ref=e554]:
+                      - generic [ref=e555]: £46.59
+                      - generic [ref=e556]: or Best Offer
+                      - generic [ref=e557]: Free delivery
+                      - generic [ref=e558]: 5 watchers
+                    - generic [ref=e560]: jwjwolf 100% positive (242)
+                  - generic [ref=e563]:
+                    - heading [level=6] [ref=e565]: derosnopS
+                    - button "More options" [ref=e566] [cursor=pointer]:
+                      - img
+            - listitem [ref=e567]:
+              - generic [ref=e568]:
+                - generic [ref=e570]:
+                  - link "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e575] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/402784416868?_skw=CMCC+RAX3000M+router&epid=24043323041&itmmeta=01KT5HW9C5AZTJC1A617GEK64D&hash=item5dc7d27464%3Ag%3AjZ4AAOSwQMlgbxIy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAfJJe%2FlSP7r48GpUfiYwRJ2bS3t5vn9yEfNZsYI%2Fvit%2BycbOzza5nkjNOrdVDDM8naZ4HuBJwa1RpkMVYJ9need0WxKdLhFYm12JtMMubG9WTbUYmxEk985zfiia9zkeqHaKstk9HaFHn%2BPciprTFHhQ1%2Bfs1ximdRJ75Y%2FWOMhARyJBkgYATZdtBkE6RqtjBTS0BZ44PdS5XhRlmybxW%2FJIZbugOuRF8HDDj3Pe792qqHRms13fhSVyNZ4ptWiRqv%2FaodehQQnEyDrhWbebrdCDXLr7zNezl8wlfg44Vn2w%3D%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                    - img "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e576]
+                  - link "watch NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e579] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=402784416868&pt=null&srt=01000b000000505ad1890d50d7cfadbb2140e4d97143eb4eaed8fdad13b497e4a66fa36c1f1fe9de42df8e489b7b7322e45294350b02e7b16754cd4ccbc6dfaa93c936633b993a7c6622e117dba2aae385788848947e7f&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e580]:
+                      - img
+                - generic [ref=e581]:
+                  - generic [ref=e582]:
+                    - link "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band Opens in a new window or tab" [ref=e583] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/402784416868?_skw=CMCC+RAX3000M+router&epid=24043323041&itmmeta=01KT5HW9C5AZTJC1A617GEK64D&hash=item5dc7d27464%3Ag%3AjZ4AAOSwQMlgbxIy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAfJJe%2FlSP7r48GpUfiYwRJ2bS3t5vn9yEfNZsYI%2Fvit%2BycbOzza5nkjNOrdVDDM8naZ4HuBJwa1RpkMVYJ9need0WxKdLhFYm12JtMMubG9WTbUYmxEk985zfiia9zkeqHaKstk9HaFHn%2BPciprTFHhQ1%2Bfs1ximdRJ75Y%2FWOMhARyJBkgYATZdtBkE6RqtjBTS0BZ44PdS5XhRlmybxW%2FJIZbugOuRF8HDDj3Pe792qqHRms13fhSVyNZ4ptWiRqv%2FaodehQQnEyDrhWbebrdCDXLr7zNezl8wlfg44Vn2w%3D%3D%7Ctkp%3ABk9SR5yW8bHRZw&LH_ItemCondition=3000
+                      - heading "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band Opens in a new window or tab" [level=3] [ref=e584]:
+                        - text: NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band
+                        - generic [ref=e585]: Opens in a new window or tab
+                    - generic [ref=e587]: Pre-owned
+                    - link "4.5 out of 5 stars. 4 product ratings - NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e590] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/p/24043323041?iid=402784416868#UserReviews
+                      - generic [ref=e591]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e592]: 4.5 out of 5 stars.
+                      - generic [ref=e593]:
+                        - generic [ref=e594]: 4 product ratings
+                        - generic [ref=e595]: "- NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band"
+                  - generic [ref=e596]:
+                    - generic [ref=e597]:
+                      - generic [ref=e598]: £144.95
+                      - generic [ref=e599]: or Best Offer
+                      - generic [ref=e600]: Free delivery in 2 days
+                      - generic [ref=e601]: Get it by Fri 5 Jun
+                      - generic [ref=e602]: Click & Collect
+                    - generic [ref=e604]: peterpanspartsshop 99.7% positive (1.6K)
+                  - generic [ref=e607]:
+                    - heading [level=6] [ref=e609]: derosnopS
+                    - button "More options" [ref=e610] [cursor=pointer]:
+                      - img
+            - listitem [ref=e611]:
+              - generic [ref=e612]:
+                - generic [ref=e614]:
+                  - link "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed" [ref=e619] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/327187241042?_skw=CMCC+RAX3000M+router&epid=21037689665&itmmeta=01KT5HW9C5YYAJAYABC1BHWFPS&hash=item4c2de11852%3Ag%3ACX4AAOSweQ9givsD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xACn0RzCfmRQp%2BCueuINKm%2BEk%2Bn1f2MlJS9351oBjEJ9zAPXdhSaPK%2FYsAIGh%2FYzvl56EfIbNYCYxIf4LbrkPT0akVDfEAnq8n43nKW%2BXS8SRV5k2IXA2wHtWHeRZGiqkrtTP0L1AUpgrRoaoRo5wQwcQZcpIQmsvo1c40UOVQDkMJZ%2BseMvP%2FDymlN7u94ncXMOiXGyOw9lIiaZkBLFAysYEUffp6dyXaGpJSSgy0k26lug3Fs15GDSPZ8LtTkas7VaWWsnd%2BIxS2GVVoW9g24k2YuDJqoiU9BIlvGm1pRdQ%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                    - img "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed" [ref=e620]
+                  - link "watch Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed" [ref=e623] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=327187241042&pt=null&srt=01000b00000050c01d623ec9b221a55caa96ba353cc94972dfa68bb7d88cb96fddb0169d3c82399dee43c24002a22ba165627ffc0982acdd99355298ac3db46428aa729feba0db02029c31d4eb9950097031687ec10a80&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e624]:
+                      - img
+                - generic [ref=e625]:
+                  - generic [ref=e626]:
+                    - link "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed Opens in a new window or tab" [ref=e627] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/327187241042?_skw=CMCC+RAX3000M+router&epid=21037689665&itmmeta=01KT5HW9C5YYAJAYABC1BHWFPS&hash=item4c2de11852%3Ag%3ACX4AAOSweQ9givsD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xACn0RzCfmRQp%2BCueuINKm%2BEk%2Bn1f2MlJS9351oBjEJ9zAPXdhSaPK%2FYsAIGh%2FYzvl56EfIbNYCYxIf4LbrkPT0akVDfEAnq8n43nKW%2BXS8SRV5k2IXA2wHtWHeRZGiqkrtTP0L1AUpgrRoaoRo5wQwcQZcpIQmsvo1c40UOVQDkMJZ%2BseMvP%2FDymlN7u94ncXMOiXGyOw9lIiaZkBLFAysYEUffp6dyXaGpJSSgy0k26lug3Fs15GDSPZ8LtTkas7VaWWsnd%2BIxS2GVVoW9g24k2YuDJqoiU9BIlvGm1pRdQ%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                      - heading "Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed Opens in a new window or tab" [level=3] [ref=e628]:
+                        - text: Netgear Nighthawk AX4 4-Stream WiFi 6 Router AX3000 Wireless Speed
+                        - generic [ref=e629]: Opens in a new window or tab
+                    - generic [ref=e631]: Pre-owned
+                  - generic [ref=e632]:
+                    - generic [ref=e633]:
+                      - generic [ref=e634]: £128.34
+                      - generic [ref=e635]: or Best Offer
+                      - generic [ref=e636]: +£35.75 delivery
+                      - generic [ref=e637]: from United States
+                    - generic [ref=e639]: joesge 99.8% positive (22K)
+                  - generic [ref=e642]:
+                    - heading "Sponsored" [level=6] [ref=e644]: derosnopS
+                    - button "More options" [ref=e645] [cursor=pointer]:
+                      - img
+            - listitem [ref=e646]:
+              - generic [ref=e647]:
+                - generic [ref=e649]:
+                  - link "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack" [ref=e654] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/298289258130?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5PNBTTRFDWP5J87GC&hash=item45736cde92%3Ag%3AVqEAAeSwiY5p84VG&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCDWLa%2FMHIkwFIYs7aCVLP0%2BaxtMJUOJbFF%2BRQaBAckEKPOoODtm0MSQLs1AwQRNSbBqmN1zPDj5y8631LEMf61Z2YNEszuCcgNDQPtIaMCyyNHsm7v2qdqoV1%2BKPyibRCF5O37eBdSrfwbII38w207mzy7lpl8oGFjax2hlPxJaEA3Wt0JEH86RZ0y%2BCsDB3G30%2FzXrwVxPpvre9XLLKTjTqR97IEo6crcw7puby76EiGx6NU2EoTGZtBkfH%2B%2F5YE%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                    - img "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack" [ref=e655]
+                  - link "watch Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack" [ref=e658] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=298289258130&pt=null&srt=01000b00000050deba6a46c0300f91db3ca838574d135a993e12c29e26da0ea2c6f146dd36ebf49d0d37c22e77901ab39e611ff3562ec18b05f6f7e59a39e0906214291560a563fc6f78d5775f6ccd09d6f6e8cbff21da&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e659]:
+                      - img
+                - generic [ref=e660]:
+                  - generic [ref=e661]:
+                    - link "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack Opens in a new window or tab" [ref=e662] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/298289258130?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5PNBTTRFDWP5J87GC&hash=item45736cde92%3Ag%3AVqEAAeSwiY5p84VG&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCDWLa%2FMHIkwFIYs7aCVLP0%2BaxtMJUOJbFF%2BRQaBAckEKPOoODtm0MSQLs1AwQRNSbBqmN1zPDj5y8631LEMf61Z2YNEszuCcgNDQPtIaMCyyNHsm7v2qdqoV1%2BKPyibRCF5O37eBdSrfwbII38w207mzy7lpl8oGFjax2hlPxJaEA3Wt0JEH86RZ0y%2BCsDB3G30%2FzXrwVxPpvre9XLLKTjTqR97IEo6crcw7puby76EiGx6NU2EoTGZtBkfH%2B%2F5YE%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                      - heading "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack Opens in a new window or tab" [level=3] [ref=e663]:
+                        - text: Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack
+                        - generic [ref=e664]: Opens in a new window or tab
+                    - generic [ref=e666]: Pre-owned
+                  - generic [ref=e667]:
+                    - generic [ref=e668]:
+                      - generic [ref=e669]: £62.58
+                      - generic [ref=e670]: or Best Offer
+                      - generic [ref=e671]: +£2.94 delivery
+                    - generic [ref=e673]: millkay11 100% positive (118)
+                  - generic [ref=e676]:
+                    - heading [level=6] [ref=e678]: derosnopS
+                    - button "More options" [ref=e679] [cursor=pointer]:
+                      - img
+            - listitem [ref=e680]:
+              - generic [ref=e681]:
+                - generic [ref=e683]:
+                  - link "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack" [ref=e688] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/267671291736?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5MQBA4HK8DPBA9AKY&hash=item3e5273c758%3Ag%3AoXoAAeSwI3ZqCD8N&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDwkoRIrHK1ceXcLZUKTT%2F97pE4EEgqVXk93EugAO9qfflwxVW6JeOz1ofbUj2lU94TnhUWWR9LwbC4rA4WwvjikzgSyvtNmHjnfm8lWwUateT1o3w3%2FOsK3Tm0rkz5BGY5dkNsihpj8%2BP7335h5rcvznHwHLOEGIUzGj2AY3KcghuiBZCEtlQ0KNxb70Xj627Qjki9ToRoGaaAPXmtDJTF39kd1S%2B4iVC09fSOeAy7HYvxASOghu9MiUXX4PrFB25o1Qt%2B%2FJSTXg0KLOYRH90eX46XH7MBeSJQqam2Wc9jig%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                    - img "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack" [ref=e689]
+                  - link "watch Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack" [ref=e692] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=267671291736&pt=null&srt=01000b000000507f59f5c3b1d7ffa1d1b67646e78a12fdc49570d3069dd9fafbfa9e28acc254d5e4e2ba59524840f0932fa8f31891a171d991f143fcf8caf60eba3096f2deb6d85401630fc25e1133944fcd78db93d3fd&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e693]:
+                      - img
+                - generic [ref=e694]:
+                  - generic [ref=e695]:
+                    - link "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack Opens in a new window or tab" [ref=e696] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/267671291736?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5MQBA4HK8DPBA9AKY&hash=item3e5273c758%3Ag%3AoXoAAeSwI3ZqCD8N&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDwkoRIrHK1ceXcLZUKTT%2F97pE4EEgqVXk93EugAO9qfflwxVW6JeOz1ofbUj2lU94TnhUWWR9LwbC4rA4WwvjikzgSyvtNmHjnfm8lWwUateT1o3w3%2FOsK3Tm0rkz5BGY5dkNsihpj8%2BP7335h5rcvznHwHLOEGIUzGj2AY3KcghuiBZCEtlQ0KNxb70Xj627Qjki9ToRoGaaAPXmtDJTF39kd1S%2B4iVC09fSOeAy7HYvxASOghu9MiUXX4PrFB25o1Qt%2B%2FJSTXg0KLOYRH90eX46XH7MBeSJQqam2Wc9jig%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                      - heading "Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack Opens in a new window or tab" [level=3] [ref=e697]:
+                        - text: Amazon eero 6+ Plus Mesh WiFi 6 Router 1.0 GBPS Ethernet Up To 140 m² | 1-Pack
+                        - generic [ref=e698]: Opens in a new window or tab
+                    - generic [ref=e700]: Pre-owned
+                  - generic [ref=e701]:
+                    - generic [ref=e702]:
+                      - generic [ref=e703]: £103.92
+                      - generic [ref=e704]: or Best Offer
+                      - generic [ref=e705]: +£2.94 delivery
+                    - generic [ref=e707]: gcwpbay 100% positive (290)
+                  - generic [ref=e710]:
+                    - heading "Sponsored" [level=6] [ref=e712]: derosnopS
+                    - button "More options" [ref=e713] [cursor=pointer]:
+                      - img
+            - listitem [ref=e714]:
+              - generic [ref=e715]:
+                - generic [ref=e717]:
+                  - link "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e722] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/264946854342?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5N00AR3J8N6ZYQ1Z0&hash=item3db01029c6%3Ag%3AelcAAOSw8FVfuR-I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBazOlPNuuqzJx3REn2dvAW39R44xO8NnU1hcxAm5Ten6LVY7X8ojgv9u8r4Uks4%2FrA0kYewVx5fO%2Fpi%2F0UPEyzCGg1HhDReNU61%2FaXOg8WgRvl76wsoKVZKJsxr5CrBzQHHXwXok7GUQWkiLcmvvVgYFjYzmTkcJZw1J%2FZz7YFbOVbNOlvaQI6%2FMf4%2FfvJ9NCLalFxq%2BBw388Hf66wcsODqDR31bm5ywdP4vtcd%2BEBUoXwAEYqGdxaNzAR0OqT9hLTMyWEKBQRg%2FHw572UPJMTXxw3S30KdIVSl6UKxQfEJw%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                    - img "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e723]
+                  - link "watch NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band" [ref=e726] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=264946854342&pt=null&srt=01000b000000500f2054cd55892952cb40ca7551439ab6470049bae40d9cf8d64265da8b6330972067e11befcbd5ef1770f89bd3cef48201b35c899c59a52edd8eea7327f6ffc0acf43ffa45acd654c094a06cfd29ca92&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e727]:
+                      - img
+                - generic [ref=e728]:
+                  - generic [ref=e729]:
+                    - link "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band Opens in a new window or tab" [ref=e730] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/264946854342?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5N00AR3J8N6ZYQ1Z0&hash=item3db01029c6%3Ag%3AelcAAOSw8FVfuR-I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBazOlPNuuqzJx3REn2dvAW39R44xO8NnU1hcxAm5Ten6LVY7X8ojgv9u8r4Uks4%2FrA0kYewVx5fO%2Fpi%2F0UPEyzCGg1HhDReNU61%2FaXOg8WgRvl76wsoKVZKJsxr5CrBzQHHXwXok7GUQWkiLcmvvVgYFjYzmTkcJZw1J%2FZz7YFbOVbNOlvaQI6%2FMf4%2FfvJ9NCLalFxq%2BBw388Hf66wcsODqDR31bm5ywdP4vtcd%2BEBUoXwAEYqGdxaNzAR0OqT9hLTMyWEKBQRg%2FHw572UPJMTXxw3S30KdIVSl6UKxQfEJw%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                      - heading "NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band Opens in a new window or tab" [level=3] [ref=e731]:
+                        - text: NETGEAR Nighthawk AX4 RAX40-100 WiFi Router - AX 3000 Dual-band
+                        - generic [ref=e732]: Opens in a new window or tab
+                    - generic [ref=e734]: Pre-owned
+                  - generic [ref=e735]:
+                    - generic [ref=e736]:
+                      - generic [ref=e737]: £89.99
+                      - generic [ref=e738]: Buy It Now
+                      - generic [ref=e739]: Free delivery
+                      - generic [ref=e740]: Click & Collect
+                      - generic [ref=e741]: 10% off with coupon
+                    - generic [ref=e743]: nextechelectronics 99.6% positive (9K)
+                  - generic [ref=e746]:
+                    - heading [level=6] [ref=e748]: derosnopS
+                    - button "More options" [ref=e749] [cursor=pointer]:
+                      - img
+            - listitem [ref=e750]:
+              - generic [ref=e751]:
+                - generic [ref=e753]:
+                  - link "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers" [ref=e758] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/itm/397878018316?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5AMQQS8YKV0CWGZDF&hash=item5ca360c10c%3Ag%3Av6cAAeSwPaJp5aUr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDA%2B3HfR8rpmbUsXEzju2SdxuEH%2B9gTtDUTwfFUYU2qADH2EnwqAPF5wBGRiaFIu18oB3usMmXPKSN57ssf%2BtEvVcxKz3dapVyDNrL4LLkSDKfSv3DcojRTRYn5omBIfrtv8puD6TXLCcdQBDPV0p%2BNVuVDJP5PtdLFXf9hbY%2BD7z0Jpg8RQxltXaP49AdM1FnFDhb7U7NIZpILQM8pFXZY5vfJsCUC%2BDfyqOdpwTUzzEdX6jrDfczoPR40TM6mf0FSO8Z3%2FSL9X5GOPA5la3GcG3lfGSpJciR%2BW5c0GqwyTg%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                    - img "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers" [ref=e759]
+                  - link "watch PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers" [ref=e762] [cursor=pointer]:
+                    - /url: https://www.ebay.co.uk/myb/WatchListAdd?item=397878018316&pt=null&srt=01000b000000505e1d861d76bec59b6887bcf4d86643a494ab84322264e97433d75110a1b87a3c3d3495edd0b9e188c4963e6bf00caf6cb5bf279190d10a8550b5f142820155b60a51bd13dc83bcce2a98084726da0b86&ru=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+                    - generic [ref=e763]:
+                      - img
+                - generic [ref=e764]:
+                  - generic [ref=e765]:
+                    - link "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers Opens in a new window or tab" [ref=e766] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/397878018316?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C5AMQQS8YKV0CWGZDF&hash=item5ca360c10c%3Ag%3Av6cAAeSwPaJp5aUr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDA%2B3HfR8rpmbUsXEzju2SdxuEH%2B9gTtDUTwfFUYU2qADH2EnwqAPF5wBGRiaFIu18oB3usMmXPKSN57ssf%2BtEvVcxKz3dapVyDNrL4LLkSDKfSv3DcojRTRYn5omBIfrtv8puD6TXLCcdQBDPV0p%2BNVuVDJP5PtdLFXf9hbY%2BD7z0Jpg8RQxltXaP49AdM1FnFDhb7U7NIZpILQM8pFXZY5vfJsCUC%2BDfyqOdpwTUzzEdX6jrDfczoPR40TM6mf0FSO8Z3%2FSL9X5GOPA5la3GcG3lfGSpJciR%2BW5c0GqwyTg%3D%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                      - heading "PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers Opens in a new window or tab" [level=3] [ref=e767]:
+                        - text: PS-M0630 6V-3000ma 5.5 AC-DC Power Adapter Charger For Monitor Routers
+                        - generic [ref=e768]: Opens in a new window or tab
+                    - generic [ref=e770]: Pre-owned
+                  - generic [ref=e771]:
+                    - generic [ref=e772]:
+                      - generic [ref=e773]: £27.54
+                      - generic [ref=e774]: Buy It Now
+                      - generic [ref=e775]: +£6.86 delivery
+                      - generic [ref=e776]: from China
+                    - generic [ref=e778]: taniane 97.2% positive (249)
+                  - generic [ref=e781]:
+                    - heading "Sponsored" [level=6] [ref=e783]: derosnopS
+                    - button "More options" [ref=e784] [cursor=pointer]:
+                      - img
+            - listitem [ref=e785]:
+              - generic [ref=e786]:
+                - link "1.5m RXW-0698-12V3A 12V 3000mA 36W Routers Monitor AC-DC Power Adapter 1PC" [ref=e793] [cursor=pointer]:
+                  - /url: https://www.ebay.co.uk/itm/397998915938?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C50X35H0Q3X7GWC4TA&hash=item5caa958162%3Ag%3ARTQAAeSwPZBqFA%7E9&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDGaRKQr6VghnNhasCV7V1sGyIBldjPIyH4nwMC5PiJkfXGkRBZtmjtnABaOXrhqzImAnhXirIWXMdHNtZRFEE%2Fyzbka5md0MYTrKE2VKWNUs8dWYS29%2FWOK2KBdSk1uJlXF39AIEdFkrFGHAJl0FdelZpnFn28jKbIyoV%2F53z60i%2B6No8w7qwz0eb%2FU5pgT07E1hh4QKs6onwqhiT1l2cZTgzyu3OAJlUzbs7ayeCF2IKjjPguUQl1ylIkApYXpQM%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                  - img "1.5m RXW-0698-12V3A 12V 3000mA 36W Routers Monitor AC-DC Power Adapter 1PC"
+                - generic [ref=e794]:
+                  - generic [ref=e795]:
+                    - link "1.5m RXW-0698-12V3A 12V 3000mA 36W Routers Monitor AC-DC Power Adapter 1PC Opens in a new window or tab" [ref=e796] [cursor=pointer]:
+                      - /url: https://www.ebay.co.uk/itm/397998915938?_skw=CMCC+RAX3000M+router&itmmeta=01KT5HW9C50X35H0Q3X7GWC4TA&hash=item5caa958162%3Ag%3ARTQAAeSwPZBqFA%7E9&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDGaRKQr6VghnNhasCV7V1sGyIBldjPIyH4nwMC5PiJkfXGkRBZtmjtnABaOXrhqzImAnhXirIWXMdHNtZRFEE%2Fyzbka5md0MYTrKE2VKWNUs8dWYS29%2FWOK2KBdSk1uJlXF39AIEdFkrFGHAJl0FdelZpnFn28jKbIyoV%2F53z60i%2B6No8w7qwz0eb%2FU5pgT07E1hh4QKs6onwqhiT1l2cZTgzyu3OAJlUzbs7ayeCF2IKjjPguUQl1ylIkApYXpQM%3D%7Ctkp%3ABk9SR56W8bHRZw&LH_ItemCondition=3000
+                      - heading "1.5m RXW-0698-12V3A 12V 3000mA 36W Routers Monitor AC-DC Power Adapter 1PC Opens in a new window or tab" [level=3] [ref=e797]:
+                        - text: 1.5m RXW-0698-12V3A 12V 3000mA 36W Routers Monitor AC-DC Power Adapter 1PC
+                        - generic [ref=e798]: Opens in a new window or tab
+                    - generic [ref=e800]: Pre-owned
+                  - generic [ref=e801]:
+                    - generic [ref=e802]:
+                      - generic [ref=e803]: £20.38
+                      - generic [ref=e804]: Buy It Now
+                      - generic [ref=e805]: +£8.08 delivery
+                      - generic [ref=e806]: from China
+                    - generic [ref=e808]: taniane 97.2% positive (249)
+                  - generic [ref=e811]:
+                    - heading "Sponsored" [level=6] [ref=e813]: derosnopS
+                    - button "More options" [ref=e814] [cursor=pointer]:
+                      - img
+            - listitem [ref=e815]:
+              - img "Busy" [ref=e818]:
+                - img
+            - listitem [ref=e819]:
+              - link "Tell us what you think - opens in new window or tab" [ref=e821] [cursor=pointer]:
+                - /url: https://connect.ebay.co.uk/srv/survey/a/search.srp.node
+                - text: Tell us what you think
+                - generic [ref=e822]: "- opens in new window or tab"
+      - img "Busy" [ref=e827]:
+        - img
+      - img [ref=e830]
+  - generic [ref=e831]:
+    - generic [ref=e832] [cursor=pointer]:
+      - generic [ref=e833]: Feedback
+      - link "Leave feedback about your eBay search experience - opens in new window or tab":
+        - /url: https://www.ebay.co.uk/srv/survey/a/search.srp.node?ctx=url%3D%2Fsch%2Fi.html%3F_nkw%3DCMCC%2BRAX3000M%2Brouter%26LH_ItemCondition%3D3000%26_sacat%3D0
+        - generic [ref=e835]: Leave feedback about your eBay search experience - opens in new window or tab
+    - contentinfo [ref=e838]:
+      - list [ref=e839]:
+        - listitem [ref=e840]:
+          - link "About eBay" [ref=e841] [cursor=pointer]:
+            - /url: https://www.ebayinc.com/our-company/
+        - listitem [ref=e842]:
+          - link "Announcements" [ref=e843] [cursor=pointer]:
+            - /url: https://community.ebay.co.uk/t5/Announcements/bg-p/Announcements
+        - listitem [ref=e844]:
+          - link "Community" [ref=e845] [cursor=pointer]:
+            - /url: https://community.ebay.co.uk
+        - listitem [ref=e846]:
+          - link "Safety Centre" [ref=e847] [cursor=pointer]:
+            - /url: https://pages.ebay.co.uk/safetycentre/index.html
+        - listitem [ref=e848]:
+          - link "Seller Centre" [ref=e849] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/sellercentre
+        - listitem [ref=e850]:
+          - 'link "VeRO: Protecting Intellectual Property" [ref=e851] [cursor=pointer]':
+            - /url: https://pages.ebay.co.uk/vero/
+        - listitem [ref=e852]:
+          - link "Policies" [ref=e853] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/help/policies/az-index/az-index-policies?id=4649
+        - listitem [ref=e854]:
+          - link "Product Safety Tips" [ref=e855] [cursor=pointer]:
+            - /url: https://pages.ebay.co.uk/safetytips
+        - listitem [ref=e856]:
+          - link "Help & Contact" [ref=e857] [cursor=pointer]:
+            - /url: https://www.ebay.co.uk/help/home
+        - listitem [ref=e858]:
+          - link "Site Map" [ref=e859] [cursor=pointer]:
+            - /url: https://pages.ebay.co.uk/sitemap.html
+      - generic [ref=e860]:
+        - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+        - link "User Agreement" [ref=e861] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/help/policies/member-behaviour-policies/user-agreement?id=4259
+        - text: ","
+        - link "Privacy" [ref=e862] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+        - text: ","
+        - link "Payments Terms of Use" [ref=e863] [cursor=pointer]:
+          - /url: https://pages.ebay.co.uk/payment/2.0/terms.html
+        - text: ","
+        - link "Cookies" [ref=e864] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+        - text: and
+        - link "AdChoice" [ref=e865] [cursor=pointer]:
+          - /url: https://www.ebay.co.uk/adchoice
+          - text: AdChoice
+          - img
+    - generic [ref=e868]: "This page was last updated: 02-Jun 18:34. Number of bids and bid amounts may be slightly out of date. See each listing for international postage options and costs."
+  - img
+  - img [ref=e877]

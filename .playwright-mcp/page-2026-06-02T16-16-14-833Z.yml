@@ -1,0 +1,319 @@
+- generic [active] [ref=e1]:
+  - img "闲鱼站点Logo" [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7] [cursor=pointer]:
+        - img "闲鱼站点Logo" [ref=e9]
+        - link [ref=e10]:
+          - /url: https://www.goofish.com/
+          - img [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - textbox [ref=e14]: H96 Max M9
+          - button "搜索" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e17]: 搜索
+          - generic [ref=e18]:
+            - link "小米路由器ax3000t" [ref=e19] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8ax3000t
+            - link "armbian盒子" [ref=e20] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=armbian%E7%9B%92%E5%AD%90
+            - link "回到末来耐克" [ref=e21] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%9B%9E%E5%88%B0%E6%9C%AB%E6%9D%A5%E8%80%90%E5%85%8B
+            - link "珍致猫罐头" [ref=e22] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8F%8D%E8%87%B4%E7%8C%AB%E7%BD%90%E5%A4%B4
+            - link "三陶教育盒子" [ref=e23] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E4%B8%89%E9%99%B6%E6%95%99%E8%82%B2%E7%9B%92%E5%AD%90
+            - link "s905x3" [ref=e24] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3
+            - link "铁门" [ref=e25] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%93%81%E9%97%A8
+            - link "洗衣粉" [ref=e26] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E6%B4%97%E8%A1%A3%E7%B2%89
+            - link "影腾wifi" [ref=e27] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%BD%B1%E8%85%BEwifi
+            - link "1元手机" [ref=e28] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=1%E5%85%83%E6%89%8B%E6%9C%BA
+        - generic [ref=e29] [cursor=pointer]:
+          - link "坏坏的死神" [ref=e30]:
+            - /url: https://www.goofish.com/personal
+            - img [ref=e31]
+            - generic [ref=e32]: 坏坏的死神
+          - link "订单" [ref=e34]:
+            - /url: https://www.goofish.com/bought
+            - img [ref=e36]
+            - generic [ref=e37]: 订单
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e40]
+        - link "网页版发闲置功能又升级啦！" [ref=e41]:
+          - /url: https://www.goofish.com/changelog
+          - generic [ref=e42] [cursor=pointer]: 网页版发闲置功能又升级啦！
+        - img [ref=e43] [cursor=pointer]
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e49]: 综合
+            - generic [ref=e52] [cursor=pointer]: 新降价
+            - generic [ref=e55]: 新发布
+            - generic [ref=e59]: 价格
+            - generic [ref=e61]:
+              - textbox "¥" [ref=e62]
+              - generic [ref=e63]: "-"
+              - textbox "¥" [ref=e64]
+              - button "确定" [disabled]
+          - generic [ref=e65]:
+            - generic [ref=e67] [cursor=pointer]:
+              - generic [ref=e68]: 区域
+              - img [ref=e69]
+            - generic [ref=e70]:
+              - button [disabled] [ref=e71]
+              - generic [ref=e73]: 1/1
+              - button [disabled] [ref=e74]
+        - generic [ref=e78]:
+          - generic [ref=e81] [cursor=pointer]: 个人闲置
+          - generic [ref=e84] [cursor=pointer]: 验货宝
+          - generic [ref=e87] [cursor=pointer]: 验号担保
+          - generic [ref=e90] [cursor=pointer]: 包邮
+          - generic [ref=e93] [cursor=pointer]: 超赞鱼小铺
+          - generic [ref=e96] [cursor=pointer]: 全新
+          - generic [ref=e99] [cursor=pointer]: 严选
+          - generic [ref=e102] [cursor=pointer]: 转卖
+        - generic [ref=e103]:
+          - link "智能电视盒子固件资源分享 智能电视盒子固件合集，Beelink S922X、H96MAX、H96PRO PLUS、H96 MAX M9等多款，支持安卓14/12/7.1.2，官方及修改版都有，网盘发货，虚拟资料不退不换。需要哪个私聊，细节问我。 ¥ 5 2人想要 广东 百分百好评" [ref=e104] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1035696995998&categoryId=201449620
+            - img [ref=e106]
+            - generic [ref=e107]:
+              - generic "智能电视盒子固件资源分享 智能电视盒子固件合集，Beelink S922X、H96MAX、H96PRO PLUS、H96 MAX M9等多款，支持安卓14/12/7.1.2，官方及修改版都有，网盘发货，虚拟资料不退不换。需要哪个私聊，细节问我。" [ref=e108]:
+                - generic [ref=e109]:
+                  - img [ref=e110]
+                  - text: 智能电视盒子固件资源分享 智能电视盒子固件合集，Beelink S922X、H96MAX、H96PRO PLUS、H96 MAX M9等多款，支持安卓14/12/7.1.2，官方及修改版都有，网盘发货，虚拟资料不退不换。需要哪个私聊，细节问我。
+              - generic [ref=e112]:
+                - generic [ref=e113]:
+                  - generic [ref=e114]: ¥
+                  - generic [ref=e115]: "5"
+                - generic "2人想要" [ref=e117]
+              - generic [ref=e118]:
+                - img [ref=e119]
+                - generic "广东" [ref=e120]:
+                  - paragraph [ref=e122]: 广东
+                - generic "百分百好评" [ref=e125]
+          - link "h96 max m9s RK3576网络机顶盒八核，内存有4 +32/8+128两个个配置，Mali G52 MC3 1GHz显卡，千兆网口支持wifi6，带spdif音频输出，出厂标配的是蓝牙遥控、hdmi2.1线、5v2a国标适配器。 原系统是ATV_pie风格。 H96 MaxRK357... ¥ 525 ¥899 广东 回复超快" [ref=e126] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=900701866723&categoryId=126854220
+            - img [ref=e128]
+            - generic [ref=e129]:
+              - generic "h96 max m9s RK3576网络机顶盒八核，内存有4 +32/8+128两个个配置，Mali G52 MC3 1GHz显卡，千兆网口支持wifi6，带spdif音频输出，出厂标配的是蓝牙遥控、hdmi2.1线、5v2a国标适配器。 原系统是ATV_pie风格。 H96 MaxRK357..." [ref=e130]:
+                - generic [ref=e131]:
+                  - img [ref=e132]
+                  - text: h96 max m9s RK3576网络机顶盒八核，内存有4 +32/8+128两个个配置，Mali G52 MC3 1GHz显卡，千兆网口支持wifi6，带spdif音频输出，出厂标配的是蓝牙遥控、hdmi2.1线、5v2a国标适配器。 原系统是ATV_pie风格。 H96 MaxRK357...
+              - img [ref=e134]
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - generic [ref=e137]: ¥
+                  - generic [ref=e138]: "525"
+                - generic "¥899" [ref=e140]
+              - generic [ref=e141]:
+                - img [ref=e142]
+                - generic "广东" [ref=e143]:
+                  - paragraph [ref=e145]: 广东
+                - generic "回复超快" [ref=e148]
+          - link "全新八核电视盒子 H96 MAX M9机顶盒 高清8K wi fi6网络播放器 RK3576 安卓14 TV Box 八核 内存：4G+32G，芯片:RK3576 原厂机器，配的欧规电源插头， 功能正常，全新未使用正品，真实芯片，真实内存 具体参数可以在网上找一下。 卖出不退不换。支持自提。 新疆、西... ¥ 515 8人想要 广东 卖家信用优秀" [ref=e149] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1048694956980&categoryId=201459411
+            - img [ref=e151]
+            - generic [ref=e152]:
+              - generic "全新八核电视盒子 H96 MAX M9机顶盒 高清8K wi fi6网络播放器 RK3576 安卓14 TV Box 八核 内存：4G+32G，芯片:RK3576 原厂机器，配的欧规电源插头， 功能正常，全新未使用正品，真实芯片，真实内存 具体参数可以在网上找一下。 卖出不退不换。支持自提。 新疆、西..." [ref=e153]:
+                - generic [ref=e154]: 全新八核电视盒子 H96 MAX M9机顶盒 高清8K wi fi6网络播放器 RK3576 安卓14 TV Box 八核 内存：4G+32G，芯片:RK3576 原厂机器，配的欧规电源插头， 功能正常，全新未使用正品，真实芯片，真实内存 具体参数可以在网上找一下。 卖出不退不换。支持自提。 新疆、西...
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e158]: ¥
+                  - generic [ref=e159]: "515"
+                - generic "8人想要" [ref=e161]
+              - generic [ref=e162]:
+                - img [ref=e163]
+                - generic "广东" [ref=e164]:
+                  - paragraph [ref=e166]: 广东
+                - generic "卖家信用优秀" [ref=e169]
+          - link "新款H96 MAX M9八核机顶盒高清8K wifi6网络播 放器RK3576 tv box 8G+128G m9 八核网络机顶盒安卓14 WiFi6高清播放器RK3576网络机顶盒 ai超分辨率 8+128 支持AI超分辨率和补帧功能，Mali G52 MC3 1GHz显卡，千兆网口支持w... 全新 功能完好无维修 4GB(不含)-8GB(含) ¥ 790 ¥999 广东 卖家信用极好" [ref=e170] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=924842793064&categoryId=126854220
+            - img [ref=e172]
+            - generic [ref=e173]:
+              - generic "新款H96 MAX M9八核机顶盒高清8K wifi6网络播 放器RK3576 tv box 8G+128G m9 八核网络机顶盒安卓14 WiFi6高清播放器RK3576网络机顶盒 ai超分辨率 8+128 支持AI超分辨率和补帧功能，Mali G52 MC3 1GHz显卡，千兆网口支持w..." [ref=e174]:
+                - generic [ref=e175]:
+                  - img [ref=e176]
+                  - text: 新款H96 MAX M9八核机顶盒高清8K wifi6网络播 放器RK3576 tv box 8G+128G m9 八核网络机顶盒安卓14 WiFi6高清播放器RK3576网络机顶盒 ai超分辨率 8+128 支持AI超分辨率和补帧功能，Mali G52 MC3 1GHz显卡，千兆网口支持w...
+              - generic [ref=e177]:
+                - generic [ref=e179]: 全新
+                - generic [ref=e182]: 功能完好无维修
+                - generic [ref=e185]: 4GB(不含)-8GB(含)
+              - generic [ref=e186]:
+                - generic [ref=e187]:
+                  - generic [ref=e188]: ¥
+                  - generic [ref=e189]: "790"
+                - generic "¥999" [ref=e191]
+              - generic [ref=e192]:
+                - img [ref=e193]
+                - generic "广东" [ref=e194]:
+                  - paragraph [ref=e196]: 广东
+                - generic "卖家信用极好" [ref=e199]
+          - link "X96系列遥控器，适用X96Max/X96MAX+/X88K ing/X96air/X88PRO/X99MAX安卓盒子，（M9pro ）hk1 系列 全新t95机顶盒遥控器，适用T95M、T95N、x88pro、PRO+、MAX、H96、Tx96mini等型号，外观按键一致，直接通用。批量库存，，售出... ¥ 4 累计降价64% 广东 回复超快" [ref=e200] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1043715070195&categoryId=126854149
+            - img [ref=e202]
+            - generic [ref=e203]:
+              - generic "X96系列遥控器，适用X96Max/X96MAX+/X88K ing/X96air/X88PRO/X99MAX安卓盒子，（M9pro ）hk1 系列 全新t95机顶盒遥控器，适用T95M、T95N、x88pro、PRO+、MAX、H96、Tx96mini等型号，外观按键一致，直接通用。批量库存，，售出..." [ref=e204]:
+                - generic [ref=e205]: X96系列遥控器，适用X96Max/X96MAX+/X88K ing/X96air/X88PRO/X99MAX安卓盒子，（M9pro ）hk1 系列 全新t95机顶盒遥控器，适用T95M、T95N、x88pro、PRO+、MAX、H96、Tx96mini等型号，外观按键一致，直接通用。批量库存，，售出...
+              - img [ref=e207]
+              - generic [ref=e208]:
+                - generic [ref=e209]:
+                  - generic [ref=e210]: ¥
+                  - generic [ref=e211]: "4"
+                - generic [ref=e213]:
+                  - img [ref=e214]
+                  - generic "累计降价64%" [ref=e215]
+              - generic [ref=e216]:
+                - img [ref=e217]
+                - generic "广东" [ref=e218]:
+                  - paragraph [ref=e220]: 广东
+                - generic "回复超快" [ref=e223]
+          - link "H96 MAX M9八核网络机顶盒安卓14WiFi6高清播放 器2.4G遥控RK3576网络机顶盒 八核安卓14 内存2+16 500 4+32 550 8+128 750 三个配置，默认2+16价格，需要其他配置联系改价即可 Mali G52 MC3 1GHz显卡，千兆网口支持wifi6，带sp... ¥ 505 ¥889 广东 回复超快" [ref=e224] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=821326529352&categoryId=126854220
+            - img [ref=e226]
+            - generic [ref=e227]:
+              - generic "H96 MAX M9八核网络机顶盒安卓14WiFi6高清播放 器2.4G遥控RK3576网络机顶盒 八核安卓14 内存2+16 500 4+32 550 8+128 750 三个配置，默认2+16价格，需要其他配置联系改价即可 Mali G52 MC3 1GHz显卡，千兆网口支持wifi6，带sp..." [ref=e228]:
+                - generic [ref=e229]:
+                  - img [ref=e230]
+                  - text: H96 MAX M9八核网络机顶盒安卓14WiFi6高清播放 器2.4G遥控RK3576网络机顶盒 八核安卓14 内存2+16 500 4+32 550 8+128 750 三个配置，默认2+16价格，需要其他配置联系改价即可 Mali G52 MC3 1GHz显卡，千兆网口支持wifi6，带sp...
+              - img [ref=e232]
+              - generic [ref=e233]:
+                - generic [ref=e234]:
+                  - generic [ref=e235]: ¥
+                  - generic [ref=e236]: "505"
+                - generic "¥889" [ref=e238]
+              - generic [ref=e239]:
+                - img [ref=e240]
+                - generic "广东" [ref=e241]:
+                  - paragraph [ref=e243]: 广东
+                - generic "回复超快" [ref=e246]
+        - generic [ref=e248]:
+          - generic [ref=e249]:
+            - button [disabled] [ref=e250]
+            - generic [ref=e252] [cursor=pointer]: "1"
+            - button [disabled] [ref=e253]
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - generic [ref=e257]: 到第
+              - textbox [ref=e259]
+              - generic [ref=e260]: 页
+            - button "确定" [ref=e261] [cursor=pointer]
+      - generic [ref=e264]:
+        - link "发闲置" [ref=e265] [cursor=pointer]:
+          - /url: https://www.goofish.com/publish
+          - img [ref=e267]
+          - generic [ref=e268]: 发闲置
+        - link "3 消息" [ref=e269] [cursor=pointer]:
+          - /url: https://www.goofish.com/im
+          - generic [ref=e271]:
+            - img [ref=e272]
+            - generic [ref=e273]: "3"
+          - generic [ref=e274]: 消息
+        - generic [ref=e276] [cursor=pointer]:
+          - img [ref=e279]
+          - generic [ref=e280]: APP
+        - link "反馈" [ref=e281] [cursor=pointer]:
+          - /url: https://www.goofish.com/feedback?from=search
+          - img [ref=e284]
+          - generic [ref=e285]: 反馈
+        - link "客服" [ref=e286] [cursor=pointer]:
+          - /url: https://alimebot.goofish.com/intl/index.htm?from=wkbRssQuvW
+          - img [ref=e289]
+          - generic [ref=e290]: 客服
+        - link "回顶部":
+          - /url: javascript:void(0);
+          - img [ref=e293] [cursor=pointer]
+          - generic [ref=e294] [cursor=pointer]: 回顶部
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - link "阿里巴巴集团" [ref=e299] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/
+        - link "淘宝" [ref=e302] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - link "天猫" [ref=e305] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - link "1688" [ref=e308] [cursor=pointer]:
+          - /url: https://www.1688.com/
+        - link "一淘" [ref=e311] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - link "阿里健康" [ref=e314] [cursor=pointer]:
+          - /url: https://www.alihealth.cn/
+        - link "全球速卖通" [ref=e317] [cursor=pointer]:
+          - /url: https://www.aliexpress.com/
+        - link "阿里巴巴国际站" [ref=e320] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - link "高德" [ref=e323] [cursor=pointer]:
+          - /url: https://mobile.amap.com/
+        - link "飞猪" [ref=e326] [cursor=pointer]:
+          - /url: https://www.fliggy.com/
+        - link "优酷" [ref=e329] [cursor=pointer]:
+          - /url: https://www.youku.com/
+        - link "大麦" [ref=e332] [cursor=pointer]:
+          - /url: https://www.damai.cn/
+        - link "阿里影业" [ref=e335] [cursor=pointer]:
+          - /url: https://www.alibabapictures.com/
+        - link "钉钉" [ref=e338] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/
+        - link "支付宝" [ref=e341] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - link "阿里妈妈" [ref=e344] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - link "阿里云" [ref=e347] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+      - generic [ref=e348]:
+        - generic [ref=e350]: 统一社会信用代码：91330110MA2H1CFF2D
+        - generic [ref=e353]: 增值电信业务经营许可证：浙B2-20201551
+        - generic [ref=e356]: 增值电信业务经营许可证（跨地区）：B2-20241485
+        - generic [ref=e359]: 网络食品销售第三方平台提供者备案：浙网食A33000101
+      - generic [ref=e360]:
+        - generic [ref=e362]: 广播电视节目制作经营许可证：（浙）字第07629号
+        - generic [ref=e365]: 营业性演出许可证：浙演经33010120064
+        - generic [ref=e368]: 集邮市场开办者备案：杭集邮备006
+        - link "APP备案号：浙ICP备20016791号-2A" [ref=e371] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/?spm=a212ne.20922897.9522938140.2#/Integrated/index
+      - generic [ref=e372]:
+        - link "闲鱼社区隐私政策" [ref=e374] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202103021554_43790.html
+        - link "软件许可协议" [ref=e377] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20230509172204596/20230509172204596.html
+        - link "闲鱼社区用户服务协议" [ref=e380] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201708081618_51146.html
+        - link "闲鱼规则" [ref=e383] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/v3Lv4OO6VbJS
+        - link "意见征集" [ref=e386] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/CQJnCbq230i3
+        - link "算法备案" [ref=e389] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/privacy_algorithm_theory_state/20221125171956850/20221125171956850.html?spm=a1zaa.8161610.0.0.7db827b7aQ7Ymq
+      - generic [ref=e390]:
+        - generic [ref=e391]:
+          - img [ref=e392]
+          - link "浙公网安备33011002014818号" [ref=e393] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?spm=2007.1000261.0.0.660534f17KIS1E&recordcode=33011002014818
+        - generic [ref=e395]:
+          - img [ref=e396]
+          - link "电子营业执照" [ref=e397] [cursor=pointer]:
+            - /url: https://intranetproxy.alipay.com/skylark/lark/0/2023/png/40591/1692327101072-570e6872-655c-4d61-b9b9-a1fbd1ca82fb.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1500%2Climit_0
+        - generic [ref=e400]: © Goofish.com 版权所有
+      - generic [ref=e401]:
+        - link [ref=e402]:
+          - /url: https://www.12377.cn/?spm=a21bo.jianhua/a.1997523009.49.5af92a89T43VX8
+          - img [ref=e403] [cursor=pointer]
+        - link [ref=e404]:
+          - /url: https://www.12377.cn/node_548446.htm?spm=a21bo.jianhua/a.1997523009.50.5af92a89T43VX8
+          - img [ref=e405] [cursor=pointer]
+        - generic [ref=e406]:
+          - paragraph [ref=e407]: 推动绿色发展，促进闲置流通
+          - generic [ref=e408]:
+            - link "《促进绿色消费实施方案》" [ref=e409] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/21/content_5669785.htm
+            - link "《关于加快废旧物资循环利用体系建设的指导意见》" [ref=e410] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/22/content_5669857.htm
+    - generic [ref=e411] [cursor=pointer]:
+      - img [ref=e412]
+      - img [ref=e413]

@@ -1,0 +1,460 @@
+- generic [active] [ref=e1]:
+  - img "闲鱼站点Logo" [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7] [cursor=pointer]:
+        - img "闲鱼站点Logo" [ref=e9]
+        - link [ref=e10]:
+          - /url: https://www.goofish.com/
+          - img [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - textbox [ref=e14]: Ugoos AM6B
+          - button "搜索" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e17]: 搜索
+          - generic [ref=e18]:
+            - link "小米路由器ax3000t" [ref=e19] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8ax3000t
+            - link "armbian盒子" [ref=e20] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=armbian%E7%9B%92%E5%AD%90
+            - link "回到末来耐克" [ref=e21] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%9B%9E%E5%88%B0%E6%9C%AB%E6%9D%A5%E8%80%90%E5%85%8B
+            - link "顽皮猫罐头" [ref=e22] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%A1%BD%E7%9A%AE%E7%8C%AB%E7%BD%90%E5%A4%B4
+            - link "s905x3" [ref=e23] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3
+            - link "三陶教育盒子" [ref=e24] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E4%B8%89%E9%99%B6%E6%95%99%E8%82%B2%E7%9B%92%E5%AD%90
+            - link "铁门" [ref=e25] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%93%81%E9%97%A8
+            - link "猫用品" [ref=e26] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8C%AB%E7%94%A8%E5%93%81
+            - link "影腾" [ref=e27] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%BD%B1%E8%85%BE
+            - link "1元手机" [ref=e28] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=1%E5%85%83%E6%89%8B%E6%9C%BA
+        - generic [ref=e29] [cursor=pointer]:
+          - link "坏坏的死神" [ref=e30]:
+            - /url: https://www.goofish.com/personal
+            - img [ref=e31]
+            - generic [ref=e32]: 坏坏的死神
+          - link "订单" [ref=e34]:
+            - /url: https://www.goofish.com/bought
+            - img [ref=e36]
+            - generic [ref=e37]: 订单
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e40]
+        - link "网页版发闲置功能又升级啦！" [ref=e41]:
+          - /url: https://www.goofish.com/changelog
+          - generic [ref=e42] [cursor=pointer]: 网页版发闲置功能又升级啦！
+        - img [ref=e43] [cursor=pointer]
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e49]: 综合
+            - generic [ref=e52] [cursor=pointer]: 新降价
+            - generic [ref=e55]: 新发布
+            - generic [ref=e59]: 价格
+            - generic [ref=e61]:
+              - textbox "¥" [ref=e62]
+              - generic [ref=e63]: "-"
+              - textbox "¥" [ref=e64]
+              - button "确定" [disabled]
+          - generic [ref=e65]:
+            - generic [ref=e67] [cursor=pointer]:
+              - generic [ref=e68]: 区域
+              - img [ref=e69]
+            - generic [ref=e70]:
+              - button [disabled] [ref=e71]
+              - generic [ref=e73]: 1/1
+              - button [disabled] [ref=e74]
+        - generic [ref=e78]:
+          - generic [ref=e81] [cursor=pointer]: 个人闲置
+          - generic [ref=e84] [cursor=pointer]: 验货宝
+          - generic [ref=e87] [cursor=pointer]: 验号担保
+          - generic [ref=e90] [cursor=pointer]: 包邮
+          - generic [ref=e93] [cursor=pointer]: 超赞鱼小铺
+          - generic [ref=e96] [cursor=pointer]: 全新
+          - generic [ref=e99] [cursor=pointer]: 严选
+          - generic [ref=e102] [cursor=pointer]: 转卖
+        - generic [ref=e103]:
+          - link "Ugoos AM6B plus S922X-J 双层杜比 视 界Android 9 coreelec 4k TV BOX 原盘杜比视界，双轨双层，次世代透传 Ugoos AM6BPLUS 4+32+安卓机顶盒 S922X-J 安卓9.0 千兆双频WIFI 蓝牙TVBOX u... ¥ 1225 ¥1399 广东 回复超快" [ref=e104] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=922644587290&categoryId=126854220
+            - img [ref=e106]
+            - generic [ref=e107]:
+              - generic "Ugoos AM6B plus S922X-J 双层杜比 视 界Android 9 coreelec 4k TV BOX 原盘杜比视界，双轨双层，次世代透传 Ugoos AM6BPLUS 4+32+安卓机顶盒 S922X-J 安卓9.0 千兆双频WIFI 蓝牙TVBOX u..." [ref=e108]:
+                - generic [ref=e109]:
+                  - img [ref=e110]
+                  - text: Ugoos AM6B plus S922X-J 双层杜比 视 界Android 9 coreelec 4k TV BOX 原盘杜比视界，双轨双层，次世代透传 Ugoos AM6BPLUS 4+32+安卓机顶盒 S922X-J 安卓9.0 千兆双频WIFI 蓝牙TVBOX u...
+              - img [ref=e112]
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - generic [ref=e115]: ¥
+                  - generic [ref=e116]: "1225"
+                - generic "¥1399" [ref=e118]
+              - generic [ref=e119]:
+                - img [ref=e120]
+                - generic "广东" [ref=e121]:
+                  - paragraph [ref=e123]: 广东
+                - generic "回复超快" [ref=e126]
+          - link "全新Ugoos AM6B Plus电视盒子，S922X-J芯 片，4G内存，32G存储，其强大的功能无需多说。目前在售的能播放双层杜比视界Dollby Vision的盒子，支持源码直通，有了这款盒子蓝光机就可以扔了。懂买这款盒子的都是行家，懂的都懂，识货的来。新到货，未拆封，2026年最新批次 ... 全新 ugoos/有故事 ¥ 1238 广东 卖家信用极好" [ref=e127] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=990224280016&categoryId=126864997
+            - img [ref=e129]
+            - generic [ref=e130]:
+              - generic "全新Ugoos AM6B Plus电视盒子，S922X-J芯 片，4G内存，32G存储，其强大的功能无需多说。目前在售的能播放双层杜比视界Dollby Vision的盒子，支持源码直通，有了这款盒子蓝光机就可以扔了。懂买这款盒子的都是行家，懂的都懂，识货的来。新到货，未拆封，2026年最新批次 ..." [ref=e131]:
+                - generic [ref=e132]:
+                  - img [ref=e133]
+                  - text: 全新Ugoos AM6B Plus电视盒子，S922X-J芯 片，4G内存，32G存储，其强大的功能无需多说。目前在售的能播放双层杜比视界Dollby Vision的盒子，支持源码直通，有了这款盒子蓝光机就可以扔了。懂买这款盒子的都是行家，懂的都懂，识货的来。新到货，未拆封，2026年最新批次 ...
+              - generic [ref=e134]:
+                - generic [ref=e136]: 全新
+                - generic [ref=e139]: ugoos/有故事
+              - generic [ref=e140]:
+                - generic [ref=e141]:
+                  - generic [ref=e142]: ¥
+                  - generic [ref=e143]: "1238"
+                - img [ref=e145]
+              - generic [ref=e146]:
+                - img [ref=e147]
+                - generic "广东" [ref=e148]:
+                  - paragraph [ref=e150]: 广东
+                - generic "卖家信用极好" [ref=e153]
+          - link "UGOOS AM6B PLUS电视盒子，九五新，ur02遥控 器，带原包装。晶晨S922X-J芯片，4+32G，内置slimbox和coreelec双系统。支持双层杜比视界，源码直通，已帮你集成CD2、Docker等，功能齐全。插电即用，适合折腾和家用。非偏远地区包邮，喜欢的拍下，一旦售出不退不换。 几乎全新 ugoos/有故事 功能完好无维修 ¥ 1163 累计降价17.00元 江苏 百分百好评" [ref=e154] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1053041865421&categoryId=126864997
+            - img [ref=e156]
+            - generic [ref=e157]:
+              - generic "UGOOS AM6B PLUS电视盒子，九五新，ur02遥控 器，带原包装。晶晨S922X-J芯片，4+32G，内置slimbox和coreelec双系统。支持双层杜比视界，源码直通，已帮你集成CD2、Docker等，功能齐全。插电即用，适合折腾和家用。非偏远地区包邮，喜欢的拍下，一旦售出不退不换。" [ref=e158]:
+                - generic [ref=e159]:
+                  - img [ref=e160]
+                  - text: UGOOS AM6B PLUS电视盒子，九五新，ur02遥控 器，带原包装。晶晨S922X-J芯片，4+32G，内置slimbox和coreelec双系统。支持双层杜比视界，源码直通，已帮你集成CD2、Docker等，功能齐全。插电即用，适合折腾和家用。非偏远地区包邮，喜欢的拍下，一旦售出不退不换。
+              - generic [ref=e161]:
+                - generic [ref=e163]: 几乎全新
+                - generic [ref=e166]: ugoos/有故事
+                - generic [ref=e169]: 功能完好无维修
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - generic [ref=e172]: ¥
+                  - generic [ref=e173]: "1163"
+                - generic [ref=e175]:
+                  - img [ref=e176]
+                  - generic "累计降价17.00元" [ref=e177]
+              - generic [ref=e178]:
+                - img [ref=e179]
+                - generic "江苏" [ref=e180]:
+                  - paragraph [ref=e182]: 江苏
+                - generic "百分百好评" [ref=e185]
+          - link "UGOOS AM6B Plus 电视盒子，s922x-j芯片 ，ur02遥控器+电源+天线+HDMI包装盒都在，包装盒还在，没怎么用过，功能全正常，成色如图 正面不知道为啥掉了点漆，不影响使用，拍下即认可，售出不退不换（非偏远地区包邮） 送明斯克皮肤永久会员（价值60元）音频直通 支持双层杜比解码 ... 轻微使用痕迹 ugoos/有故事 功能完好无维修 ¥ 1150 累计降价40.00元 浙江 百分百好评" [ref=e186] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1056786120806&categoryId=126864997
+            - img [ref=e188]
+            - generic [ref=e189]:
+              - generic "UGOOS AM6B Plus 电视盒子，s922x-j芯片 ，ur02遥控器+电源+天线+HDMI包装盒都在，包装盒还在，没怎么用过，功能全正常，成色如图 正面不知道为啥掉了点漆，不影响使用，拍下即认可，售出不退不换（非偏远地区包邮） 送明斯克皮肤永久会员（价值60元）音频直通 支持双层杜比解码 ..." [ref=e190]:
+                - generic [ref=e191]:
+                  - img [ref=e192]
+                  - text: UGOOS AM6B Plus 电视盒子，s922x-j芯片 ，ur02遥控器+电源+天线+HDMI包装盒都在，包装盒还在，没怎么用过，功能全正常，成色如图 正面不知道为啥掉了点漆，不影响使用，拍下即认可，售出不退不换（非偏远地区包邮） 送明斯克皮肤永久会员（价值60元）音频直通 支持双层杜比解码 ...
+              - generic [ref=e193]:
+                - generic [ref=e195]: 轻微使用痕迹
+                - generic [ref=e198]: ugoos/有故事
+                - generic [ref=e201]: 功能完好无维修
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - generic [ref=e204]: ¥
+                  - generic [ref=e205]: "1150"
+                - generic [ref=e207]:
+                  - img [ref=e208]
+                  - generic "累计降价40.00元" [ref=e209]
+              - generic [ref=e210]:
+                - img [ref=e211]
+                - generic "浙江" [ref=e212]:
+                  - paragraph [ref=e214]: 浙江
+                - generic "百分百好评" [ref=e217]
+          - link "全新Ugoos AM6B Plus电视盒子，S922X-J芯 片，4G内存，32G存储，其强大的功能无需多说。目前在售的能播放双层杜比视界Dollby Vision的盒子，支持源码直通，有了这款盒子蓝光机就可以扔了。懂买这款盒子的都是行家，懂的都懂，识货的来。 全新发货 插头直接国内用 ugoo... ¥ 1220 ¥1500 广东" [ref=e218] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1011415894339&categoryId=126864997
+            - img [ref=e220]
+            - generic [ref=e221]:
+              - generic "全新Ugoos AM6B Plus电视盒子，S922X-J芯 片，4G内存，32G存储，其强大的功能无需多说。目前在售的能播放双层杜比视界Dollby Vision的盒子，支持源码直通，有了这款盒子蓝光机就可以扔了。懂买这款盒子的都是行家，懂的都懂，识货的来。 全新发货 插头直接国内用 ugoo..." [ref=e222]:
+                - generic [ref=e223]: 全新Ugoos AM6B Plus电视盒子，S922X-J芯 片，4G内存，32G存储，其强大的功能无需多说。目前在售的能播放双层杜比视界Dollby Vision的盒子，支持源码直通，有了这款盒子蓝光机就可以扔了。懂买这款盒子的都是行家，懂的都懂，识货的来。 全新发货 插头直接国内用 ugoo...
+              - generic [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227]: ¥
+                  - generic [ref=e228]: "1220"
+                - generic "¥1500" [ref=e230]
+              - generic [ref=e231]:
+                - img [ref=e232]
+                - generic "广东" [ref=e233]:
+                  - paragraph [ref=e235]: 广东
+          - link "UGOOS AM6B Plus 4+128G 卖的机器，系统要啥功能自己回去刷，随机系统是啥就是啥! ugoos am6b plus 4G内存+128G内置存储 s922x-j 双频千兆，杜比视界机顶盒，支持双层单层杜比视界，原盘杜比视界，双轨双层，次世代透传。 4+128G 非4+... ¥ 1388 42人想要 江苏" [ref=e236] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=945994276791&categoryId=126864997
+            - img [ref=e238]
+            - generic [ref=e239]:
+              - generic "UGOOS AM6B Plus 4+128G 卖的机器，系统要啥功能自己回去刷，随机系统是啥就是啥! ugoos am6b plus 4G内存+128G内置存储 s922x-j 双频千兆，杜比视界机顶盒，支持双层单层杜比视界，原盘杜比视界，双轨双层，次世代透传。 4+128G 非4+..." [ref=e240]:
+                - generic [ref=e241]:
+                  - img [ref=e242]
+                  - text: UGOOS AM6B Plus 4+128G 卖的机器，系统要啥功能自己回去刷，随机系统是啥就是啥! ugoos am6b plus 4G内存+128G内置存储 s922x-j 双频千兆，杜比视界机顶盒，支持双层单层杜比视界，原盘杜比视界，双轨双层，次世代透传。 4+128G 非4+...
+              - img [ref=e244]
+              - generic [ref=e245]:
+                - generic [ref=e246]:
+                  - generic [ref=e247]: ¥
+                  - generic [ref=e248]: "1388"
+                - generic "42人想要" [ref=e250]
+              - generic [ref=e251]:
+                - img [ref=e252]
+                - generic "江苏" [ref=e253]:
+                  - paragraph [ref=e255]: 江苏
+          - link "UGOOS AM6B PLUS机顶盒 UGOOS AM9 PRO数字电视机顶盒，搭载S905X5-J主控芯片，4GB+64GB存储，金属外壳，双天线双频WiFi，支持HDMI2.1与千兆网口，配备三个USB接口及Micro SD卡槽，功能完好，适用于4K影音播放与NAS挂载,售... ¥ 1110 28人想要 浙江 卖家信用极好" [ref=e256] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1025184443323&categoryId=201459411
+            - img [ref=e258]
+            - generic [ref=e259]:
+              - generic "UGOOS AM6B PLUS机顶盒 UGOOS AM9 PRO数字电视机顶盒，搭载S905X5-J主控芯片，4GB+64GB存储，金属外壳，双天线双频WiFi，支持HDMI2.1与千兆网口，配备三个USB接口及Micro SD卡槽，功能完好，适用于4K影音播放与NAS挂载,售..." [ref=e260]:
+                - generic [ref=e261]: UGOOS AM6B PLUS机顶盒 UGOOS AM9 PRO数字电视机顶盒，搭载S905X5-J主控芯片，4GB+64GB存储，金属外壳，双天线双频WiFi，支持HDMI2.1与千兆网口，配备三个USB接口及Micro SD卡槽，功能完好，适用于4K影音播放与NAS挂载,售...
+              - generic [ref=e263]:
+                - generic [ref=e264]:
+                  - generic [ref=e265]: ¥
+                  - generic [ref=e266]: "1110"
+                - generic "28人想要" [ref=e268]
+              - generic [ref=e269]:
+                - img [ref=e270]
+                - generic "浙江" [ref=e271]:
+                  - paragraph [ref=e273]: 浙江
+                - generic "卖家信用极好" [ref=e276]
+          - link "MINIX U22-XJ双层杜比S922X-J盒子 该盒子箱说全95新，slimbox安卓系统，采用S922X-J双层杜比视界天花板，原装无修无进水，大厂做工及接口配置优秀，自用收藏级成色。 带一张32GTF卡CE系统，无线网络/蓝牙/红外功能等均正常，支持双层杜比视界及全景声解码，已购明克斯授权皮肤。 默认物品清单:原装Minix U22-XJ(含遥控/箱说)+32G TF卡系统。 另有配芝杜V8专业蓝牙红外双模遥控器99新，定制好快捷键(全键适配)，如一键打开电影/直播/音乐/快进/退/播放/停止/音量+-/字幕/音频/视频/进程信息/系统设置/重启进程等。也是目前市面能买到最好遥控器，所有配最好为了您追求极致体验。质量/手感方面均杠杠，打包优惠价加235，到手即用！ 关联ugoos am6b plus/极光4pro/极光6s/U22-XJ/GT-King Pro/vim3 pro温馨提示(T)：1)对购买者芝麻信用分要求达到600以上，且要有过往闲鱼交易记录(s)；2)物品已是实价，一分钱一分货(i)；3)本设备一经售出(邮寄后)不支持退换货(n)； 4) 支持漳州市区朋友可自取，其他地区邮费补差(g)；5)购买者收到货后确认无误，请在24小时内及时确认收货(u)；6)诚信交易，感谢理解和支持(i)。 1天内降价 ¥ 1380 累计降价14% 福建 卖家信用极好" [ref=e277] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1055726009602&categoryId=126864997
+            - img [ref=e279]
+            - generic [ref=e280]:
+              - generic "MINIX U22-XJ双层杜比S922X-J盒子 该盒子箱说全95新，slimbox安卓系统，采用S922X-J双层杜比视界天花板，原装无修无进水，大厂做工及接口配置优秀，自用收藏级成色。 带一张32GTF卡CE系统，无线网络/蓝牙/红外功能等均正常，支持双层杜比视界及全景声解码，已购明克斯授权皮肤。 默认物品清单:原装Minix U22-XJ(含遥控/箱说)+32G TF卡系统。 另有配芝杜V8专业蓝牙红外双模遥控器99新，定制好快捷键(全键适配)，如一键打开电影/直播/音乐/快进/退/播放/停止/音量+-/字幕/音频/视频/进程信息/系统设置/重启进程等。也是目前市面能买到最好遥控器，所有配最好为了您追求极致体验。质量/手感方面均杠杠，打包优惠价加235，到手即用！ 关联ugoos am6b plus/极光4pro/极光6s/U22-XJ/GT-King Pro/vim3 pro温馨提示(T)：1)对购买者芝麻信用分要求达到600以上，且要有过往闲鱼交易记录(s)；2)物品已是实价，一分钱一分货(i)；3)本设备一经售出(邮寄后)不支持退换货(n)； 4) 支持漳州市区朋友可自取，其他地区邮费补差(g)；5)购买者收到货后确认无误，请在24小时内及时确认收货(u)；6)诚信交易，感谢理解和支持(i)。" [ref=e281]:
+                - generic [ref=e282]:
+                  - img [ref=e283]
+                  - text: MINIX U22-XJ双层杜比S922X-J盒子 该盒子箱说全95新，slimbox安卓系统，采用S922X-J双层杜比视界天花板，原装无修无进水，大厂做工及接口配置优秀，自用收藏级成色。 带一张32GTF卡CE系统，无线网络/蓝牙/红外功能等均正常，支持双层杜比视界及全景声解码，已购明克斯授权皮肤。 默认物品清单:原装Minix U22-XJ(含遥控/箱说)+32G TF卡系统。 另有配芝杜V8专业蓝牙红外双模遥控器99新，定制好快捷键(全键适配)，如一键打开电影/直播/音乐/快进/退/播放/停止/音量+-/字幕/音频/视频/进程信息/系统设置/重启进程等。也是目前市面能买到最好遥控器，所有配最好为了您追求极致体验。质量/手感方面均杠杠，打包优惠价加235，到手即用！ 关联ugoos am6b plus/极光4pro/极光6s/U22-XJ/GT-King Pro/vim3 pro温馨提示(T)：1)对购买者芝麻信用分要求达到600以上，且要有过往闲鱼交易记录(s)；2)物品已是实价，一分钱一分货(i)；3)本设备一经售出(邮寄后)不支持退换货(n)； 4) 支持漳州市区朋友可自取，其他地区邮费补差(g)；5)购买者收到货后确认无误，请在24小时内及时确认收货(u)；6)诚信交易，感谢理解和支持(i)。
+              - generic [ref=e286]:
+                - img [ref=e287]
+                - generic "1天内降价" [ref=e288]
+              - generic [ref=e289]:
+                - generic [ref=e290]:
+                  - generic [ref=e291]: ¥
+                  - generic [ref=e292]: "1380"
+                - generic [ref=e294]:
+                  - img [ref=e295]
+                  - generic "累计降价14%" [ref=e296]
+              - generic [ref=e297]:
+                - img [ref=e298]
+                - generic "福建" [ref=e299]:
+                  - paragraph [ref=e301]: 福建
+                - generic "卖家信用极好" [ref=e304]
+          - link "[火]Ugoos AM6B (Plus) CoreELEC系 统代刷。 [火]Minix U22-XJ (MAX) CoreELEC系统代刷。 [cool]已经是被认可的除蓝光机外能较完美实现双层杜比视界的方案。可以自行翻阅Reddit和AVS的相关讨论以及B站电锯爷的一些对比。 [VS]实际画... ¥ 40 58人想要 上海 百分百好评" [ref=e305] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1015244436947&categoryId=201452811
+            - img [ref=e307]
+            - generic [ref=e308]:
+              - generic "[火]Ugoos AM6B (Plus) CoreELEC系 统代刷。 [火]Minix U22-XJ (MAX) CoreELEC系统代刷。 [cool]已经是被认可的除蓝光机外能较完美实现双层杜比视界的方案。可以自行翻阅Reddit和AVS的相关讨论以及B站电锯爷的一些对比。 [VS]实际画..." [ref=e309]:
+                - generic [ref=e310]: "[火]Ugoos AM6B (Plus) CoreELEC系 统代刷。 [火]Minix U22-XJ (MAX) CoreELEC系统代刷。 [cool]已经是被认可的除蓝光机外能较完美实现双层杜比视界的方案。可以自行翻阅Reddit和AVS的相关讨论以及B站电锯爷的一些对比。 [VS]实际画..."
+              - generic [ref=e312]:
+                - generic [ref=e313]:
+                  - generic [ref=e314]: ¥
+                  - generic [ref=e315]: "40"
+                - generic "58人想要" [ref=e317]
+              - generic [ref=e318]:
+                - img [ref=e319]
+                - generic "上海" [ref=e320]:
+                  - paragraph [ref=e322]: 上海
+                - generic "百分百好评" [ref=e325]
+          - link "免费CoreELEC刷机教程指南 免费coreelec刷机教程，支持播放stdv杜比视界 Profile 4、 7 FEL、7 MEL、8.1 和 8.4 ugoos am6b plus盒子刷机 使用SSH工具连接CoreELEC系统盒子 拔掉插的USB，将CoreELEC... ¥ 0 .10 累计降价99% 河北 百分百好评" [ref=e326] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=995361720905&categoryId=201452811
+            - img [ref=e328]
+            - generic [ref=e329]:
+              - generic "免费CoreELEC刷机教程指南 免费coreelec刷机教程，支持播放stdv杜比视界 Profile 4、 7 FEL、7 MEL、8.1 和 8.4 ugoos am6b plus盒子刷机 使用SSH工具连接CoreELEC系统盒子 拔掉插的USB，将CoreELEC..." [ref=e330]:
+                - generic [ref=e331]:
+                  - img [ref=e332]
+                  - text: 免费CoreELEC刷机教程指南 免费coreelec刷机教程，支持播放stdv杜比视界 Profile 4、 7 FEL、7 MEL、8.1 和 8.4 ugoos am6b plus盒子刷机 使用SSH工具连接CoreELEC系统盒子 拔掉插的USB，将CoreELEC...
+              - generic [ref=e334]:
+                - generic [ref=e335]:
+                  - generic [ref=e336]: ¥
+                  - generic [ref=e337]: "0"
+                  - generic [ref=e338]: ".10"
+                - generic [ref=e340]:
+                  - img [ref=e341]
+                  - generic "累计降价99%" [ref=e342]
+              - generic [ref=e343]:
+                - img [ref=e344]
+                - generic "河北" [ref=e345]:
+                  - paragraph [ref=e347]: 河北
+                - generic "百分百好评" [ref=e350]
+          - link "比亚迪S6智能接收盒，比亚迪S6智能盒子 全新带包邮，特价出 ¥ 220 8人想要 湖南 卖家信用极好" [ref=e351] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=643919358662&categoryId=126860758
+            - img [ref=e353]
+            - generic [ref=e354]:
+              - generic "比亚迪S6智能接收盒，比亚迪S6智能盒子 全新带包邮，特价出" [ref=e355]:
+                - generic [ref=e356]:
+                  - img [ref=e357]
+                  - text: 比亚迪S6智能接收盒，比亚迪S6智能盒子 全新带包邮，特价出
+              - generic [ref=e359]:
+                - generic [ref=e360]:
+                  - generic [ref=e361]: ¥
+                  - generic [ref=e362]: "220"
+                - generic "8人想要" [ref=e364]
+              - generic [ref=e365]:
+                - img [ref=e366]
+                - generic "湖南" [ref=e367]:
+                  - paragraph [ref=e369]: 湖南
+                - generic "卖家信用极好" [ref=e372]
+          - link "Ugoos AM6B+PLUS 4+32安卓机顶盒S922X -J+安卓9.0+千兆双频WIFI+蓝牙ugoos am6b plus 关联极光4pro 极光6s CoreELEC系统 ce系统天花板[棒][棒] 全新发货+插头直接国内用。刷coreelec系统 可以实现双层杜比视界，音频直通，可以... ¥ 1235 ¥1980 广东 卖家信用极好" [ref=e373] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=946938727964&categoryId=126864997
+            - img [ref=e375]
+            - generic [ref=e376]:
+              - generic "Ugoos AM6B+PLUS 4+32安卓机顶盒S922X -J+安卓9.0+千兆双频WIFI+蓝牙ugoos am6b plus 关联极光4pro 极光6s CoreELEC系统 ce系统天花板[棒][棒] 全新发货+插头直接国内用。刷coreelec系统 可以实现双层杜比视界，音频直通，可以..." [ref=e377]:
+                - generic [ref=e378]:
+                  - img [ref=e379]
+                  - text: Ugoos AM6B+PLUS 4+32安卓机顶盒S922X -J+安卓9.0+千兆双频WIFI+蓝牙ugoos am6b plus 关联极光4pro 极光6s CoreELEC系统 ce系统天花板[棒][棒] 全新发货+插头直接国内用。刷coreelec系统 可以实现双层杜比视界，音频直通，可以...
+              - img [ref=e381]
+              - generic [ref=e382]:
+                - generic [ref=e383]:
+                  - generic [ref=e384]: ¥
+                  - generic [ref=e385]: "1235"
+                - generic "¥1980" [ref=e387]
+              - generic [ref=e388]:
+                - img [ref=e389]
+                - generic "广东" [ref=e390]:
+                  - paragraph [ref=e392]: 广东
+                - generic "卖家信用极好" [ref=e395]
+          - link "ugoos am6b plus专用CE镜像，支持双杜比视界， 原盘杜比视界，单轨/双轨双层杜比，次世代透传 标价卖的是优化好CE系统专用镜像，集成海报墙，CD2，docker等，详细可参照架上腾讯极光盒子4Pro/6S专用CE系统镜像介绍！ ¥ 50 累计降价49% 福建 卖家信用极好" [ref=e396] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=866807974408&categoryId=201459411
+            - img [ref=e398]
+            - generic [ref=e399]:
+              - generic "ugoos am6b plus专用CE镜像，支持双杜比视界， 原盘杜比视界，单轨/双轨双层杜比，次世代透传 标价卖的是优化好CE系统专用镜像，集成海报墙，CD2，docker等，详细可参照架上腾讯极光盒子4Pro/6S专用CE系统镜像介绍！" [ref=e400]:
+                - generic [ref=e401]:
+                  - img [ref=e402]
+                  - text: ugoos am6b plus专用CE镜像，支持双杜比视界， 原盘杜比视界，单轨/双轨双层杜比，次世代透传 标价卖的是优化好CE系统专用镜像，集成海报墙，CD2，docker等，详细可参照架上腾讯极光盒子4Pro/6S专用CE系统镜像介绍！
+              - generic [ref=e404]:
+                - generic [ref=e405]:
+                  - generic [ref=e406]: ¥
+                  - generic [ref=e407]: "50"
+                - generic [ref=e409]:
+                  - img [ref=e410]
+                  - generic "累计降价49%" [ref=e411]
+              - generic [ref=e412]:
+                - img [ref=e413]
+                - generic "福建" [ref=e414]:
+                  - paragraph [ref=e416]: 福建
+                - generic "卖家信用极好" [ref=e419]
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - button [disabled] [ref=e423]
+            - generic [ref=e425] [cursor=pointer]: "1"
+            - button [disabled] [ref=e426]
+          - generic [ref=e428]:
+            - generic [ref=e429]:
+              - generic [ref=e430]: 到第
+              - textbox [ref=e432]
+              - generic [ref=e433]: 页
+            - button "确定" [ref=e434] [cursor=pointer]
+      - generic [ref=e437]:
+        - link "发闲置" [ref=e438] [cursor=pointer]:
+          - /url: https://www.goofish.com/publish
+          - img [ref=e440]
+          - generic [ref=e441]: 发闲置
+        - link "3 消息" [ref=e442] [cursor=pointer]:
+          - /url: https://www.goofish.com/im
+          - generic [ref=e444]:
+            - img [ref=e445]
+            - generic [ref=e446]: "3"
+          - generic [ref=e447]: 消息
+        - generic [ref=e449] [cursor=pointer]:
+          - img [ref=e452]
+          - generic [ref=e453]: APP
+        - link "反馈" [ref=e454] [cursor=pointer]:
+          - /url: https://www.goofish.com/feedback?from=search
+          - img [ref=e457]
+          - generic [ref=e458]: 反馈
+        - link "客服" [ref=e459] [cursor=pointer]:
+          - /url: https://alimebot.goofish.com/intl/index.htm?from=wkbRssQuvW
+          - img [ref=e462]
+          - generic [ref=e463]: 客服
+        - link "回顶部":
+          - /url: javascript:void(0);
+          - img [ref=e466] [cursor=pointer]
+          - generic [ref=e467] [cursor=pointer]: 回顶部
+    - generic [ref=e469]:
+      - generic [ref=e470]:
+        - link "阿里巴巴集团" [ref=e472] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/
+        - link "淘宝" [ref=e475] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - link "天猫" [ref=e478] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - link "1688" [ref=e481] [cursor=pointer]:
+          - /url: https://www.1688.com/
+        - link "一淘" [ref=e484] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - link "阿里健康" [ref=e487] [cursor=pointer]:
+          - /url: https://www.alihealth.cn/
+        - link "全球速卖通" [ref=e490] [cursor=pointer]:
+          - /url: https://www.aliexpress.com/
+        - link "阿里巴巴国际站" [ref=e493] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - link "高德" [ref=e496] [cursor=pointer]:
+          - /url: https://mobile.amap.com/
+        - link "飞猪" [ref=e499] [cursor=pointer]:
+          - /url: https://www.fliggy.com/
+        - link "优酷" [ref=e502] [cursor=pointer]:
+          - /url: https://www.youku.com/
+        - link "大麦" [ref=e505] [cursor=pointer]:
+          - /url: https://www.damai.cn/
+        - link "阿里影业" [ref=e508] [cursor=pointer]:
+          - /url: https://www.alibabapictures.com/
+        - link "钉钉" [ref=e511] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/
+        - link "支付宝" [ref=e514] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - link "阿里妈妈" [ref=e517] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - link "阿里云" [ref=e520] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+      - generic [ref=e521]:
+        - generic [ref=e523]: 统一社会信用代码：91330110MA2H1CFF2D
+        - generic [ref=e526]: 增值电信业务经营许可证：浙B2-20201551
+        - generic [ref=e529]: 增值电信业务经营许可证（跨地区）：B2-20241485
+        - generic [ref=e532]: 网络食品销售第三方平台提供者备案：浙网食A33000101
+      - generic [ref=e533]:
+        - generic [ref=e535]: 广播电视节目制作经营许可证：（浙）字第07629号
+        - generic [ref=e538]: 营业性演出许可证：浙演经33010120064
+        - generic [ref=e541]: 集邮市场开办者备案：杭集邮备006
+        - link "APP备案号：浙ICP备20016791号-2A" [ref=e544] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/?spm=a212ne.20922897.9522938140.2#/Integrated/index
+      - generic [ref=e545]:
+        - link "闲鱼社区隐私政策" [ref=e547] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202103021554_43790.html
+        - link "软件许可协议" [ref=e550] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20230509172204596/20230509172204596.html
+        - link "闲鱼社区用户服务协议" [ref=e553] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201708081618_51146.html
+        - link "闲鱼规则" [ref=e556] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/v3Lv4OO6VbJS
+        - link "意见征集" [ref=e559] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/CQJnCbq230i3
+        - link "算法备案" [ref=e562] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/privacy_algorithm_theory_state/20221125171956850/20221125171956850.html?spm=a1zaa.8161610.0.0.7db827b7aQ7Ymq
+      - generic [ref=e563]:
+        - generic [ref=e564]:
+          - img [ref=e565]
+          - link "浙公网安备33011002014818号" [ref=e566] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?spm=2007.1000261.0.0.660534f17KIS1E&recordcode=33011002014818
+        - generic [ref=e568]:
+          - img [ref=e569]
+          - link "电子营业执照" [ref=e570] [cursor=pointer]:
+            - /url: https://intranetproxy.alipay.com/skylark/lark/0/2023/png/40591/1692327101072-570e6872-655c-4d61-b9b9-a1fbd1ca82fb.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1500%2Climit_0
+        - generic [ref=e573]: © Goofish.com 版权所有
+      - generic [ref=e574]:
+        - link [ref=e575]:
+          - /url: https://www.12377.cn/?spm=a21bo.jianhua/a.1997523009.49.5af92a89T43VX8
+          - img [ref=e576] [cursor=pointer]
+        - link [ref=e577]:
+          - /url: https://www.12377.cn/node_548446.htm?spm=a21bo.jianhua/a.1997523009.50.5af92a89T43VX8
+          - img [ref=e578] [cursor=pointer]
+        - generic [ref=e579]:
+          - paragraph [ref=e580]: 推动绿色发展，促进闲置流通
+          - generic [ref=e581]:
+            - link "《促进绿色消费实施方案》" [ref=e582] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/21/content_5669785.htm
+            - link "《关于加快废旧物资循环利用体系建设的指导意见》" [ref=e583] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/22/content_5669857.htm
+    - generic [ref=e584] [cursor=pointer]:
+      - img [ref=e585]
+      - img [ref=e586]

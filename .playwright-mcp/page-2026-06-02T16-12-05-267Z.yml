@@ -1,0 +1,805 @@
+- generic [active] [ref=e1]:
+  - img "闲鱼站点Logo" [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7] [cursor=pointer]:
+        - img "闲鱼站点Logo" [ref=e9]
+        - link [ref=e10]:
+          - /url: https://www.goofish.com/
+          - img [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - textbox [ref=e14]: RAX3000M
+          - button "搜索" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e17]: 搜索
+          - generic [ref=e18]:
+            - link "小米路由器ax3000t" [ref=e19] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8ax3000t
+            - link "armbian盒子" [ref=e20] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=armbian%E7%9B%92%E5%AD%90
+            - link "回到末来耐克" [ref=e21] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%9B%9E%E5%88%B0%E6%9C%AB%E6%9D%A5%E8%80%90%E5%85%8B
+            - link "顽皮猫罐头" [ref=e22] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%A1%BD%E7%9A%AE%E7%8C%AB%E7%BD%90%E5%A4%B4
+            - link "s905x3" [ref=e23] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3
+            - link "s905x3盒子" [ref=e24] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3%E7%9B%92%E5%AD%90
+            - link "铁门" [ref=e25] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%93%81%E9%97%A8
+            - link "猫用品" [ref=e26] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8C%AB%E7%94%A8%E5%93%81
+            - link "随身wifi" [ref=e27] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%9A%8F%E8%BA%ABwifi
+            - link "1元手机" [ref=e28] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=1%E5%85%83%E6%89%8B%E6%9C%BA
+        - generic [ref=e29] [cursor=pointer]:
+          - link "坏坏的死神" [ref=e30]:
+            - /url: https://www.goofish.com/personal
+            - img [ref=e31]
+            - generic [ref=e32]: 坏坏的死神
+          - link "订单" [ref=e34]:
+            - /url: https://www.goofish.com/bought
+            - img [ref=e36]
+            - generic [ref=e37]: 订单
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e40]
+        - link "网页版发闲置功能又升级啦！" [ref=e41]:
+          - /url: https://www.goofish.com/changelog
+          - generic [ref=e42] [cursor=pointer]: 网页版发闲置功能又升级啦！
+        - img [ref=e43] [cursor=pointer]
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e49]: 综合
+            - generic [ref=e52] [cursor=pointer]: 新降价
+            - generic [ref=e55]: 新发布
+            - generic [ref=e59]: 价格
+            - generic [ref=e61]:
+              - textbox "¥" [ref=e62]
+              - generic [ref=e63]: "-"
+              - textbox "¥" [ref=e64]
+              - button "确定" [disabled]
+          - generic [ref=e65]:
+            - generic [ref=e67] [cursor=pointer]:
+              - generic [ref=e68]: 区域
+              - img [ref=e69]
+            - generic [ref=e70]:
+              - button [ref=e71] [cursor=pointer]
+              - generic [ref=e73]: 2/3
+              - button [ref=e74] [cursor=pointer]
+        - generic [ref=e78]:
+          - generic [ref=e81] [cursor=pointer]: 个人闲置
+          - generic [ref=e84] [cursor=pointer]: 验货宝
+          - generic [ref=e87] [cursor=pointer]: 验号担保
+          - generic [ref=e90] [cursor=pointer]: 包邮
+          - generic [ref=e93] [cursor=pointer]: 超赞鱼小铺
+          - generic [ref=e96] [cursor=pointer]: 全新
+          - generic [ref=e99] [cursor=pointer]: 严选
+          - generic [ref=e102] [cursor=pointer]: 转卖
+        - generic [ref=e1800]:
+          - link "【中国移动RAX3000H WiFi6千兆双频路由器】四天线 设计，2.4G/5G双频，千兆网口，信号覆盖广，家用办公都合适～ 支持包邮，也可以自提！喜欢直接拍，细节随时问我，价格可聊，诚心要可聊～ 全新 中国移动 ¥ 80 8人想要 山东 卖家信用优秀" [ref=e1801] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1026871530613&categoryId=126862919
+            - img [ref=e1803]
+            - generic [ref=e1804]:
+              - generic "【中国移动RAX3000H WiFi6千兆双频路由器】四天线 设计，2.4G/5G双频，千兆网口，信号覆盖广，家用办公都合适～ 支持包邮，也可以自提！喜欢直接拍，细节随时问我，价格可聊，诚心要可聊～" [ref=e1805]:
+                - generic [ref=e1806]:
+                  - img [ref=e1807]
+                  - text: 【中国移动RAX3000H WiFi6千兆双频路由器】四天线 设计，2.4G/5G双频，千兆网口，信号覆盖广，家用办公都合适～ 支持包邮，也可以自提！喜欢直接拍，细节随时问我，价格可聊，诚心要可聊～
+              - generic [ref=e1808]:
+                - generic [ref=e1810]: 全新
+                - generic [ref=e1813]: 中国移动
+              - generic [ref=e1814]:
+                - generic [ref=e1815]:
+                  - generic [ref=e1816]: ¥
+                  - generic [ref=e1817]: "80"
+                - generic "8人想要" [ref=e1819]
+              - generic [ref=e1820]:
+                - img [ref=e1821]
+                - generic "山东" [ref=e1822]:
+                  - paragraph [ref=e1824]: 山东
+                - generic "卖家信用优秀" [ref=e1827]
+          - link "中国移动RAX3000Z路由器 3000M双频，五天线，信号强 功能正常，带电源 支持靖江同城自提 ¥ 60 ¥200 江苏" [ref=e1828] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1026598012899&categoryId=126862919
+            - img [ref=e1830]
+            - generic [ref=e1831]:
+              - generic "中国移动RAX3000Z路由器 3000M双频，五天线，信号强 功能正常，带电源 支持靖江同城自提" [ref=e1832]:
+                - generic [ref=e1833]: 中国移动RAX3000Z路由器 3000M双频，五天线，信号强 功能正常，带电源 支持靖江同城自提
+              - generic [ref=e1835]:
+                - generic [ref=e1836]:
+                  - generic [ref=e1837]: ¥
+                  - generic [ref=e1838]: "60"
+                - generic "¥200" [ref=e1840]
+              - generic [ref=e1841]:
+                - img [ref=e1842]
+                - generic "江苏" [ref=e1843]:
+                  - paragraph [ref=e1845]: 江苏
+          - link "全新中国移动RAX3000H路由器，3000兆WiFi6千兆 双频，四天线，信号强，家用办公都合适。原装包装盒、电源、网线都在，插电即用。全新货。不是翻新货。移动公司送的2台。90一台，打包2台175。 全新 中国移动 ¥ 90 6人想要 广东" [ref=e1846] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1045181747819&categoryId=126862919
+            - img [ref=e1848]
+            - generic [ref=e1849]:
+              - generic "全新中国移动RAX3000H路由器，3000兆WiFi6千兆 双频，四天线，信号强，家用办公都合适。原装包装盒、电源、网线都在，插电即用。全新货。不是翻新货。移动公司送的2台。90一台，打包2台175。" [ref=e1850]:
+                - generic [ref=e1851]:
+                  - img [ref=e1852]
+                  - text: 全新中国移动RAX3000H路由器，3000兆WiFi6千兆 双频，四天线，信号强，家用办公都合适。原装包装盒、电源、网线都在，插电即用。全新货。不是翻新货。移动公司送的2台。90一台，打包2台175。
+              - generic [ref=e1853]:
+                - generic [ref=e1855]: 全新
+                - generic [ref=e1858]: 中国移动
+              - generic [ref=e1859]:
+                - generic [ref=e1860]:
+                  - generic [ref=e1861]: ¥
+                  - generic [ref=e1862]: "90"
+                - generic "6人想要" [ref=e1864]
+              - generic [ref=e1865]:
+                - img [ref=e1866]
+                - generic "广东" [ref=e1867]:
+                  - paragraph [ref=e1869]: 广东
+          - link "个人闲置 中国移动RAX3000Z WiFi6千兆双频路由器 五天线设计，3000M无线速率，2.4G+5G双频，信号很强，穿墙效果不错，三网通用，家用办公宿舍都合适 带原装电源、网线、说明书，配件齐全，全新，没用过，天线完好 换设备了，这台一直闲置，功能正常 支持自提，也可以邮寄 价格可聊，喜欢直... 全新 中国移动 ¥ 100 广东 卖家信用优秀" [ref=e1870] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1047004254800&categoryId=126862919
+            - img [ref=e1872]
+            - generic [ref=e1873]:
+              - generic "个人闲置 中国移动RAX3000Z WiFi6千兆双频路由器 五天线设计，3000M无线速率，2.4G+5G双频，信号很强，穿墙效果不错，三网通用，家用办公宿舍都合适 带原装电源、网线、说明书，配件齐全，全新，没用过，天线完好 换设备了，这台一直闲置，功能正常 支持自提，也可以邮寄 价格可聊，喜欢直..." [ref=e1874]:
+                - generic [ref=e1875]: 个人闲置 中国移动RAX3000Z WiFi6千兆双频路由器 五天线设计，3000M无线速率，2.4G+5G双频，信号很强，穿墙效果不错，三网通用，家用办公宿舍都合适 带原装电源、网线、说明书，配件齐全，全新，没用过，天线完好 换设备了，这台一直闲置，功能正常 支持自提，也可以邮寄 价格可聊，喜欢直...
+              - generic [ref=e1876]:
+                - generic [ref=e1878]: 全新
+                - generic [ref=e1881]: 中国移动
+              - generic [ref=e1883]:
+                - generic [ref=e1884]: ¥
+                - generic [ref=e1885]: "100"
+              - generic [ref=e1886]:
+                - img [ref=e1887]
+                - generic "广东" [ref=e1888]:
+                  - paragraph [ref=e1890]: 广东
+                - generic "卖家信用优秀" [ref=e1893]
+          - link "九成新中国移动RAX3000Z WiFi6千兆双频路由器，信 号很强，穿墙效果好，家用办公都合适。支持2.4G+5G双频，3000M速率，五天线，千兆网口，插电即用，三网通用。带电源，功能正常，没暗病，成色还可以，有点使用痕迹。 包邮，同城可自提，价格可聊，喜欢直接拍，细节私聊发图～ 几乎全新 中国移动 ¥ 35 21人想要 四川" [ref=e1894] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1035739468966&categoryId=126862919
+            - img [ref=e1896]
+            - generic [ref=e1897]:
+              - generic "九成新中国移动RAX3000Z WiFi6千兆双频路由器，信 号很强，穿墙效果好，家用办公都合适。支持2.4G+5G双频，3000M速率，五天线，千兆网口，插电即用，三网通用。带电源，功能正常，没暗病，成色还可以，有点使用痕迹。 包邮，同城可自提，价格可聊，喜欢直接拍，细节私聊发图～" [ref=e1898]:
+                - generic [ref=e1899]: 九成新中国移动RAX3000Z WiFi6千兆双频路由器，信 号很强，穿墙效果好，家用办公都合适。支持2.4G+5G双频，3000M速率，五天线，千兆网口，插电即用，三网通用。带电源，功能正常，没暗病，成色还可以，有点使用痕迹。 包邮，同城可自提，价格可聊，喜欢直接拍，细节私聊发图～
+              - generic [ref=e1900]:
+                - generic [ref=e1902]: 几乎全新
+                - generic [ref=e1905]: 中国移动
+              - generic [ref=e1906]:
+                - generic [ref=e1907]:
+                  - generic [ref=e1908]: ¥
+                  - generic [ref=e1909]: "35"
+                - generic "21人想要" [ref=e1911]
+              - generic [ref=e1912]:
+                - img [ref=e1913]
+                - generic "四川" [ref=e1914]:
+                  - paragraph [ref=e1916]: 四川
+          - link "wifi6,3000M无线路由器带头带网线 感兴趣的话点“我想要”和我私聊吧～ 轻微使用痕迹 中国移动 ¥ 39 4人想要 江苏 发货极快" [ref=e1917] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1041070489088&categoryId=126862919
+            - img [ref=e1919]
+            - generic [ref=e1920]:
+              - generic "wifi6,3000M无线路由器带头带网线 感兴趣的话点“我想要”和我私聊吧～" [ref=e1921]:
+                - generic [ref=e1922]: wifi6,3000M无线路由器带头带网线 感兴趣的话点“我想要”和我私聊吧～
+              - generic [ref=e1923]:
+                - generic [ref=e1925]: 轻微使用痕迹
+                - generic [ref=e1928]: 中国移动
+              - generic [ref=e1929]:
+                - generic [ref=e1930]:
+                  - generic [ref=e1931]: ¥
+                  - generic [ref=e1932]: "39"
+                - generic "4人想要" [ref=e1934]
+              - generic [ref=e1935]:
+                - img [ref=e1936]
+                - generic "江苏" [ref=e1937]:
+                  - paragraph [ref=e1939]: 江苏
+                - generic "发货极快" [ref=e1942]
+          - link "中国移动CMCC RAX3000-QY WiFi6路由器，四 天线，信号稳，家用办公都行 2022年3月产，标签在，成色还行，有点用痕 裸机出，电源线和盒子没有 仅支持自提，价格可聊，细节私聊 轻微使用痕迹 中国移动 ¥ 45 江苏 卖家信用优秀" [ref=e1943] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1044151718460&categoryId=126862919
+            - img [ref=e1945]
+            - generic [ref=e1946]:
+              - generic "中国移动CMCC RAX3000-QY WiFi6路由器，四 天线，信号稳，家用办公都行 2022年3月产，标签在，成色还行，有点用痕 裸机出，电源线和盒子没有 仅支持自提，价格可聊，细节私聊" [ref=e1947]:
+                - generic [ref=e1948]: 中国移动CMCC RAX3000-QY WiFi6路由器，四 天线，信号稳，家用办公都行 2022年3月产，标签在，成色还行，有点用痕 裸机出，电源线和盒子没有 仅支持自提，价格可聊，细节私聊
+              - generic [ref=e1949]:
+                - generic [ref=e1951]: 轻微使用痕迹
+                - generic [ref=e1954]: 中国移动
+              - generic [ref=e1956]:
+                - generic [ref=e1957]: ¥
+                - generic [ref=e1958]: "45"
+              - generic [ref=e1959]:
+                - img [ref=e1960]
+                - generic "江苏" [ref=e1961]:
+                  - paragraph [ref=e1963]: 江苏
+                - generic "卖家信用优秀" [ref=e1966]
+          - link "京东云AX3000后羿路由器，满血版，512MB大内存，Wi Fi6，无线3000M兆，带游戏加速，支持Mesh组网 自带64g私有云盘可以储存照片视频，内存比普通3000兆路由器大一倍（例如：小米ax3000t,腾达，tp等） 而且是可以赚钱的路由器:支持利用闲置宽带赚取京豆 成色99新，仅拆... 几乎全新 京东云 ¥ 140 .11 广东 百分百好评" [ref=e1967] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=999164486050&categoryId=126862919
+            - img [ref=e1969]
+            - generic [ref=e1970]:
+              - generic "京东云AX3000后羿路由器，满血版，512MB大内存，Wi Fi6，无线3000M兆，带游戏加速，支持Mesh组网 自带64g私有云盘可以储存照片视频，内存比普通3000兆路由器大一倍（例如：小米ax3000t,腾达，tp等） 而且是可以赚钱的路由器:支持利用闲置宽带赚取京豆 成色99新，仅拆..." [ref=e1971]:
+                - generic [ref=e1972]: 京东云AX3000后羿路由器，满血版，512MB大内存，Wi Fi6，无线3000M兆，带游戏加速，支持Mesh组网 自带64g私有云盘可以储存照片视频，内存比普通3000兆路由器大一倍（例如：小米ax3000t,腾达，tp等） 而且是可以赚钱的路由器:支持利用闲置宽带赚取京豆 成色99新，仅拆...
+              - generic [ref=e1973]:
+                - generic [ref=e1975]: 几乎全新
+                - generic [ref=e1978]: 京东云
+              - generic [ref=e1979]:
+                - generic [ref=e1980]:
+                  - generic [ref=e1981]: ¥
+                  - generic [ref=e1982]: "140"
+                  - generic [ref=e1983]: ".11"
+                - img [ref=e1985]
+              - generic [ref=e1986]:
+                - img [ref=e1987]
+                - generic "广东" [ref=e1988]:
+                  - paragraph [ref=e1990]: 广东
+                - generic "百分百好评" [ref=e1993]
+          - link "【坏】cmcc rax3000m 算力版 刷机刷坏了，插电指 示灯不亮，ttl也没反应，售出不接受退换。 10天内降价 ¥ 80 累计降价11% 广东 卖家信用极好" [ref=e1994] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1049884211479&categoryId=126862942
+            - img [ref=e1996]
+            - generic [ref=e1997]:
+              - generic "【坏】cmcc rax3000m 算力版 刷机刷坏了，插电指 示灯不亮，ttl也没反应，售出不接受退换。" [ref=e1998]:
+                - generic [ref=e1999]:
+                  - img [ref=e2000]
+                  - text: 【坏】cmcc rax3000m 算力版 刷机刷坏了，插电指 示灯不亮，ttl也没反应，售出不接受退换。
+              - generic [ref=e2003]:
+                - img [ref=e2004]
+                - generic "10天内降价" [ref=e2005]
+              - generic [ref=e2006]:
+                - generic [ref=e2007]:
+                  - generic [ref=e2008]: ¥
+                  - generic [ref=e2009]: "80"
+                - generic [ref=e2011]:
+                  - img [ref=e2012]
+                  - generic "累计降价11%" [ref=e2013]
+              - generic [ref=e2014]:
+                - img [ref=e2015]
+                - generic "广东" [ref=e2016]:
+                  - paragraph [ref=e2018]: 广东
+                - generic "卖家信用极好" [ref=e2021]
+          - link "移动RAX3000Z路由器，拼夕夕购入，轻微使用痕迹，效果不 错，300M宽带可以跑到390左右，宝鸡凤翔自提少5块， 几乎全新 中国移动通信 ¥ 42 陕西 卖家信用优秀" [ref=e2022] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=885345595241&categoryId=126862919
+            - img [ref=e2024]
+            - generic [ref=e2025]:
+              - generic "移动RAX3000Z路由器，拼夕夕购入，轻微使用痕迹，效果不 错，300M宽带可以跑到390左右，宝鸡凤翔自提少5块，" [ref=e2026]:
+                - generic [ref=e2027]: 移动RAX3000Z路由器，拼夕夕购入，轻微使用痕迹，效果不 错，300M宽带可以跑到390左右，宝鸡凤翔自提少5块，
+              - generic [ref=e2028]:
+                - generic [ref=e2030]: 几乎全新
+                - generic [ref=e2033]: 中国移动通信
+              - generic [ref=e2034]:
+                - generic [ref=e2035]:
+                  - generic [ref=e2036]: ¥
+                  - generic [ref=e2037]: "42"
+                - img [ref=e2039]
+              - generic [ref=e2040]:
+                - img [ref=e2041]
+                - generic "陕西" [ref=e2042]:
+                  - paragraph [ref=e2044]: 陕西
+                - generic "卖家信用优秀" [ref=e2047]
+          - link "中国移动RAX3000H WiFi6千兆双频路由器 四天线设计 三个千兆网口 功能都正常 成色看看图 实物拍的 带电源适配器 随机发货 二手闲置 有点小划痕 不影响使用 不提供技术支持 售出无质量问题不退不换 价格可聊 喜欢直接拍～ 轻微使用痕迹 中国移动 ¥ 70 4人想要 广东" [ref=e2048] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1043081795462&categoryId=126862919
+            - img [ref=e2050]
+            - generic [ref=e2051]:
+              - generic "中国移动RAX3000H WiFi6千兆双频路由器 四天线设计 三个千兆网口 功能都正常 成色看看图 实物拍的 带电源适配器 随机发货 二手闲置 有点小划痕 不影响使用 不提供技术支持 售出无质量问题不退不换 价格可聊 喜欢直接拍～" [ref=e2052]:
+                - generic [ref=e2053]:
+                  - img [ref=e2054]
+                  - text: 中国移动RAX3000H WiFi6千兆双频路由器 四天线设计 三个千兆网口 功能都正常 成色看看图 实物拍的 带电源适配器 随机发货 二手闲置 有点小划痕 不影响使用 不提供技术支持 售出无质量问题不退不换 价格可聊 喜欢直接拍～
+              - generic [ref=e2055]:
+                - generic [ref=e2057]: 轻微使用痕迹
+                - generic [ref=e2060]: 中国移动
+              - generic [ref=e2061]:
+                - generic [ref=e2062]:
+                  - generic [ref=e2063]: ¥
+                  - generic [ref=e2064]: "70"
+                - generic "4人想要" [ref=e2066]
+              - generic [ref=e2067]:
+                - img [ref=e2068]
+                - generic "广东" [ref=e2069]:
+                  - paragraph [ref=e2071]: 广东
+          - link "京东云无线宝AX3000路由器，64G内存，几乎全新，外观很 新，配件齐全（原装电源、线都在），信号稳定，家用办公都合适，支持WiFi6，双频千兆，4天线，扩展空间大。 已经刷机，刷成砖了，会刷机的拿回去刷一下 包邮，支持自提，价格可聊，喜欢直接拍，细节随时聊～ 几乎全新 京东云 ¥ 53 累计降价12% 江苏" [ref=e2072] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1031652850984&categoryId=126862919
+            - img [ref=e2074]
+            - generic [ref=e2075]:
+              - generic "京东云无线宝AX3000路由器，64G内存，几乎全新，外观很 新，配件齐全（原装电源、线都在），信号稳定，家用办公都合适，支持WiFi6，双频千兆，4天线，扩展空间大。 已经刷机，刷成砖了，会刷机的拿回去刷一下 包邮，支持自提，价格可聊，喜欢直接拍，细节随时聊～" [ref=e2076]:
+                - generic [ref=e2077]:
+                  - img [ref=e2078]
+                  - text: 京东云无线宝AX3000路由器，64G内存，几乎全新，外观很 新，配件齐全（原装电源、线都在），信号稳定，家用办公都合适，支持WiFi6，双频千兆，4天线，扩展空间大。 已经刷机，刷成砖了，会刷机的拿回去刷一下 包邮，支持自提，价格可聊，喜欢直接拍，细节随时聊～
+              - generic [ref=e2079]:
+                - generic [ref=e2081]: 几乎全新
+                - generic [ref=e2084]: 京东云
+              - generic [ref=e2085]:
+                - generic [ref=e2086]:
+                  - generic [ref=e2087]: ¥
+                  - generic [ref=e2088]: "53"
+                - generic [ref=e2090]:
+                  - img [ref=e2091]
+                  - generic "累计降价12%" [ref=e2092]
+              - generic [ref=e2093]:
+                - img [ref=e2094]
+                - generic "江苏" [ref=e2095]:
+                  - paragraph [ref=e2097]: 江苏
+          - link "水星YR1901G双频千兆路由器 全新未拆封 1900M高速 无线 六根天线信号超强 支持2.4G和5G双频 千兆网口 移动定制款 带原装电源适配器 配件齐全 适合家用办公 穿墙能力强 功能完好 同城可自提，价格可小刀 欢迎咨询 全新 TP-LINK ¥ 75 四川" [ref=e2098] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=994494620475&categoryId=126862919
+            - img [ref=e2100]
+            - generic [ref=e2101]:
+              - generic "水星YR1901G双频千兆路由器 全新未拆封 1900M高速 无线 六根天线信号超强 支持2.4G和5G双频 千兆网口 移动定制款 带原装电源适配器 配件齐全 适合家用办公 穿墙能力强 功能完好 同城可自提，价格可小刀 欢迎咨询" [ref=e2102]:
+                - generic [ref=e2103]:
+                  - img [ref=e2104]
+                  - text: 水星YR1901G双频千兆路由器 全新未拆封 1900M高速 无线 六根天线信号超强 支持2.4G和5G双频 千兆网口 移动定制款 带原装电源适配器 配件齐全 适合家用办公 穿墙能力强 功能完好 同城可自提，价格可小刀 欢迎咨询
+              - generic [ref=e2105]:
+                - generic [ref=e2107]: 全新
+                - generic [ref=e2110]: TP-LINK
+              - generic [ref=e2112]:
+                - generic [ref=e2113]: ¥
+                - generic [ref=e2114]: "75"
+              - generic [ref=e2115]:
+                - img [ref=e2116]
+                - generic "四川" [ref=e2117]:
+                  - paragraph [ref=e2119]: 四川
+          - link "中国移动WiFi6路由器RAX3000Z 千兆双频 99新 五根天线信号超强 支持mesh组网 全千兆网口 适合家用办公 功能正常 带原装电源 不退不换 介意勿拍 几乎全新 中国移动 ¥ 36 累计降价10% 广西" [ref=e2120] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=986975653651&categoryId=126862919
+            - img [ref=e2122]
+            - generic [ref=e2123]:
+              - generic "中国移动WiFi6路由器RAX3000Z 千兆双频 99新 五根天线信号超强 支持mesh组网 全千兆网口 适合家用办公 功能正常 带原装电源 不退不换 介意勿拍" [ref=e2124]:
+                - generic [ref=e2125]: 中国移动WiFi6路由器RAX3000Z 千兆双频 99新 五根天线信号超强 支持mesh组网 全千兆网口 适合家用办公 功能正常 带原装电源 不退不换 介意勿拍
+              - generic [ref=e2126]:
+                - generic [ref=e2128]: 几乎全新
+                - generic [ref=e2131]: 中国移动
+              - generic [ref=e2132]:
+                - generic [ref=e2133]:
+                  - generic [ref=e2134]: ¥
+                  - generic [ref=e2135]: "36"
+                - generic [ref=e2137]:
+                  - img [ref=e2138]
+                  - generic "累计降价10%" [ref=e2139]
+              - generic [ref=e2140]:
+                - img [ref=e2141]
+                - generic "广西" [ref=e2142]:
+                  - paragraph [ref=e2144]: 广西
+          - link "烽火WIFI7路由器SR4201SH移动版BE3600M带2 .5G WAN口家用办公四天线，2.4G/5G双频，2.5g网口，信号稳定，穿墙效果好，家用办公都合适。成色几乎全新，有6个，外观很新，带原装电源，功能正常，性价比最高的wifi7。包邮，需要细节图私聊，喜欢直接拍。没有包装盒了就电源，6个... 几乎全新 烽火 ¥ 307 2人想要 广东 百分百好评" [ref=e2145] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1037723387170&categoryId=126862919
+            - img [ref=e2147]
+            - generic [ref=e2148]:
+              - generic "烽火WIFI7路由器SR4201SH移动版BE3600M带2 .5G WAN口家用办公四天线，2.4G/5G双频，2.5g网口，信号稳定，穿墙效果好，家用办公都合适。成色几乎全新，有6个，外观很新，带原装电源，功能正常，性价比最高的wifi7。包邮，需要细节图私聊，喜欢直接拍。没有包装盒了就电源，6个..." [ref=e2149]:
+                - generic [ref=e2150]:
+                  - img [ref=e2151]
+                  - text: 烽火WIFI7路由器SR4201SH移动版BE3600M带2 .5G WAN口家用办公四天线，2.4G/5G双频，2.5g网口，信号稳定，穿墙效果好，家用办公都合适。成色几乎全新，有6个，外观很新，带原装电源，功能正常，性价比最高的wifi7。包邮，需要细节图私聊，喜欢直接拍。没有包装盒了就电源，6个...
+              - generic [ref=e2152]:
+                - generic [ref=e2154]: 几乎全新
+                - generic [ref=e2157]: 烽火
+              - generic [ref=e2158]:
+                - generic [ref=e2159]:
+                  - generic [ref=e2160]: ¥
+                  - generic [ref=e2161]: "307"
+                - generic "2人想要" [ref=e2163]
+              - generic [ref=e2164]:
+                - img [ref=e2165]
+                - generic "广东" [ref=e2166]:
+                  - paragraph [ref=e2168]: 广东
+                - generic "百分百好评" [ref=e2171]
+          - link "中国移动RAX3000-QY 3000M高速 4天线 ，信号强，穿墙效果好，全千兆端口，三网通用，家用办公都合适。2025年10月份买的中国移动套餐，现在不用了转让。 全新 中国移动 ¥ 138 3人想要 海南 百分百好评" [ref=e2172] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1016505263145&categoryId=126862919
+            - img [ref=e2174]
+            - generic [ref=e2175]:
+              - generic "中国移动RAX3000-QY 3000M高速 4天线 ，信号强，穿墙效果好，全千兆端口，三网通用，家用办公都合适。2025年10月份买的中国移动套餐，现在不用了转让。" [ref=e2176]:
+                - generic [ref=e2177]:
+                  - img [ref=e2178]
+                  - text: 中国移动RAX3000-QY 3000M高速 4天线 ，信号强，穿墙效果好，全千兆端口，三网通用，家用办公都合适。2025年10月份买的中国移动套餐，现在不用了转让。
+              - generic [ref=e2179]:
+                - generic [ref=e2181]: 全新
+                - generic [ref=e2184]: 中国移动
+              - generic [ref=e2185]:
+                - generic [ref=e2186]:
+                  - generic [ref=e2187]: ¥
+                  - generic [ref=e2188]: "138"
+                - generic "3人想要" [ref=e2190]
+              - generic [ref=e2191]:
+                - img [ref=e2192]
+                - generic "海南" [ref=e2193]:
+                  - paragraph [ref=e2195]: 海南
+                - generic "百分百好评" [ref=e2198]
+          - link "X86小主机，以前小时候的电脑，自带网卡，现在可作用于工作室 旁软路由，系统自己刷，附带赠送一台网络交换机。 另外还有WiFi版RAX3000M的软路由,大概十几台，可作用于海外直播专线设备， WiFi版的是已经刷好，可直接使用。 x86单机：860 企业交换机：180 RAX3000M软路由：单... 轻微使用痕迹 功能完好无维修 ¥ 99 累计降价91% 广东 百分百好评" [ref=e2199] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1038086055343&categoryId=127388003
+            - img [ref=e2201]
+            - generic [ref=e2202]:
+              - generic "X86小主机，以前小时候的电脑，自带网卡，现在可作用于工作室 旁软路由，系统自己刷，附带赠送一台网络交换机。 另外还有WiFi版RAX3000M的软路由,大概十几台，可作用于海外直播专线设备， WiFi版的是已经刷好，可直接使用。 x86单机：860 企业交换机：180 RAX3000M软路由：单..." [ref=e2203]:
+                - generic [ref=e2204]: X86小主机，以前小时候的电脑，自带网卡，现在可作用于工作室 旁软路由，系统自己刷，附带赠送一台网络交换机。 另外还有WiFi版RAX3000M的软路由,大概十几台，可作用于海外直播专线设备， WiFi版的是已经刷好，可直接使用。 x86单机：860 企业交换机：180 RAX3000M软路由：单...
+              - generic [ref=e2205]:
+                - generic [ref=e2207]: 轻微使用痕迹
+                - generic [ref=e2210]: 功能完好无维修
+              - generic [ref=e2211]:
+                - generic [ref=e2212]:
+                  - generic [ref=e2213]: ¥
+                  - generic [ref=e2214]: "99"
+                - generic [ref=e2216]:
+                  - img [ref=e2217]
+                  - generic "累计降价91%" [ref=e2218]
+              - generic [ref=e2219]:
+                - img [ref=e2220]
+                - generic "广东" [ref=e2221]:
+                  - paragraph [ref=e2223]: 广东
+                - generic "百分百好评" [ref=e2226]
+          - link "cudy tr3000 ax3000t ax6000 nx3 pro jcq30 rax3000m一机多wifi512m大内存 铝壳并支持半导体散热芯片 小红书直播短视频方案 抖音tiktok直播短视频方案 涵盖全球各个平台各种网络解决方案！欢迎合作咨询…… ¥ 360 ¥560 河南 卖家信用优秀" [ref=e2227] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=934349633581&categoryId=126862919
+            - img [ref=e2229]
+            - generic [ref=e2230]:
+              - generic "cudy tr3000 ax3000t ax6000 nx3 pro jcq30 rax3000m一机多wifi512m大内存 铝壳并支持半导体散热芯片 小红书直播短视频方案 抖音tiktok直播短视频方案 涵盖全球各个平台各种网络解决方案！欢迎合作咨询……" [ref=e2231]:
+                - generic [ref=e2232]:
+                  - img [ref=e2233]
+                  - text: cudy tr3000 ax3000t ax6000 nx3 pro jcq30 rax3000m一机多wifi512m大内存 铝壳并支持半导体散热芯片 小红书直播短视频方案 抖音tiktok直播短视频方案 涵盖全球各个平台各种网络解决方案！欢迎合作咨询……
+              - generic [ref=e2235]:
+                - generic [ref=e2236]:
+                  - generic [ref=e2237]: ¥
+                  - generic [ref=e2238]: "360"
+                - generic "¥560" [ref=e2240]
+              - generic [ref=e2241]:
+                - img [ref=e2242]
+                - generic "河南" [ref=e2243]:
+                  - paragraph [ref=e2245]: 河南
+                - generic "卖家信用优秀" [ref=e2248]
+          - link "中国移动单宽带 租房宽带转让，全新，带原装盒子。WiFi6协 议，300M速率，千兆网口，信号稳定，穿墙效果好。家用办公都合适，插电即用，操作简单。 包邮 无安装费 无上门费，喜欢直接拍，细节随时问我～ 全新 中国移动 移动 ¥ 360 云南" [ref=e2249] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1028695827081&categoryId=126862916
+            - img [ref=e2251]
+            - generic [ref=e2252]:
+              - generic "中国移动单宽带 租房宽带转让，全新，带原装盒子。WiFi6协 议，300M速率，千兆网口，信号稳定，穿墙效果好。家用办公都合适，插电即用，操作简单。 包邮 无安装费 无上门费，喜欢直接拍，细节随时问我～" [ref=e2253]:
+                - generic [ref=e2254]:
+                  - img [ref=e2255]
+                  - text: 中国移动单宽带 租房宽带转让，全新，带原装盒子。WiFi6协 议，300M速率，千兆网口，信号稳定，穿墙效果好。家用办公都合适，插电即用，操作简单。 包邮 无安装费 无上门费，喜欢直接拍，细节随时问我～
+              - generic [ref=e2256]:
+                - generic [ref=e2258]: 全新
+                - generic [ref=e2261]: 中国移动
+                - generic [ref=e2264]: 移动
+              - generic [ref=e2265]:
+                - generic [ref=e2266]:
+                  - generic [ref=e2267]: ¥
+                  - generic [ref=e2268]: "360"
+                - img [ref=e2270]
+              - generic [ref=e2271]:
+                - img [ref=e2272]
+                - generic "云南" [ref=e2273]:
+                  - paragraph [ref=e2275]: 云南
+          - 'link "软路由64G版升级了最新版Open系统 存储：64G eMMC+235M内存 无线：AX3000满血WiFi6 接口：4×千兆口 + USB3.0 软路由神机: 1、可实现流量控制广告过滤内网穿透等等功能，兼任传统硬路由的WiFi功能的同时满足软路由系统才拥有的... 全新 中国移动 ¥ 300 9人想要 湖南" [ref=e2276] [cursor=pointer]':
+            - /url: https://www.goofish.com/item?id=979396737650&categoryId=126862919
+            - img [ref=e2278]
+            - generic [ref=e2279]:
+              - 'generic "软路由64G版升级了最新版Open系统 存储：64G eMMC+235M内存 无线：AX3000满血WiFi6 接口：4×千兆口 + USB3.0 软路由神机: 1、可实现流量控制广告过滤内网穿透等等功能，兼任传统硬路由的WiFi功能的同时满足软路由系统才拥有的..." [ref=e2280]':
+                - generic [ref=e2281]:
+                  - img [ref=e2282]
+                  - text: "软路由64G版升级了最新版Open系统 存储：64G eMMC+235M内存 无线：AX3000满血WiFi6 接口：4×千兆口 + USB3.0 软路由神机: 1、可实现流量控制广告过滤内网穿透等等功能，兼任传统硬路由的WiFi功能的同时满足软路由系统才拥有的..."
+              - generic [ref=e2283]:
+                - generic [ref=e2285]: 全新
+                - generic [ref=e2288]: 中国移动
+              - generic [ref=e2289]:
+                - generic [ref=e2290]:
+                  - generic [ref=e2291]: ¥
+                  - generic [ref=e2292]: "300"
+                - generic "9人想要" [ref=e2294]
+              - generic [ref=e2295]:
+                - img [ref=e2296]
+                - generic "湖南" [ref=e2297]:
+                  - paragraph [ref=e2299]: 湖南
+          - link "rax3000m 路由器救砖教程，虚拟物品不退不换，拍下后留 邮箱发送。 ¥ 19 .89 广东" [ref=e2300] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1046493194472&categoryId=126862919
+            - img [ref=e2302]
+            - generic [ref=e2303]:
+              - generic "rax3000m 路由器救砖教程，虚拟物品不退不换，拍下后留 邮箱发送。" [ref=e2304]:
+                - generic [ref=e2305]: rax3000m 路由器救砖教程，虚拟物品不退不换，拍下后留 邮箱发送。
+              - generic [ref=e2308]:
+                - generic [ref=e2309]: ¥
+                - generic [ref=e2310]: "19"
+                - generic [ref=e2311]: ".89"
+              - generic [ref=e2312]:
+                - img [ref=e2313]
+                - generic "广东" [ref=e2314]:
+                  - paragraph [ref=e2316]: 广东
+          - link "Netgear RAX50 双频AX5400M 电竞WiFi 6路由器 成色九五新，功能正常，原装电源+天线都在，信号稳定，打游戏延迟很低，穿墙效果不错，家里的千兆宽带基本能跑满。 包邮，支持自提，价格好聊，喜欢直接拍或者私聊，细节图可发～ 29天内降价 ¥ 270 累计降价23% 北京 卖家信用极好" [ref=e2317] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1046416886603&categoryId=126862919
+            - img [ref=e2319]
+            - generic [ref=e2320]:
+              - generic "Netgear RAX50 双频AX5400M 电竞WiFi 6路由器 成色九五新，功能正常，原装电源+天线都在，信号稳定，打游戏延迟很低，穿墙效果不错，家里的千兆宽带基本能跑满。 包邮，支持自提，价格好聊，喜欢直接拍或者私聊，细节图可发～" [ref=e2321]:
+                - generic [ref=e2322]:
+                  - img [ref=e2323]
+                  - text: Netgear RAX50 双频AX5400M 电竞WiFi 6路由器 成色九五新，功能正常，原装电源+天线都在，信号稳定，打游戏延迟很低，穿墙效果不错，家里的千兆宽带基本能跑满。 包邮，支持自提，价格好聊，喜欢直接拍或者私聊，细节图可发～
+              - generic [ref=e2326]:
+                - img [ref=e2327]
+                - generic "29天内降价" [ref=e2328]
+              - generic [ref=e2329]:
+                - generic [ref=e2330]:
+                  - generic [ref=e2331]: ¥
+                  - generic [ref=e2332]: "270"
+                - generic [ref=e2334]:
+                  - img [ref=e2335]
+                  - generic "累计降价23%" [ref=e2336]
+              - generic [ref=e2337]:
+                - img [ref=e2338]
+                - generic "北京" [ref=e2339]:
+                  - paragraph [ref=e2341]: 北京
+                - generic "卖家信用极好" [ref=e2344]
+          - link "NETGEAR RAX120，WiFi6旗舰款，AX6000 M，双频，12流，高通四核处理器V1版，千兆网口，5 G/2.5G专属游戏网口自适应，带独立风扇，USB3.0接口 适合大户型、多设备，信号覆盖广，家用办公都行，原价3000+ 已刷梅林系统，没修过，无锁区，功能正常，成色看图，原装电源，有... 轻微使用痕迹 NETGEAR/网件 ¥ 700 累计降价30.00元 广东 百分百好评" [ref=e2345] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1049121294797&categoryId=126862919
+            - img [ref=e2347]
+            - generic [ref=e2348]:
+              - generic "NETGEAR RAX120，WiFi6旗舰款，AX6000 M，双频，12流，高通四核处理器V1版，千兆网口，5 G/2.5G专属游戏网口自适应，带独立风扇，USB3.0接口 适合大户型、多设备，信号覆盖广，家用办公都行，原价3000+ 已刷梅林系统，没修过，无锁区，功能正常，成色看图，原装电源，有..." [ref=e2349]:
+                - generic [ref=e2350]: NETGEAR RAX120，WiFi6旗舰款，AX6000 M，双频，12流，高通四核处理器V1版，千兆网口，5 G/2.5G专属游戏网口自适应，带独立风扇，USB3.0接口 适合大户型、多设备，信号覆盖广，家用办公都行，原价3000+ 已刷梅林系统，没修过，无锁区，功能正常，成色看图，原装电源，有...
+              - generic [ref=e2351]:
+                - generic [ref=e2353]: 轻微使用痕迹
+                - generic [ref=e2356]: NETGEAR/网件
+              - generic [ref=e2357]:
+                - generic [ref=e2358]:
+                  - generic [ref=e2359]: ¥
+                  - generic [ref=e2360]: "700"
+                - generic [ref=e2362]:
+                  - img [ref=e2363]
+                  - generic "累计降价30.00元" [ref=e2364]
+              - generic [ref=e2365]:
+                - img [ref=e2366]
+                - generic "广东" [ref=e2367]:
+                  - paragraph [ref=e2369]: 广东
+                - generic "百分百好评" [ref=e2372]
+          - link "自用NETGEAR网件RBS50Y Orbi分身Mesh路由 器扩展器，21年10月淘宝买的，原装电源，功能正常，信号覆盖广，适合大户型、户外都能用，IP66防护，稳定可靠，成色很不错，没怎么用过，闲置出。 包邮，非质量问题不退不换 几乎全新 Netgear/网件 ¥ 600 购入价3.6折 黑龙江 卖家信用极好" [ref=e2373] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1001253617706&categoryId=126862919
+            - img [ref=e2375]
+            - generic [ref=e2376]:
+              - generic "自用NETGEAR网件RBS50Y Orbi分身Mesh路由 器扩展器，21年10月淘宝买的，原装电源，功能正常，信号覆盖广，适合大户型、户外都能用，IP66防护，稳定可靠，成色很不错，没怎么用过，闲置出。 包邮，非质量问题不退不换" [ref=e2377]:
+                - generic [ref=e2378]:
+                  - img [ref=e2379]
+                  - text: 自用NETGEAR网件RBS50Y Orbi分身Mesh路由 器扩展器，21年10月淘宝买的，原装电源，功能正常，信号覆盖广，适合大户型、户外都能用，IP66防护，稳定可靠，成色很不错，没怎么用过，闲置出。 包邮，非质量问题不退不换
+              - generic [ref=e2380]:
+                - generic [ref=e2382]: 几乎全新
+                - generic [ref=e2385]: Netgear/网件
+              - generic [ref=e2386]:
+                - generic [ref=e2387]:
+                  - generic [ref=e2388]: ¥
+                  - generic [ref=e2389]: "600"
+                - generic [ref=e2391]:
+                  - img [ref=e2392]
+                  - generic "购入价3.6折" [ref=e2393]
+              - generic [ref=e2394]:
+                - img [ref=e2395]
+                - generic "黑龙江" [ref=e2396]:
+                  - paragraph [ref=e2398]: 黑龙江
+                - generic "卖家信用极好" [ref=e2401]
+          - 'link "收 rax3000m 算力版 普通版 收！收！收！ 中国移动rax3000m路由器 #千兆路由器 #中国移动 轻微使用痕迹 中国移动 ¥ 86 累计降价2.00元 山东 百分百好评" [ref=e2402] [cursor=pointer]':
+            - /url: https://www.goofish.com/item?id=995110504127&categoryId=126862919
+            - img [ref=e2404]
+            - generic [ref=e2405]:
+              - 'generic "收 rax3000m 算力版 普通版 收！收！收！ 中国移动rax3000m路由器 #千兆路由器 #中国移动" [ref=e2406]':
+                - generic [ref=e2407]:
+                  - img [ref=e2408]
+                  - text: "收 rax3000m 算力版 普通版 收！收！收！ 中国移动rax3000m路由器 #千兆路由器 #中国移动"
+              - generic [ref=e2409]:
+                - generic [ref=e2411]: 轻微使用痕迹
+                - generic [ref=e2414]: 中国移动
+              - generic [ref=e2415]:
+                - generic [ref=e2416]:
+                  - generic [ref=e2417]: ¥
+                  - generic [ref=e2418]: "86"
+                - generic [ref=e2420]:
+                  - img [ref=e2421]
+                  - generic "累计降价2.00元" [ref=e2422]
+              - generic [ref=e2423]:
+                - img [ref=e2424]
+                - generic "山东" [ref=e2425]:
+                  - paragraph [ref=e2427]: 山东
+                - generic "百分百好评" [ref=e2430]
+          - link "路由器两个： 1、Newifi mini（R6830）：双频WiFi，带USB口，成色较好 2、斐讯K2：双频WiFi，信号稳定，外壳发黄 两个都带电源适配器 两个都已刷breed和OP系统 功能正常，没修过 Newifi mini 31包邮，K... 13天内降价 ¥ 28 累计降价20% 北京 卖家信用极好" [ref=e2431] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1044659273108&categoryId=126862919
+            - img [ref=e2433]
+            - generic [ref=e2434]:
+              - generic "路由器两个： 1、Newifi mini（R6830）：双频WiFi，带USB口，成色较好 2、斐讯K2：双频WiFi，信号稳定，外壳发黄 两个都带电源适配器 两个都已刷breed和OP系统 功能正常，没修过 Newifi mini 31包邮，K..." [ref=e2435]:
+                - generic [ref=e2436]:
+                  - img [ref=e2437]
+                  - text: 路由器两个： 1、Newifi mini（R6830）：双频WiFi，带USB口，成色较好 2、斐讯K2：双频WiFi，信号稳定，外壳发黄 两个都带电源适配器 两个都已刷breed和OP系统 功能正常，没修过 Newifi mini 31包邮，K...
+              - generic [ref=e2440]:
+                - img [ref=e2441]
+                - generic "13天内降价" [ref=e2442]
+              - generic [ref=e2443]:
+                - generic [ref=e2444]:
+                  - generic [ref=e2445]: ¥
+                  - generic [ref=e2446]: "28"
+                - generic [ref=e2448]:
+                  - img [ref=e2449]
+                  - generic "累计降价20%" [ref=e2450]
+              - generic [ref=e2451]:
+                - img [ref=e2452]
+                - generic "北京" [ref=e2453]:
+                  - paragraph [ref=e2455]: 北京
+                - generic "卖家信用极好" [ref=e2458]
+          - link "【家用自用wifi路由器】 不是咸鱼拼多多上那种批发二手的货，是正儿八经买的正品然后自用的，不要跟 10 几块的比。 中国移动定制版，六天线，信号很强，穿墙也不错 千兆端口，插电即用，带电源线和网线 成色还可以，有点使用痕迹，功能都正常 适合家里、出租房用，信号覆盖... 几乎全新 中国移动 ¥ 30 ¥100 山东" [ref=e2459] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1052058932547&categoryId=126862919
+            - img [ref=e2461]
+            - generic [ref=e2462]:
+              - generic "【家用自用wifi路由器】 不是咸鱼拼多多上那种批发二手的货，是正儿八经买的正品然后自用的，不要跟 10 几块的比。 中国移动定制版，六天线，信号很强，穿墙也不错 千兆端口，插电即用，带电源线和网线 成色还可以，有点使用痕迹，功能都正常 适合家里、出租房用，信号覆盖..." [ref=e2463]:
+                - generic [ref=e2464]: 【家用自用wifi路由器】 不是咸鱼拼多多上那种批发二手的货，是正儿八经买的正品然后自用的，不要跟 10 几块的比。 中国移动定制版，六天线，信号很强，穿墙也不错 千兆端口，插电即用，带电源线和网线 成色还可以，有点使用痕迹，功能都正常 适合家里、出租房用，信号覆盖...
+              - generic [ref=e2465]:
+                - generic [ref=e2467]: 几乎全新
+                - generic [ref=e2470]: 中国移动
+              - generic [ref=e2471]:
+                - generic [ref=e2472]:
+                  - generic [ref=e2473]: ¥
+                  - generic [ref=e2474]: "30"
+                - generic "¥100" [ref=e2476]
+              - generic [ref=e2477]:
+                - img [ref=e2478]
+                - generic "山东" [ref=e2479]:
+                  - paragraph [ref=e2481]: 山东
+          - link "【Netgear JNDR3000无线路由器】 功能一切正常，没毛病。 主机+电源线都在，成色看图，有点使用痕迹，不影响使用哈。 需要拿去邮费自理，支持自提，要的拍 12小时前降价 ¥ 16 累计降价47% 广东" [ref=e2482] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1039786530746&categoryId=126862919
+            - img [ref=e2484]
+            - generic [ref=e2485]:
+              - generic "【Netgear JNDR3000无线路由器】 功能一切正常，没毛病。 主机+电源线都在，成色看图，有点使用痕迹，不影响使用哈。 需要拿去邮费自理，支持自提，要的拍" [ref=e2486]:
+                - generic [ref=e2487]: 【Netgear JNDR3000无线路由器】 功能一切正常，没毛病。 主机+电源线都在，成色看图，有点使用痕迹，不影响使用哈。 需要拿去邮费自理，支持自提，要的拍
+              - generic [ref=e2490]:
+                - img [ref=e2491]
+                - generic "12小时前降价" [ref=e2492]
+              - generic [ref=e2493]:
+                - generic [ref=e2494]:
+                  - generic [ref=e2495]: ¥
+                  - generic [ref=e2496]: "16"
+                - generic [ref=e2498]:
+                  - img [ref=e2499]
+                  - generic "累计降价47%" [ref=e2500]
+              - generic [ref=e2501]:
+                - img [ref=e2502]
+                - generic "广东" [ref=e2503]:
+                  - paragraph [ref=e2505]: 广东
+          - link "多台活动用网件NETGEAR JNDR3000路由器，600 M双频无线，支持2.4G和5G网络，带USB接口。功能完好，成色如图，带原装电源和网线。4个网口，信号强劲稳定，适合家用办公。一次多台可小刀 几乎全新 Netgear/网件 ¥ 20 累计降价33% 北京 百分百好评" [ref=e2506] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=932262623093&categoryId=126862919
+            - img [ref=e2508]
+            - generic [ref=e2509]:
+              - generic "多台活动用网件NETGEAR JNDR3000路由器，600 M双频无线，支持2.4G和5G网络，带USB接口。功能完好，成色如图，带原装电源和网线。4个网口，信号强劲稳定，适合家用办公。一次多台可小刀" [ref=e2510]:
+                - generic [ref=e2511]: 多台活动用网件NETGEAR JNDR3000路由器，600 M双频无线，支持2.4G和5G网络，带USB接口。功能完好，成色如图，带原装电源和网线。4个网口，信号强劲稳定，适合家用办公。一次多台可小刀
+              - generic [ref=e2512]:
+                - generic [ref=e2514]: 几乎全新
+                - generic [ref=e2517]: Netgear/网件
+              - generic [ref=e2518]:
+                - generic [ref=e2519]:
+                  - generic [ref=e2520]: ¥
+                  - generic [ref=e2521]: "20"
+                - generic [ref=e2523]:
+                  - img [ref=e2524]
+                  - generic "累计降价33%" [ref=e2525]
+              - generic [ref=e2526]:
+                - img [ref=e2527]
+                - generic "北京" [ref=e2528]:
+                  - paragraph [ref=e2530]: 北京
+                - generic "百分百好评" [ref=e2533]
+          - link "【闲置转让】①NETGEAR网件JNDR3000无线路由器， 双频600M，信号稳定，家用办公都很合适 ②NETGEAR网件 R2000 无线路由器300M ③NETGEAR网件 WNR2000v4 无线路由器300M 【包邮20元/个】 带原装电源，插上就能用，功能正常，没修过，成色还可以... ¥ 18 累计降价10% 江苏 百分百好评" [ref=e2534] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1041598604190&categoryId=126862919
+            - img [ref=e2536]
+            - generic [ref=e2537]:
+              - generic "【闲置转让】①NETGEAR网件JNDR3000无线路由器， 双频600M，信号稳定，家用办公都很合适 ②NETGEAR网件 R2000 无线路由器300M ③NETGEAR网件 WNR2000v4 无线路由器300M 【包邮20元/个】 带原装电源，插上就能用，功能正常，没修过，成色还可以..." [ref=e2538]:
+                - generic [ref=e2539]:
+                  - img [ref=e2540]
+                  - text: 【闲置转让】①NETGEAR网件JNDR3000无线路由器， 双频600M，信号稳定，家用办公都很合适 ②NETGEAR网件 R2000 无线路由器300M ③NETGEAR网件 WNR2000v4 无线路由器300M 【包邮20元/个】 带原装电源，插上就能用，功能正常，没修过，成色还可以...
+              - generic [ref=e2542]:
+                - generic [ref=e2543]:
+                  - generic [ref=e2544]: ¥
+                  - generic [ref=e2545]: "18"
+                - generic [ref=e2547]:
+                  - img [ref=e2548]
+                  - generic "累计降价10%" [ref=e2549]
+              - generic [ref=e2550]:
+                - img [ref=e2551]
+                - generic "江苏" [ref=e2552]:
+                  - paragraph [ref=e2554]: 江苏
+                - generic "百分百好评" [ref=e2557]
+        - generic [ref=e2559]:
+          - generic [ref=e2560]:
+            - button [ref=e2561] [cursor=pointer]
+            - generic [ref=e2563] [cursor=pointer]: "1"
+            - generic [ref=e2564] [cursor=pointer]: "2"
+            - generic [ref=e2565] [cursor=pointer]: "3"
+            - button [ref=e2566] [cursor=pointer]
+          - generic [ref=e2568]:
+            - generic [ref=e2569]:
+              - generic [ref=e2570]: 到第
+              - textbox [ref=e2572]
+              - generic [ref=e2573]: 页
+            - button "确定" [ref=e2574] [cursor=pointer]
+      - generic [ref=e883]:
+        - link "发闲置" [ref=e884] [cursor=pointer]:
+          - /url: https://www.goofish.com/publish
+          - img [ref=e886]
+          - generic [ref=e887]: 发闲置
+        - link "3 消息" [ref=e888] [cursor=pointer]:
+          - /url: https://www.goofish.com/im
+          - generic [ref=e890]:
+            - img [ref=e891]
+            - generic [ref=e892]: "3"
+          - generic [ref=e893]: 消息
+        - generic [ref=e895] [cursor=pointer]:
+          - img [ref=e898]
+          - generic [ref=e899]: APP
+        - link "反馈" [ref=e900] [cursor=pointer]:
+          - /url: https://www.goofish.com/feedback?from=search
+          - img [ref=e903]
+          - generic [ref=e904]: 反馈
+        - link "客服" [ref=e905] [cursor=pointer]:
+          - /url: https://alimebot.goofish.com/intl/index.htm?from=wkbRssQuvW
+          - img [ref=e908]
+          - generic [ref=e909]: 客服
+        - link "回顶部":
+          - /url: javascript:void(0);
+          - img [ref=e912] [cursor=pointer]
+          - generic [ref=e913] [cursor=pointer]: 回顶部
+    - generic [ref=e915]:
+      - generic [ref=e916]:
+        - link "阿里巴巴集团" [ref=e918] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/
+        - link "淘宝" [ref=e921] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - link "天猫" [ref=e924] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - link "1688" [ref=e927] [cursor=pointer]:
+          - /url: https://www.1688.com/
+        - link "一淘" [ref=e930] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - link "阿里健康" [ref=e933] [cursor=pointer]:
+          - /url: https://www.alihealth.cn/
+        - link "全球速卖通" [ref=e936] [cursor=pointer]:
+          - /url: https://www.aliexpress.com/
+        - link "阿里巴巴国际站" [ref=e939] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - link "高德" [ref=e942] [cursor=pointer]:
+          - /url: https://mobile.amap.com/
+        - link "飞猪" [ref=e945] [cursor=pointer]:
+          - /url: https://www.fliggy.com/
+        - link "优酷" [ref=e948] [cursor=pointer]:
+          - /url: https://www.youku.com/
+        - link "大麦" [ref=e951] [cursor=pointer]:
+          - /url: https://www.damai.cn/
+        - link "阿里影业" [ref=e954] [cursor=pointer]:
+          - /url: https://www.alibabapictures.com/
+        - link "钉钉" [ref=e957] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/
+        - link "支付宝" [ref=e960] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - link "阿里妈妈" [ref=e963] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - link "阿里云" [ref=e966] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+      - generic [ref=e967]:
+        - generic [ref=e969]: 统一社会信用代码：91330110MA2H1CFF2D
+        - generic [ref=e972]: 增值电信业务经营许可证：浙B2-20201551
+        - generic [ref=e975]: 增值电信业务经营许可证（跨地区）：B2-20241485
+        - generic [ref=e978]: 网络食品销售第三方平台提供者备案：浙网食A33000101
+      - generic [ref=e979]:
+        - generic [ref=e981]: 广播电视节目制作经营许可证：（浙）字第07629号
+        - generic [ref=e984]: 营业性演出许可证：浙演经33010120064
+        - generic [ref=e987]: 集邮市场开办者备案：杭集邮备006
+        - link "APP备案号：浙ICP备20016791号-2A" [ref=e990] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/?spm=a212ne.20922897.9522938140.2#/Integrated/index
+      - generic [ref=e991]:
+        - link "闲鱼社区隐私政策" [ref=e993] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202103021554_43790.html
+        - link "软件许可协议" [ref=e996] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20230509172204596/20230509172204596.html
+        - link "闲鱼社区用户服务协议" [ref=e999] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201708081618_51146.html
+        - link "闲鱼规则" [ref=e1002] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/v3Lv4OO6VbJS
+        - link "意见征集" [ref=e1005] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/CQJnCbq230i3
+        - link "算法备案" [ref=e1008] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/privacy_algorithm_theory_state/20221125171956850/20221125171956850.html?spm=a1zaa.8161610.0.0.7db827b7aQ7Ymq
+      - generic [ref=e1009]:
+        - generic [ref=e1010]:
+          - img [ref=e1011]
+          - link "浙公网安备33011002014818号" [ref=e1012] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?spm=2007.1000261.0.0.660534f17KIS1E&recordcode=33011002014818
+        - generic [ref=e1014]:
+          - img [ref=e1015]
+          - link "电子营业执照" [ref=e1016] [cursor=pointer]:
+            - /url: https://intranetproxy.alipay.com/skylark/lark/0/2023/png/40591/1692327101072-570e6872-655c-4d61-b9b9-a1fbd1ca82fb.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1500%2Climit_0
+        - generic [ref=e1019]: © Goofish.com 版权所有
+      - generic [ref=e1020]:
+        - link [ref=e1021]:
+          - /url: https://www.12377.cn/?spm=a21bo.jianhua/a.1997523009.49.5af92a89T43VX8
+          - img [ref=e1022] [cursor=pointer]
+        - link [ref=e1023]:
+          - /url: https://www.12377.cn/node_548446.htm?spm=a21bo.jianhua/a.1997523009.50.5af92a89T43VX8
+          - img [ref=e1024] [cursor=pointer]
+        - generic [ref=e1025]:
+          - paragraph [ref=e1026]: 推动绿色发展，促进闲置流通
+          - generic [ref=e1027]:
+            - link "《促进绿色消费实施方案》" [ref=e1028] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/21/content_5669785.htm
+            - link "《关于加快废旧物资循环利用体系建设的指导意见》" [ref=e1029] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/22/content_5669857.htm
+    - generic [ref=e1030] [cursor=pointer]:
+      - img [ref=e1031]
+      - img [ref=e1032]

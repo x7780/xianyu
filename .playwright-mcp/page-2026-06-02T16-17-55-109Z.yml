@@ -1,0 +1,820 @@
+- generic [active] [ref=e1]:
+  - img "闲鱼站点Logo" [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7] [cursor=pointer]:
+        - img "闲鱼站点Logo" [ref=e9]
+        - link [ref=e10]:
+          - /url: https://www.goofish.com/
+          - img [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - textbox [ref=e14]: 红米AX6000
+          - button "搜索" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e17]: 搜索
+          - generic [ref=e18]:
+            - link "小米ax3000t" [ref=e19] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%B0%8F%E7%B1%B3ax3000t
+            - link "armbian盒子" [ref=e20] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=armbian%E7%9B%92%E5%AD%90
+            - link "回到末来耐克" [ref=e21] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%9B%9E%E5%88%B0%E6%9C%AB%E6%9D%A5%E8%80%90%E5%85%8B
+            - link "顽皮猫罐头" [ref=e22] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%A1%BD%E7%9A%AE%E7%8C%AB%E7%BD%90%E5%A4%B4
+            - link "s905x3" [ref=e23] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3
+            - link "三陶教育盒子" [ref=e24] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E4%B8%89%E9%99%B6%E6%95%99%E8%82%B2%E7%9B%92%E5%AD%90
+            - link "铁门" [ref=e25] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%93%81%E9%97%A8
+            - link "猫用品" [ref=e26] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8C%AB%E7%94%A8%E5%93%81
+            - link "影腾" [ref=e27] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%BD%B1%E8%85%BE
+            - link "1元手机" [ref=e28] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=1%E5%85%83%E6%89%8B%E6%9C%BA
+        - generic [ref=e29] [cursor=pointer]:
+          - link "坏坏的死神" [ref=e30]:
+            - /url: https://www.goofish.com/personal
+            - img [ref=e31]
+            - generic [ref=e32]: 坏坏的死神
+          - link "订单" [ref=e34]:
+            - /url: https://www.goofish.com/bought
+            - img [ref=e36]
+            - generic [ref=e37]: 订单
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e40]
+        - link "网页版发闲置功能又升级啦！" [ref=e41]:
+          - /url: https://www.goofish.com/changelog
+          - generic [ref=e42] [cursor=pointer]: 网页版发闲置功能又升级啦！
+        - img [ref=e43] [cursor=pointer]
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e49]: 综合
+            - generic [ref=e52] [cursor=pointer]: 新降价
+            - generic [ref=e55]: 新发布
+            - generic [ref=e59]: 价格
+            - generic [ref=e61]:
+              - textbox "¥" [ref=e62]
+              - generic [ref=e63]: "-"
+              - textbox "¥" [ref=e64]
+              - button "确定" [disabled]
+          - generic [ref=e65]:
+            - generic [ref=e67] [cursor=pointer]:
+              - generic [ref=e68]: 区域
+              - img [ref=e69]
+            - generic [ref=e70]:
+              - button [disabled] [ref=e71]
+              - generic [ref=e73]: 1/26
+              - button [ref=e74] [cursor=pointer]
+        - generic [ref=e78]:
+          - generic [ref=e81] [cursor=pointer]: 个人闲置
+          - generic [ref=e84] [cursor=pointer]: 验货宝
+          - generic [ref=e87] [cursor=pointer]: 验号担保
+          - generic [ref=e90] [cursor=pointer]: 包邮
+          - generic [ref=e93] [cursor=pointer]: 超赞鱼小铺
+          - generic [ref=e96] [cursor=pointer]: 全新
+          - generic [ref=e99] [cursor=pointer]: 严选
+          - generic [ref=e102] [cursor=pointer]: 转卖
+        - generic [ref=e103]:
+          - link "红米ax6000路由器，支持wifi6，处理器MT7986， 性能极强，信号极强，可以开32个wifi。 已写入带web的uboot（救援模式），方便切换系统(救砖)，已写入系统，到手即用(仅需要简单设置，可以手机设置，不用电脑)。 有退货运费险，不用担心质量。 明显使用痕迹 MIUI/小米 ¥ 308 累计降价22.00元 四川 回复超快" [ref=e104] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1042336431419&categoryId=126862919
+            - img [ref=e106]
+            - generic [ref=e107]:
+              - generic "红米ax6000路由器，支持wifi6，处理器MT7986， 性能极强，信号极强，可以开32个wifi。 已写入带web的uboot（救援模式），方便切换系统(救砖)，已写入系统，到手即用(仅需要简单设置，可以手机设置，不用电脑)。 有退货运费险，不用担心质量。" [ref=e108]:
+                - generic [ref=e109]:
+                  - img [ref=e110]
+                  - text: 红米ax6000路由器，支持wifi6，处理器MT7986， 性能极强，信号极强，可以开32个wifi。 已写入带web的uboot（救援模式），方便切换系统(救砖)，已写入系统，到手即用(仅需要简单设置，可以手机设置，不用电脑)。 有退货运费险，不用担心质量。
+              - generic [ref=e111]:
+                - generic [ref=e113]: 明显使用痕迹
+                - generic [ref=e116]: MIUI/小米
+              - generic [ref=e117]:
+                - generic [ref=e118]:
+                  - generic [ref=e119]: ¥
+                  - generic [ref=e120]: "308"
+                - generic [ref=e122]:
+                  - img [ref=e123]
+                  - generic "累计降价22.00元" [ref=e124]
+              - generic [ref=e125]:
+                - img [ref=e126]
+                - generic "四川" [ref=e127]:
+                  - paragraph [ref=e129]: 四川
+                - generic "回复超快" [ref=e132]
+          - link "红米路由器AX6000，支持WiFi6，信号超强覆盖。外观成 色新，功能完好，无拆无修。带原装包装盒和配件，适合家庭使用。因换新机闲置出售，同城自提优惠，异地可发快递。价格可议，欢迎咨询！ 几乎全新 MIUI/小米 ¥ 299 累计降价13% 江苏 百分百好评" [ref=e133] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=981628390770&categoryId=126862919
+            - img [ref=e135]
+            - generic [ref=e136]:
+              - generic "红米路由器AX6000，支持WiFi6，信号超强覆盖。外观成 色新，功能完好，无拆无修。带原装包装盒和配件，适合家庭使用。因换新机闲置出售，同城自提优惠，异地可发快递。价格可议，欢迎咨询！" [ref=e137]:
+                - generic [ref=e138]:
+                  - img [ref=e139]
+                  - text: 红米路由器AX6000，支持WiFi6，信号超强覆盖。外观成 色新，功能完好，无拆无修。带原装包装盒和配件，适合家庭使用。因换新机闲置出售，同城自提优惠，异地可发快递。价格可议，欢迎咨询！
+              - generic [ref=e140]:
+                - generic [ref=e142]: 几乎全新
+                - generic [ref=e145]: MIUI/小米
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - generic [ref=e148]: ¥
+                  - generic [ref=e149]: "299"
+                - generic [ref=e151]:
+                  - img [ref=e152]
+                  - generic "累计降价13%" [ref=e153]
+              - generic [ref=e154]:
+                - img [ref=e155]
+                - generic "江苏" [ref=e156]:
+                  - paragraph [ref=e158]: 江苏
+                - generic "百分百好评" [ref=e161]
+          - link "小米（MI）Redmi 路由器 AX6000 2.0GHz四 核 8条流Wi-Fi6路由+8颗外置信号放大器 电竞级游戏加速家用路由器功能完好，就临时用了不到一个月，闲置物品，售出不退不换。 ¥ 320 ¥499 北京" [ref=e162] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1054921400659&categoryId=126862919
+            - img [ref=e164]
+            - generic [ref=e165]:
+              - generic "小米（MI）Redmi 路由器 AX6000 2.0GHz四 核 8条流Wi-Fi6路由+8颗外置信号放大器 电竞级游戏加速家用路由器功能完好，就临时用了不到一个月，闲置物品，售出不退不换。" [ref=e166]:
+                - generic [ref=e167]:
+                  - img [ref=e168]
+                  - text: 小米（MI）Redmi 路由器 AX6000 2.0GHz四 核 8条流Wi-Fi6路由+8颗外置信号放大器 电竞级游戏加速家用路由器功能完好，就临时用了不到一个月，闲置物品，售出不退不换。
+              - img [ref=e170]
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - generic [ref=e173]: ¥
+                  - generic [ref=e174]: "320"
+                - generic "¥499" [ref=e176]
+              - generic [ref=e177]:
+                - img [ref=e178]
+                - generic "北京" [ref=e179]:
+                  - paragraph [ref=e181]: 北京
+          - link "红米AX6000散热器，路由器性能强劲就会发热，发热就会加速 老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。让它活的更久。 A-无极调速 赠送调速电源 69元包邮 B-无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇 ¥ 69 ¥1988 吉林 回复超快" [ref=e182] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=726526425023&categoryId=126862919
+            - img [ref=e184]
+            - generic [ref=e185]:
+              - generic "红米AX6000散热器，路由器性能强劲就会发热，发热就会加速 老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。让它活的更久。 A-无极调速 赠送调速电源 69元包邮 B-无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇" [ref=e186]:
+                - generic [ref=e187]: 红米AX6000散热器，路由器性能强劲就会发热，发热就会加速 老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。让它活的更久。 A-无极调速 赠送调速电源 69元包邮 B-无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇
+              - img [ref=e189]
+              - generic [ref=e190]:
+                - generic [ref=e191]:
+                  - generic [ref=e192]: ¥
+                  - generic [ref=e193]: "69"
+                - generic "¥1988" [ref=e195]
+              - generic [ref=e196]:
+                - img [ref=e197]
+                - generic "吉林" [ref=e198]:
+                  - paragraph [ref=e200]: 吉林
+                - generic "回复超快" [ref=e203]
+          - link "小米 红米redmi路由器ax6000， 不在包装 正常痕迹 包邮不议价，。，，，， 轻微使用痕迹 MIUI/小米 ¥ 291 累计降价8.00元 河南 卖家信用极好" [ref=e204] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1053908183550&categoryId=126862919
+            - img [ref=e206]
+            - generic [ref=e207]:
+              - generic "小米 红米redmi路由器ax6000， 不在包装 正常痕迹 包邮不议价，。，，，，" [ref=e208]:
+                - generic [ref=e209]:
+                  - img [ref=e210]
+                  - text: 小米 红米redmi路由器ax6000， 不在包装 正常痕迹 包邮不议价，。，，，，
+              - generic [ref=e211]:
+                - generic [ref=e213]: 轻微使用痕迹
+                - generic [ref=e216]: MIUI/小米
+              - generic [ref=e217]:
+                - generic [ref=e218]:
+                  - generic [ref=e219]: ¥
+                  - generic [ref=e220]: "291"
+                - generic [ref=e222]:
+                  - img [ref=e223]
+                  - generic "累计降价8.00元" [ref=e224]
+              - generic [ref=e225]:
+                - img [ref=e226]
+                - generic "河南" [ref=e227]:
+                  - paragraph [ref=e229]: 河南
+                - generic "卖家信用极好" [ref=e232]
+          - link "9新op系统红米AX6000 型号RB06高性能双频千兆Wi Fi路由器（尾号e3e5）机器无任何故障，功能全部正常，灯光一切正常，蓝，红，绿，白全部正常显示，无烧灯现象搭配全新第三方12v2a电源适配器，1米千兆网线[五角星]本铺有教程网站，有视频，有图文，为保姆式教程，一步步跟着操作就可以设置好！！！[五角星]OP系统，支持多WiFi信号，该有的都有，也有软件市场随意安装（本店仅提供技术指导，违法违规应用不提供技术指导！）图8，图9，系统界面截图机器贴标发货，质保1个月，提供基本路由技术支持，不提供任何违法违规应用技术支持！！！- 4路独立高性能EFM网络功率放大器，轻松满足大户型需求- 支持4K QAM、OFDMA、MU-MIMO- 支持双WAN- 8数据流，磅礴吞吐，疾速增强- 6000兆级无线速率，自适应智能网口☆增强版WiFi6路由器，- 支持WiFi6增强版，无线总速率约为5378Mbps，接近5400M级别。其中2.4G频段为2x2 MU-MIMO，最高速率574Mbps；5G频段为4x4 MU-MIMO，支持160MHz频宽，最高速率4804Mbps。＃联发科MT7986A顶级 四核2.0Ghz高性能NPU处理器＃双频4天线设计，网络覆盖更广，大户型首选＃2.4G&5G双频WiFi6网络，支持所有WiFi6设备，畅享高速无线网络＃ 软路由，openwrt，华硕路由器，电商路由器，直播路由器包邮非偏远地区，收货后无任何质量问题，不退不换！ ¥ 398 ¥699 江苏 回复超快" [ref=e233] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1028861848635&categoryId=126862919
+            - img [ref=e235]
+            - generic [ref=e236]:
+              - generic "9新op系统红米AX6000 型号RB06高性能双频千兆Wi Fi路由器（尾号e3e5）机器无任何故障，功能全部正常，灯光一切正常，蓝，红，绿，白全部正常显示，无烧灯现象搭配全新第三方12v2a电源适配器，1米千兆网线[五角星]本铺有教程网站，有视频，有图文，为保姆式教程，一步步跟着操作就可以设置好！！！[五角星]OP系统，支持多WiFi信号，该有的都有，也有软件市场随意安装（本店仅提供技术指导，违法违规应用不提供技术指导！）图8，图9，系统界面截图机器贴标发货，质保1个月，提供基本路由技术支持，不提供任何违法违规应用技术支持！！！- 4路独立高性能EFM网络功率放大器，轻松满足大户型需求- 支持4K QAM、OFDMA、MU-MIMO- 支持双WAN- 8数据流，磅礴吞吐，疾速增强- 6000兆级无线速率，自适应智能网口☆增强版WiFi6路由器，- 支持WiFi6增强版，无线总速率约为5378Mbps，接近5400M级别。其中2.4G频段为2x2 MU-MIMO，最高速率574Mbps；5G频段为4x4 MU-MIMO，支持160MHz频宽，最高速率4804Mbps。＃联发科MT7986A顶级 四核2.0Ghz高性能NPU处理器＃双频4天线设计，网络覆盖更广，大户型首选＃2.4G&5G双频WiFi6网络，支持所有WiFi6设备，畅享高速无线网络＃ 软路由，openwrt，华硕路由器，电商路由器，直播路由器包邮非偏远地区，收货后无任何质量问题，不退不换！" [ref=e237]:
+                - generic [ref=e238]:
+                  - img [ref=e239]
+                  - text: 9新op系统红米AX6000 型号RB06高性能双频千兆Wi Fi路由器（尾号e3e5）机器无任何故障，功能全部正常，灯光一切正常，蓝，红，绿，白全部正常显示，无烧灯现象搭配全新第三方12v2a电源适配器，1米千兆网线[五角星]本铺有教程网站，有视频，有图文，为保姆式教程，一步步跟着操作就可以设置好！！！[五角星]OP系统，支持多WiFi信号，该有的都有，也有软件市场随意安装（本店仅提供技术指导，违法违规应用不提供技术指导！）图8，图9，系统界面截图机器贴标发货，质保1个月，提供基本路由技术支持，不提供任何违法违规应用技术支持！！！- 4路独立高性能EFM网络功率放大器，轻松满足大户型需求- 支持4K QAM、OFDMA、MU-MIMO- 支持双WAN- 8数据流，磅礴吞吐，疾速增强- 6000兆级无线速率，自适应智能网口☆增强版WiFi6路由器，- 支持WiFi6增强版，无线总速率约为5378Mbps，接近5400M级别。其中2.4G频段为2x2 MU-MIMO，最高速率574Mbps；5G频段为4x4 MU-MIMO，支持160MHz频宽，最高速率4804Mbps。＃联发科MT7986A顶级 四核2.0Ghz高性能NPU处理器＃双频4天线设计，网络覆盖更广，大户型首选＃2.4G&5G双频WiFi6网络，支持所有WiFi6设备，畅享高速无线网络＃ 软路由，openwrt，华硕路由器，电商路由器，直播路由器包邮非偏远地区，收货后无任何质量问题，不退不换！
+              - img [ref=e241]
+              - generic [ref=e242]:
+                - generic [ref=e243]:
+                  - generic [ref=e244]: ¥
+                  - generic [ref=e245]: "398"
+                - generic "¥699" [ref=e247]
+              - generic [ref=e248]:
+                - img [ref=e249]
+                - generic "江苏" [ref=e250]:
+                  - paragraph [ref=e252]: 江苏
+                - generic "回复超快" [ref=e255]
+          - link "出售红米ax6000路由器主板 功能全好，正常使用，包邮 ¥ 259 累计降价10% 广东 卖家信用极好" [ref=e256] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=925816767406&categoryId=126862919
+            - img [ref=e258]
+            - generic [ref=e259]:
+              - generic "出售红米ax6000路由器主板 功能全好，正常使用，包邮" [ref=e260]:
+                - generic [ref=e261]:
+                  - img [ref=e262]
+                  - text: 出售红米ax6000路由器主板 功能全好，正常使用，包邮
+              - generic [ref=e264]:
+                - generic [ref=e265]:
+                  - generic [ref=e266]: ¥
+                  - generic [ref=e267]: "259"
+                - generic [ref=e269]:
+                  - img [ref=e270]
+                  - generic "累计降价10%" [ref=e271]
+              - generic [ref=e272]:
+                - img [ref=e273]
+                - generic "广东" [ref=e274]:
+                  - paragraph [ref=e276]: 广东
+                - generic "卖家信用极好" [ref=e279]
+          - link "自用红米ax6000，95新，穿墙信号好，4天线8信号放大器 ，路由器＋原装电源线，没有包装，功能完好，同城可自提。不议价。 10小时前发布 ¥ 310 4人想要 河南 回复超快" [ref=e280] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1055524538948&categoryId=126862919
+            - img [ref=e282]
+            - generic [ref=e283]:
+              - generic "自用红米ax6000，95新，穿墙信号好，4天线8信号放大器 ，路由器＋原装电源线，没有包装，功能完好，同城可自提。不议价。" [ref=e284]:
+                - generic [ref=e285]:
+                  - img [ref=e286]
+                  - text: 自用红米ax6000，95新，穿墙信号好，4天线8信号放大器 ，路由器＋原装电源线，没有包装，功能完好，同城可自提。不议价。
+              - generic [ref=e289]:
+                - img [ref=e290]
+                - generic "10小时前发布" [ref=e291]
+              - generic [ref=e292]:
+                - generic [ref=e293]:
+                  - generic [ref=e294]: ¥
+                  - generic [ref=e295]: "310"
+                - generic "4人想要" [ref=e297]
+              - generic [ref=e298]:
+                - img [ref=e299]
+                - generic "河南" [ref=e300]:
+                  - paragraph [ref=e302]: 河南
+                - generic "回复超快" [ref=e305]
+          - link "红米AX6000路由器 RB06型号 9-95新 WiFi6千兆双频，四天线信号超强 支持千兆网速，四个千兆网口 功能正常，带原装电源适配器 （保功能正常、其余不退不换）包邮不讲价 ¥ 316 累计降价4.00元 广东 百分百好评" [ref=e306] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=996305131480&categoryId=126862919
+            - img [ref=e308]
+            - generic [ref=e309]:
+              - generic "红米AX6000路由器 RB06型号 9-95新 WiFi6千兆双频，四天线信号超强 支持千兆网速，四个千兆网口 功能正常，带原装电源适配器 （保功能正常、其余不退不换）包邮不讲价" [ref=e310]:
+                - generic [ref=e311]:
+                  - img [ref=e312]
+                  - text: 红米AX6000路由器 RB06型号 9-95新 WiFi6千兆双频，四天线信号超强 支持千兆网速，四个千兆网口 功能正常，带原装电源适配器 （保功能正常、其余不退不换）包邮不讲价
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - generic [ref=e316]: ¥
+                  - generic [ref=e317]: "316"
+                - generic [ref=e319]:
+                  - img [ref=e320]
+                  - generic "累计降价4.00元" [ref=e321]
+              - generic [ref=e322]:
+                - img [ref=e323]
+                - generic "广东" [ref=e324]:
+                  - paragraph [ref=e326]: 广东
+                - generic "百分百好评" [ref=e329]
+          - link "红米AX6000路由器，WiFi6版本，四天线设计，信号覆盖 广，穿墙性能好。支持5G双频，千兆网口，适合家庭和办公使用。功能正常，指示灯亮，成色几乎全新，外观干净，轻微使用痕迹。配件齐全，原装电源适配器都在。因换新设备闲置出售，包邮，支持验货，售出不退不换。感兴趣的朋友可以点击\"我想要\"与我私聊哦~ 几乎全新 MIUI/小米 ¥ 299 48人想要 北京 百分百好评" [ref=e330] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1025149343047&categoryId=126862919
+            - img [ref=e332]
+            - generic [ref=e333]:
+              - generic "红米AX6000路由器，WiFi6版本，四天线设计，信号覆盖 广，穿墙性能好。支持5G双频，千兆网口，适合家庭和办公使用。功能正常，指示灯亮，成色几乎全新，外观干净，轻微使用痕迹。配件齐全，原装电源适配器都在。因换新设备闲置出售，包邮，支持验货，售出不退不换。感兴趣的朋友可以点击\"我想要\"与我私聊哦~" [ref=e334]:
+                - generic [ref=e335]:
+                  - img [ref=e336]
+                  - text: 红米AX6000路由器，WiFi6版本，四天线设计，信号覆盖 广，穿墙性能好。支持5G双频，千兆网口，适合家庭和办公使用。功能正常，指示灯亮，成色几乎全新，外观干净，轻微使用痕迹。配件齐全，原装电源适配器都在。因换新设备闲置出售，包邮，支持验货，售出不退不换。感兴趣的朋友可以点击"我想要"与我私聊哦~
+              - generic [ref=e337]:
+                - generic [ref=e339]: 几乎全新
+                - generic [ref=e342]: MIUI/小米
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - generic [ref=e345]: ¥
+                  - generic [ref=e346]: "299"
+                - generic "48人想要" [ref=e348]
+              - generic [ref=e349]:
+                - img [ref=e350]
+                - generic "北京" [ref=e351]:
+                  - paragraph [ref=e353]: 北京
+                - generic "百分百好评" [ref=e356]
+          - 'link "红米Redmi AX6000路由器，外观定义八成新，只有轻微 使用痕迹。WiFi6协议，支持5G双频，信号覆盖广，穿墙效果好，网速稳定不卡顿，家用、办公、大户型都很合适。配置高适合刷机使用，懂得来还有多台，需要直接拍配件齐全：原装电源适配器、到手就能用。包邮喜欢可以私聊，细节图随时发～自提优惠#大功率路由器 #路由器/随身wifi #全屋覆盖路由器 ¥ 339 27人想要 江苏 百分百好评" [ref=e357] [cursor=pointer]':
+            - /url: https://www.goofish.com/item?id=1045836106044&categoryId=126862919
+            - img [ref=e359]
+            - generic [ref=e360]:
+              - 'generic "红米Redmi AX6000路由器，外观定义八成新，只有轻微 使用痕迹。WiFi6协议，支持5G双频，信号覆盖广，穿墙效果好，网速稳定不卡顿，家用、办公、大户型都很合适。配置高适合刷机使用，懂得来还有多台，需要直接拍配件齐全：原装电源适配器、到手就能用。包邮喜欢可以私聊，细节图随时发～自提优惠#大功率路由器 #路由器/随身wifi #全屋覆盖路由器" [ref=e361]':
+                - generic [ref=e362]:
+                  - img [ref=e363]
+                  - text: "红米Redmi AX6000路由器，外观定义八成新，只有轻微 使用痕迹。WiFi6协议，支持5G双频，信号覆盖广，穿墙效果好，网速稳定不卡顿，家用、办公、大户型都很合适。配置高适合刷机使用，懂得来还有多台，需要直接拍配件齐全：原装电源适配器、到手就能用。包邮喜欢可以私聊，细节图随时发～自提优惠#大功率路由器 #路由器/随身wifi #全屋覆盖路由器"
+              - img [ref=e365]
+              - generic [ref=e366]:
+                - generic [ref=e367]:
+                  - generic [ref=e368]: ¥
+                  - generic [ref=e369]: "339"
+                - generic "27人想要" [ref=e371]
+              - generic [ref=e372]:
+                - img [ref=e373]
+                - generic "江苏" [ref=e374]:
+                  - paragraph [ref=e376]: 江苏
+                - generic "百分百好评" [ref=e379]
+          - link "红米AX6000路由器 WiFi6协议，双频5G，四天线，信号强，穿墙效果好，家用办公都合适。功能正常，成色几乎全新，外观很新，只有轻微使用痕迹，无拆修，带原装电源线，到手即用。 包邮发货，同城可自提，价格可小刀，欢迎私聊咨询~ 几乎全新 MIUI/小米 ¥ 300 累计降价18.00元 河南" [ref=e380] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1036043788113&categoryId=126862919
+            - img [ref=e382]
+            - generic [ref=e383]:
+              - generic "红米AX6000路由器 WiFi6协议，双频5G，四天线，信号强，穿墙效果好，家用办公都合适。功能正常，成色几乎全新，外观很新，只有轻微使用痕迹，无拆修，带原装电源线，到手即用。 包邮发货，同城可自提，价格可小刀，欢迎私聊咨询~" [ref=e384]:
+                - generic [ref=e385]:
+                  - img [ref=e386]
+                  - text: 红米AX6000路由器 WiFi6协议，双频5G，四天线，信号强，穿墙效果好，家用办公都合适。功能正常，成色几乎全新，外观很新，只有轻微使用痕迹，无拆修，带原装电源线，到手即用。 包邮发货，同城可自提，价格可小刀，欢迎私聊咨询~
+              - generic [ref=e387]:
+                - generic [ref=e389]: 几乎全新
+                - generic [ref=e392]: MIUI/小米
+              - generic [ref=e393]:
+                - generic [ref=e394]:
+                  - generic [ref=e395]: ¥
+                  - generic [ref=e396]: "300"
+                - generic [ref=e398]:
+                  - img [ref=e399]
+                  - generic "累计降价18.00元" [ref=e400]
+              - generic [ref=e401]:
+                - img [ref=e402]
+                - generic "河南" [ref=e403]:
+                  - paragraph [ref=e405]: 河南
+          - link "红米AX6000散热器，夏天了。这个路由器发热非常严重，会加 速老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。 A-Pro 无极调速 赠送调速电源 69元包邮 B-Pro 无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇 ¥ 69 ¥198 吉林 回复超快" [ref=e406] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=731243453020&categoryId=126862919
+            - img [ref=e408]
+            - generic [ref=e409]:
+              - generic "红米AX6000散热器，夏天了。这个路由器发热非常严重，会加 速老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。 A-Pro 无极调速 赠送调速电源 69元包邮 B-Pro 无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇" [ref=e410]:
+                - generic [ref=e411]: 红米AX6000散热器，夏天了。这个路由器发热非常严重，会加 速老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。 A-Pro 无极调速 赠送调速电源 69元包邮 B-Pro 无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇
+              - img [ref=e413]
+              - generic [ref=e414]:
+                - generic [ref=e415]:
+                  - generic [ref=e416]: ¥
+                  - generic [ref=e417]: "69"
+                - generic "¥198" [ref=e419]
+              - generic [ref=e420]:
+                - img [ref=e421]
+                - generic "吉林" [ref=e422]:
+                  - paragraph [ref=e424]: 吉林
+                - generic "回复超快" [ref=e427]
+          - link "红米AX6000路由器，成色几乎全新，外观很新，只有轻微使用 痕迹，功能正常，无拆无修。WiFi6，四天线设计，信号覆盖广，穿墙效果好，家用办公都合适。支持5G双频，手机APP管理，操作方便。配件齐全，带原装电源线。家里换设备闲置，包邮，同城可自提，价格可小刀，欢迎咨询～ 几乎全新 MIUI/小米 ¥ 299 60人想要 浙江" [ref=e428] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1047039928503&categoryId=126862919
+            - img [ref=e430]
+            - generic [ref=e431]:
+              - generic "红米AX6000路由器，成色几乎全新，外观很新，只有轻微使用 痕迹，功能正常，无拆无修。WiFi6，四天线设计，信号覆盖广，穿墙效果好，家用办公都合适。支持5G双频，手机APP管理，操作方便。配件齐全，带原装电源线。家里换设备闲置，包邮，同城可自提，价格可小刀，欢迎咨询～" [ref=e432]:
+                - generic [ref=e433]:
+                  - img [ref=e434]
+                  - text: 红米AX6000路由器，成色几乎全新，外观很新，只有轻微使用 痕迹，功能正常，无拆无修。WiFi6，四天线设计，信号覆盖广，穿墙效果好，家用办公都合适。支持5G双频，手机APP管理，操作方便。配件齐全，带原装电源线。家里换设备闲置，包邮，同城可自提，价格可小刀，欢迎咨询～
+              - generic [ref=e435]:
+                - generic [ref=e437]: 几乎全新
+                - generic [ref=e440]: MIUI/小米
+              - generic [ref=e441]:
+                - generic [ref=e442]:
+                  - generic [ref=e443]: ¥
+                  - generic [ref=e444]: "299"
+                - generic "60人想要" [ref=e446]
+              - generic [ref=e447]:
+                - img [ref=e448]
+                - generic "浙江" [ref=e449]:
+                  - paragraph [ref=e451]: 浙江
+          - link "红米AX6000 型号RB06高性能双频千兆WiFi路由器 收来的，只有裸机，自备电源，正常使用，拿回去自己重置，无拆无修，标的是包邮价，想要的朋友直接拍就行了！ ¥ 300 3人想要 陕西 回复超快" [ref=e452] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1055764660280&categoryId=126862919
+            - img [ref=e454]
+            - generic [ref=e455]:
+              - generic "红米AX6000 型号RB06高性能双频千兆WiFi路由器 收来的，只有裸机，自备电源，正常使用，拿回去自己重置，无拆无修，标的是包邮价，想要的朋友直接拍就行了！" [ref=e456]:
+                - generic [ref=e457]:
+                  - img [ref=e458]
+                  - text: 红米AX6000 型号RB06高性能双频千兆WiFi路由器 收来的，只有裸机，自备电源，正常使用，拿回去自己重置，无拆无修，标的是包邮价，想要的朋友直接拍就行了！
+              - generic [ref=e460]:
+                - generic [ref=e461]:
+                  - generic [ref=e462]: ¥
+                  - generic [ref=e463]: "300"
+                - generic "3人想要" [ref=e465]
+              - generic [ref=e466]:
+                - img [ref=e467]
+                - generic "陕西" [ref=e468]:
+                  - paragraph [ref=e470]: 陕西
+                - generic "回复超快" [ref=e473]
+          - link "【红米 AX6000路由器 RB06】WiFi6千兆，四天线 设计，信号强，穿墙效果好，家用办公都合适！ 成色如图，正常使用痕迹，功能正常，插电即用，支持2.4G/5G双频，千兆网口，mesh组网，扩展方便，网速稳定不卡顿。 包邮，同城可自提～ 9天内降价 ¥ 308 235人想要 山东 百分百好评" [ref=e474] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1020335776812&categoryId=126862919
+            - img [ref=e476]
+            - generic [ref=e477]:
+              - generic "【红米 AX6000路由器 RB06】WiFi6千兆，四天线 设计，信号强，穿墙效果好，家用办公都合适！ 成色如图，正常使用痕迹，功能正常，插电即用，支持2.4G/5G双频，千兆网口，mesh组网，扩展方便，网速稳定不卡顿。 包邮，同城可自提～" [ref=e478]:
+                - generic [ref=e479]:
+                  - img [ref=e480]
+                  - text: 【红米 AX6000路由器 RB06】WiFi6千兆，四天线 设计，信号强，穿墙效果好，家用办公都合适！ 成色如图，正常使用痕迹，功能正常，插电即用，支持2.4G/5G双频，千兆网口，mesh组网，扩展方便，网速稳定不卡顿。 包邮，同城可自提～
+              - generic [ref=e483]:
+                - img [ref=e484]
+                - generic "9天内降价" [ref=e485]
+              - generic [ref=e486]:
+                - generic [ref=e487]:
+                  - generic [ref=e488]: ¥
+                  - generic [ref=e489]: "308"
+                - generic "235人想要" [ref=e491]
+              - generic [ref=e492]:
+                - img [ref=e493]
+                - generic "山东" [ref=e494]:
+                  - paragraph [ref=e496]: 山东
+                - generic "百分百好评" [ref=e499]
+          - link "95新硬改2G内存op系统红米AX6000 型号RB06高性 能双频千兆WiFi路由器（尾号e7e8） 机器已硬改2G内存，同时运行更多插件，建立更多WiFi信号 2G运存行情暴涨，故此调价，介意者慎拍！！！ 机器无任何故障，功能全部正常，灯光一切正常，蓝，红，绿，白全部正常显示，无烧灯现象 ... ¥ 488 ¥699 江苏 回复超快" [ref=e500] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1028509653545&categoryId=126862919
+            - img [ref=e502]
+            - generic [ref=e503]:
+              - generic "95新硬改2G内存op系统红米AX6000 型号RB06高性 能双频千兆WiFi路由器（尾号e7e8） 机器已硬改2G内存，同时运行更多插件，建立更多WiFi信号 2G运存行情暴涨，故此调价，介意者慎拍！！！ 机器无任何故障，功能全部正常，灯光一切正常，蓝，红，绿，白全部正常显示，无烧灯现象 ..." [ref=e504]:
+                - generic [ref=e505]:
+                  - img [ref=e506]
+                  - text: 95新硬改2G内存op系统红米AX6000 型号RB06高性 能双频千兆WiFi路由器（尾号e7e8） 机器已硬改2G内存，同时运行更多插件，建立更多WiFi信号 2G运存行情暴涨，故此调价，介意者慎拍！！！ 机器无任何故障，功能全部正常，灯光一切正常，蓝，红，绿，白全部正常显示，无烧灯现象 ...
+              - img [ref=e508]
+              - generic [ref=e509]:
+                - generic [ref=e510]:
+                  - generic [ref=e511]: ¥
+                  - generic [ref=e512]: "488"
+                - generic "¥699" [ref=e514]
+              - generic [ref=e515]:
+                - img [ref=e516]
+                - generic "江苏" [ref=e517]:
+                  - paragraph [ref=e519]: 江苏
+                - generic "回复超快" [ref=e522]
+          - link "Redmi AX6000路由器，四天线，WiFi6，千兆双频 ，信号强，待机量大。几乎全新，外观干净，轻微使用痕迹，功能正常，插电即用。带原装电源，配件齐全。适合家用、办公包邮。配置：原厂512mb内存，op系统包邮，实拍图，功能正常不退不换。 16小时前发布 ¥ 300 1人想要 北京 卖家信用极好" [ref=e523] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1054671707531&categoryId=126862919
+            - img [ref=e525]
+            - generic [ref=e526]:
+              - generic "Redmi AX6000路由器，四天线，WiFi6，千兆双频 ，信号强，待机量大。几乎全新，外观干净，轻微使用痕迹，功能正常，插电即用。带原装电源，配件齐全。适合家用、办公包邮。配置：原厂512mb内存，op系统包邮，实拍图，功能正常不退不换。" [ref=e527]:
+                - generic [ref=e528]:
+                  - img [ref=e529]
+                  - text: Redmi AX6000路由器，四天线，WiFi6，千兆双频 ，信号强，待机量大。几乎全新，外观干净，轻微使用痕迹，功能正常，插电即用。带原装电源，配件齐全。适合家用、办公包邮。配置：原厂512mb内存，op系统包邮，实拍图，功能正常不退不换。
+              - generic [ref=e532]:
+                - img [ref=e533]
+                - generic "16小时前发布" [ref=e534]
+              - generic [ref=e535]:
+                - generic [ref=e536]:
+                  - generic [ref=e537]: ¥
+                  - generic [ref=e538]: "300"
+                - generic "1人想要" [ref=e540]
+              - generic [ref=e541]:
+                - img [ref=e542]
+                - generic "北京" [ref=e543]:
+                  - paragraph [ref=e545]: 北京
+                - generic "卖家信用极好" [ref=e548]
+          - link "红米AX6000改512M闪存+2G内存 路由器 灯光已修复没问题 四根天线信号超强 支持WiFi6千兆双频 日本进口高温焊锡 信号稳定不掉线 带原装电源适配器 或者3C电源适配器 除偏远地区包邮 刷好非原装系统 改好系统比较高级根据自身技术水平购买 不提供任何技术支持和服务 想自己琢磨... ¥ 390 累计降价8.00元 河北" [ref=e549] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=994143624194&categoryId=126862919
+            - img [ref=e551]
+            - generic [ref=e552]:
+              - generic "红米AX6000改512M闪存+2G内存 路由器 灯光已修复没问题 四根天线信号超强 支持WiFi6千兆双频 日本进口高温焊锡 信号稳定不掉线 带原装电源适配器 或者3C电源适配器 除偏远地区包邮 刷好非原装系统 改好系统比较高级根据自身技术水平购买 不提供任何技术支持和服务 想自己琢磨..." [ref=e553]:
+                - generic [ref=e554]:
+                  - img [ref=e555]
+                  - text: 红米AX6000改512M闪存+2G内存 路由器 灯光已修复没问题 四根天线信号超强 支持WiFi6千兆双频 日本进口高温焊锡 信号稳定不掉线 带原装电源适配器 或者3C电源适配器 除偏远地区包邮 刷好非原装系统 改好系统比较高级根据自身技术水平购买 不提供任何技术支持和服务 想自己琢磨...
+              - generic [ref=e557]:
+                - generic [ref=e558]:
+                  - generic [ref=e559]: ¥
+                  - generic [ref=e560]: "390"
+                - generic [ref=e562]:
+                  - img [ref=e563]
+                  - generic "累计降价8.00元" [ref=e564]
+              - generic [ref=e565]:
+                - img [ref=e566]
+                - generic "河北" [ref=e567]:
+                  - paragraph [ref=e569]: 河北
+          - link "多台小米RB06 红米AX6000无线路由器 四根天线信号超 强 WiFi6千兆双频 成色还可以，图片这个已经出售，另外还有4个 ，机器正常使用无拆修过，带电源线后配的转接头 另外有几台坏机不通电 188块 ¥ 298 107人想要 上海" [ref=e570] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=958823464777&categoryId=126862919
+            - img [ref=e572]
+            - generic [ref=e573]:
+              - generic "多台小米RB06 红米AX6000无线路由器 四根天线信号超 强 WiFi6千兆双频 成色还可以，图片这个已经出售，另外还有4个 ，机器正常使用无拆修过，带电源线后配的转接头 另外有几台坏机不通电 188块" [ref=e574]:
+                - generic [ref=e575]:
+                  - img [ref=e576]
+                  - text: 多台小米RB06 红米AX6000无线路由器 四根天线信号超 强 WiFi6千兆双频 成色还可以，图片这个已经出售，另外还有4个 ，机器正常使用无拆修过，带电源线后配的转接头 另外有几台坏机不通电 188块
+              - generic [ref=e578]:
+                - generic [ref=e579]:
+                  - generic [ref=e580]: ¥
+                  - generic [ref=e581]: "298"
+                - generic "107人想要" [ref=e583]
+              - generic [ref=e584]:
+                - img [ref=e585]
+                - generic "上海" [ref=e586]:
+                  - paragraph [ref=e588]: 上海
+                - img [ref=e590]
+          - link "红米 AX6000 路由器， 24 年 11 月购买正常使 用一年多，升级WiFi 7 淘汰，需要的私聊 ¥ 310 5人想要 四川 百分百好评" [ref=e591] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1054737035748&categoryId=126862919
+            - img [ref=e593]
+            - generic [ref=e594]:
+              - generic "红米 AX6000 路由器， 24 年 11 月购买正常使 用一年多，升级WiFi 7 淘汰，需要的私聊" [ref=e595]:
+                - generic [ref=e596]:
+                  - img [ref=e597]
+                  - text: 红米 AX6000 路由器， 24 年 11 月购买正常使 用一年多，升级WiFi 7 淘汰，需要的私聊
+              - img [ref=e599]
+              - generic [ref=e600]:
+                - generic [ref=e601]:
+                  - generic [ref=e602]: ¥
+                  - generic [ref=e603]: "310"
+                - generic "5人想要" [ref=e605]
+              - generic [ref=e606]:
+                - img [ref=e607]
+                - generic "四川" [ref=e608]:
+                  - paragraph [ref=e610]: 四川
+                - generic "百分百好评" [ref=e613]
+          - link "Redmi AX6000路由器，黑色，四天线，WiFi6千兆 双频，自定义成色九成新，支持2.4G和5G，信号稳定，穿墙效果不错，家用办公都合适。带电源适配器和网线，插电即用，功能正常，外观有点使用痕迹，不影响使用。24年小米专卖店购买保修到2025年3月，放心用。原包装盒扔了留的有照片，包邮，也可以西安自提。有需要私聊，爽快可聊 22小时前降价 ¥ 361 累计降价20.00元 陕西 百分百好评" [ref=e614] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1056320649664&categoryId=126862919
+            - img [ref=e616]
+            - generic [ref=e617]:
+              - generic "Redmi AX6000路由器，黑色，四天线，WiFi6千兆 双频，自定义成色九成新，支持2.4G和5G，信号稳定，穿墙效果不错，家用办公都合适。带电源适配器和网线，插电即用，功能正常，外观有点使用痕迹，不影响使用。24年小米专卖店购买保修到2025年3月，放心用。原包装盒扔了留的有照片，包邮，也可以西安自提。有需要私聊，爽快可聊" [ref=e618]:
+                - generic [ref=e619]:
+                  - img [ref=e620]
+                  - text: Redmi AX6000路由器，黑色，四天线，WiFi6千兆 双频，自定义成色九成新，支持2.4G和5G，信号稳定，穿墙效果不错，家用办公都合适。带电源适配器和网线，插电即用，功能正常，外观有点使用痕迹，不影响使用。24年小米专卖店购买保修到2025年3月，放心用。原包装盒扔了留的有照片，包邮，也可以西安自提。有需要私聊，爽快可聊
+              - generic [ref=e623]:
+                - img [ref=e624]
+                - generic "22小时前降价" [ref=e625]
+              - generic [ref=e626]:
+                - generic [ref=e627]:
+                  - generic [ref=e628]: ¥
+                  - generic [ref=e629]: "361"
+                - generic [ref=e631]:
+                  - img [ref=e632]
+                  - generic "累计降价20.00元" [ref=e633]
+              - generic [ref=e634]:
+                - img [ref=e635]
+                - generic "陕西" [ref=e636]:
+                  - paragraph [ref=e638]: 陕西
+                - generic "百分百好评" [ref=e641]
+          - link "红米Redmi AX6000路由器，型号RB06，WiFi6 协议，四天线，千兆网口，支持2.4G和5G双频，信号覆盖广，穿墙效果不错，家用办公都合适。功能正常，成色看图，轻微使用，没修过，原装正品。带电源适配器和网线，插电即用，功能好使。 支持长春高新区华润长安里自提，外地不邮寄。 轻微使用痕迹 MIUI/小米 ¥ 280 30人想要 吉林 百分百好评" [ref=e642] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1048906283825&categoryId=126862919
+            - img [ref=e644]
+            - generic [ref=e645]:
+              - generic "红米Redmi AX6000路由器，型号RB06，WiFi6 协议，四天线，千兆网口，支持2.4G和5G双频，信号覆盖广，穿墙效果不错，家用办公都合适。功能正常，成色看图，轻微使用，没修过，原装正品。带电源适配器和网线，插电即用，功能好使。 支持长春高新区华润长安里自提，外地不邮寄。" [ref=e646]:
+                - generic [ref=e647]: 红米Redmi AX6000路由器，型号RB06，WiFi6 协议，四天线，千兆网口，支持2.4G和5G双频，信号覆盖广，穿墙效果不错，家用办公都合适。功能正常，成色看图，轻微使用，没修过，原装正品。带电源适配器和网线，插电即用，功能好使。 支持长春高新区华润长安里自提，外地不邮寄。
+              - generic [ref=e648]:
+                - generic [ref=e650]: 轻微使用痕迹
+                - generic [ref=e653]: MIUI/小米
+              - generic [ref=e654]:
+                - generic [ref=e655]:
+                  - generic [ref=e656]: ¥
+                  - generic [ref=e657]: "280"
+                - generic "30人想要" [ref=e659]
+              - generic [ref=e660]:
+                - img [ref=e661]
+                - generic "吉林" [ref=e662]:
+                  - paragraph [ref=e664]: 吉林
+                - generic "百分百好评" [ref=e667]
+          - link "Redmi AX6000路由器，WiFi6，千兆端口，2.4 G/5G双频，信号稳定，穿墙效果好，家用办公都适用。主机+原装盒子+配件齐全，功能正常，插电即用。可刷op 成色还可以，有点使用痕迹，具体看图。正品保障，支持恢复出厂设置，USB口也有，适合需要扩展存储的朋友。 包邮，同城可自提，价格可... 轻微使用痕迹 MIUI/小米 ¥ 320 累计降价20.00元 河北 卖家信用极好" [ref=e668] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1047576314091&categoryId=126862919
+            - img [ref=e670]
+            - generic [ref=e671]:
+              - generic "Redmi AX6000路由器，WiFi6，千兆端口，2.4 G/5G双频，信号稳定，穿墙效果好，家用办公都适用。主机+原装盒子+配件齐全，功能正常，插电即用。可刷op 成色还可以，有点使用痕迹，具体看图。正品保障，支持恢复出厂设置，USB口也有，适合需要扩展存储的朋友。 包邮，同城可自提，价格可..." [ref=e672]:
+                - generic [ref=e673]:
+                  - img [ref=e674]
+                  - text: Redmi AX6000路由器，WiFi6，千兆端口，2.4 G/5G双频，信号稳定，穿墙效果好，家用办公都适用。主机+原装盒子+配件齐全，功能正常，插电即用。可刷op 成色还可以，有点使用痕迹，具体看图。正品保障，支持恢复出厂设置，USB口也有，适合需要扩展存储的朋友。 包邮，同城可自提，价格可...
+              - generic [ref=e675]:
+                - generic [ref=e677]: 轻微使用痕迹
+                - generic [ref=e680]: MIUI/小米
+              - generic [ref=e681]:
+                - generic [ref=e682]:
+                  - generic [ref=e683]: ¥
+                  - generic [ref=e684]: "320"
+                - generic [ref=e686]:
+                  - img [ref=e687]
+                  - generic "累计降价20.00元" [ref=e688]
+              - generic [ref=e689]:
+                - img [ref=e690]
+                - generic "河北" [ref=e691]:
+                  - paragraph [ref=e693]: 河北
+                - generic "卖家信用极好" [ref=e696]
+          - link "红米AX6000散热器，路由器性能强劲就会发热，发热就会加速 老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。让它活的更久。 A-无极调速 赠送调速电源 69元包邮 B-无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇 看图 ¥ 69 ¥198 吉林 回复超快" [ref=e697] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=728938113995&categoryId=126856279
+            - img [ref=e699]
+            - generic [ref=e700]:
+              - generic "红米AX6000散热器，路由器性能强劲就会发热，发热就会加速 老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。让它活的更久。 A-无极调速 赠送调速电源 69元包邮 B-无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇 看图" [ref=e701]:
+                - generic [ref=e702]:
+                  - img [ref=e703]
+                  - text: 红米AX6000散热器，路由器性能强劲就会发热，发热就会加速 老化，断流，影响寿命和性能。。给它装一个散热还是有必要的。让它活的更久。 A-无极调速 赠送调速电源 69元包邮 B-无极调速 赠送调速电源 69元包邮 目前搭配14cm 华硕rog风扇 看图
+              - img [ref=e705]
+              - generic [ref=e706]:
+                - generic [ref=e707]:
+                  - generic [ref=e708]: ¥
+                  - generic [ref=e709]: "69"
+                - generic "¥198" [ref=e711]
+              - generic [ref=e712]:
+                - img [ref=e713]
+                - generic "吉林" [ref=e714]:
+                  - paragraph [ref=e716]: 吉林
+                - generic "回复超快" [ref=e719]
+          - link "小米Redmi AX6000路由器 RB06 四天线设计 支持2.4G/5G双频 千兆网口 信号覆盖广 穿墙效果好 家用办公都适合 路由器功能正常 无拆无修 成 色如图 已经恢复出厂设置 送原装电源和千兆网线 通电不亮灯 设置好才亮灯 非偏远地区包邮 非功能问题不退... ¥ 320 5人想要 上海 卖家信用极好" [ref=e720] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1049823477991&categoryId=126862919
+            - img [ref=e722]
+            - generic [ref=e723]:
+              - generic "小米Redmi AX6000路由器 RB06 四天线设计 支持2.4G/5G双频 千兆网口 信号覆盖广 穿墙效果好 家用办公都适合 路由器功能正常 无拆无修 成 色如图 已经恢复出厂设置 送原装电源和千兆网线 通电不亮灯 设置好才亮灯 非偏远地区包邮 非功能问题不退..." [ref=e724]:
+                - generic [ref=e725]:
+                  - img [ref=e726]
+                  - text: 小米Redmi AX6000路由器 RB06 四天线设计 支持2.4G/5G双频 千兆网口 信号覆盖广 穿墙效果好 家用办公都适合 路由器功能正常 无拆无修 成 色如图 已经恢复出厂设置 送原装电源和千兆网线 通电不亮灯 设置好才亮灯 非偏远地区包邮 非功能问题不退...
+              - img [ref=e728]
+              - generic [ref=e729]:
+                - generic [ref=e730]:
+                  - generic [ref=e731]: ¥
+                  - generic [ref=e732]: "320"
+                - generic "5人想要" [ref=e734]
+              - generic [ref=e735]:
+                - img [ref=e736]
+                - generic "上海" [ref=e737]:
+                  - paragraph [ref=e739]: 上海
+                - generic "卖家信用极好" [ref=e742]
+          - link "红米AX6000路由器 RB06 四天线 WiFi6 千兆双 频 信号强 穿墙效果好成色还可以 有点使用痕迹 不会测试，不知好坏，没电源， 没有包装盒支持2.4G/5G全千兆网口 mesh组家用办公都合适实物拍摄 支持自提 可邮寄 顺丰可选二手商品售出不退不换看清楚拍 17小时前发布 ¥ 320 3人想要 北京 百分百好评" [ref=e743] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1055439078256&categoryId=126862919
+            - img [ref=e745]
+            - generic [ref=e746]:
+              - generic "红米AX6000路由器 RB06 四天线 WiFi6 千兆双 频 信号强 穿墙效果好成色还可以 有点使用痕迹 不会测试，不知好坏，没电源， 没有包装盒支持2.4G/5G全千兆网口 mesh组家用办公都合适实物拍摄 支持自提 可邮寄 顺丰可选二手商品售出不退不换看清楚拍" [ref=e747]:
+                - generic [ref=e748]:
+                  - img [ref=e749]
+                  - text: 红米AX6000路由器 RB06 四天线 WiFi6 千兆双 频 信号强 穿墙效果好成色还可以 有点使用痕迹 不会测试，不知好坏，没电源， 没有包装盒支持2.4G/5G全千兆网口 mesh组家用办公都合适实物拍摄 支持自提 可邮寄 顺丰可选二手商品售出不退不换看清楚拍
+              - generic [ref=e752]:
+                - img [ref=e753]
+                - generic "17小时前发布" [ref=e754]
+              - generic [ref=e755]:
+                - generic [ref=e756]:
+                  - generic [ref=e757]: ¥
+                  - generic [ref=e758]: "320"
+                - generic "3人想要" [ref=e760]
+              - generic [ref=e761]:
+                - img [ref=e762]
+                - generic "北京" [ref=e763]:
+                  - paragraph [ref=e765]: 北京
+                - generic "百分百好评" [ref=e768]
+          - link "红米AX6000路由器，WiFi6千兆款，RB06型号，四天 线设计，信号覆盖广，适合家用办公。功能正常，没刷过机，指示灯亮红灯（批次通病），原装电源都在，配件齐全，带包装盒。平时用得不多，个人闲置，成色看看图，有点使用痕迹，不影响使用。 发出前指哪拍哪，发出后不退不换。长春自提优先，价格不刀。 几乎全新 xiaomi/小米 ¥ 300 吉林 百分百好评" [ref=e769] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1034192123307&categoryId=126862919
+            - img [ref=e771]
+            - generic [ref=e772]:
+              - generic "红米AX6000路由器，WiFi6千兆款，RB06型号，四天 线设计，信号覆盖广，适合家用办公。功能正常，没刷过机，指示灯亮红灯（批次通病），原装电源都在，配件齐全，带包装盒。平时用得不多，个人闲置，成色看看图，有点使用痕迹，不影响使用。 发出前指哪拍哪，发出后不退不换。长春自提优先，价格不刀。" [ref=e773]:
+                - generic [ref=e774]: 红米AX6000路由器，WiFi6千兆款，RB06型号，四天 线设计，信号覆盖广，适合家用办公。功能正常，没刷过机，指示灯亮红灯（批次通病），原装电源都在，配件齐全，带包装盒。平时用得不多，个人闲置，成色看看图，有点使用痕迹，不影响使用。 发出前指哪拍哪，发出后不退不换。长春自提优先，价格不刀。
+              - generic [ref=e775]:
+                - generic [ref=e777]: 几乎全新
+                - generic [ref=e780]: xiaomi/小米
+              - generic [ref=e781]:
+                - generic [ref=e782]:
+                  - generic [ref=e783]: ¥
+                  - generic [ref=e784]: "300"
+                - img [ref=e786]
+              - generic [ref=e787]:
+                - img [ref=e788]
+                - generic "吉林" [ref=e789]:
+                  - paragraph [ref=e791]: 吉林
+                - generic "百分百好评" [ref=e794]
+          - link "软路由9新红米AX6000 工作室专用优化版 千兆WiFi6 多设备稳定挂机 红米AX6000 WiFi6千兆路由器，9新状态，硬件完好无拆无修，功能全正常，非原厂系统，开机等几分钟可搜到im开头无线。 已针对工作室场景做深度优化，到手即用，专为多设备高负载场景打造。 [火] 千兆网口+WiFi6... ¥ 365 8人想要 北京 卖家信用极好" [ref=e795] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1053259951540&categoryId=126862919
+            - img [ref=e797]
+            - generic [ref=e798]:
+              - generic "软路由9新红米AX6000 工作室专用优化版 千兆WiFi6 多设备稳定挂机 红米AX6000 WiFi6千兆路由器，9新状态，硬件完好无拆无修，功能全正常，非原厂系统，开机等几分钟可搜到im开头无线。 已针对工作室场景做深度优化，到手即用，专为多设备高负载场景打造。 [火] 千兆网口+WiFi6..." [ref=e799]:
+                - generic [ref=e800]:
+                  - img [ref=e801]
+                  - text: 软路由9新红米AX6000 工作室专用优化版 千兆WiFi6 多设备稳定挂机 红米AX6000 WiFi6千兆路由器，9新状态，硬件完好无拆无修，功能全正常，非原厂系统，开机等几分钟可搜到im开头无线。 已针对工作室场景做深度优化，到手即用，专为多设备高负载场景打造。 [火] 千兆网口+WiFi6...
+              - img [ref=e803]
+              - generic [ref=e804]:
+                - generic [ref=e805]:
+                  - generic [ref=e806]: ¥
+                  - generic [ref=e807]: "365"
+                - generic "8人想要" [ref=e809]
+              - generic [ref=e810]:
+                - img [ref=e811]
+                - generic "北京" [ref=e812]:
+                  - paragraph [ref=e814]: 北京
+                - generic "卖家信用极好" [ref=e817]
+          - link "小米WiFi6路由器AX6000，东东购入自用，注意目前wi fi正常 ，但是网口好像全部故障，插上没反应，目前当wifi信号放大器使用，用无线桥接ap模式，成色一般，外壳有划痕和小磕碰，具体看图。拆机看过了，初步怀疑是网口的网络变压器坏了，但是自己不会换，会的来，不做保证，主机，不带配件。支持自提，... 明显使用痕迹 MIUI/小米 ¥ 96 累计降价11% 湖北 百分百好评" [ref=e818] [cursor=pointer]:
+            - /url: https://www.goofish.com/item?id=1008906909234&categoryId=126862919
+            - img [ref=e820]
+            - generic [ref=e821]:
+              - generic "小米WiFi6路由器AX6000，东东购入自用，注意目前wi fi正常 ，但是网口好像全部故障，插上没反应，目前当wifi信号放大器使用，用无线桥接ap模式，成色一般，外壳有划痕和小磕碰，具体看图。拆机看过了，初步怀疑是网口的网络变压器坏了，但是自己不会换，会的来，不做保证，主机，不带配件。支持自提，..." [ref=e822]:
+                - generic [ref=e823]:
+                  - img [ref=e824]
+                  - text: 小米WiFi6路由器AX6000，东东购入自用，注意目前wi fi正常 ，但是网口好像全部故障，插上没反应，目前当wifi信号放大器使用，用无线桥接ap模式，成色一般，外壳有划痕和小磕碰，具体看图。拆机看过了，初步怀疑是网口的网络变压器坏了，但是自己不会换，会的来，不做保证，主机，不带配件。支持自提，...
+              - generic [ref=e825]:
+                - generic [ref=e827]: 明显使用痕迹
+                - generic [ref=e830]: MIUI/小米
+              - generic [ref=e831]:
+                - generic [ref=e832]:
+                  - generic [ref=e833]: ¥
+                  - generic [ref=e834]: "96"
+                - generic [ref=e836]:
+                  - img [ref=e837]
+                  - generic "累计降价11%" [ref=e838]
+              - generic [ref=e839]:
+                - img [ref=e840]
+                - generic "湖北" [ref=e841]:
+                  - paragraph [ref=e843]: 湖北
+                - generic "百分百好评" [ref=e846]
+        - generic [ref=e848]:
+          - generic [ref=e849]:
+            - button [disabled] [ref=e850]
+            - generic [ref=e852] [cursor=pointer]: "1"
+            - generic [ref=e853] [cursor=pointer]: "2"
+            - generic [ref=e854] [cursor=pointer]: "3"
+            - generic [ref=e855] [cursor=pointer]: "4"
+            - generic [ref=e856] [cursor=pointer]: "5"
+            - generic [ref=e857] [cursor=pointer]: "6"
+            - generic [ref=e858] [cursor=pointer]: "7"
+            - generic [ref=e859] [cursor=pointer]: "8"
+            - generic [ref=e860] [cursor=pointer]: "9"
+            - generic [ref=e861] [cursor=pointer]: "10"
+            - generic [ref=e862] [cursor=pointer]: ...
+            - generic [ref=e863] [cursor=pointer]: "26"
+            - button [ref=e864] [cursor=pointer]
+          - generic [ref=e866]:
+            - generic [ref=e867]:
+              - generic [ref=e868]: 到第
+              - textbox [ref=e870]
+              - generic [ref=e871]: 页
+            - button "确定" [ref=e872] [cursor=pointer]
+      - generic [ref=e875]:
+        - link "发闲置" [ref=e876] [cursor=pointer]:
+          - /url: https://www.goofish.com/publish
+          - img [ref=e878]
+          - generic [ref=e879]: 发闲置
+        - link "3 消息" [ref=e880] [cursor=pointer]:
+          - /url: https://www.goofish.com/im
+          - generic [ref=e882]:
+            - img [ref=e883]
+            - generic [ref=e884]: "3"
+          - generic [ref=e885]: 消息
+        - generic [ref=e887] [cursor=pointer]:
+          - img [ref=e890]
+          - generic [ref=e891]: APP
+        - link "反馈" [ref=e892] [cursor=pointer]:
+          - /url: https://www.goofish.com/feedback?from=search
+          - img [ref=e895]
+          - generic [ref=e896]: 反馈
+        - link "客服" [ref=e897] [cursor=pointer]:
+          - /url: https://alimebot.goofish.com/intl/index.htm?from=wkbRssQuvW
+          - img [ref=e900]
+          - generic [ref=e901]: 客服
+        - link "回顶部":
+          - /url: javascript:void(0);
+          - img [ref=e904] [cursor=pointer]
+          - generic [ref=e905] [cursor=pointer]: 回顶部
+    - generic [ref=e907]:
+      - generic [ref=e908]:
+        - link "阿里巴巴集团" [ref=e910] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/
+        - link "淘宝" [ref=e913] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - link "天猫" [ref=e916] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - link "1688" [ref=e919] [cursor=pointer]:
+          - /url: https://www.1688.com/
+        - link "一淘" [ref=e922] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - link "阿里健康" [ref=e925] [cursor=pointer]:
+          - /url: https://www.alihealth.cn/
+        - link "全球速卖通" [ref=e928] [cursor=pointer]:
+          - /url: https://www.aliexpress.com/
+        - link "阿里巴巴国际站" [ref=e931] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - link "高德" [ref=e934] [cursor=pointer]:
+          - /url: https://mobile.amap.com/
+        - link "飞猪" [ref=e937] [cursor=pointer]:
+          - /url: https://www.fliggy.com/
+        - link "优酷" [ref=e940] [cursor=pointer]:
+          - /url: https://www.youku.com/
+        - link "大麦" [ref=e943] [cursor=pointer]:
+          - /url: https://www.damai.cn/
+        - link "阿里影业" [ref=e946] [cursor=pointer]:
+          - /url: https://www.alibabapictures.com/
+        - link "钉钉" [ref=e949] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/
+        - link "支付宝" [ref=e952] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - link "阿里妈妈" [ref=e955] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - link "阿里云" [ref=e958] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+      - generic [ref=e959]:
+        - generic [ref=e961]: 统一社会信用代码：91330110MA2H1CFF2D
+        - generic [ref=e964]: 增值电信业务经营许可证：浙B2-20201551
+        - generic [ref=e967]: 增值电信业务经营许可证（跨地区）：B2-20241485
+        - generic [ref=e970]: 网络食品销售第三方平台提供者备案：浙网食A33000101
+      - generic [ref=e971]:
+        - generic [ref=e973]: 广播电视节目制作经营许可证：（浙）字第07629号
+        - generic [ref=e976]: 营业性演出许可证：浙演经33010120064
+        - generic [ref=e979]: 集邮市场开办者备案：杭集邮备006
+        - link "APP备案号：浙ICP备20016791号-2A" [ref=e982] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/?spm=a212ne.20922897.9522938140.2#/Integrated/index
+      - generic [ref=e983]:
+        - link "闲鱼社区隐私政策" [ref=e985] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202103021554_43790.html
+        - link "软件许可协议" [ref=e988] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20230509172204596/20230509172204596.html
+        - link "闲鱼社区用户服务协议" [ref=e991] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201708081618_51146.html
+        - link "闲鱼规则" [ref=e994] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/v3Lv4OO6VbJS
+        - link "意见征集" [ref=e997] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/CQJnCbq230i3
+        - link "算法备案" [ref=e1000] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/privacy_algorithm_theory_state/20221125171956850/20221125171956850.html?spm=a1zaa.8161610.0.0.7db827b7aQ7Ymq
+      - generic [ref=e1001]:
+        - generic [ref=e1002]:
+          - img [ref=e1003]
+          - link "浙公网安备33011002014818号" [ref=e1004] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?spm=2007.1000261.0.0.660534f17KIS1E&recordcode=33011002014818
+        - generic [ref=e1006]:
+          - img [ref=e1007]
+          - link "电子营业执照" [ref=e1008] [cursor=pointer]:
+            - /url: https://intranetproxy.alipay.com/skylark/lark/0/2023/png/40591/1692327101072-570e6872-655c-4d61-b9b9-a1fbd1ca82fb.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1500%2Climit_0
+        - generic [ref=e1011]: © Goofish.com 版权所有
+      - generic [ref=e1012]:
+        - link [ref=e1013]:
+          - /url: https://www.12377.cn/?spm=a21bo.jianhua/a.1997523009.49.5af92a89T43VX8
+          - img [ref=e1014] [cursor=pointer]
+        - link [ref=e1015]:
+          - /url: https://www.12377.cn/node_548446.htm?spm=a21bo.jianhua/a.1997523009.50.5af92a89T43VX8
+          - img [ref=e1016] [cursor=pointer]
+        - generic [ref=e1017]:
+          - paragraph [ref=e1018]: 推动绿色发展，促进闲置流通
+          - generic [ref=e1019]:
+            - link "《促进绿色消费实施方案》" [ref=e1020] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/21/content_5669785.htm
+            - link "《关于加快废旧物资循环利用体系建设的指导意见》" [ref=e1021] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/22/content_5669857.htm
+    - generic [ref=e1022] [cursor=pointer]:
+      - img [ref=e1023]
+      - img [ref=e1024]

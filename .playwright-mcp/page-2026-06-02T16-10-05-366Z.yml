@@ -1,0 +1,565 @@
+- generic [active] [ref=e1]:
+  - img "闲鱼站点Logo" [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7] [cursor=pointer]:
+        - img "闲鱼站点Logo" [ref=e9]
+        - link [ref=e10]:
+          - /url: https://www.goofish.com/
+          - img [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - textbox [ref=e14]: 香蕉派 R4 Pro 路由器
+          - button "搜索" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e17]: 搜索
+          - generic [ref=e18]:
+            - link "小米路由器ax3000t" [ref=e19] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8ax3000t
+            - link "armbian盒子" [ref=e20] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=armbian%E7%9B%92%E5%AD%90
+            - link "回到末来耐克" [ref=e21] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%9B%9E%E5%88%B0%E6%9C%AB%E6%9D%A5%E8%80%90%E5%85%8B
+            - link "珍致猫罐头" [ref=e22] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8F%8D%E8%87%B4%E7%8C%AB%E7%BD%90%E5%A4%B4
+            - link "s905x3" [ref=e23] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3
+            - link "三陶教育盒子" [ref=e24] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E4%B8%89%E9%99%B6%E6%95%99%E8%82%B2%E7%9B%92%E5%AD%90
+            - link "铁门" [ref=e25] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%93%81%E9%97%A8
+            - link "洗衣粉" [ref=e26] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E6%B4%97%E8%A1%A3%E7%B2%89
+            - link "随身wifi" [ref=e27] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%9A%8F%E8%BA%ABwifi
+            - link "1元手机" [ref=e28] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=1%E5%85%83%E6%89%8B%E6%9C%BA
+        - generic [ref=e29] [cursor=pointer]:
+          - link "坏坏的死神" [ref=e30]:
+            - /url: https://www.goofish.com/personal
+            - img [ref=e31]
+            - generic [ref=e32]: 坏坏的死神
+          - link "订单" [ref=e34]:
+            - /url: https://www.goofish.com/bought
+            - img [ref=e36]
+            - generic [ref=e37]: 订单
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e40]
+        - link "网页版发闲置功能又升级啦！" [ref=e41]:
+          - /url: https://www.goofish.com/changelog
+          - generic [ref=e42] [cursor=pointer]: 网页版发闲置功能又升级啦！
+        - img [ref=e43] [cursor=pointer]
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e49]: 综合
+            - generic [ref=e52] [cursor=pointer]: 新降价
+            - generic [ref=e55]: 新发布
+            - generic [ref=e59]: 价格
+            - generic [ref=e61]:
+              - textbox "¥" [ref=e62]
+              - generic [ref=e63]: "-"
+              - textbox "¥" [ref=e64]
+              - button "确定" [disabled]
+          - generic [ref=e65]:
+            - generic [ref=e67] [cursor=pointer]:
+              - generic [ref=e68]: 区域
+              - img [ref=e69]
+            - generic [ref=e70]:
+              - button [disabled] [ref=e71]
+              - generic [ref=e73]: 1/1
+              - button [disabled] [ref=e74]
+        - generic [ref=e78]:
+          - generic [ref=e81] [cursor=pointer]: 个人闲置
+          - generic [ref=e84] [cursor=pointer]: 验货宝
+          - generic [ref=e87] [cursor=pointer]: 验号担保
+          - generic [ref=e90] [cursor=pointer]: 包邮
+          - generic [ref=e93] [cursor=pointer]: 超赞鱼小铺
+          - generic [ref=e96] [cursor=pointer]: 全新
+          - generic [ref=e99] [cursor=pointer]: 严选
+          - generic [ref=e102] [cursor=pointer]: 转卖
+        - generic [ref=e103]:
+          - img [ref=e105]
+          - generic [ref=e106]: 小闲鱼没有找到你想要的宝贝~
+          - generic [ref=e107]: 减少筛选内容试试
+        - generic [ref=e108]:
+          - paragraph [ref=e109]: 猜你喜欢
+          - generic [ref=e110]:
+            - link "小米路由器AX3000T RD03 实物照片，功能正常，成色看看图，四天线，支持WiFi6，双频5G，千兆网口，信号稳定 ¥ 80 45人想要 潇***7" [ref=e111] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1015003709512&categoryId=126862919
+              - img [ref=e113]
+              - generic [ref=e114]:
+                - generic "小米路由器AX3000T RD03 实物照片，功能正常，成色看看图，四天线，支持WiFi6，双频5G，千兆网口，信号稳定" [ref=e115]:
+                  - generic [ref=e116]:
+                    - img [ref=e117]
+                    - text: 小米路由器AX3000T RD03 实物照片，功能正常，成色看看图，四天线，支持WiFi6，双频5G，千兆网口，信号稳定
+                - generic [ref=e119]:
+                  - generic [ref=e120]:
+                    - generic [ref=e121]: ¥
+                    - generic [ref=e122]: "80"
+                  - generic "45人想要" [ref=e124]
+                - generic [ref=e125]:
+                  - img [ref=e126]
+                  - generic "潇***7" [ref=e127]:
+                    - paragraph [ref=e129]: 潇***7
+                  - img [ref=e131]
+            - link "androidA20主板 安卓A20主板 android4. 4.2主板 安卓A20工控主板，还有3片 ¥ 30 19人想要 巴***1" [ref=e132] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1007071748787&categoryId=126856285
+              - img [ref=e134]
+              - generic [ref=e135]:
+                - generic "androidA20主板 安卓A20主板 android4. 4.2主板 安卓A20工控主板，还有3片" [ref=e136]:
+                  - generic [ref=e137]:
+                    - img [ref=e138]
+                    - text: androidA20主板 安卓A20主板 android4. 4.2主板 安卓A20工控主板，还有3片
+                - generic [ref=e140]:
+                  - generic [ref=e141]:
+                    - generic [ref=e142]: ¥
+                    - generic [ref=e143]: "30"
+                  - generic "19人想要" [ref=e145]
+                - generic [ref=e146]:
+                  - img [ref=e147]
+                  - generic "巴***1" [ref=e148]:
+                    - paragraph [ref=e150]: 巴***1
+                  - img [ref=e152]
+            - link "H616 全新主控 238 个 没多 原装正品 H61 6芯片是一款高性能处理器，‌主要面向智能电视盒、‌智能家居 ¥ 30 25人想要 云***司 卖家信用极好" [ref=e153] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=824316994405&categoryId=126856539
+              - img [ref=e155]
+              - generic [ref=e156]:
+                - generic "H616 全新主控 238 个 没多 原装正品 H61 6芯片是一款高性能处理器，‌主要面向智能电视盒、‌智能家居" [ref=e157]:
+                  - generic [ref=e158]:
+                    - img [ref=e159]
+                    - text: H616 全新主控 238 个 没多 原装正品 H61 6芯片是一款高性能处理器，‌主要面向智能电视盒、‌智能家居
+                - img [ref=e161]
+                - generic [ref=e162]:
+                  - generic [ref=e163]:
+                    - generic [ref=e164]: ¥
+                    - generic [ref=e165]: "30"
+                  - generic "25人想要" [ref=e167]
+                - generic [ref=e168]:
+                  - img [ref=e169]
+                  - generic "云***司" [ref=e170]:
+                    - paragraph [ref=e172]: 云***司
+                  - generic "卖家信用极好" [ref=e175]
+            - link "DDR3，4g8位，正常拆机毛料，大几千个，有要的来聊，价格 商仪 ¥ 5 八***财 卖家信用优秀" [ref=e176] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1052120807775&categoryId=126856534
+              - img [ref=e178]
+              - generic [ref=e179]:
+                - generic "DDR3，4g8位，正常拆机毛料，大几千个，有要的来聊，价格 商仪" [ref=e180]:
+                  - generic [ref=e181]:
+                    - img [ref=e182]
+                    - text: DDR3，4g8位，正常拆机毛料，大几千个，有要的来聊，价格 商仪
+                - generic [ref=e185]:
+                  - generic [ref=e186]: ¥
+                  - generic [ref=e187]: "5"
+                - generic [ref=e188]:
+                  - img [ref=e189]
+                  - generic "八***财" [ref=e190]:
+                    - paragraph [ref=e192]: 八***财
+                  - generic "卖家信用优秀" [ref=e195]
+            - link "我不允许你们没有舒肤佳的香水！！#safeguard/舒肤佳 舒肤佳红石榴，山茶花，纯白皂香香水正品分装 3ml,5ml ¥ 11 .90 ¥68 正***装" [ref=e196] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=749538165058&categoryId=126860278
+              - img [ref=e198]
+              - generic [ref=e199]:
+                - generic "我不允许你们没有舒肤佳的香水！！#safeguard/舒肤佳 舒肤佳红石榴，山茶花，纯白皂香香水正品分装 3ml,5ml" [ref=e200]:
+                  - generic [ref=e201]: 我不允许你们没有舒肤佳的香水！！#safeguard/舒肤佳 舒肤佳红石榴，山茶花，纯白皂香香水正品分装 3ml,5ml
+                - img [ref=e203]
+                - generic [ref=e204]:
+                  - generic [ref=e205]:
+                    - generic [ref=e206]: ¥
+                    - generic [ref=e207]: "11"
+                    - generic [ref=e208]: ".90"
+                  - generic "¥68" [ref=e210]
+                - generic [ref=e211]:
+                  - img [ref=e212]
+                  - generic "正***装" [ref=e213]:
+                    - paragraph [ref=e215]: 正***装
+            - link "【oringe pi zero 2w 1g版】 几乎全新，板子很新，没怎么用过，功能正常，支持WiFi/蓝牙，micro ¥ 179 3人想要 n***e" [ref=e216] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1047998242267&categoryId=126856549
+              - img [ref=e218]
+              - generic [ref=e219]:
+                - generic "【oringe pi zero 2w 1g版】 几乎全新，板子很新，没怎么用过，功能正常，支持WiFi/蓝牙，micro" [ref=e220]:
+                  - generic [ref=e221]:
+                    - img [ref=e222]
+                    - text: 【oringe pi zero 2w 1g版】 几乎全新，板子很新，没怎么用过，功能正常，支持WiFi/蓝牙，micro
+                - generic [ref=e224]:
+                  - generic [ref=e225]:
+                    - generic [ref=e226]: ¥
+                    - generic [ref=e227]: "179"
+                  - generic "3人想要" [ref=e229]
+                - generic [ref=e230]:
+                  - img [ref=e231]
+                  - generic "n***e" [ref=e232]:
+                    - paragraph [ref=e234]: n***e
+            - link "朴西。优调，安尚芬，微瑕疵！码数36到45码！高弹像素材料， 125双起环保无异味，踩屎感无敌！只量大处理，不零！物流费 ¥ 3 .90 1620人想要 踩***家" [ref=e235] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=719934483535&categoryId=126858775
+              - img [ref=e237]
+              - generic [ref=e238]:
+                - generic "朴西。优调，安尚芬，微瑕疵！码数36到45码！高弹像素材料， 125双起环保无异味，踩屎感无敌！只量大处理，不零！物流费" [ref=e239]:
+                  - generic [ref=e240]: 朴西。优调，安尚芬，微瑕疵！码数36到45码！高弹像素材料， 125双起环保无异味，踩屎感无敌！只量大处理，不零！物流费
+                - generic [ref=e242]:
+                  - generic [ref=e243]:
+                    - generic [ref=e244]: ¥
+                    - generic [ref=e245]: "3"
+                    - generic [ref=e246]: ".90"
+                  - generic "1620人想要" [ref=e248]
+                - generic [ref=e249]:
+                  - img [ref=e250]
+                  - generic "踩***家" [ref=e251]:
+                    - paragraph [ref=e253]: 踩***家
+            - link "1/35 恶魔在咆哮 2人组素体，带底座，可定制72 64 48等其他比例，光固化3D高清16K，红陶色品牌树脂打印，特 ¥ 25 7人想要 江***鸡" [ref=e254] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=990190359279&categoryId=126860288
+              - img [ref=e256]
+              - generic [ref=e257]:
+                - generic "1/35 恶魔在咆哮 2人组素体，带底座，可定制72 64 48等其他比例，光固化3D高清16K，红陶色品牌树脂打印，特" [ref=e258]:
+                  - generic [ref=e259]: 1/35 恶魔在咆哮 2人组素体，带底座，可定制72 64 48等其他比例，光固化3D高清16K，红陶色品牌树脂打印，特
+                - img [ref=e261]
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: ¥
+                    - generic [ref=e265]: "25"
+                  - generic "7人想要" [ref=e267]
+                - generic [ref=e268]:
+                  - img [ref=e269]
+                  - generic "江***鸡" [ref=e270]:
+                    - paragraph [ref=e272]: 江***鸡
+            - link "【三合一】多功能迷你型便捷折叠风扇电筒 品牌款式随机发，功能正常，电池状态没问题 外观有点使用痕迹，成色直接看图呗，适合 轻微使用痕迹 手持式 直充 ¥ 9 .90 48人想要 各***1" [ref=e273] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1045855455613&categoryId=126858753
+              - img [ref=e275]
+              - generic [ref=e276]:
+                - generic "【三合一】多功能迷你型便捷折叠风扇电筒 品牌款式随机发，功能正常，电池状态没问题 外观有点使用痕迹，成色直接看图呗，适合" [ref=e277]:
+                  - generic [ref=e278]:
+                    - img [ref=e279]
+                    - text: 【三合一】多功能迷你型便捷折叠风扇电筒 品牌款式随机发，功能正常，电池状态没问题 外观有点使用痕迹，成色直接看图呗，适合
+                - generic [ref=e280]:
+                  - generic [ref=e282]: 轻微使用痕迹
+                  - generic [ref=e285]: 手持式
+                  - generic [ref=e288]: 直充
+                - generic [ref=e289]:
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: ¥
+                    - generic [ref=e292]: "9"
+                    - generic [ref=e293]: ".90"
+                  - generic "48人想要" [ref=e295]
+                - generic [ref=e296]:
+                  - img [ref=e297]
+                  - generic "各***1" [ref=e298]:
+                    - paragraph [ref=e300]: 各***1
+                  - img [ref=e302]
+            - link "来个同行收了吧 谁懂这几条好货 谁买谁挣 老星座K金带 含金 含铜 套金管 金冒的 就这几条 1150一条 懂货的拍 ¥ 950 ¥1150 最***伴" [ref=e303] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=822126134275&categoryId=126862544
+              - img [ref=e305]
+              - generic [ref=e306]:
+                - generic "来个同行收了吧 谁懂这几条好货 谁买谁挣 老星座K金带 含金 含铜 套金管 金冒的 就这几条 1150一条 懂货的拍" [ref=e307]:
+                  - generic [ref=e308]:
+                    - img [ref=e309]
+                    - text: 来个同行收了吧 谁懂这几条好货 谁买谁挣 老星座K金带 含金 含铜 套金管 金冒的 就这几条 1150一条 懂货的拍
+                - generic [ref=e311]:
+                  - generic [ref=e312]:
+                    - generic [ref=e313]: ¥
+                    - generic [ref=e314]: "950"
+                  - generic "¥1150" [ref=e316]
+                - generic [ref=e317]:
+                  - img [ref=e318]
+                  - generic "最***伴" [ref=e319]:
+                    - paragraph [ref=e321]: 最***伴
+                  - img [ref=e323]
+            - link "画王（画书大王），1-24本完整扫描电子版，中国新漫画的起点 ，虽然只存活了一年时间，但确是最美的童年回忆，连载了不少优 ¥ 3 37人想要 不***彪 卖家信用极好" [ref=e324] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=848003623758&categoryId=202036301
+              - img [ref=e326]
+              - generic [ref=e327]:
+                - generic "画王（画书大王），1-24本完整扫描电子版，中国新漫画的起点 ，虽然只存活了一年时间，但确是最美的童年回忆，连载了不少优" [ref=e328]:
+                  - generic [ref=e329]: 画王（画书大王），1-24本完整扫描电子版，中国新漫画的起点 ，虽然只存活了一年时间，但确是最美的童年回忆，连载了不少优
+                - generic [ref=e331]:
+                  - generic [ref=e332]:
+                    - generic [ref=e333]: ¥
+                    - generic [ref=e334]: "3"
+                  - generic "37人想要" [ref=e336]
+                - generic [ref=e337]:
+                  - img [ref=e338]
+                  - generic "不***彪" [ref=e339]:
+                    - paragraph [ref=e341]: 不***彪
+                  - generic "卖家信用极好" [ref=e344]
+            - link "全新正品未拆封森宝流浪地球积木 全新礼盒装清仓！森宝正品，品质保证～ 型号：107001（250粒） 箱式运载车 ¥ 16 .50 247人想要 木***木" [ref=e345] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=922385929331&categoryId=126862887
+              - img [ref=e347]
+              - generic [ref=e348]:
+                - generic "全新正品未拆封森宝流浪地球积木 全新礼盒装清仓！森宝正品，品质保证～ 型号：107001（250粒） 箱式运载车" [ref=e349]:
+                  - generic [ref=e350]:
+                    - img [ref=e351]
+                    - text: 全新正品未拆封森宝流浪地球积木 全新礼盒装清仓！森宝正品，品质保证～ 型号：107001（250粒） 箱式运载车
+                - img [ref=e353]
+                - generic [ref=e354]:
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: ¥
+                    - generic [ref=e357]: "16"
+                    - generic [ref=e358]: ".50"
+                  - generic "247人想要" [ref=e360]
+                - generic [ref=e361]:
+                  - img [ref=e362]
+                  - generic "木***木" [ref=e363]:
+                    - paragraph [ref=e365]: 木***木
+            - link "工业级SLC启动盘，2GB（可能是飞索TSOP封装的工业级S LC里面容量最大的），飞索工业级宽温SLC闪存，寿命10万 ¥ 40 4人想要 q***l" [ref=e366] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1017887241853&categoryId=126856274
+              - img [ref=e368]
+              - generic [ref=e369]:
+                - generic "工业级SLC启动盘，2GB（可能是飞索TSOP封装的工业级S LC里面容量最大的），飞索工业级宽温SLC闪存，寿命10万" [ref=e370]:
+                  - generic [ref=e371]:
+                    - img [ref=e372]
+                    - text: 工业级SLC启动盘，2GB（可能是飞索TSOP封装的工业级S LC里面容量最大的），飞索工业级宽温SLC闪存，寿命10万
+                - generic [ref=e374]:
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: ¥
+                    - generic [ref=e377]: "40"
+                  - generic "4人想要" [ref=e379]
+                - generic [ref=e380]:
+                  - img [ref=e381]
+                  - generic "q***l" [ref=e382]:
+                    - paragraph [ref=e384]: q***l
+            - link "KMQE60013B-B318，80多个，有需要的议价 感兴趣的话点“我想要”和我私聊吧～ ¥ 18 .88 112人想要 秦***鱼 卖家信用优秀" [ref=e385] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1018241279080&categoryId=126856539
+              - img [ref=e387]
+              - generic [ref=e388]:
+                - generic "KMQE60013B-B318，80多个，有需要的议价 感兴趣的话点“我想要”和我私聊吧～" [ref=e389]:
+                  - generic [ref=e390]:
+                    - img [ref=e391]
+                    - text: KMQE60013B-B318，80多个，有需要的议价 感兴趣的话点“我想要”和我私聊吧～
+                - generic [ref=e393]:
+                  - generic [ref=e394]:
+                    - generic [ref=e395]: ¥
+                    - generic [ref=e396]: "18"
+                    - generic [ref=e397]: ".88"
+                  - generic "112人想要" [ref=e399]
+                - generic [ref=e400]:
+                  - img [ref=e401]
+                  - generic "秦***鱼" [ref=e402]:
+                    - paragraph [ref=e404]: 秦***鱼
+                  - generic "卖家信用优秀" [ref=e407]
+            - link "忍痛转！去年新买的几台格力空调1.5匹挂机，一级能效超省电， 静音运行不扰眠。仅使用一夏，全程精心维护，外观如新，功能完 ¥ 357 20人想要 a***心" [ref=e408] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=1055608905884&categoryId=126856125
+              - img [ref=e410]
+              - generic [ref=e411]:
+                - generic "忍痛转！去年新买的几台格力空调1.5匹挂机，一级能效超省电， 静音运行不扰眠。仅使用一夏，全程精心维护，外观如新，功能完" [ref=e412]:
+                  - generic [ref=e413]:
+                    - img [ref=e414]
+                    - text: 忍痛转！去年新买的几台格力空调1.5匹挂机，一级能效超省电， 静音运行不扰眠。仅使用一夏，全程精心维护，外观如新，功能完
+                - img [ref=e416]
+                - generic [ref=e417]:
+                  - generic [ref=e418]:
+                    - generic [ref=e419]: ¥
+                    - generic [ref=e420]: "357"
+                  - generic "20人想要" [ref=e422]
+                - generic [ref=e423]:
+                  - img [ref=e424]
+                  - generic "a***心" [ref=e425]:
+                    - paragraph [ref=e427]: a***心
+            - link "小蜜蜂主机8.5成新 感兴趣的话点“我想要”和我私聊吧～ bee/小蜜蜂 几乎全新 ¥ 56 ¥199 格***6 卖家信用极好" [ref=e428] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=839825820380&categoryId=126864990
+              - img [ref=e430]
+              - generic [ref=e431]:
+                - generic "小蜜蜂主机8.5成新 感兴趣的话点“我想要”和我私聊吧～" [ref=e432]:
+                  - generic [ref=e433]:
+                    - img [ref=e434]
+                    - text: 小蜜蜂主机8.5成新 感兴趣的话点“我想要”和我私聊吧～
+                - generic [ref=e435]:
+                  - generic [ref=e437]: bee/小蜜蜂
+                  - generic [ref=e440]: 几乎全新
+                - generic [ref=e441]:
+                  - generic [ref=e442]:
+                    - generic [ref=e443]: ¥
+                    - generic [ref=e444]: "56"
+                  - generic "¥199" [ref=e446]
+                - generic [ref=e447]:
+                  - img [ref=e448]
+                  - generic "格***6" [ref=e449]:
+                    - paragraph [ref=e451]: 格***6
+                  - generic "卖家信用极好" [ref=e454]
+            - link "酒店宾馆养老院月子会所等场景，三网合一，设备提供商，前后端设 备，批发零售均可，免费技术支持，所有设备都可以远程管理，省 ¥ 30 75人想要 科***络 卖家信用极好" [ref=e455] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=971340660840&categoryId=126856474
+              - img [ref=e457]
+              - generic [ref=e458]:
+                - generic "酒店宾馆养老院月子会所等场景，三网合一，设备提供商，前后端设 备，批发零售均可，免费技术支持，所有设备都可以远程管理，省" [ref=e459]:
+                  - generic [ref=e460]:
+                    - img [ref=e461]
+                    - text: 酒店宾馆养老院月子会所等场景，三网合一，设备提供商，前后端设 备，批发零售均可，免费技术支持，所有设备都可以远程管理，省
+                - img [ref=e463]
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - generic [ref=e466]: ¥
+                    - generic [ref=e467]: "30"
+                  - generic "75人想要" [ref=e469]
+                - generic [ref=e470]:
+                  - img [ref=e471]
+                  - generic "科***络" [ref=e472]:
+                    - paragraph [ref=e474]: 科***络
+                  - generic "卖家信用极好" [ref=e477]
+            - link "13元一个10个包邮处理一批长条办公灯 线条灯 色温6000 k 28瓦13元 32瓦 18元 48瓦24元 7 ¥ 13 ¥88 实***发" [ref=e478] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=793309006834&categoryId=126858413
+              - img [ref=e480]
+              - generic [ref=e481]:
+                - generic "13元一个10个包邮处理一批长条办公灯 线条灯 色温6000 k 28瓦13元 32瓦 18元 48瓦24元 7" [ref=e482]:
+                  - generic [ref=e483]:
+                    - img [ref=e484]
+                    - text: 13元一个10个包邮处理一批长条办公灯 线条灯 色温6000 k 28瓦13元 32瓦 18元 48瓦24元 7
+                - img [ref=e486]
+                - generic [ref=e487]:
+                  - generic [ref=e488]:
+                    - generic [ref=e489]: ¥
+                    - generic [ref=e490]: "13"
+                  - generic "¥88" [ref=e492]
+                - generic [ref=e493]:
+                  - img [ref=e494]
+                  - generic "实***发" [ref=e495]:
+                    - paragraph [ref=e497]: 实***发
+                  - img [ref=e499]
+            - link "便宜出两个30A电调 好像是海科的不清楚 全新的4合1电 调 单个150一个打包280包邮 不议价了 DJI/大疆 全新 ¥ 150 93人想要 克***多 卖家信用极好" [ref=e500] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=677568170107&categoryId=126866698
+              - img [ref=e502]
+              - generic [ref=e503]:
+                - generic "便宜出两个30A电调 好像是海科的不清楚 全新的4合1电 调 单个150一个打包280包邮 不议价了" [ref=e504]:
+                  - generic [ref=e505]:
+                    - img [ref=e506]
+                    - text: 便宜出两个30A电调 好像是海科的不清楚 全新的4合1电 调 单个150一个打包280包邮 不议价了
+                - generic [ref=e507]:
+                  - generic [ref=e509]: DJI/大疆
+                  - generic [ref=e512]: 全新
+                - generic [ref=e513]:
+                  - generic [ref=e514]:
+                    - generic [ref=e515]: ¥
+                    - generic [ref=e516]: "150"
+                  - generic "93人想要" [ref=e518]
+                - generic [ref=e519]:
+                  - img [ref=e520]
+                  - generic "克***多" [ref=e521]:
+                    - paragraph [ref=e523]: 克***多
+                  - generic "卖家信用极好" [ref=e526]
+            - link "文案常被盗） 弹跳计划 私人订制 弹跳训练 综合运动表现提升 免费评估 官方认证训练师[绿圆]科班出身 以下真实截图反馈 ¥ 60 51人想要 运***K" [ref=e527] [cursor=pointer]:
+              - /url: https://www.goofish.com/item?id=766357722846&categoryId=201457809
+              - img [ref=e529]
+              - generic [ref=e530]:
+                - generic "文案常被盗） 弹跳计划 私人订制 弹跳训练 综合运动表现提升 免费评估 官方认证训练师[绿圆]科班出身 以下真实截图反馈" [ref=e531]:
+                  - generic [ref=e532]: 文案常被盗） 弹跳计划 私人订制 弹跳训练 综合运动表现提升 免费评估 官方认证训练师[绿圆]科班出身 以下真实截图反馈
+                - img [ref=e534]
+                - generic [ref=e535]:
+                  - generic [ref=e536]:
+                    - generic [ref=e537]: ¥
+                    - generic [ref=e538]: "60"
+                  - generic "51人想要" [ref=e540]
+                - generic [ref=e541]:
+                  - img [ref=e542]
+                  - generic "运***K" [ref=e543]:
+                    - paragraph [ref=e545]: 运***K
+                  - img [ref=e547]
+      - generic [ref=e550]:
+        - link "发闲置" [ref=e551] [cursor=pointer]:
+          - /url: https://www.goofish.com/publish
+          - img [ref=e553]
+          - generic [ref=e554]: 发闲置
+        - link "3 消息" [ref=e555] [cursor=pointer]:
+          - /url: https://www.goofish.com/im
+          - generic [ref=e557]:
+            - img [ref=e558]
+            - generic [ref=e559]: "3"
+          - generic [ref=e560]: 消息
+        - generic [ref=e562] [cursor=pointer]:
+          - img [ref=e565]
+          - generic [ref=e566]: APP
+        - link "反馈" [ref=e567] [cursor=pointer]:
+          - /url: https://www.goofish.com/feedback?from=search
+          - img [ref=e570]
+          - generic [ref=e571]: 反馈
+        - link "客服" [ref=e572] [cursor=pointer]:
+          - /url: https://alimebot.goofish.com/intl/index.htm?from=wkbRssQuvW
+          - img [ref=e575]
+          - generic [ref=e576]: 客服
+        - link "回顶部":
+          - /url: javascript:void(0);
+          - img [ref=e579] [cursor=pointer]
+          - generic [ref=e580] [cursor=pointer]: 回顶部
+    - generic [ref=e582]:
+      - generic [ref=e583]:
+        - link "阿里巴巴集团" [ref=e585] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/
+        - link "淘宝" [ref=e588] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - link "天猫" [ref=e591] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - link "1688" [ref=e594] [cursor=pointer]:
+          - /url: https://www.1688.com/
+        - link "一淘" [ref=e597] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - link "阿里健康" [ref=e600] [cursor=pointer]:
+          - /url: https://www.alihealth.cn/
+        - link "全球速卖通" [ref=e603] [cursor=pointer]:
+          - /url: https://www.aliexpress.com/
+        - link "阿里巴巴国际站" [ref=e606] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - link "高德" [ref=e609] [cursor=pointer]:
+          - /url: https://mobile.amap.com/
+        - link "飞猪" [ref=e612] [cursor=pointer]:
+          - /url: https://www.fliggy.com/
+        - link "优酷" [ref=e615] [cursor=pointer]:
+          - /url: https://www.youku.com/
+        - link "大麦" [ref=e618] [cursor=pointer]:
+          - /url: https://www.damai.cn/
+        - link "阿里影业" [ref=e621] [cursor=pointer]:
+          - /url: https://www.alibabapictures.com/
+        - link "钉钉" [ref=e624] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/
+        - link "支付宝" [ref=e627] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - link "阿里妈妈" [ref=e630] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - link "阿里云" [ref=e633] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+      - generic [ref=e634]:
+        - generic [ref=e636]: 统一社会信用代码：91330110MA2H1CFF2D
+        - generic [ref=e639]: 增值电信业务经营许可证：浙B2-20201551
+        - generic [ref=e642]: 增值电信业务经营许可证（跨地区）：B2-20241485
+        - generic [ref=e645]: 网络食品销售第三方平台提供者备案：浙网食A33000101
+      - generic [ref=e646]:
+        - generic [ref=e648]: 广播电视节目制作经营许可证：（浙）字第07629号
+        - generic [ref=e651]: 营业性演出许可证：浙演经33010120064
+        - generic [ref=e654]: 集邮市场开办者备案：杭集邮备006
+        - link "APP备案号：浙ICP备20016791号-2A" [ref=e657] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/?spm=a212ne.20922897.9522938140.2#/Integrated/index
+      - generic [ref=e658]:
+        - link "闲鱼社区隐私政策" [ref=e660] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202103021554_43790.html
+        - link "软件许可协议" [ref=e663] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20230509172204596/20230509172204596.html
+        - link "闲鱼社区用户服务协议" [ref=e666] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201708081618_51146.html
+        - link "闲鱼规则" [ref=e669] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/v3Lv4OO6VbJS
+        - link "意见征集" [ref=e672] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/CQJnCbq230i3
+        - link "算法备案" [ref=e675] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/privacy_algorithm_theory_state/20221125171956850/20221125171956850.html?spm=a1zaa.8161610.0.0.7db827b7aQ7Ymq
+      - generic [ref=e676]:
+        - generic [ref=e677]:
+          - img [ref=e678]
+          - link "浙公网安备33011002014818号" [ref=e679] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?spm=2007.1000261.0.0.660534f17KIS1E&recordcode=33011002014818
+        - generic [ref=e681]:
+          - img [ref=e682]
+          - link "电子营业执照" [ref=e683] [cursor=pointer]:
+            - /url: https://intranetproxy.alipay.com/skylark/lark/0/2023/png/40591/1692327101072-570e6872-655c-4d61-b9b9-a1fbd1ca82fb.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1500%2Climit_0
+        - generic [ref=e686]: © Goofish.com 版权所有
+      - generic [ref=e687]:
+        - link [ref=e688]:
+          - /url: https://www.12377.cn/?spm=a21bo.jianhua/a.1997523009.49.5af92a89T43VX8
+          - img [ref=e689] [cursor=pointer]
+        - link [ref=e690]:
+          - /url: https://www.12377.cn/node_548446.htm?spm=a21bo.jianhua/a.1997523009.50.5af92a89T43VX8
+          - img [ref=e691] [cursor=pointer]
+        - generic [ref=e692]:
+          - paragraph [ref=e693]: 推动绿色发展，促进闲置流通
+          - generic [ref=e694]:
+            - link "《促进绿色消费实施方案》" [ref=e695] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/21/content_5669785.htm
+            - link "《关于加快废旧物资循环利用体系建设的指导意见》" [ref=e696] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/22/content_5669857.htm
+    - generic [ref=e697] [cursor=pointer]:
+      - img [ref=e698]
+      - img [ref=e699]

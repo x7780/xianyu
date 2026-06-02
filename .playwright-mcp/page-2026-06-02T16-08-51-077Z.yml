@@ -1,0 +1,220 @@
+- generic [active] [ref=e1]:
+  - img "闲鱼站点Logo" [ref=e3]
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7] [cursor=pointer]:
+        - img "闲鱼站点Logo" [ref=e9]
+        - link [ref=e10]:
+          - /url: https://www.goofish.com/
+          - img [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - textbox [ref=e14]: BPI-R4 Pro
+          - button "搜索" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e17]: 搜索
+          - generic [ref=e18]:
+            - link "小米ax3000t" [ref=e19] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%B0%8F%E7%B1%B3ax3000t
+            - link "armbian盒子" [ref=e20] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=armbian%E7%9B%92%E5%AD%90
+            - link "回到末来耐克" [ref=e21] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%9B%9E%E5%88%B0%E6%9C%AB%E6%9D%A5%E8%80%90%E5%85%8B
+            - link "珍致猫罐头" [ref=e22] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8F%8D%E8%87%B4%E7%8C%AB%E7%BD%90%E5%A4%B4
+            - link "s905x3" [ref=e23] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3
+            - link "s905x3盒子" [ref=e24] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=s905x3%E7%9B%92%E5%AD%90
+            - link "铁门" [ref=e25] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E9%93%81%E9%97%A8
+            - link "猫用品" [ref=e26] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E7%8C%AB%E7%94%A8%E5%93%81
+            - link "影腾" [ref=e27] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=%E5%BD%B1%E8%85%BE
+            - link "1元手机" [ref=e28] [cursor=pointer]:
+              - /url: https://www.goofish.com/search?q=1%E5%85%83%E6%89%8B%E6%9C%BA
+        - generic [ref=e29] [cursor=pointer]:
+          - link "坏坏的死神" [ref=e30]:
+            - /url: https://www.goofish.com/personal
+            - img [ref=e31]
+            - generic [ref=e32]: 坏坏的死神
+          - link "订单" [ref=e34]:
+            - /url: https://www.goofish.com/bought
+            - img [ref=e36]
+            - generic [ref=e37]: 订单
+    - generic [ref=e38]:
+      - generic:
+        - img [ref=e39]
+        - link "网页版发闲置功能又升级啦！" [ref=e40]:
+          - /url: https://www.goofish.com/changelog
+          - generic [ref=e41] [cursor=pointer]: 网页版发闲置功能又升级啦！
+        - img [ref=e42] [cursor=pointer]
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e48]: 综合
+            - generic [ref=e51] [cursor=pointer]: 新降价
+            - generic [ref=e54]: 新发布
+            - generic [ref=e58]: 价格
+            - generic [ref=e60]:
+              - textbox "¥" [ref=e61]
+              - generic [ref=e62]: "-"
+              - textbox "¥" [ref=e63]
+              - button "确定" [disabled]
+          - generic [ref=e64]:
+            - generic [ref=e66] [cursor=pointer]:
+              - generic [ref=e67]: 区域
+              - img [ref=e68]
+            - generic [ref=e69]:
+              - button [disabled] [ref=e70]
+              - generic [ref=e72]: 1/1
+              - button [disabled] [ref=e73]
+        - generic [ref=e77]:
+          - generic [ref=e80] [cursor=pointer]: 个人闲置
+          - generic [ref=e83] [cursor=pointer]: 验货宝
+          - generic [ref=e86] [cursor=pointer]: 验号担保
+          - generic [ref=e89] [cursor=pointer]: 包邮
+          - generic [ref=e92] [cursor=pointer]: 超赞鱼小铺
+          - generic [ref=e95] [cursor=pointer]: 全新
+          - generic [ref=e98] [cursor=pointer]: 严选
+          - generic [ref=e101] [cursor=pointer]: 转卖
+        - link [ref=e103] [cursor=pointer]:
+          - /url: https://www.goofish.com/item?id=825138659231&categoryId=201459411
+          - img [ref=e105]
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]:
+                - img [ref=e109]
+                - text: 工控机开发板固件大全linux卡刷固件刷机包救砖包linux 卡刷 Ubuntu armbian debian最新24.04都有海外渠道估计 国内没有看图的卡刷包 含简单卡刷说明能不能线刷不太懂不退不换不打折 不刷机只发固件 其他不保 看清楚Minimal,Debian/UbuntuLinuxSDcardimagesSupportedboards.BoardmakerSoCCPUA10--LIMEOlimexAllwinnerA10A10s-MICROA10sA13-A13A20--LIMEA20w/eMMCA20--LIME2A20--MICROA20-SOM-EVBA20-SOM204-EVBA33-A23A64-A64ALL-H3-CCH2+(Tritium)LibreComputerH3H5ALL-H3-ITALL-H5-CCPiBPI-R2ProSinovoipRK3568CM4IOAmlogicS922X/A311DM1M1+M2A31sBerryV40S905X3/S905Y3/S905D3UltraR40ZeroM2+M2MR16M2SM5M64LeMakerCHIPNextThingR8GR824A80CubietruckPlusA83TE25RadxaEdgeKhadasRK3399VFicus96boardsFirefly-RK3288FireflyRK3288Firefly-RK3399G2(MK802+)SemitimeGT-KingBeelinkXHummingbirdMerriiA31IO-NCM6AEdgebleRK3588IO-NCM6BJetHubJ100JetHomeA113X/A113DJ80S905X/S905W/S905D/S805XLamoboR1LeezP720LenovoLubanCatEmbedFireMarsboardHAOYUElectronicsMeleA1000A1000GI7M3M9OptimusMiniX-PlusPineRiverMiQiMQMakerMK802RikomagicMK802iiK2S905M4BNeoAirPlus2Neo2Neo4R1SR2CRK3328R2SR4SR5CR5SPC-T4PC-T6C2HardkernelC4GOHC4N2N2LXunlong3H65LiteLite2OnePCPC2Plus2EPrimeLTSrk3399WinH618Zero2H616P200P201P212pcDuinoLinkSpritepcDuino3phyCORE-RK3288PhytecPineH64Pine64Pine64+PinebookPinephonePopMetalChipSPARKPrimo81MSIPX5EVBRK3368QEMUaarch64virtarmARMCortexA15(armv7)QuartzPro64PINE64ROC-RK3328-CCROC-RK3399-PCROCK3A5A5BmodelCplusSEEN10RK3399ProN8Rock2ROCK64Rock960ROCKPro64S400SinA31sSinlinxSinA33SoPinebaseboardTinkerASUSSTX6TanixU200S905X2/S905Y2/S905D2VIMVIM2S912VIM3VIM3LVyasaAmarula(MK802+)(Tritium)(armv7)233A455A5B96boardsA10A10--LIMEA1000A1000GA10sA10s-A113X/A113DA13A13-A15A20A20--LIMEA20--LIME2A20--MICROA20-SOM-EVBA20-SOM204-EVBA23A31A31sA33-A64A64-A80A83TALL-H3-CCALL-H3-ITALL-H5-CCARMASUSAirAllwinnerAmarulaAmlogicBBPI-R2BeelinkBerryBoardCC2C4CHIPCM4IOCPUChipSPARKComputerCortexCubietruckDebian/UbuntuEE25EVBEdgeEdgebleElectronicsEmbedFireFicusFireflyFirefly-RK3288Firefly-RK3399G2GOGR8GT-KingH2+H3H5H6H616H618H64HAOYUHC4HardkernelHummingbirdI7IO-NCM6AIO-NCM6BJ100J80JetHomeJetHubK2KhadasLTSLamoboLeMakerLeezLenovoLibreLinkSpriteLinuxLiteLite2LubanCatM1M1+M2M2+M2MM2SM3M4M5M64M9MICROMK802MK802iiMQMakerMSIMarsboardMeleMerriiMiQiMiniMinimal,N10N2N2LN8NeoNeo2Neo4NextOlimexOneOptimusP200P201P212P720PCPC-T4PC-T6PC2PINE64PX5PhytecPiPinePine64Pine64+PineRiverPinebookPinephonePlusPlus2Plus2EPopMetalPrimePrimo81ProQEMUQuartzPro64R1R16R1SR2CR2SR40R4SR5CR5SR8RK3288RK3328RK3368RK3399RK3399ProRK3568RK3588ROC-RK3328-CCROC-RK3399-PCROCKROCK64ROCKPro64RadxaRikomagicRock2Rock960SS400S905S905X/S905W/S905D/S805XS905X2/S905Y2/S905D2S905X3/S905Y3/S905D3S912S922X/A311DSDSESemitimeSinA31sSinA33SinlinxSinovoipSoCSoPineSupportedTX6TanixThingTinkerU200UltraVV40VIMVIM2VIM3VIM3LVyasaWinXX-PlusXunlongZeroZero2aarch64armbaseboardboards.cardeMMCimagesmakermodelpcDuinopcDuino3phyCORE-RK3288plusrk3399virtw/
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e113]: ¥
+                - generic [ref=e114]: "29"
+                - generic [ref=e115]: ".99"
+              - generic "3人想要" [ref=e117]
+            - generic [ref=e118]:
+              - img [ref=e119]
+              - generic "广东" [ref=e120]:
+                - paragraph [ref=e122]: 广东
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - button [disabled] [ref=e126]
+            - generic [ref=e128] [cursor=pointer]: "1"
+            - button [disabled] [ref=e129]
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]: 到第
+              - textbox [ref=e135]
+              - generic [ref=e136]: 页
+            - button "确定" [ref=e137] [cursor=pointer]
+      - generic [ref=e140]:
+        - link "发闲置" [ref=e141] [cursor=pointer]:
+          - /url: https://www.goofish.com/publish
+          - img [ref=e143]
+          - generic [ref=e144]: 发闲置
+        - link "3 消息" [ref=e145] [cursor=pointer]:
+          - /url: https://www.goofish.com/im
+          - generic [ref=e147]:
+            - img [ref=e148]
+            - generic [ref=e149]: "3"
+          - generic [ref=e150]: 消息
+        - generic [ref=e152] [cursor=pointer]:
+          - img [ref=e155]
+          - generic [ref=e156]: APP
+        - link "反馈" [ref=e157] [cursor=pointer]:
+          - /url: https://www.goofish.com/feedback?from=search
+          - img [ref=e160]
+          - generic [ref=e161]: 反馈
+        - link "客服" [ref=e162] [cursor=pointer]:
+          - /url: https://alimebot.goofish.com/intl/index.htm?from=wkbRssQuvW
+          - img [ref=e165]
+          - generic [ref=e166]: 客服
+        - link "回顶部":
+          - /url: javascript:void(0);
+          - img [ref=e169] [cursor=pointer]
+          - generic [ref=e170] [cursor=pointer]: 回顶部
+    - generic [ref=e172]:
+      - generic [ref=e173]:
+        - link "阿里巴巴集团" [ref=e175] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/
+        - link "淘宝" [ref=e178] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - link "天猫" [ref=e181] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - link "1688" [ref=e184] [cursor=pointer]:
+          - /url: https://www.1688.com/
+        - link "一淘" [ref=e187] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - link "阿里健康" [ref=e190] [cursor=pointer]:
+          - /url: https://www.alihealth.cn/
+        - link "全球速卖通" [ref=e193] [cursor=pointer]:
+          - /url: https://www.aliexpress.com/
+        - link "阿里巴巴国际站" [ref=e196] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - link "高德" [ref=e199] [cursor=pointer]:
+          - /url: https://mobile.amap.com/
+        - link "飞猪" [ref=e202] [cursor=pointer]:
+          - /url: https://www.fliggy.com/
+        - link "优酷" [ref=e205] [cursor=pointer]:
+          - /url: https://www.youku.com/
+        - link "大麦" [ref=e208] [cursor=pointer]:
+          - /url: https://www.damai.cn/
+        - link "阿里影业" [ref=e211] [cursor=pointer]:
+          - /url: https://www.alibabapictures.com/
+        - link "钉钉" [ref=e214] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/
+        - link "支付宝" [ref=e217] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - link "阿里妈妈" [ref=e220] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - link "阿里云" [ref=e223] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+      - generic [ref=e224]:
+        - generic [ref=e226]: 统一社会信用代码：91330110MA2H1CFF2D
+        - generic [ref=e229]: 增值电信业务经营许可证：浙B2-20201551
+        - generic [ref=e232]: 增值电信业务经营许可证（跨地区）：B2-20241485
+        - generic [ref=e235]: 网络食品销售第三方平台提供者备案：浙网食A33000101
+      - generic [ref=e236]:
+        - generic [ref=e238]: 广播电视节目制作经营许可证：（浙）字第07629号
+        - generic [ref=e241]: 营业性演出许可证：浙演经33010120064
+        - generic [ref=e244]: 集邮市场开办者备案：杭集邮备006
+        - link "APP备案号：浙ICP备20016791号-2A" [ref=e247] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/?spm=a212ne.20922897.9522938140.2#/Integrated/index
+      - generic [ref=e248]:
+        - link "闲鱼社区隐私政策" [ref=e250] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202103021554_43790.html
+        - link "软件许可协议" [ref=e253] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/common_platform_service/20230509172204596/20230509172204596.html
+        - link "闲鱼社区用户服务协议" [ref=e256] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201708081618_51146.html
+        - link "闲鱼规则" [ref=e259] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/v3Lv4OO6VbJS
+        - link "意见征集" [ref=e262] [cursor=pointer]:
+          - /url: https://h5.m.goofish.com/wow/moyu/moyu-project/doc/pages/CQJnCbq230i3
+        - link "算法备案" [ref=e265] [cursor=pointer]:
+          - /url: https://terms.alicdn.com/legal-agreement/terms/privacy_algorithm_theory_state/20221125171956850/20221125171956850.html?spm=a1zaa.8161610.0.0.7db827b7aQ7Ymq
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - img [ref=e268]
+          - link "浙公网安备33011002014818号" [ref=e269] [cursor=pointer]:
+            - /url: https://www.beian.gov.cn/portal/registerSystemInfo?spm=2007.1000261.0.0.660534f17KIS1E&recordcode=33011002014818
+        - generic [ref=e271]:
+          - img [ref=e272]
+          - link "电子营业执照" [ref=e273] [cursor=pointer]:
+            - /url: https://intranetproxy.alipay.com/skylark/lark/0/2023/png/40591/1692327101072-570e6872-655c-4d61-b9b9-a1fbd1ca82fb.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1500%2Climit_0
+        - generic [ref=e276]: © Goofish.com 版权所有
+      - generic [ref=e277]:
+        - link [ref=e278]:
+          - /url: https://www.12377.cn/?spm=a21bo.jianhua/a.1997523009.49.5af92a89T43VX8
+          - img [ref=e279] [cursor=pointer]
+        - link [ref=e280]:
+          - /url: https://www.12377.cn/node_548446.htm?spm=a21bo.jianhua/a.1997523009.50.5af92a89T43VX8
+          - img [ref=e281] [cursor=pointer]
+        - generic [ref=e282]:
+          - paragraph [ref=e283]: 推动绿色发展，促进闲置流通
+          - generic [ref=e284]:
+            - link "《促进绿色消费实施方案》" [ref=e285] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/21/content_5669785.htm
+            - link "《关于加快废旧物资循环利用体系建设的指导意见》" [ref=e286] [cursor=pointer]:
+              - /url: https://www.gov.cn/zhengce/zhengceku/2022-01/22/content_5669857.htm
