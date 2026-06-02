@@ -43,6 +43,8 @@ fetch('data.json').then(r => r.json()).then(data => {
   renderToolbar();
   renderProductList();
   if (data.products.length > 0) showReport(data.products[0].id);
+  const rp = document.getElementById('report-panel');
+  if (rp) rp.style.visibility = '';
 });
 
 // ══════════════════════════════════════════
