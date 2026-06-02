@@ -1,0 +1,230 @@
+[
+  {
+    "id": "bpi-r4-pro",
+    "name": "香蕉派 BPI-R4 Pro",
+    "name_en": "Banana Pi BPI-R4 Pro",
+    "category": "路由器",
+    "chip": "MediaTek MT7988A",
+    "firmware": "OpenWrt / ImmortalWrt",
+    "demand_score": 5,
+    "play_value": "高性能开源路由器SBC，支持WiFi 7 BE14，DIY玩家刷OpenWrt做全能家庭网关，社区活跃度极高",
+    "hunter_reason": "Hackaday 2026-05月报道+BananaPI论坛大量固件讨论帖，海外明确有完整教程",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["Banana Pi BPI-R4 Pro", "BPI-R4 Pro router", "MT7988 router board"],
+    "discovery_links": [
+      "https://hackaday.com/tag/openwrt/",
+      "https://interfacinglinux.com/2026/05/18/banana-pi-bpi-r4-pro-build-guide-and-setup-ft-forbidden-openwrt/",
+      "https://forum.banana-pi.org/t/bpi-r4-pro-general-questions-mainline/26548/61"
+    ],
+    "xianyu_keywords_used": "香蕉派 R4 Pro 路由器",
+    "xianyu": {
+      "avgPrice": null,
+      "currentListings": 0,
+      "recentSold": 0,
+      "marketAvgPrice": null,
+      "supplyLevel": "稀缺",
+      "aiRecommendations": []
+    },
+    "skip": true,
+    "skip_reason": "闲鱼供货稀缺（仅0条）"
+  },
+  {
+    "id": "cmcc-rax3000m",
+    "name": "中国移动 CMCC RAX3000M",
+    "name_en": "CMCC RAX3000M WiFi6 Router",
+    "category": "路由器",
+    "chip": "MediaTek MT7981B",
+    "firmware": "OpenWrt / ImmortalWrt",
+    "demand_score": 4,
+    "play_value": "运营商定制WiFi6路由器，MT7981B芯片OpenWrt支持成熟，价格极低，刷机可做高性能家用路由或VPN节点",
+    "hunter_reason": "ImmortalWrt官方收录支持，多个GitHub项目活跃维护，cnblogs有完整刷机教程，售价仅百元级别",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["CMCC RAX3000M router", "RAX3000M OpenWrt", "MT7981 wifi6 router cheap"],
+    "discovery_links": [
+      "https://github.com/immortalwrt/immortalwrt/discussions/1110",
+      "https://github.com/shiyu1314/openwrt-rax3000m",
+      "https://forum.openwrt.org/t/backport-of-mediatek-add-cmcc-rax3000me-support/236630"
+    ],
+    "xianyu_keywords_used": "RAX3000M",
+    "xianyu": {
+      "avgPrice": 95,
+      "currentListings": 60,
+      "recentSold": null,
+      "marketAvgPrice": 95,
+      "supplyLevel": "充足",
+      "aiRecommendations": [
+        {"title": "中国移动RAX3000M WiFi6路由器，千兆，刷好OpenWrt系统", "price": 141, "url": "https://www.goofish.com/item?id=1055524538948&categoryId=126862919"},
+        {"title": "中国移动RAX3000M路由器带usb3.0原版系统未刷机", "price": 110, "url": "https://www.goofish.com/item?id=1047004254800&categoryId=126862919"},
+        {"title": "全新未拆封中国移动RAX3000M路由器WiFi6千兆双频", "price": 104, "url": "https://www.goofish.com/item?id=1026871530613&categoryId=126862919"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": null,
+          "priceMax": null,
+          "currency": "USD",
+          "listings": 0,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=CMCC+RAX3000M+router"
+        },
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": null,
+          "priceMax": null,
+          "currency": "USD",
+          "listings": 1,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=RAX3000M+openwrt+router"
+        },
+        {
+          "name": "AliExpress",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 15,
+          "priceMax": 18,
+          "currency": "USD",
+          "listings": 5,
+          "url": "https://www.accio.com/plp/cmcc-rax3000m-router"
+        }
+      ],
+      "referenceUSD": null,
+      "competitorCount": 1,
+      "note": "运营商定制机，海外二手无记录。AliExpress批发新品$15-18，但无海外DIY买家市场认知，参考新品折价估算$10，套利空间极低"
+    },
+    "scout_done": true
+  },
+  {
+    "id": "ugoos-am6b-plus",
+    "name": "Ugoos AM6B+",
+    "name_en": "Ugoos AM6B Plus S922X-J TV Box",
+    "category": "TV盒子",
+    "chip": "Amlogic S922X-J",
+    "firmware": "CoreELEC / Armbian",
+    "demand_score": 5,
+    "play_value": "CoreELEC社区2026年度最强推荐设备，支持Dolby Vision P7 FEL硬解，S922X-J特供芯片，4K媒体终极方案",
+    "hunter_reason": "CoreELEC官方论坛帖子明确写'buy the Ugoos AM6B+'，2026年持续推荐，Amazon有售，社区教程完整",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["Ugoos AM6B Plus", "Ugoos AM6B+ S922X CoreELEC", "AM6B Plus TV box"],
+    "discovery_links": [
+      "https://discourse.coreelec.org/t/best-device-for-coreelec-in-2025/52405",
+      "https://discourse.coreelec.org/t/guide-s922x-j-ugoos-am6b-coreelec-installation-and-faqs/51231",
+      "https://www.amazon.com/Ugoos-AM6B-Amlogic-S922X-J-Ethernet/dp/B0BRP49RCB"
+    ],
+    "xianyu_keywords_used": "S922X 盒子",
+    "xianyu": {
+      "avgPrice": null,
+      "currentListings": 6,
+      "recentSold": null,
+      "marketAvgPrice": null,
+      "supplyLevel": "稀缺",
+      "aiRecommendations": []
+    },
+    "skip": true,
+    "skip_reason": "闲鱼供货稀缺（仅6条，且均非Ugoos AM6B+型号）"
+  },
+  {
+    "id": "h96-max-m9",
+    "name": "H96 Max M9",
+    "name_en": "H96 Max M9 RK3576 TV Box",
+    "category": "TV盒子",
+    "chip": "Rockchip RK3576",
+    "firmware": "Armbian / Android",
+    "demand_score": 3,
+    "play_value": "RK3576新芯片电视盒子，Armbian社区正在积极适配中，8GB/128GB版本价格低，Linux玩家关注",
+    "hunter_reason": "Armbian官方论坛2026-05月有开发者主动发帖推进支持，RK3576是新兴芯片，社区关注上升",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["H96 Max M9 RK3576", "H96 Max M9 8GB Armbian", "RK3576 TV box Linux"],
+    "discovery_links": [
+      "https://forum.armbian.com/topic/40483-efforts-to-develop-firmware-for-h96-max-m9-rk3576-tv-box-8g128g/",
+      "https://forum.armbian.com/topic/49181-h96-max-m9-rk3576-tv-box-2gb16gb-4gb32gb-8g128g/"
+    ],
+    "xianyu_keywords_used": "H96 Max M9",
+    "xianyu": {
+      "avgPrice": null,
+      "currentListings": 0,
+      "recentSold": 0,
+      "marketAvgPrice": null,
+      "supplyLevel": "稀缺",
+      "aiRecommendations": []
+    },
+    "skip": true,
+    "skip_reason": "闲鱼供货稀缺（仅0条）"
+  },
+  {
+    "id": "redmi-ax6000",
+    "name": "Redmi AX6000",
+    "name_en": "Xiaomi Redmi Router AX6000",
+    "category": "路由器",
+    "chip": "MediaTek MT7986A",
+    "firmware": "OpenWrt / ImmortalWrt",
+    "demand_score": 4,
+    "play_value": "小米红米高端WiFi6路由，MT7986A双核芯片，OpenWrt官方主线支持，适合搭建家庭VPN网关和全屋覆盖",
+    "hunter_reason": "OpenWrt官方repo有DTS文件，GitHub多个固件项目活跃，reddit r/openwrt被推荐为Realtek/MT平台首选",
+    "signal_date": "2026-04",
+    "overseas_search_keywords": ["Redmi AX6000 router", "Xiaomi Redmi AX6000 OpenWrt", "AX6000 MT7986 router"],
+    "discovery_links": [
+      "https://github.com/openwrt/openwrt/blob/main/target/linux/mediatek/dts/mt7986a-xiaomi-redmi-router-ax6000-ubootmod.dts",
+      "https://redditrecs.com/wifi-router/model/xiaomi-redmi-ax6000/",
+      "https://github.com/SundayRX/OpenWrt_Firmware_Redmi_AX6000"
+    ],
+    "xianyu_keywords_used": "红米AX6000",
+    "xianyu": {
+      "avgPrice": 330,
+      "currentListings": 30,
+      "recentSold": null,
+      "marketAvgPrice": 330,
+      "supplyLevel": "一般",
+      "aiRecommendations": [
+        {"title": "自用红米ax6000，95新，穿墙信号好，4天线8信号放大器", "price": 310, "url": "https://www.goofish.com/item?id=1055524538948&categoryId=126862919"},
+        {"title": "红米AX6000路由器，WiFi6千兆款，RB06型号，功能正常", "price": 300, "url": "https://www.goofish.com/item?id=1034192123307&categoryId=126862919"},
+        {"title": "红米ax6000，WiFi6，已刷immo 23.05.6，到手就能用", "price": 379, "url": "https://www.goofish.com/item?id=1053453898870&categoryId=126862919"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": 50,
+          "priceMax": 86,
+          "currency": "USD",
+          "listings": 10,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Redmi+AX6000+MT7986+router"
+        },
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": 45,
+          "priceMax": 80,
+          "currency": "USD",
+          "listings": 4,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Redmi+AX6000+router"
+        },
+        {
+          "name": "AliExpress",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 65,
+          "priceMax": 85,
+          "currency": "USD",
+          "listings": 15,
+          "url": "https://www.aliexpress.com/wholesale?SearchText=Redmi+AX6000"
+        }
+      ],
+      "referenceUSD": 62,
+      "competitorCount": 14,
+      "note": "eBay UK/US均有少量在售，价格$45-86；AliExpress新品约$65-85。二手竞争不激烈，机会不错"
+    },
+    "scout_done": true
+  }
+]

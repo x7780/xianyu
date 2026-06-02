@@ -66,6 +66,9 @@ xianyu/
 
 4. 【裁判】：读取 candidates.json，计算每个通过的候选的套利利润，符合准入标准的写入 db/data.db，然后 git push，最后输出执行日志
 
+
+---
+
 参考文件：
 - AGENTS.md（各 Agent 详细规则）
 - db/README.md（数据库字段说明）
