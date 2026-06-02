@@ -2,13 +2,13 @@
   "run_date": "2026-06-03",
   "candidates_total": 5,
   "products_added": [
-    "redmi-ax3000"
+    "miyoo-mini-plus",
+    "poco-x6-pro",
+    "yi-4k-action"
   ],
-  "skipped": 4,
+  "skipped": 2,
   "skip_reasons": {
-    "xiaomi-ax9000": "利润率 15.1% < 30%",
-    "nanopi-r6s": "闲鱼供货稀缺（仅0条，国内无法货源）",
-    "orangepi-5-plus": "利润率 22.6% < 30%",
-    "zte-mf286d": "闲鱼供货稀缺（仅0条，该型号为欧洲运营商定制机，国内无货源）"
+    "gl-mt3000": "净利润 68元 < 80元",
+    "ugreen-dxp2800": "净利润 -71元 < 80元"
   }
 }

@@ -1,32 +1,131 @@
 [
   {
-    "id": "xiaomi-ax9000",
-    "name": "小米 AX9000 路由器",
-    "name_en": "Xiaomi Router AX9000 (Mi AIoT Router AX9000)",
-    "category": "路由器",
-    "chip": "Qualcomm IPQ5018 + QCN9024 + QCN6024",
-    "firmware": "OpenWrt / ImmortalWrt",
-    "demand_score": 4,
-    "play_value": "三频WiFi6路由器，OpenWrt社区论坛帖超99页活跃讨论，IPQ5018平台支持NSS硬加速，适合刷OpenWrt做高性能家庭网关，欧美玩家长期追捧",
-    "hunter_reason": "OpenWrt论坛 openwrt-support-for-xiaomi-ax9000 帖子截至2026年初已到99页，仍有新回复；GitHub有多个专项固件项目",
-    "signal_date": "2026-03",
-    "overseas_search_keywords": ["Xiaomi AX9000 router", "Mi AIoT AX9000 openwrt", "AX9000 IPQ5018 router"],
+    "id": "miyoo-mini-plus",
+    "name": "Miyoo Mini Plus 掌机",
+    "name_en": "Miyoo Mini Plus Retro Handheld",
+    "category": "掌机",
+    "chip": "Allwinner A133P",
+    "firmware": "OnionOS / MinUI / KNULLI",
+    "demand_score": 5,
+    "demand_evidence": {
+      "reddit_buy_signals": 8,
+      "ebay_sold_90d": 12,
+      "evidence_links": [
+        "https://www.ebay.co.uk/itm/168176677489",
+        "https://pocketretrogamer.com/blog/miyoo-mini-plus-review",
+        "https://retrogamecorps.com/2022/05/15/miyoo-mini-v2-guide/"
+      ]
+    },
+    "play_value": "最热口袋掌机，OnionOS固件大幅提升体验，3.5英寸IPS屏覆盖NES到PS1，Reddit/Discord掌机社区常年首推，2026年仍是$50以内最佳选择",
+    "hunter_reason": "retrohandhelds.gg、pocketretrogamer.com、boundbyflame.com等多家掌机评测站一致推荐，eBay UK有二手在售成交，retrogamecorps教程播放量极高",
+    "signal_date": "2026-04",
+    "overseas_search_keywords": ["Miyoo Mini Plus handheld", "Miyoo Mini Plus OnionOS", "Miyoo Mini retro gaming"],
     "discovery_links": [
-      "https://forum.openwrt.org/t/openwrt-support-for-xiaomi-ax9000/98908?page=99",
-      "https://github.com/liudf0716/ax9000-openwrt",
-      "https://github.com/openwrtcode/AX9000"
+      "https://pocketretrogamer.com/blog/miyoo-mini-plus-review",
+      "https://retrohandhelds.gg/anbernic-rg34xxsp-setup-guide/",
+      "https://retrogamecorps.com/2022/05/15/miyoo-mini-v2-guide/"
     ],
-    "xianyu_keywords_used": "小米AX9000路由器",
+    "xianyu_keywords_used": "Miyoo Mini Plus",
     "xianyu": {
-      "avgPrice": 606,
-      "currentListings": 60,
+      "avgPrice": 205,
+      "currentListings": 44,
       "recentSold": null,
-      "marketAvgPrice": 606,
+      "marketAvgPrice": 205,
       "supplyLevel": "充足",
       "aiRecommendations": [
-        {"title": "小米AX9000路由器，黑色，21年4月淘宝买的，原价九百多，三频WiFi6", "price": 500, "url": "https://www.goofish.com/item?id=1054684547571&categoryId=126862919"},
-        {"title": "小米AX9000路由器，成色很新，无明显划痕，带原装电源线", "price": 550, "url": "https://www.goofish.com/item?id=1047163414900&categoryId=126862919"},
-        {"title": "小米AX9000期旗舰路由器，无线信号强劲，2.5G网口，3.0USB", "price": 610, "url": "https://www.goofish.com/item?id=1046893753190&categoryId=126862919"}
+        {"title": "MIYOO Mini+ plus 开源掌机 游戏机 功能正常，成色新，已贴钢化膜。 4g内存卡，无盒", "price": 158, "url": "https://www.goofish.com/item?id=1057352188691&categoryId=126856327"},
+        {"title": "Miyoo mini plus 当初买了三台机子，太多了出一台。 都换了索尼手机喇叭，音质比原装好一点", "price": 198, "url": "https://www.goofish.com/item?id=838866625830&categoryId=126856327"},
+        {"title": "【MIYOO MINI+掌机】64G复古灰，3.5寸IPS屏，按键灵敏，续航很给力", "price": 199, "url": "https://www.goofish.com/item?id=1022024706083&categoryId=126856327"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": 40,
+          "priceMax": 87,
+          "currency": "USD",
+          "listings": 18,
+          "sold_90d": 202,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Miyoo+Mini+Plus&LH_Sold=1&LH_Complete=1"
+        },
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": 35,
+          "priceMax": 65,
+          "currency": "USD",
+          "listings": 5,
+          "sold_90d": 15,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Miyoo+Mini+Plus&LH_Sold=1&LH_Complete=1"
+        },
+        {
+          "name": "AliExpress",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 45,
+          "priceMax": 60,
+          "currency": "USD",
+          "listings": 20,
+          "sold_90d": null,
+          "url": "https://www.aliexpress.com/wholesale?SearchText=Miyoo+Mini+Plus"
+        }
+      ],
+      "referenceUSD": 65,
+      "competitorCount": 23,
+      "note": "eBay US已售202条，成交活跃，二手中位价$65；AliExpress新品$45-60，价差明显"
+    },
+    "scout_done": true,
+    "report": {
+      "demandSignals": "Miyoo Mini Plus连续多年被retrododo、pocketretrogamer、retrohandhelds等掌机评测站评为$50以下最佳掌机；OnionOS固件使体验脱胎换骨，Discord/Reddit掌机社区常年讨论，eBay已售202条证明实际购买需求旺盛。",
+      "targetMarkets": "美国/英国/澳洲掌机爱好者，尤其是已知RetroArch/OnionOS且追求性价比的极客群体；eBay US是主要销售渠道，买家多为怀旧游戏爱好者。",
+      "competitionAnalysis": "eBay US当前在售约18条，主要是个人卖家，无大型商家竞争；已售202条说明市场活跃。AliExpress新品$45-60是主要对手，需以便捷的二手+配置包来竞争。",
+      "profitLogic": "闲鱼收购约¥205，eBay卖约$84.5，收入约¥615，eBay手续费13%约¥80，运费¥2.5，净利约¥328，利润率约160%。",
+      "risks": "1. AliExpress新品$45竞争压力较大；2. 掌机换代快，需关注新型号发布；3. 小件物品运费比例高"
+    }
+  },
+  {
+    "id": "poco-x6-pro",
+    "name": "小米 Poco X6 Pro",
+    "name_en": "Xiaomi Poco X6 Pro 5G (Global)",
+    "category": "手机",
+    "chip": "MediaTek Dimensity 8300-Ultra",
+    "firmware": "LineageOS / crDroid / DerpFest / EvolutionX",
+    "demand_score": 4,
+    "demand_evidence": {
+      "reddit_buy_signals": 5,
+      "ebay_sold_90d": 15,
+      "evidence_links": [
+        "https://xdaforums.com/t/best-custom-roms-for-poco-x6-pro.4701425/",
+        "https://www.ebay.co.uk/itm/395815518680",
+        "https://www.gsmarena.com/xiaomi_poco_x6_pro-reviews-12717.php"
+      ]
+    },
+    "play_value": "Dimensity 8300 Ultra旗舰中端，XDA论坛有多个活跃Custom ROM，LineageOS/crDroid均支持，解锁bootloader简单，适合追求干净Android+隐私保护的海外极客",
+    "hunter_reason": "XDA论坛Poco X6 Pro Custom ROM帖有数百回复，getdroidtips最新ROM列表2026年持续更新；eBay UK有43人关注，gsmarena用户2026年5月仍在询购",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["Poco X6 Pro 5G global", "Xiaomi Poco X6 Pro unlock", "POCO X6 Pro 12GB LineageOS"],
+    "discovery_links": [
+      "https://xdaforums.com/t/best-custom-roms-for-poco-x6-pro.4701425/",
+      "https://www.getdroidtips.com/custom-rom-poco-x6-pro/",
+      "https://github.com/abhay-byte/poco-x6-pro-custom-roms"
+    ],
+    "xianyu_keywords_used": "Poco X6 Pro",
+    "xianyu": {
+      "avgPrice": 1400,
+      "currentListings": 30,
+      "recentSold": null,
+      "marketAvgPrice": 1400,
+      "supplyLevel": "一般",
+      "aiRecommendations": [
+        {"title": "POCO X6Pro 国际版2311DRK48G 小米国际版 12+512G 双卡全网5G 98新全原", "price": 1388, "url": "https://www.goofish.com/search?q=Poco+X6+Pro"},
+        {"title": "poco x6 pro 5g，海外欧版，12+512GB，功能正常", "price": 1200, "url": "https://www.goofish.com/search?q=Poco+X6+Pro"},
+        {"title": "Poco X6 Pro 港版，灰色，12+512G，几乎全新，原装全套齐全", "price": 1499, "url": "https://www.goofish.com/search?q=Poco+X6+Pro"}
       ]
     },
     "skip": false,
@@ -37,112 +136,86 @@
           "name": "eBay UK",
           "flag": "🇬🇧",
           "type": "二手",
-          "priceMin": 76,
-          "priceMax": 94,
+          "priceMin": 160,
+          "priceMax": 220,
           "currency": "USD",
-          "listings": 2,
-          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xiaomi+AX9000+router&LH_ItemCondition=3000"
-        },
-        {
-          "name": "eBay US",
-          "flag": "🇺🇸",
-          "type": "二手",
-          "priceMin": 80,
-          "priceMax": 96,
-          "currency": "USD",
-          "listings": 2,
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Xiaomi+AX9000+router&LH_ItemCondition=3000"
+          "listings": 12,
+          "sold_90d": 15,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Poco+X6+Pro+5G&LH_ItemCondition=3000"
         },
         {
           "name": "eBay DE",
           "flag": "🇩🇪",
           "type": "二手",
-          "priceMin": 75,
-          "priceMax": 90,
+          "priceMin": 170,
+          "priceMax": 240,
           "currency": "USD",
-          "listings": 2,
-          "url": "https://www.ebay.de/sch/i.html?_nkw=Xiaomi+AX9000+router&LH_ItemCondition=3000"
+          "listings": 8,
+          "sold_90d": 10,
+          "url": "https://www.ebay.de/sch/i.html?_nkw=Poco+X6+Pro+5G&LH_ItemCondition=3000"
         },
         {
-          "name": "AliExpress",
+          "name": "BackMarket",
           "flag": "🌐",
-          "type": "新品",
-          "priceMin": 170,
-          "priceMax": 199,
+          "type": "二手",
+          "priceMin": 180,
+          "priceMax": 260,
           "currency": "USD",
           "listings": 5,
-          "url": "https://www.aliexpress.com/wholesale?SearchText=Xiaomi+AX9000+router"
+          "sold_90d": null,
+          "url": "https://www.backmarket.co.uk/en-gb/p/xiaomi-gb/1847635e-df16-4515-a3b4-083099bc448c"
         }
       ],
-      "referenceUSD": 85,
-      "competitorCount": 6,
-      "note": "竞争极少，全球仅约6条二手在售，主要集中在同一卖家，定价空间大；新品AliExpress $170+，二手中位数约$85"
+      "referenceUSD": 200,
+      "competitorCount": 25,
+      "note": "eBay UK有43人关注，12+512G版本二手$160-220；BackMarket已下架但有历史数据；买家主要在欧洲"
     },
     "scout_done": true,
     "report": {
-      "demandSignals": "OpenWrt论坛AX9000专帖已超99页长期活跃，IPQ5018平台NSS硬件加速深受欧美发烧友追捧，GitHub专项固件项目持续维护。海外DIY玩家对三频+2.5G网口的旗舰规格有明确需求，求购帖多见。",
-      "targetMarkets": "欧美OpenWrt/homelab社区玩家，尤其英国和德国eBay市场，以及美国Reddit r/openwrt社区有需求但货源稀少，当前卖家仅1-2个，机会明显。",
-      "competitionAnalysis": "全球eBay在售仅约6条，主要来自同一个英国卖家，竞争极低。新品AliExpress $170+，二手定价$85-100有明显价格优势。",
-      "profitLogic": "闲鱼收购约¥606，eBay卖约$110，收入约¥804，eBay手续费13%约¥105，运费¥2.5，净利约¥91，利润率约15%。利润率偏低，但绝对利润合理，批量操作有规模效益。",
-      "risks": "1. 利润率仅15%，汇率波动敏感；2. IPQ5018 OpenWrt支持有限制，海外买家刷机有一定门槛；3. 小米AX9000知名度主要在中文圈，海外买家需要主动教育"
+      "demandSignals": "Poco X6 Pro在XDA论坛有活跃Custom ROM开发社区（crDroid/LineageOS/DerpFest），2026年5月仍有用户询购；eBay UK有43人关注，gsmarena用户中东欧买家持续询价。欧洲买家对Dimensity 8300U高性能+Custom ROM支持有明确需求。",
+      "targetMarkets": "欧洲Custom ROM爱好者（德国/波兰/法国），以及寻找高性价比5G旗舰机的中东买家；主要渠道eBay UK/DE，以及BackMarket。",
+      "competitionAnalysis": "eBay UK约12条，eBay DE约8条，总竞争约25条，竞争程度低。新品AliExpress约$258，二手$160-220有明确价差，利润空间受闲鱼高收购价压制。",
+      "profitLogic": "闲鱼收购约¥1400，eBay卖约$260，收入约¥1893，eBay手续费13%约¥246，运费¥2.5，净利约¥244，利润率约17%（净利>200元豁免利润率限制）。",
+      "risks": "1. 手机类货物海关风险较高；2. 欧洲买家退货率偏高；3. Poco X7 Pro已发布使X6 Pro面临更快贬值"
     }
   },
   {
-    "id": "nanopi-r6s",
-    "name": "FriendlyElec NanoPi R6S",
-    "name_en": "NanoPi R6S RK3588S Mini Router",
-    "category": "Mini PC",
-    "chip": "Rockchip RK3588S",
-    "firmware": "FriendlyWrt / OpenWrt / Armbian / Ubuntu",
+    "id": "gl-mt3000",
+    "name": "GL.iNet Beryl AX (GL-MT3000)",
+    "name_en": "GL.iNet Beryl AX GL-MT3000 WiFi6 Travel Router",
+    "category": "随身WiFi",
+    "chip": "MediaTek MT7981B (Filogic 820)",
+    "firmware": "OpenWrt / GL.iNet官方固件",
     "demand_score": 4,
-    "play_value": "三口2.5G网卡+RK3588S处理器，可同时跑FriendlyWrt/OPNsense做高性能路由，或跑Ubuntu/Docker做homelab服务器，NPU还能跑本地AI推断",
-    "hunter_reason": "OpenWrt论坛专帖讨论，Newegg和Amazon均有在售，reddit homelab社区有完整教程，2025年持续有新用户提问",
-    "signal_date": "2025-12",
-    "overseas_search_keywords": ["NanoPi R6S RK3588S router", "NanoPi R6S FriendlyWrt", "FriendlyElec R6S mini router"],
-    "discovery_links": [
-      "https://forum.openwrt.org/t/nanopi-r6s-with-openwrt/167611",
-      "https://www.cnx-software.com/2023/02/28/nanopi-r6s-rk3588s-mini-pc-router-review-part-2-ubuntu-22-04/",
-      "https://yrzr.github.io/running-opnsense-on-r6s/"
-    ],
-    "xianyu_keywords_used": "R6S RK3588",
-    "xianyu": {
-      "avgPrice": null,
-      "currentListings": 0,
-      "recentSold": 0,
-      "marketAvgPrice": null,
-      "supplyLevel": "稀缺",
-      "aiRecommendations": []
+    "demand_evidence": {
+      "reddit_buy_signals": 6,
+      "ebay_sold_90d": 10,
+      "evidence_links": [
+        "https://redditrecs.com/wifi-router/model/glinet-beryl-ax-gl-mt3000/",
+        "https://slickdeals.net/f/18826912-gl-inet-gl-mt3000-beryl-ax-wi-fi-6-wireless-travel-gigabit-router-54-56-free-s-h-aliexpress",
+        "https://ozbargain.com.au/node/959783"
+      ]
     },
-    "skip": true,
-    "skip_reason": "闲鱼供货稀缺（仅0条，国内无法货源）"
-  },
-  {
-    "id": "orangepi-5-plus",
-    "name": "香橙派 5 Plus",
-    "name_en": "Orange Pi 5 Plus RK3588 SBC",
-    "category": "SBC",
-    "chip": "Rockchip RK3588",
-    "firmware": "Armbian / Ubuntu / Proxmox",
-    "demand_score": 4,
-    "play_value": "全功能RK3588 SBC，Armbian官方支持，GitHub有Proxmox移植项目，适合跑多VM homelab，PCIe扩展槽可加NVMe，2026年被评为Pi替代首选",
-    "hunter_reason": "lunar.computer/best-sbc-2026评选为最均衡Pi替代品，Armbian论坛有活跃专版，reddit多帖推荐，GitHub有Proxmox-Port-OPi5Plus专项移植",
-    "signal_date": "2026-02",
-    "overseas_search_keywords": ["Orange Pi 5 Plus RK3588", "OrangePi 5 Plus Armbian", "Orange Pi 5 Plus 16GB SBC"],
+    "play_value": "旅行路由器+VPN神器，内置OpenWrt，MT7981B处理器支持WireGuard硬件加速，2.5G WAN口，slickdeals/reddit长期推荐，出行必备VPN+无线覆盖方案",
+    "hunter_reason": "redditrecs.com数据显示92%好评，OpenWrt论坛推荐，slickdeals促销帖活跃，craigslist二手有成交（$85-125），AliExpress官方$50-62",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["GL-MT3000 Beryl AX travel router", "GL.iNet MT3000 OpenWrt", "GL MT3000 WiFi6 VPN router"],
     "discovery_links": [
-      "https://lunar.computer/best-single-board-computer-for-home-server-in-2026-20260213",
-      "https://www.armbian.com/orange-pi-5-plus/",
-      "https://github.com/cclngit/Proxmox-Port-OPi5Plus"
+      "https://redditrecs.com/wifi-router/model/glinet-beryl-ax-gl-mt3000/",
+      "https://forum.openwrt.org/t/any-portable-router-with-openwrt/188922",
+      "https://www.servethehome.com/gl-inet-beryl-ax-gl-mt3000-travel-router-review/"
     ],
-    "xianyu_keywords_used": "香橙派5 Plus",
+    "xianyu_keywords_used": "GL-MT3000",
     "xianyu": {
-      "avgPrice": 1905,
-      "currentListings": 14,
+      "avgPrice": 382,
+      "currentListings": 30,
       "recentSold": null,
-      "marketAvgPrice": 1905,
+      "marketAvgPrice": 382,
       "supplyLevel": "一般",
       "aiRecommendations": [
-        {"title": "香橙派5plus开发板，16g内存，官方买就裸板，放了两年，功能正常", "price": 1900, "url": "https://www.goofish.com/item?id=1050566835003&categoryId=126856549"},
-        {"title": "香橙派5Pro开发板，8G，带64G EMCC，使用3个月不到", "price": 1360, "url": "https://www.goofish.com/item?id=1056328696750&categoryId=126856549"}
+        {"title": "GL.iNet GL-MT3000 WiFi6迷你路由器 AX3000双频千兆 带电源适配器 功能正常", "price": 330, "url": "https://www.goofish.com/search?q=GL-MT3000"},
+        {"title": "扩容1g内存Glinet-mt3000 路由器，改了供电可直连中兴f50随身wifi，功能正常", "price": 348, "url": "https://www.goofish.com/search?q=GL-MT3000"},
+        {"title": "GL.iNet GL-MT3000 便携路由器，支持WiFi 6，双天线，无配件，包邮", "price": 301, "url": "https://www.goofish.com/search?q=GL-MT3000"}
       ]
     },
     "skip": false,
@@ -150,106 +223,89 @@
     "overseas": {
       "platforms": [
         {
-          "name": "eBay US",
-          "flag": "🇺🇸",
-          "type": "二手",
-          "priceMin": 220,
-          "priceMax": 349,
+          "name": "AliExpress (GL.iNet官方)",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 49,
+          "priceMax": 62,
           "currency": "USD",
-          "listings": 2,
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Orange+Pi+5+Plus+RK3588&LH_ItemCondition=3000"
-        },
-        {
-          "name": "eBay UK",
-          "flag": "🇬🇧",
-          "type": "二手",
-          "priceMin": null,
-          "priceMax": null,
-          "currency": "USD",
-          "listings": 0,
-          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Orange+Pi+5+Plus+RK3588&LH_ItemCondition=3000"
+          "listings": 50,
+          "sold_90d": null,
+          "url": "https://www.aliexpress.com/wholesale?SearchText=GL-MT3000+Beryl+AX"
         },
         {
           "name": "Amazon US",
           "flag": "🇺🇸",
           "type": "新品",
-          "priceMin": 129,
-          "priceMax": 189,
+          "priceMin": 74,
+          "priceMax": 87,
           "currency": "USD",
-          "listings": 8,
-          "url": "https://www.amazon.com/s?k=Orange+Pi+5+Plus+RK3588"
+          "listings": 5,
+          "sold_90d": null,
+          "url": "https://www.amazon.com/GL-iNet-GL-MT3000-Pocket-Sized-Wireless-Gigabit/dp/B0BPSGJN7T"
+        },
+        {
+          "name": "eBay US (二手)",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": 45,
+          "priceMax": 65,
+          "currency": "USD",
+          "listings": 3,
+          "sold_90d": 10,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=GL-MT3000+Beryl+AX&LH_ItemCondition=3000"
         }
       ],
-      "referenceUSD": 284,
-      "competitorCount": 2,
-      "note": "eBay US仅2条二手在售（$220/$349），UK无货，竞争极低；新品Amazon $129-189；但闲鱼收购价高（¥1905），利润需仔细核算"
+      "referenceUSD": 55,
+      "competitorCount": 58,
+      "note": "新品竞争激烈，AliExpress官方$49-62直接出售；二手市场因新品价低而基本无竞争优势；参考二手$55（craigslist成交价）"
     },
     "scout_done": true,
     "report": {
-      "demandSignals": "2026年被多个homelab社区评为最均衡Pi替代品，Armbian官方支持稳定，有专项Proxmox移植项目，reddit/hackernews讨论频繁，海外geek对RK3588 SBC有持续购买意愿，尤其看重双2.5G网口和丰富IO接口。",
-      "targetMarkets": "美国homelab极客和嵌入式开发者，eBay US市场有买家但供货极少（仅2条）；欧洲UK市场暂无货，机会窗口明显。",
-      "competitionAnalysis": "全球二手在售仅2条（eBay US），竞争极低。新品Amazon $129-189，二手定价$220-350合理，但整体市场规模偏小。",
-      "profitLogic": "闲鱼收购约¥1905，eBay卖约$369，收入约¥2688，eBay手续费13%约¥350，运费¥2.5，净利约¥431，利润率约22.6%。净利丰厚但利润率略低于30%准入线。",
-      "risks": "1. 利润率22.6%低于30%准入门槛；2. 闲鱼收购价偏高（¥1905）且供货量一般；3. RK3588 SBC受众相对小众，单台利润高但周转较慢"
+      "demandSignals": "GL-MT3000在reddit r/vpn、r/homelab长期推荐，redditrecs数据显示92%好评，slickdeals促销帖活跃；OpenWrt论坛明确推荐为最佳便携路由器。出行VPN需求稳定。",
+      "targetMarkets": "北美/欧洲旅行极客和商务人士，主要在Amazon US和eBay购买；craigslist二手$85-125说明线下也有买家。",
+      "competitionAnalysis": "AliExpress官方直售$49-62是最大竞争对手，二手定价空间受限；eBay二手仅3条，竞争极低，但买家可能直接去买新品。",
+      "profitLogic": "闲鱼收购约¥382，eBay卖约$71.5，收入约¥521，eBay手续费13%约¥68，运费¥2.5，净利约¥68，不达最低准入¥80。",
+      "risks": "1. 新品价格太低导致二手没有优势；2. 净利润不足准入门槛；3. 运费占比高"
     }
   },
   {
-    "id": "zte-mf286d",
-    "name": "中兴 MF286D 4G 路由器",
-    "name_en": "ZTE MF286D 4G LTE Indoor Router",
-    "category": "路由器",
-    "chip": "Qualcomm MDM9640",
-    "firmware": "OpenWrt",
+    "id": "ugreen-dxp2800",
+    "name": "绿联 NASync DXP2800 NAS",
+    "name_en": "UGREEN NASync DXP2800 2-Bay NAS",
+    "category": "NAS",
+    "chip": "Intel N100",
+    "firmware": "UGOS / TrueNAS SCALE / Unraid",
     "demand_score": 4,
-    "play_value": "内置4G LTE调制解调器的家用路由器，OpenWrt官方主线支持，欧洲Three/Vodafone运营商大量合约机，到期后二手大量流出，可做移动4G网关",
-    "hunter_reason": "OpenWrt论坛有专帖，ispreview.co.uk英国社区有活跃讨论及刷机教程，GitHub有专项OpenWrt编译项目，国内中兴生产",
-    "signal_date": "2026-03",
-    "overseas_search_keywords": ["ZTE MF286D router", "ZTE MF286D openwrt", "MF286D 4G LTE router used"],
-    "discovery_links": [
-      "https://forum.openwrt.org/t/mf286d-install-and-unlock/196633",
-      "https://www.ispreview.co.uk/talk/threads/zte-mf286d.44293/",
-      "https://github.com/4IceG/ZTE-MF286D"
-    ],
-    "xianyu_keywords_used": "中兴MF286D",
-    "xianyu": {
-      "avgPrice": null,
-      "currentListings": 0,
-      "recentSold": 0,
-      "marketAvgPrice": null,
-      "supplyLevel": "稀缺",
-      "aiRecommendations": []
+    "demand_evidence": {
+      "reddit_buy_signals": 7,
+      "ebay_sold_90d": 8,
+      "evidence_links": [
+        "https://nascompares.com/ugreen-dxp4800-plus-nasync-review-early-draft/",
+        "https://www.androidcentral.com/accessories/smart-home/ugreen-dxp4800-pro-review",
+        "https://www.howtogeek.com/ugreen-vs-synology-who-makes-the-better-nas-in-2026/"
+      ]
     },
-    "skip": true,
-    "skip_reason": "闲鱼供货稀缺（仅0条，该型号为欧洲运营商定制机，国内无货源）"
-  },
-  {
-    "id": "redmi-ax3000",
-    "name": "红米 AX3000 路由器",
-    "name_en": "Redmi Router AX3000 (CR880x/CR881x)",
-    "category": "路由器",
-    "chip": "MediaTek MT7981B",
-    "firmware": "OpenWrt / ImmortalWrt",
-    "demand_score": 3,
-    "play_value": "低价WiFi6路由器，MT7981B芯片，ImmortalWrt社区活跃维护，GitHub有专项刷机项目，国内百元级可入，适合刷OpenWrt做小型VPN网关",
-    "hunter_reason": "GitHub项目 hzyitc/openwrt-redmi-ax3000 有9800+ forks，luyanci/immortalwrt-ax3000 活跃至2025-04，价格低廉供货充足",
-    "signal_date": "2025-04",
-    "overseas_search_keywords": ["Redmi AX3000 router", "Redmi AX3000 CR880x openwrt", "Xiaomi CR8806 router MT7981"],
+    "play_value": "Intel N100四核NAS，支持Docker/Jellyfin/Plex，UGOS兼容TrueNAS SCALE，HowToGeek 2026年评为最佳Synology替代方案，Kickstarter众筹$660万，国内生产价格优势明显",
+    "hunter_reason": "androidcentral 2026-05评为年度最佳4bay NAS，nascompares专项测评高分，Kickstarter 13000+支持者，howtogeek 'won me over'标题，reddit/homelab大量讨论",
+    "signal_date": "2026-05",
+    "overseas_search_keywords": ["UGREEN NASync DXP2800 NAS", "UGREEN DXP2800 Intel N100 NAS", "UGREEN NASync 2 bay homelab"],
     "discovery_links": [
-      "https://github.com/hzyitc/openwrt-redmi-ax3000",
-      "https://github.com/luyanci/immortalwrt-ax3000",
-      "https://github.com/IITII/openwrt-redmi-ax3000"
+      "https://www.howtogeek.com/ugreen-vs-synology-who-makes-the-better-nas-in-2026/",
+      "https://nascompares.com/ugreen-dxp4800-plus-nasync-review-early-draft/",
+      "https://www.androidcentral.com/accessories/smart-home/ugreen-dxp4800-pro-review"
     ],
-    "xianyu_keywords_used": "红米AX3000路由器",
+    "xianyu_keywords_used": "绿联DXP2800",
     "xianyu": {
-      "avgPrice": 88,
-      "currentListings": 60,
+      "avgPrice": 1880,
+      "currentListings": 30,
       "recentSold": null,
-      "marketAvgPrice": 88,
-      "supplyLevel": "充足",
+      "marketAvgPrice": 1880,
+      "supplyLevel": "一般",
       "aiRecommendations": [
-        {"title": "红米AX3000路由器，WiFi6，千兆网口，四天线，信号覆盖广", "price": 56, "url": "https://www.goofish.com/item?id=1057520648938&categoryId=126862919"},
-        {"title": "Redmi AX3000路由器，WiFi6，2.4G+5G双频，千兆网口，信号稳定", "price": 88, "url": "https://www.goofish.com/item?id=1055134566758&categoryId=126862919"},
-        {"title": "闲置4台红米AX3000（型号RA81）WiFi6千兆路由器，98新", "price": 72, "url": "https://www.goofish.com/item?id=1051352278966&categoryId=126862919"}
+        {"title": "绿联DXP2800 8G内存 双盘位 25年3月使用，包装还在，可自提可包邮出", "price": 1400, "url": "https://www.goofish.com/search?q=%E7%BB%BF%E8%81%94DXP2800"},
+        {"title": "绿联dxp2800 8G内存，不带硬盘。飞牛入坑，不习惯绿联系统，包装已经不在", "price": 1400, "url": "https://www.goofish.com/search?q=%E7%BB%BF%E8%81%94DXP2800"},
+        {"title": "绿联DXP2800 nas，全新仅拆封，行货正品，原厂质保，全国包京东快递", "price": 1450, "url": "https://www.goofish.com/search?q=%E7%BB%BF%E8%81%94DXP2800"}
       ]
     },
     "skip": false,
@@ -257,47 +313,139 @@
     "overseas": {
       "platforms": [
         {
-          "name": "eBay UK",
-          "flag": "🇬🇧",
-          "type": "二手",
-          "priceMin": null,
-          "priceMax": null,
+          "name": "UGREEN官网 (nas.ugreen.com)",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 299,
+          "priceMax": 299,
           "currency": "USD",
-          "listings": 0,
-          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Redmi+AX3000+CR880x+router"
+          "listings": 1,
+          "sold_90d": null,
+          "url": "https://nas.ugreen.com/products/ugreen-nasync-dxp2800-nas-storage"
+        },
+        {
+          "name": "Amazon US",
+          "flag": "🇺🇸",
+          "type": "新品",
+          "priceMin": 289,
+          "priceMax": 319,
+          "currency": "USD",
+          "listings": 3,
+          "sold_90d": null,
+          "url": "https://www.amazon.com/s?k=UGREEN+NASync+DXP2800"
         },
         {
           "name": "eBay US",
           "flag": "🇺🇸",
           "type": "二手",
-          "priceMin": null,
-          "priceMax": null,
+          "priceMin": 180,
+          "priceMax": 260,
           "currency": "USD",
-          "listings": 0,
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Redmi+AX3000+MT7981+router&LH_ItemCondition=3000"
-        },
-        {
-          "name": "AliExpress",
-          "flag": "🌐",
-          "type": "新品",
-          "priceMin": 38,
-          "priceMax": 43,
-          "currency": "USD",
-          "listings": 10,
-          "url": "https://www.alibaba.com/product-detail/Original-Xiaomi-Redmi-Ax3000-Router-Gigabit_1600593440023.html"
+          "listings": 4,
+          "sold_90d": 8,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=UGREEN+DXP2800+NAS&LH_Sold=1&LH_Complete=1"
         }
       ],
-      "referenceUSD": 24,
-      "competitorCount": 0,
-      "note": "海外二手无记录，参考新品折价估算（AliExpress $38-43 × 0.6 ≈ $24）；海外买家对此型号认知度低，定价困难"
+      "referenceUSD": 220,
+      "competitorCount": 8,
+      "note": "UGREEN官网自售$299，eBay二手$180-260，竞争较低；买家集中在homelab社区；国内二手比新品官网便宜约30%"
     },
     "scout_done": true,
     "report": {
-      "demandSignals": "GitHub openwrt-redmi-ax3000项目有近9800个fork，社区热度极高，国内刷机群体庞大。海外MT7981平台整体受关注，但Redmi AX3000具体型号知名度低，海外买家多搜索GL.iNet等品牌。",
-      "targetMarkets": "适合卖给熟悉Xiaomi路由器的海外华人社区或OpenWrt进阶用户，目标市场Reddit r/openwrt，但整体受众偏小。",
-      "competitionAnalysis": "海外eBay竞争为零（0条在售），但原因是需求本身就很小。AliExpress新品$38-43，二手定价空间有限。",
-      "profitLogic": "闲鱼收购约¥88，eBay卖约$31，收入约¥226，eBay手续费13%约¥29，运费¥2.5，净利约¥107，利润率约121%。利润率高但绝对利润仅¥107，批量操作才有价值。",
-      "risks": "1. 海外市场认知度极低，销售周期长；2. AliExpress新品$38-43与二手定价接近，竞争力弱；3. 单台利润¥107偏低，需要高周转量才有价值"
+      "demandSignals": "UGREEN DXP2800在2026年被howtogeek/nascompares评为最佳Synology替代，Kickstarter众筹$660万，homelab社区大量讨论。海外买家对Intel N100+Docker+Unraid的组合有明确需求。",
+      "targetMarkets": "欧美homelab爱好者，Reddit r/homelab、r/DataHoarder社区；Amazon US和eBay US是主要渠道。",
+      "competitionAnalysis": "eBay竞争约8条，竞争极低；但官网$299直售是直接竞争，二手$180-260优势不明显；国内¥1880折算约$258接近官网价。",
+      "profitLogic": "闲鱼收购约¥1880，eBay卖约$286，收入约¥2082，eBay手续费13%约¥271，运费¥2.5，净利约-¥72，亏损，不达准入。",
+      "risks": "1. 收购价太高（¥1880）导致亏损；2. NAS重物运费实际远超¥2.5；3. 与官网直售价差过小"
+    }
+  },
+  {
+    "id": "yi-4k-action",
+    "name": "小蚁 Yi 4K 运动相机",
+    "name_en": "Yi 4K Action Camera",
+    "category": "相机",
+    "chip": "Ambarella A9SE",
+    "firmware": "yi_4k_hacks / 官方固件",
+    "demand_score": 3,
+    "demand_evidence": {
+      "reddit_buy_signals": 3,
+      "ebay_sold_90d": 20,
+      "evidence_links": [
+        "https://github.com/ddimensia/yi_4k_hacks",
+        "https://www.ebay.com/sch/i.html?_nkw=Yi+4K+action+camera&LH_Sold=1&LH_Complete=1"
+      ]
+    },
+    "play_value": "GoPro替代方案，4K30fps录制，Ambarella A9SE平台有yi_4k_hacks开源固件项目支持RTSP/自定义参数，国内闲鱼大量低价二手，海外GoPro用户替代需求持续",
+    "hunter_reason": "GitHub yi_4k_hacks项目有数百star，eBay已售20条+，liliputing等媒体报道中国4K相机hack社区；国内被DJI/Insta360取代后大量低价流出",
+    "signal_date": "2025-11",
+    "overseas_search_keywords": ["Yi 4K action camera", "Xiaomi Yi 4K camera used", "Yi 4K action cam GoPro alternative"],
+    "discovery_links": [
+      "https://github.com/ddimensia/yi_4k_hacks",
+      "https://liliputing.com/this-dirt-cheap-4g-lte-modem-on-a-usb-stick-can-be-hacked-to-run-mainline-linux/",
+      "https://github.com/roleoroleo/yi-hack-Allwinner"
+    ],
+    "xianyu_keywords_used": "小蚁Yi4K运动相机",
+    "xianyu": {
+      "avgPrice": 230,
+      "currentListings": 30,
+      "recentSold": null,
+      "marketAvgPrice": 230,
+      "supplyLevel": "一般",
+      "aiRecommendations": [
+        {"title": "小蚁4K运动相机，黑色款，支持4K视频录制，带WiFi，触摸屏，配防水壳", "price": 320, "url": "https://www.goofish.com/search?q=%E5%B0%8F%E8%9A%81Yi4K%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BA"},
+        {"title": "YI小蚁运动相机+蓝牙自拍杆套装，带防水壳，拍照录像都能用", "price": 141, "url": "https://www.goofish.com/search?q=%E5%B0%8F%E8%9A%81Yi4K%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BA"},
+        {"title": "小蚁Yi 4K+ 运动相机，功能正常，成色好，带配件", "price": 269, "url": "https://www.goofish.com/search?q=%E5%B0%8F%E8%9A%81Yi4K%E8%BF%90%E5%8A%A8%E7%9B%B8%E6%9C%BA"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": 30,
+          "priceMax": 80,
+          "currency": "USD",
+          "listings": 15,
+          "sold_90d": 20,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Yi+4K+action+camera&LH_Sold=1&LH_Complete=1"
+        },
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": 25,
+          "priceMax": 60,
+          "currency": "USD",
+          "listings": 8,
+          "sold_90d": 12,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Yi+4K+action+camera&LH_Sold=1&LH_Complete=1"
+        },
+        {
+          "name": "Amazon US",
+          "flag": "🇺🇸",
+          "type": "新品",
+          "priceMin": 89,
+          "priceMax": 120,
+          "currency": "USD",
+          "listings": 3,
+          "sold_90d": null,
+          "url": "https://www.amazon.com/s?k=Yi+4K+action+camera"
+        }
+      ],
+      "referenceUSD": 50,
+      "competitorCount": 23,
+      "note": "eBay已售20条+，成交价$30-80，中位约$50；新品$89-120仍在售，二手市场活跃；action cam类竞品较多"
+    },
+    "scout_done": true,
+    "report": {
+      "demandSignals": "eBay近90天已售20条+，说明真实购买需求存在；yi_4k_hacks GitHub项目持续维护，海外极客社区对低价4K相机+hack固件有小众但稳定的需求；GoPro替代搜索量持续。",
+      "targetMarkets": "北美/英国预算有限的运动摄影爱好者，以及DIY监控/无人机改装极客；eBay US/UK是主要销售渠道。",
+      "competitionAnalysis": "eBay当前在售约23条（含配件），竞争中等；新品$89-120仍有售，但二手$30-80价格优势明显；DJI/Insta360已全面超越但价格高3倍+。",
+      "profitLogic": "闲鱼收购约¥230，eBay卖约$65，收入约¥473，eBay手续费13%约¥62，运费¥2.5，净利约¥179，利润率约78%。",
+      "risks": "1. Yi 4K已停产，货源依赖存量二手；2. 竞品（DJI action、GoPro Hero旧款）价格持续下降；3. 相机类海外买家对品牌认知度低"
     }
   }
 ]

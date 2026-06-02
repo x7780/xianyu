@@ -1,0 +1,303 @@
+[
+  {
+    "id": "xiaomi-ax9000",
+    "name": "小米 AX9000 路由器",
+    "name_en": "Xiaomi Router AX9000 (Mi AIoT Router AX9000)",
+    "category": "路由器",
+    "chip": "Qualcomm IPQ5018 + QCN9024 + QCN6024",
+    "firmware": "OpenWrt / ImmortalWrt",
+    "demand_score": 4,
+    "play_value": "三频WiFi6路由器，OpenWrt社区论坛帖超99页活跃讨论，IPQ5018平台支持NSS硬加速，适合刷OpenWrt做高性能家庭网关，欧美玩家长期追捧",
+    "hunter_reason": "OpenWrt论坛 openwrt-support-for-xiaomi-ax9000 帖子截至2026年初已到99页，仍有新回复；GitHub有多个专项固件项目",
+    "signal_date": "2026-03",
+    "overseas_search_keywords": ["Xiaomi AX9000 router", "Mi AIoT AX9000 openwrt", "AX9000 IPQ5018 router"],
+    "discovery_links": [
+      "https://forum.openwrt.org/t/openwrt-support-for-xiaomi-ax9000/98908?page=99",
+      "https://github.com/liudf0716/ax9000-openwrt",
+      "https://github.com/openwrtcode/AX9000"
+    ],
+    "xianyu_keywords_used": "小米AX9000路由器",
+    "xianyu": {
+      "avgPrice": 606,
+      "currentListings": 60,
+      "recentSold": null,
+      "marketAvgPrice": 606,
+      "supplyLevel": "充足",
+      "aiRecommendations": [
+        {"title": "小米AX9000路由器，黑色，21年4月淘宝买的，原价九百多，三频WiFi6", "price": 500, "url": "https://www.goofish.com/item?id=1054684547571&categoryId=126862919"},
+        {"title": "小米AX9000路由器，成色很新，无明显划痕，带原装电源线", "price": 550, "url": "https://www.goofish.com/item?id=1047163414900&categoryId=126862919"},
+        {"title": "小米AX9000期旗舰路由器，无线信号强劲，2.5G网口，3.0USB", "price": 610, "url": "https://www.goofish.com/item?id=1046893753190&categoryId=126862919"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": 76,
+          "priceMax": 94,
+          "currency": "USD",
+          "listings": 2,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Xiaomi+AX9000+router&LH_ItemCondition=3000"
+        },
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": 80,
+          "priceMax": 96,
+          "currency": "USD",
+          "listings": 2,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Xiaomi+AX9000+router&LH_ItemCondition=3000"
+        },
+        {
+          "name": "eBay DE",
+          "flag": "🇩🇪",
+          "type": "二手",
+          "priceMin": 75,
+          "priceMax": 90,
+          "currency": "USD",
+          "listings": 2,
+          "url": "https://www.ebay.de/sch/i.html?_nkw=Xiaomi+AX9000+router&LH_ItemCondition=3000"
+        },
+        {
+          "name": "AliExpress",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 170,
+          "priceMax": 199,
+          "currency": "USD",
+          "listings": 5,
+          "url": "https://www.aliexpress.com/wholesale?SearchText=Xiaomi+AX9000+router"
+        }
+      ],
+      "referenceUSD": 85,
+      "competitorCount": 6,
+      "note": "竞争极少，全球仅约6条二手在售，主要集中在同一卖家，定价空间大；新品AliExpress $170+，二手中位数约$85"
+    },
+    "scout_done": true,
+    "report": {
+      "demandSignals": "OpenWrt论坛AX9000专帖已超99页长期活跃，IPQ5018平台NSS硬件加速深受欧美发烧友追捧，GitHub专项固件项目持续维护。海外DIY玩家对三频+2.5G网口的旗舰规格有明确需求，求购帖多见。",
+      "targetMarkets": "欧美OpenWrt/homelab社区玩家，尤其英国和德国eBay市场，以及美国Reddit r/openwrt社区有需求但货源稀少，当前卖家仅1-2个，机会明显。",
+      "competitionAnalysis": "全球eBay在售仅约6条，主要来自同一个英国卖家，竞争极低。新品AliExpress $170+，二手定价$85-100有明显价格优势。",
+      "profitLogic": "闲鱼收购约¥606，eBay卖约$110，收入约¥804，eBay手续费13%约¥105，运费¥2.5，净利约¥91，利润率约15%。利润率偏低，但绝对利润合理，批量操作有规模效益。",
+      "risks": "1. 利润率仅15%，汇率波动敏感；2. IPQ5018 OpenWrt支持有限制，海外买家刷机有一定门槛；3. 小米AX9000知名度主要在中文圈，海外买家需要主动教育"
+    }
+  },
+  {
+    "id": "nanopi-r6s",
+    "name": "FriendlyElec NanoPi R6S",
+    "name_en": "NanoPi R6S RK3588S Mini Router",
+    "category": "Mini PC",
+    "chip": "Rockchip RK3588S",
+    "firmware": "FriendlyWrt / OpenWrt / Armbian / Ubuntu",
+    "demand_score": 4,
+    "play_value": "三口2.5G网卡+RK3588S处理器，可同时跑FriendlyWrt/OPNsense做高性能路由，或跑Ubuntu/Docker做homelab服务器，NPU还能跑本地AI推断",
+    "hunter_reason": "OpenWrt论坛专帖讨论，Newegg和Amazon均有在售，reddit homelab社区有完整教程，2025年持续有新用户提问",
+    "signal_date": "2025-12",
+    "overseas_search_keywords": ["NanoPi R6S RK3588S router", "NanoPi R6S FriendlyWrt", "FriendlyElec R6S mini router"],
+    "discovery_links": [
+      "https://forum.openwrt.org/t/nanopi-r6s-with-openwrt/167611",
+      "https://www.cnx-software.com/2023/02/28/nanopi-r6s-rk3588s-mini-pc-router-review-part-2-ubuntu-22-04/",
+      "https://yrzr.github.io/running-opnsense-on-r6s/"
+    ],
+    "xianyu_keywords_used": "R6S RK3588",
+    "xianyu": {
+      "avgPrice": null,
+      "currentListings": 0,
+      "recentSold": 0,
+      "marketAvgPrice": null,
+      "supplyLevel": "稀缺",
+      "aiRecommendations": []
+    },
+    "skip": true,
+    "skip_reason": "闲鱼供货稀缺（仅0条，国内无法货源）"
+  },
+  {
+    "id": "orangepi-5-plus",
+    "name": "香橙派 5 Plus",
+    "name_en": "Orange Pi 5 Plus RK3588 SBC",
+    "category": "SBC",
+    "chip": "Rockchip RK3588",
+    "firmware": "Armbian / Ubuntu / Proxmox",
+    "demand_score": 4,
+    "play_value": "全功能RK3588 SBC，Armbian官方支持，GitHub有Proxmox移植项目，适合跑多VM homelab，PCIe扩展槽可加NVMe，2026年被评为Pi替代首选",
+    "hunter_reason": "lunar.computer/best-sbc-2026评选为最均衡Pi替代品，Armbian论坛有活跃专版，reddit多帖推荐，GitHub有Proxmox-Port-OPi5Plus专项移植",
+    "signal_date": "2026-02",
+    "overseas_search_keywords": ["Orange Pi 5 Plus RK3588", "OrangePi 5 Plus Armbian", "Orange Pi 5 Plus 16GB SBC"],
+    "discovery_links": [
+      "https://lunar.computer/best-single-board-computer-for-home-server-in-2026-20260213",
+      "https://www.armbian.com/orange-pi-5-plus/",
+      "https://github.com/cclngit/Proxmox-Port-OPi5Plus"
+    ],
+    "xianyu_keywords_used": "香橙派5 Plus",
+    "xianyu": {
+      "avgPrice": 1905,
+      "currentListings": 14,
+      "recentSold": null,
+      "marketAvgPrice": 1905,
+      "supplyLevel": "一般",
+      "aiRecommendations": [
+        {"title": "香橙派5plus开发板，16g内存，官方买就裸板，放了两年，功能正常", "price": 1900, "url": "https://www.goofish.com/item?id=1050566835003&categoryId=126856549"},
+        {"title": "香橙派5Pro开发板，8G，带64G EMCC，使用3个月不到", "price": 1360, "url": "https://www.goofish.com/item?id=1056328696750&categoryId=126856549"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": 220,
+          "priceMax": 349,
+          "currency": "USD",
+          "listings": 2,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Orange+Pi+5+Plus+RK3588&LH_ItemCondition=3000"
+        },
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": null,
+          "priceMax": null,
+          "currency": "USD",
+          "listings": 0,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Orange+Pi+5+Plus+RK3588&LH_ItemCondition=3000"
+        },
+        {
+          "name": "Amazon US",
+          "flag": "🇺🇸",
+          "type": "新品",
+          "priceMin": 129,
+          "priceMax": 189,
+          "currency": "USD",
+          "listings": 8,
+          "url": "https://www.amazon.com/s?k=Orange+Pi+5+Plus+RK3588"
+        }
+      ],
+      "referenceUSD": 284,
+      "competitorCount": 2,
+      "note": "eBay US仅2条二手在售（$220/$349），UK无货，竞争极低；新品Amazon $129-189；但闲鱼收购价高（¥1905），利润需仔细核算"
+    },
+    "scout_done": true,
+    "report": {
+      "demandSignals": "2026年被多个homelab社区评为最均衡Pi替代品，Armbian官方支持稳定，有专项Proxmox移植项目，reddit/hackernews讨论频繁，海外geek对RK3588 SBC有持续购买意愿，尤其看重双2.5G网口和丰富IO接口。",
+      "targetMarkets": "美国homelab极客和嵌入式开发者，eBay US市场有买家但供货极少（仅2条）；欧洲UK市场暂无货，机会窗口明显。",
+      "competitionAnalysis": "全球二手在售仅2条（eBay US），竞争极低。新品Amazon $129-189，二手定价$220-350合理，但整体市场规模偏小。",
+      "profitLogic": "闲鱼收购约¥1905，eBay卖约$369，收入约¥2688，eBay手续费13%约¥350，运费¥2.5，净利约¥431，利润率约22.6%。净利丰厚但利润率略低于30%准入线。",
+      "risks": "1. 利润率22.6%低于30%准入门槛；2. 闲鱼收购价偏高（¥1905）且供货量一般；3. RK3588 SBC受众相对小众，单台利润高但周转较慢"
+    }
+  },
+  {
+    "id": "zte-mf286d",
+    "name": "中兴 MF286D 4G 路由器",
+    "name_en": "ZTE MF286D 4G LTE Indoor Router",
+    "category": "路由器",
+    "chip": "Qualcomm MDM9640",
+    "firmware": "OpenWrt",
+    "demand_score": 4,
+    "play_value": "内置4G LTE调制解调器的家用路由器，OpenWrt官方主线支持，欧洲Three/Vodafone运营商大量合约机，到期后二手大量流出，可做移动4G网关",
+    "hunter_reason": "OpenWrt论坛有专帖，ispreview.co.uk英国社区有活跃讨论及刷机教程，GitHub有专项OpenWrt编译项目，国内中兴生产",
+    "signal_date": "2026-03",
+    "overseas_search_keywords": ["ZTE MF286D router", "ZTE MF286D openwrt", "MF286D 4G LTE router used"],
+    "discovery_links": [
+      "https://forum.openwrt.org/t/mf286d-install-and-unlock/196633",
+      "https://www.ispreview.co.uk/talk/threads/zte-mf286d.44293/",
+      "https://github.com/4IceG/ZTE-MF286D"
+    ],
+    "xianyu_keywords_used": "中兴MF286D",
+    "xianyu": {
+      "avgPrice": null,
+      "currentListings": 0,
+      "recentSold": 0,
+      "marketAvgPrice": null,
+      "supplyLevel": "稀缺",
+      "aiRecommendations": []
+    },
+    "skip": true,
+    "skip_reason": "闲鱼供货稀缺（仅0条，该型号为欧洲运营商定制机，国内无货源）"
+  },
+  {
+    "id": "redmi-ax3000",
+    "name": "红米 AX3000 路由器",
+    "name_en": "Redmi Router AX3000 (CR880x/CR881x)",
+    "category": "路由器",
+    "chip": "MediaTek MT7981B",
+    "firmware": "OpenWrt / ImmortalWrt",
+    "demand_score": 3,
+    "play_value": "低价WiFi6路由器，MT7981B芯片，ImmortalWrt社区活跃维护，GitHub有专项刷机项目，国内百元级可入，适合刷OpenWrt做小型VPN网关",
+    "hunter_reason": "GitHub项目 hzyitc/openwrt-redmi-ax3000 有9800+ forks，luyanci/immortalwrt-ax3000 活跃至2025-04，价格低廉供货充足",
+    "signal_date": "2025-04",
+    "overseas_search_keywords": ["Redmi AX3000 router", "Redmi AX3000 CR880x openwrt", "Xiaomi CR8806 router MT7981"],
+    "discovery_links": [
+      "https://github.com/hzyitc/openwrt-redmi-ax3000",
+      "https://github.com/luyanci/immortalwrt-ax3000",
+      "https://github.com/IITII/openwrt-redmi-ax3000"
+    ],
+    "xianyu_keywords_used": "红米AX3000路由器",
+    "xianyu": {
+      "avgPrice": 88,
+      "currentListings": 60,
+      "recentSold": null,
+      "marketAvgPrice": 88,
+      "supplyLevel": "充足",
+      "aiRecommendations": [
+        {"title": "红米AX3000路由器，WiFi6，千兆网口，四天线，信号覆盖广", "price": 56, "url": "https://www.goofish.com/item?id=1057520648938&categoryId=126862919"},
+        {"title": "Redmi AX3000路由器，WiFi6，2.4G+5G双频，千兆网口，信号稳定", "price": 88, "url": "https://www.goofish.com/item?id=1055134566758&categoryId=126862919"},
+        {"title": "闲置4台红米AX3000（型号RA81）WiFi6千兆路由器，98新", "price": 72, "url": "https://www.goofish.com/item?id=1051352278966&categoryId=126862919"}
+      ]
+    },
+    "skip": false,
+    "skip_reason": null,
+    "overseas": {
+      "platforms": [
+        {
+          "name": "eBay UK",
+          "flag": "🇬🇧",
+          "type": "二手",
+          "priceMin": null,
+          "priceMax": null,
+          "currency": "USD",
+          "listings": 0,
+          "url": "https://www.ebay.co.uk/sch/i.html?_nkw=Redmi+AX3000+CR880x+router"
+        },
+        {
+          "name": "eBay US",
+          "flag": "🇺🇸",
+          "type": "二手",
+          "priceMin": null,
+          "priceMax": null,
+          "currency": "USD",
+          "listings": 0,
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Redmi+AX3000+MT7981+router&LH_ItemCondition=3000"
+        },
+        {
+          "name": "AliExpress",
+          "flag": "🌐",
+          "type": "新品",
+          "priceMin": 38,
+          "priceMax": 43,
+          "currency": "USD",
+          "listings": 10,
+          "url": "https://www.alibaba.com/product-detail/Original-Xiaomi-Redmi-Ax3000-Router-Gigabit_1600593440023.html"
+        }
+      ],
+      "referenceUSD": 24,
+      "competitorCount": 0,
+      "note": "海外二手无记录，参考新品折价估算（AliExpress $38-43 × 0.6 ≈ $24）；海外买家对此型号认知度低，定价困难"
+    },
+    "scout_done": true,
+    "report": {
+      "demandSignals": "GitHub openwrt-redmi-ax3000项目有近9800个fork，社区热度极高，国内刷机群体庞大。海外MT7981平台整体受关注，但Redmi AX3000具体型号知名度低，海外买家多搜索GL.iNet等品牌。",
+      "targetMarkets": "适合卖给熟悉Xiaomi路由器的海外华人社区或OpenWrt进阶用户，目标市场Reddit r/openwrt，但整体受众偏小。",
+      "competitionAnalysis": "海外eBay竞争为零（0条在售），但原因是需求本身就很小。AliExpress新品$38-43，二手定价空间有限。",
+      "profitLogic": "闲鱼收购约¥88，eBay卖约$31，收入约¥226，eBay手续费13%约¥29，运费¥2.5，净利约¥107，利润率约121%。利润率高但绝对利润仅¥107，批量操作才有价值。",
+      "risks": "1. 海外市场认知度极低，销售周期长；2. AliExpress新品$38-43与二手定价接近，竞争力弱；3. 单台利润¥107偏低，需要高周转量才有价值"
+    }
+  }
+]

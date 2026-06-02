@@ -3,80 +3,150 @@
     "id": "bpi-r4-pro",
     "name": "香蕉派 BPI-R4 Pro",
     "name_en": "Banana Pi BPI-R4 Pro",
+    "category": "路由器",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "闲鱼供货稀缺（仅0条）"
+    "skip_reason": "闲鱼供货稀缺（仅0条）",
+    "skip_type": "permanent"
   },
   {
     "id": "cmcc-rax3000m",
     "name": "中国移动 CMCC RAX3000M",
     "name_en": "CMCC RAX3000M WiFi6 Router",
+    "category": "路由器",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "海外无价格参考，无法定价"
+    "skip_reason": "海外无价格参考，无法定价",
+    "skip_type": "temporary"
   },
   {
     "id": "ugoos-am6b-plus",
     "name": "Ugoos AM6B+",
     "name_en": "Ugoos AM6B Plus S922X-J TV Box",
+    "category": "TV盒子",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "闲鱼供货稀缺（仅6条，且均非Ugoos AM6B+型号）"
+    "skip_reason": "闲鱼供货稀缺（仅6条，且均非Ugoos AM6B+型号）",
+    "skip_type": "permanent"
   },
   {
     "id": "h96-max-m9",
     "name": "H96 Max M9",
     "name_en": "H96 Max M9 RK3576 TV Box",
+    "category": "TV盒子",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "闲鱼供货稀缺（仅0条）"
+    "skip_reason": "闲鱼供货稀缺（仅0条）",
+    "skip_type": "permanent"
   },
   {
     "id": "redmi-ax6000",
     "name": "Redmi AX6000",
     "name_en": "Xiaomi Redmi Router AX6000",
+    "category": "路由器",
     "investigated_date": "2026-06-03",
     "result": "written",
-    "skip_reason": null
+    "skip_reason": null,
+    "skip_type": null
   },
   {
     "id": "xiaomi-ax9000",
     "name": "小米 AX9000 路由器",
     "name_en": "Xiaomi Router AX9000 (Mi AIoT Router AX9000)",
+    "category": "路由器",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "利润率 15.1% < 30%"
+    "skip_reason": "利润率 15.1% < 30%",
+    "skip_type": "temporary"
   },
   {
     "id": "nanopi-r6s",
     "name": "FriendlyElec NanoPi R6S",
     "name_en": "NanoPi R6S RK3588S Mini Router",
+    "category": "Mini PC",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "闲鱼供货稀缺（仅0条，国内无法货源）"
+    "skip_reason": "闲鱼供货稀缺（仅0条，国内无法货源）",
+    "skip_type": "permanent"
   },
   {
     "id": "orangepi-5-plus",
     "name": "香橙派 5 Plus",
     "name_en": "Orange Pi 5 Plus RK3588 SBC",
+    "category": "SBC",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "利润率 22.6% < 30%"
+    "skip_reason": "利润率 22.6% < 30%",
+    "skip_type": "temporary"
   },
   {
     "id": "zte-mf286d",
     "name": "中兴 MF286D 4G 路由器",
     "name_en": "ZTE MF286D 4G LTE Indoor Router",
+    "category": "路由器",
     "investigated_date": "2026-06-03",
     "result": "skipped",
-    "skip_reason": "闲鱼供货稀缺（仅0条，该型号为欧洲运营商定制机，国内无货源）"
+    "skip_reason": "闲鱼供货稀缺（仅0条，该型号为欧洲运营商定制机，国内无货源）",
+    "skip_type": "permanent"
   },
   {
     "id": "redmi-ax3000",
     "name": "红米 AX3000 路由器",
     "name_en": "Redmi Router AX3000 (CR880x/CR881x)",
+    "category": "路由器",
     "investigated_date": "2026-06-03",
     "result": "written",
-    "skip_reason": null
+    "skip_reason": null,
+    "skip_type": null
+  },
+  {
+    "id": "miyoo-mini-plus",
+    "name": "Miyoo Mini Plus 掌机",
+    "name_en": "Miyoo Mini Plus Retro Handheld",
+    "category": "掌机",
+    "investigated_date": "2026-06-03",
+    "result": "written",
+    "skip_reason": null,
+    "skip_type": null
+  },
+  {
+    "id": "poco-x6-pro",
+    "name": "小米 Poco X6 Pro",
+    "name_en": "Xiaomi Poco X6 Pro 5G (Global)",
+    "category": "手机",
+    "investigated_date": "2026-06-03",
+    "result": "written",
+    "skip_reason": null,
+    "skip_type": null
+  },
+  {
+    "id": "gl-mt3000",
+    "name": "GL.iNet Beryl AX (GL-MT3000)",
+    "name_en": "GL.iNet Beryl AX GL-MT3000 WiFi6 Travel Router",
+    "category": "随身WiFi",
+    "investigated_date": "2026-06-03",
+    "result": "skipped",
+    "skip_reason": "净利润 68元 < 80元",
+    "skip_type": "temporary"
+  },
+  {
+    "id": "ugreen-dxp2800",
+    "name": "绿联 NASync DXP2800 NAS",
+    "name_en": "UGREEN NASync DXP2800 2-Bay NAS",
+    "category": "NAS",
+    "investigated_date": "2026-06-03",
+    "result": "skipped",
+    "skip_reason": "净利润 -71元 < 80元",
+    "skip_type": "temporary"
+  },
+  {
+    "id": "yi-4k-action",
+    "name": "小蚁 Yi 4K 运动相机",
+    "name_en": "Yi 4K Action Camera",
+    "category": "相机",
+    "investigated_date": "2026-06-03",
+    "result": "written",
+    "skip_reason": null,
+    "skip_type": null
   }
 ]
