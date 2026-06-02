@@ -43,8 +43,6 @@ fetch('data.json').then(r => r.json()).then(data => {
   renderToolbar();
   renderProductList();
   if (data.products.length > 0) showReport(data.products[0].id);
-  const rp = document.getElementById('report-panel');
-  if (rp) rp.style.visibility = '';
 });
 
 // ══════════════════════════════════════════
@@ -177,6 +175,8 @@ function renderProductList() {
 function showReport(id) {
   const p = D.products.find(x => x.id === id);
   if (!p) return;
+  const rp = document.getElementById('report-panel');
+  if (rp) rp.style.visibility = '';
   document.querySelectorAll('.prow').forEach(r => r.classList.toggle('active', r.dataset.id === id));
 
   const fx  = D.meta.exchangeRate;
