@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>闲鱼出海选品看板</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0d1117;--bg2:#161b22;--bg3:#1c2128;--border:#30363d;
+  --text:#e6edf3;--text2:#8b949e;--text3:#6e7681;
+  --green:#3fb950;--green-dim:#1a4226;
+  --blue:#58a6ff;--blue-dim:#1c3454;
+  --yellow:#d29922;--yellow-dim:#3d2e0a;
+  --red:#f85149;--red-dim:#3d1212;
+  --purple:#bc8cff;--purple-dim:#2d1f5e;
+  --orange:#f0883e;
+  --radius:8px;
+}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;font-size:14px}
+a{color:var(--blue);text-decoration:none}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+
+.app{display:flex;flex-direction:column;min-height:100vh}
+.topbar{background:var(--bg2);border-bottom:1px solid var(--border);padding:12px 24px;display:flex;align-items:center;gap:16px;position:sticky;top:0;z-index:100}
+.topbar h1{font-size:16px;font-weight:700;color:var(--text)}
+.topbar .meta{font-size:12px;color:var(--text3);margin-left:auto}
+.content{flex:1;padding:20px 24px;max-width:1600px;margin:0 auto;width:100%}
+
+/* ── 徽章 ── */
+.sbadge{padding:2px 8px;border-radius:8px;font-size:11px;font-weight:600}
+.sbadge.s-强烈推荐{background:var(--green-dim);color:var(--green)}
+.sbadge.s-推荐{background:var(--blue-dim);color:var(--blue)}
+.sbadge.s-谨慎{background:var(--yellow-dim);color:var(--yellow)}
+.sbadge.s-不推荐{background:var(--red-dim);color:var(--red)}
+.trend-badge{display:inline-flex;align-items:center;gap:3px;font-size:10px;padding:1px 6px;border-radius:6px}
+.trend-badge.up{background:#1a3a1a;color:#3fb950}
+.trend-badge.fast{background:#0d2b0d;color:#56d364;font-weight:700}
+.trend-badge.stable{background:#1c2128;color:#8b949e}
+.trend-badge.down{background:#3d1212;color:#f85149}
+.cbadge{padding:2px 8px;border-radius:8px;font-size:10px;font-weight:600}
+.cbadge.极低{background:var(--green-dim);color:var(--green)}
+.cbadge.低{background:var(--blue-dim);color:var(--blue)}
+.cbadge.中{background:var(--yellow-dim);color:var(--yellow)}
+.cbadge.高,.cbadge.极高{background:var(--red-dim);color:var(--red)}
+.fw-badge{font-size:11px;padding:3px 9px;border-radius:8px;background:var(--blue-dim);color:var(--blue)}
+
+/* ── 筛选 pill ── */
+.pill{padding:4px 14px;border-radius:16px;border:1px solid var(--border);background:var(--bg2);color:var(--text2);cursor:pointer;font-size:12px;transition:all .15s;white-space:nowrap}
+.pill:hover,.pill.active{background:var(--blue);border-color:var(--blue);color:#fff}
+
+/* ── 左右布局 ── */
+.products-layout{display:grid;grid-template-columns:340px 1fr;gap:16px;align-items:start;min-width:0}
+.product-list-panel{position:sticky;top:56px}
+.product-list{display:flex;flex-direction:column;gap:4px;max-height:calc(100dvh - 220px);overflow-y:auto;padding-right:4px}
+#search-input::placeholder{color:var(--text3)}
+
+/* ── 左侧产品行 ── */
+.prow{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:7px 10px;cursor:pointer;transition:all .15s;border-left:3px solid transparent}
+.prow:hover{border-color:#484f58}
+.prow.active{background:var(--bg3);border-left-color:var(--blue)!important;border-color:var(--blue)}
+.prow.s-强烈推荐{border-left-color:var(--green)}
+.prow.s-推荐{border-left-color:var(--blue)}
+.prow.s-谨慎{border-left-color:var(--yellow)}
+.prow.s-不推荐{border-left-color:var(--red);opacity:.6}
+.prow-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:3px;gap:6px;min-width:0}
+.prow-name{font-size:12px;font-weight:600;color:var(--text);line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:1}
+.prow-chip{font-size:10px;color:var(--text3)}
+.prow-nums{display:flex;gap:8px;font-size:11px;flex-wrap:nowrap;overflow:hidden;align-items:center}
+.prow-buy{color:var(--orange)}
+.prow-profit{color:var(--green);font-weight:600}
+.prow-trend{font-size:10px;color:var(--text3)}
+
+/* ── 右侧报告 ── */
+.report-panel{min-height:400px;min-width:0;overflow:hidden}
+.report-empty{color:var(--text3);font-size:14px;padding:60px;text-align:center;background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius)}
+.rpt-header{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:18px 20px;margin-bottom:12px}
+.rpt-title-row{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:12px;gap:12px}
+.rpt-title{font-size:19px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.rpt-chip{font-size:12px;color:var(--text3);margin-top:4px}
+.rpt-badges{display:flex;gap:6px;align-items:center;flex-shrink:0}
+.rpt-prices{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+.rpbox{background:var(--bg3);border-radius:6px;padding:10px 12px}
+.rpbox .rl{font-size:10px;color:var(--text3);margin-bottom:3px;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rpbox .rv{font-size:15px;font-weight:700}
+.rpbox.xianyu-buy .rv{color:var(--orange)}
+.rpbox.overseas-ref .rv{color:var(--text2)}
+.rpbox.sell-rec .rv{color:var(--green)}
+.rpbox.profit-est .rv{color:var(--yellow)}
+.rpbox.spread .rv{color:var(--purple)}
+.rpt-channels{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid var(--border)}
+.rpt-body{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin-bottom:12px}
+.rpt-section{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;min-width:0}
+.rpt-section.full{grid-column:1/-1}
+.rpt-section.half{grid-column:span 2}
+.rs-title{font-size:11px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px;display:flex;align-items:center;gap:6px}
+.rs-title .rs-icon{font-size:13px}
+
+/* ── 社区表格 ── */
+.comm-table{width:100%;border-collapse:collapse}
+.comm-table th{font-size:10px;color:var(--text3);font-weight:600;text-align:left;padding:4px 8px 6px;border-bottom:1px solid var(--border);white-space:nowrap;text-transform:uppercase;letter-spacing:.04em}
+.comm-table td{padding:6px 8px;border-bottom:1px solid #21262d;font-size:12px;vertical-align:middle;word-break:break-word}
+.comm-table tr:last-child td{border-bottom:none}
+.comm-table tr:hover td{background:var(--bg3)}
+.comm-link{color:var(--blue);font-size:12px;font-weight:500}
+.comm-num{font-weight:700;font-family:monospace;color:var(--text)}
+.comm-num.big{color:var(--yellow)}
+.comm-keywords{display:flex;flex-wrap:wrap;gap:3px}
+.kw{font-size:10px;padding:1px 5px;border-radius:4px;background:var(--bg);color:var(--text3)}
+.hotdots{display:flex;gap:2px;align-items:center}
+.hotdot{width:7px;height:7px;border-radius:50%;background:var(--border)}
+.hotdot.on{background:var(--yellow)}
+
+/* ── 海外价格表格 ── */
+.price-table{width:100%;border-collapse:collapse;table-layout:fixed}
+.price-table th{font-size:10px;color:var(--text3);font-weight:600;text-align:left;padding:4px 8px 6px;border-bottom:1px solid var(--border);text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
+.price-table td{padding:6px 8px;border-bottom:1px solid #21262d;font-size:12px;vertical-align:middle;word-break:break-word}
+.price-table tr:last-child td{border-bottom:none}
+.price-table tr:hover td{background:var(--bg3)}
+.pt-type{font-size:10px;padding:1px 6px;border-radius:4px}
+.pt-type.new{background:var(--blue-dim);color:var(--blue)}
+.pt-type.used{background:var(--green-dim);color:var(--green)}
+.pt-listings.zero{color:var(--red)}
+.pt-listings.few{color:var(--yellow)}
+.pt-listings.many{color:var(--green)}
+.pt-price{font-weight:700;font-family:monospace}
+.pt-spread{font-size:11px}
+.pt-spread.pos{color:var(--green);font-weight:600}
+.pt-spread.neg{color:var(--red)}
+.pt-link{font-size:11px;color:var(--blue)}
+
+/* ── 闲鱼供货 ── */
+.xianyu-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:10px}
+.xy-box{background:var(--bg3);border-radius:6px;padding:8px 10px;text-align:center}
+.xy-box .xl{font-size:10px;color:var(--text3);margin-bottom:3px}
+.xy-box .xv{font-size:15px;font-weight:700;color:var(--text)}
+.xy-box .xv.good{color:var(--green)}
+.xy-box .xv.warn{color:var(--yellow)}
+
+/* ── 利润拆解 ── */
+.profit-breakdown{display:flex;flex-direction:column;gap:6px}
+.pbl{display:flex;justify-content:space-between;align-items:center;font-size:12px;padding:5px 0;border-bottom:1px solid var(--border)}
+.pbl:last-child{border-bottom:none}
+.pbl .plbl{color:var(--text2)}
+.pbl .pamnt{font-weight:600}
+.pbl.total .plbl{color:var(--text);font-weight:700}
+.pbl.total .pamnt{color:var(--yellow);font-size:14px}
+.pbl.profit-line .pamnt{color:var(--green);font-size:14px;font-weight:700}
+.profit-bar-wrap{margin-top:10px}
+.pb-labels{display:flex;justify-content:space-between;font-size:10px;color:var(--text3);margin-bottom:3px}
+.pb-bg{background:var(--bg3);border-radius:3px;height:6px}
+.pb-fill{height:6px;border-radius:3px;background:linear-gradient(90deg,var(--yellow),var(--green))}
+
+/* ── 其他 ── */
+.signal-box{font-size:12px;color:var(--text2);line-height:1.7}
+.signal-box strong{color:var(--text)}
+.sell-channels{display:flex;flex-wrap:wrap;gap:6px}
+.sc-tag{font-size:11px;padding:3px 10px;border-radius:6px;background:var(--bg3);color:var(--blue);border:1px solid var(--blue-dim)}
+.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.tag{font-size:10px;padding:2px 7px;border-radius:6px;background:var(--bg3);color:var(--text3)}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="topbar">
+    <h1>📦 闲鱼出海选品看板</h1>
+    <div class="meta" id="top-meta"></div>
+  </div>
+  <div class="content">
+    <div class="products-layout">
+      <div class="product-list-panel">
+        <div id="toolbar" style="display:flex;flex-direction:column;gap:4px;margin-bottom:12px"></div>
+        <div id="list-count" style="font-size:11px;color:var(--text3);padding:2px 2px 4px;display:none"></div>
+        <div class="product-list" id="product-list"></div>
+      </div>
+      <div class="report-panel" id="report-panel">
+        <div class="report-empty">← 点击左侧产品查看完整调研报告</div>
+      </div>
+    </div>
+    <footer style="margin-top:40px;padding:20px 0;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
+      <span style="font-size:12px;color:var(--text3)">📦 闲鱼出海选品看板 &nbsp;·&nbsp; 数据仅供参考，实际价格以平台为准</span>
+      <span style="font-size:12px;color:var(--text3)" id="footer-meta"></span>
+    </footer>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

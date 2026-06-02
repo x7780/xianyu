@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "playwright-mcp",
+      "args": [
+        "--extension",
+        "--executable-path",
+        "D:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+        "--proxy-bypass",
+        "localhost,127.0.0.1,<-loopback>"
+      ],
+      "env": {
+        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "MSDJRHtcyrhkWKUOiHiz9K9_ft70X1qUkpFfxovvTiA"
+      },
+      "disabled": false,
+      "autoApprove": [
+        "browser_navigate",
+        "browser_snapshot",
+        "browser_click",
+        "browser_type",
+        "browser_take_screenshot"
+      ]
+    }
+  }
+}

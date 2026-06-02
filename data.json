@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "title": "二手电子出海选品看板",
+    "updated": "2026-06-02",
+    "exchangeRate": 7.28,
+    "shippingBase": 25,
+    "euVat": 0.20,
+    "euHandlingFee": 6
+  },
+  "products": [
+    {
+      "id": "s905x3",
+      "name": "S905X3 电视盒子",
+      "nameEn": "Amlogic S905X3 TV Box (Armbian)",
+      "dataUpdated": "2026-06-02",
+      "category": "TV盒子",
+      "chip": "Amlogic S905X3",
+      "firmware": "Armbian",
+      "status": "强烈推荐",
+      "demandTrend": "上升",
+      "communityHotness": 5,
+      "recommend": 5,
+      "competition": "极低",
+      "xianyu": {
+        "avgPrice": 52,
+        "currentListings": 320,
+        "recentSold": 85,
+        "marketAvgPrice": 52,
+        "supplyLevel": "充足",
+        "aiRecommendations": [
+          { "title": "S905X3电视盒子 H96 Max", "price": 45, "url": "https://m.tb.cn/h.gCaRTjP" },
+          { "title": "晶晨S905X3 Armbian适配", "price": 50, "url": "https://m.tb.cn/h.gCaRUkL" },
+          { "title": "S905X3 4G+32G 成色好", "price": 55, "url": "https://m.tb.cn/h.gCaRVmN" },
+          { "title": "X96 Max Plus S905X3 九成新", "price": 48, "url": "https://m.tb.cn/h.gCaRWnO" }
+        ]
+      },
+      "communityData": [
+        {
+          "platform": "Armbian Forum",
+          "section": "TV Boxes",
+          "lang": "🌐 英语",
+          "url": "https://forum.armbian.com/forum/12-tv-boxes/",
+          "posts": 4800,
+          "threads": 312,
+          "hotKeywords": ["S905X3", "Armbian", "Home Assistant"],
+          "lastActive": "1天前",
+          "hotness": 5
+        },
+        {
+          "platform": "Reddit r/selfhosted",
+          "section": "",
+          "lang": "🇺🇸 英语",
+          "url": "https://reddit.com/r/selfhosted",
+          "posts": 2300,
+          "threads": 180,
+          "hotKeywords": ["cheap ARM box", "S905X3", "docker host"],
+          "lastActive": "今天",
+          "hotness": 5
+        },
+        {
+          "platform": "GitHub ophub/amlogic-s9xxx-armbian",
+          "section": "Issues/Discussions",
+          "lang": "🌐 英语/中文",
+          "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+          "posts": 1240,
+          "threads": null,
+          "stars": 8100,
+          "hotKeywords": ["install", "S905X3", "H96 Max"],
+          "lastActive": "2天前",
+          "hotness": 4
+        }
+      ],
+      "overseas": {
+        "platforms": [
+          { "name": "eBay UK", "flag": "🇬🇧", "type": "二手", "priceMin": 28, "priceMax": 38, "currency": "USD", "listings": 3, "url": "https://www.ebay.co.uk/sch/i.html?_nkw=S905X3+armbian" },
+          { "name": "eBay DE", "flag": "🇩🇪", "type": "二手", "priceMin": 30, "priceMax": 40, "currency": "USD", "listings": 2, "url": "https://www.ebay.de/sch/i.html?_nkw=S905X3+armbian" },
+          { "name": "AliExpress", "flag": "🌐", "type": "新品", "priceMin": 33, "priceMax": 42, "currency": "USD", "listings": 45, "url": "https://www.aliexpress.com/wholesale?SearchText=S905X3" },
+          { "name": "Tindie", "flag": "🌐", "type": "二手", "priceMin": null, "priceMax": null, "currency": "USD", "listings": 0, "url": "https://www.tindie.com/search/?q=S905X3" }
+        ],
+        "referenceUSD": 38,
+        "competitorCount": 0,
+        "note": "eBay搜'S905X3 armbian'结果为0，竞争几乎为零"
+      },
+      "selling": {
+        "normalUSD": [28, 35],
+        "premiumUSD": [38, 45],
+        "recommendedUSD": 40,
+        "suggestedPlatforms": ["eBay UK", "eBay DE", "Reddit r/selfhosted [WTS]"]
+      },
+      "demand": {
+        "useCases": ["Home Assistant", "Pi-hole", "Docker", "ARM服务器"],
+        "channels": ["Reddit r/selfhosted", "Armbian论坛TV版块", "eBay UK/DE"],
+        "links": [
+          { "label": "GitHub ophub/amlogic-s9xxx-armbian", "url": "https://github.com/ophub/amlogic-s9xxx-armbian" },
+          { "label": "Armbian TV盒子论坛", "url": "https://forum.armbian.com/forum/12-tv-boxes/" },
+          { "label": "Reddit r/selfhosted", "url": "https://reddit.com/r/selfhosted" }
+        ]
+      },
+      "report": {
+        "demandSignals": "Reddit r/selfhosted 每周都有用户询问便宜的 Home Assistant 硬件；Armbian 论坛 TV盒子版块持续活跃，S905X3 是讨论最多的芯片；GitHub ophub/amlogic-s9xxx-armbian 项目 8100 stars 仍在增长，用户基数庞大。",
+        "targetMarkets": "英国、德国需求最强，DIY 和 self-hosting 文化浓厚，用户愿意为预装好固件的产品付溢价。法国次之。",
+        "competitionAnalysis": "eBay UK 搜索 'S905X3 armbian' 结果为 0 条，AliExpress 上有新品但都是裸机，没有预装 Armbian 的版本，这是核心差异化。",
+        "profitLogic": "闲鱼收货 ¥45–60，成本极低。预装 Armbian 后建议卖 $38–45，买家比 AliExpress 新品便宜 15–20%，同时省去自己刷机的麻烦。1台净利润约 $12–18。",
+        "risks": "S905X3 型号较多（H96 Max X3、X96 Air等），需确认具体型号 Armbian 支持情况再收货。"
+      }
+    },
+    {
+      "id": "ax3000t",
+      "name": "小米 AX3000T",
+      "nameEn": "Xiaomi AX3000T (OpenWrt)",
+      "dataUpdated": "2026-06-02",
+      "category": "路由器",
+      "chip": "MediaTek MT7981B",
+      "firmware": "OpenWrt",
+      "status": "推荐",
+      "demandTrend": "稳定",
+      "communityHotness": 5,
+      "recommend": 4,
+      "competition": "低",
+      "xianyu": {
+        "avgPrice": 70,
+        "currentListings": 510,
+        "recentSold": 140,
+        "marketAvgPrice": 70,
+        "supplyLevel": "充足",
+        "aiRecommendations": [
+          { "title": "小米AX3000T 无线路由器", "price": 68, "url": "https://m.tb.cn/h.gCaRWpQ" },
+          { "title": "小米AX3000T 9成新", "price": 70, "url": "https://m.tb.cn/h.gCaRXrS" },
+          { "title": "AX3000T WiFi6 原装", "price": 72, "url": "https://m.tb.cn/h.gCaRYtU" },
+          { "title": "AX3000T 带原装电源 完整", "price": 65, "url": "https://m.tb.cn/h.gCaRZuV" }
+        ]
+      },
+      "communityData": [
+        {
+          "platform": "OpenWrt Forum",
+          "section": "Hardware Questions",
+          "lang": "🌐 英语",
+          "url": "https://forum.openwrt.org/t/xiaomi-ax3000t/156260",
+          "posts": 2790,
+          "threads": 186,
+          "hotKeywords": ["AX3000T", "MT7981B", "WiFi6", "OpenWrt"],
+          "lastActive": "今天",
+          "hotness": 5
+        },
+        {
+          "platform": "Reddit r/openwrt",
+          "section": "",
+          "lang": "🇺🇸 英语",
+          "url": "https://reddit.com/r/openwrt",
+          "posts": 980,
+          "threads": 74,
+          "hotKeywords": ["AX3000T", "cheap router", "MT7981B"],
+          "lastActive": "今天",
+          "hotness": 4
+        },
+        {
+          "platform": "OpenWrt Wiki",
+          "section": "ToH Page",
+          "lang": "🌐 英语",
+          "url": "https://openwrt.org/toh/xiaomi/ax3000t",
+          "posts": null,
+          "threads": null,
+          "pageViews": 52000,
+          "hotKeywords": ["install", "flash", "factory"],
+          "lastActive": "活跃",
+          "hotness": 4
+        }
+      ],
+      "overseas": {
+        "platforms": [
+          { "name": "eBay UK", "flag": "🇬🇧", "type": "二手", "priceMin": 30, "priceMax": 45, "currency": "USD", "listings": 12, "url": "https://www.ebay.co.uk/sch/i.html?_nkw=xiaomi+ax3000t" },
+          { "name": "eBay DE", "flag": "🇩🇪", "type": "二手", "priceMin": 28, "priceMax": 42, "currency": "USD", "listings": 8, "url": "https://www.ebay.de/sch/i.html?_nkw=xiaomi+ax3000t" },
+          { "name": "Kleinanzeigen 🇩🇪", "flag": "🇩🇪", "type": "二手", "priceMin": 25, "priceMax": 38, "currency": "USD", "listings": 5, "url": "https://www.kleinanzeigen.de/s-xiaomi-ax3000t/k0" },
+          { "name": "AliExpress", "flag": "🌐", "type": "新品", "priceMin": 35, "priceMax": 40, "currency": "USD", "listings": 80, "url": "https://www.aliexpress.com/wholesale?SearchText=xiaomi+ax3000t" }
+        ],
+        "referenceUSD": 40,
+        "competitorCount": 12,
+        "note": "OpenWrt论坛186页讨论，社区热度最高"
+      },
+      "selling": {
+        "normalUSD": [28, 32],
+        "premiumUSD": [55, 65],
+        "recommendedUSD": 58,
+        "suggestedPlatforms": ["eBay UK", "eBay DE", "Reddit r/openwrt [WTS]", "Kleinanzeigen"]
+      },
+      "demand": {
+        "useCases": ["OpenWrt路由", "VPN", "WiFi6升级", "homelab网关"],
+        "channels": ["Reddit r/openwrt", "OpenWrt论坛Hardware版块", "eBay UK/DE"],
+        "links": [
+          { "label": "OpenWrt论坛 AX3000T 讨论(186页)", "url": "https://forum.openwrt.org/t/xiaomi-ax3000t/156260" },
+          { "label": "Reddit r/openwrt", "url": "https://reddit.com/r/openwrt" },
+          { "label": "OpenWrt Wiki AX3000T", "url": "https://openwrt.org/toh/xiaomi/ax3000t" }
+        ]
+      },
+      "report": {
+        "demandSignals": "OpenWrt 论坛 AX3000T 专帖已有 186 页讨论，是目前 MT7981B 芯片讨论最活跃的机型；Reddit r/openwrt 每周都有用户提到 AX3000T；MT7981B 和 OpenWrt One 用同款芯片，官方背书带动社区热度持续。",
+        "targetMarkets": "英国、德国 OpenWrt 用户群体大，有明确购买意愿。这类用户不在乎品牌，只看芯片和固件支持情况，AX3000T 完全符合需求。",
+        "competitionAnalysis": "eBay UK 有约 12 条在售，多为个人零散出售，无批量供应。AliExpress 新品 $35–40，但买家需要自己刷机，预装版几乎没有竞争。",
+        "profitLogic": "收货价 ¥70 极稳定。预装 OpenWrt 溢价版可卖 $55–65，1台利润约 $10–15。建议主推预装版，差异化明显。",
+        "risks": "刷机需特定固件版本降级，批量出货前需熟练掌握刷机流程，避免变砖损失。"
+      }
+    },
+    {
+      "id": "n100-firewall",
+      "name": "N100 四/六口 2.5G 软路由",
+      "nameEn": "Intel N100 4x2.5G Fanless Firewall PC (OPNsense)",
+      "dataUpdated": "2026-06-01",
+      "category": "Mini PC",
+      "chip": "Intel N100 (6W TDP)",
+      "firmware": "OPNsense",
+      "status": "强烈推荐",
+      "demandTrend": "急速上升",
+      "communityHotness": 5,
+      "recommend": 5,
+      "competition": "极低",
+      "xianyu": {
+        "avgPrice": 880,
+        "currentListings": 95,
+        "recentSold": 28,
+        "marketAvgPrice": 880,
+        "supplyLevel": "充足",
+        "aiRecommendations": [
+          { "title": "倍控N100 四网口 8G+128G", "price": 850, "url": "https://m.tb.cn/h.gCaRZvW" },
+          { "title": "N100 软路由 全新整机", "price": 880, "url": "https://m.tb.cn/h.gCaS0xY" },
+          { "title": "N100 防火墙 四2.5G网口", "price": 920, "url": "https://m.tb.cn/h.gCaS1zA" },
+          { "title": "畅网N100 四口 准系统+内存", "price": 820, "url": "https://m.tb.cn/h.gCaS2AB" }
+        ]
+      },
+      "communityData": [
+        {
+          "platform": "OPNsense Forum",
+          "section": "Hardware & Networking",
+          "lang": "🌐 英语",
+          "url": "https://forum.opnsense.org/index.php?topic=42462.0",
+          "posts": 640,
+          "threads": 42,
+          "hotKeywords": ["N100", "fanless", "2.5G", "firewall"],
+          "lastActive": "3天前",
+          "hotness": 4
+        },
+        {
+          "platform": "Reddit r/homelab",
+          "section": "[WTS] & [Advice]",
+          "lang": "🇺🇸 英语",
+          "url": "https://www.reddit.com/r/homelab/search/?q=N100+firewall",
+          "posts": 3800,
+          "threads": 290,
+          "hotKeywords": ["N100 firewall", "cheap OPNsense", "mini PC homelab"],
+          "lastActive": "今天",
+          "hotness": 5
+        },
+        {
+          "platform": "Reddit r/pfSense",
+          "section": "",
+          "lang": "🇺🇸 英语",
+          "url": "https://reddit.com/r/pfSense",
+          "posts": 1100,
+          "threads": 88,
+          "hotKeywords": ["N100", "cheap hardware", "mini firewall"],
+          "lastActive": "今天",
+          "hotness": 4
+        },
+        {
+          "platform": "ServeTheHome Forums",
+          "section": "Networking & CPUs",
+          "lang": "🇺🇸 英语",
+          "url": "https://forums.servethehome.com/index.php?search/N100",
+          "posts": 520,
+          "threads": 38,
+          "hotKeywords": ["N100", "2.5GbE", "low power"],
+          "lastActive": "5天前",
+          "hotness": 3
+        }
+      ],
+      "overseas": {
+        "platforms": [
+          { "name": "Amazon US", "flag": "🇺🇸", "type": "新品", "priceMin": 189, "priceMax": 280, "currency": "USD", "listings": 35, "url": "https://www.amazon.com/s?k=N100+4+port+firewall" },
+          { "name": "Amazon UK", "flag": "🇬🇧", "type": "新品", "priceMin": 175, "priceMax": 260, "currency": "USD", "listings": 18, "url": "https://www.amazon.co.uk/s?k=N100+4+port+fanless" },
+          { "name": "Amazon DE", "flag": "🇩🇪", "type": "新品", "priceMin": 180, "priceMax": 270, "currency": "USD", "listings": 22, "url": "https://www.amazon.de/s?k=N100+firewall+4+port" },
+          { "name": "eBay UK", "flag": "🇬🇧", "type": "二手", "priceMin": 120, "priceMax": 180, "currency": "USD", "listings": 0, "url": "https://www.ebay.co.uk/sch/i.html?_nkw=N100+OPNsense+firewall" },
+          { "name": "eBay DE", "flag": "🇩🇪", "type": "二手", "priceMin": null, "priceMax": null, "currency": "USD", "listings": 0, "url": "https://www.ebay.de/sch/i.html?_nkw=N100+firewall" },
+          { "name": "AliExpress", "flag": "🌐", "type": "新品", "priceMin": 150, "priceMax": 220, "currency": "USD", "listings": 120, "url": "https://www.aliexpress.com/wholesale?SearchText=N100+firewall+4+port" }
+        ],
+        "referenceUSD": 229,
+        "competitorCount": 0,
+        "note": "eBay搜N100 OPNsense结果极少，二手几乎为零"
+      },
+      "selling": {
+        "normalUSD": [145, 175],
+        "premiumUSD": [160, 185],
+        "recommendedUSD": 165,
+        "suggestedPlatforms": ["eBay UK", "eBay DE", "Reddit r/homelab [WTS]", "Tindie"]
+      },
+      "demand": {
+        "useCases": ["OPNsense防火墙", "pfSense", "Proxmox节点", "家用网关"],
+        "channels": ["Reddit r/homelab [WTS]", "OPNsense论坛Hardware版块", "eBay UK/DE", "Tindie"],
+        "links": [
+          { "label": "OPNsense论坛 N100讨论", "url": "https://forum.opnsense.org/index.php?topic=42462.0" },
+          { "label": "Reddit r/homelab N100防火墙", "url": "https://www.reddit.com/r/homelab/search/?q=N100+firewall" },
+          { "label": "MiniLabHQ N100购买指南", "url": "https://minilabhq.com" }
+        ]
+      },
+      "report": {
+        "demandSignals": "OPNsense 论坛有专帖讨论 N100 防火墙机；Reddit r/homelab 每天都有人推荐；minilabhq.com 等专业博客将 N100 多口机列为首选；2026年 self-hosting 市场年增18.5%，N100 成为入门 homelab 代名词。",
+        "targetMarkets": "英国、德国 homelab 用户群体爆发式增长。用户明确需要多网口、低功耗、静音的 x86 机器跑 OPNsense，国内 CWWK/倍控/畅网 产品完全符合，但海外用户不知道去哪买便宜的。",
+        "competitionAnalysis": "eBay UK/DE 搜 'N100 OPNsense' 结果极少，二手几乎为零。Amazon 上只有新品 $189–280，没有二手供应。这是目前调研产品里竞争最低的品类。",
+        "profitLogic": "闲鱼收整机（8G+128G）¥780–1000，Amazon 新品 $229 起，建议卖 $145–175。预装 OPNsense 提高成交率。1台净利润约 $25–50，绝对利润最高。",
+        "risks": "单台收货成本高（¥780+），资金占用大。建议先买1台测试再批量操作。"
+      }
+    },
+    {
+      "id": "rpi4b",
+      "name": "树莓派 4B 4G",
+      "nameEn": "Raspberry Pi 4 Model B 4GB",
+      "dataUpdated": "2026-06-02",
+      "category": "SBC",
+      "chip": "BCM2711 (ARM Cortex-A72)",
+      "firmware": "Raspberry Pi OS",
+      "status": "推荐",
+      "demandTrend": "稳定",
+      "communityHotness": 5,
+      "recommend": 4,
+      "competition": "中",
+      "xianyu": {
+        "avgPrice": 220,
+        "currentListings": 420,
+        "recentSold": 110,
+        "marketAvgPrice": 220,
+        "supplyLevel": "充足",
+        "aiRecommendations": [
+          { "title": "树莓派4B 4G 英版原装", "price": 200, "url": "https://m.tb.cn/h.gCaS2BC" },
+          { "title": "Raspberry Pi 4B 套装", "price": 230, "url": "https://m.tb.cn/h.gCaS3DE" },
+          { "title": "树莓派4B 4G 95新", "price": 210, "url": "https://m.tb.cn/h.gCaS4FG" },
+          { "title": "树莓派4B 4G 含散热外壳", "price": 220, "url": "https://m.tb.cn/h.gCaS5GH" }
+        ]
+      },
+      "communityData": [
+        {
+          "platform": "Reddit r/raspberry_pi",
+          "section": "",
+          "lang": "🇺🇸 英语",
+          "url": "https://reddit.com/r/raspberry_pi",
+          "posts": 8500,
+          "threads": 620,
+          "hotKeywords": ["Pi 4", "homelab", "docker", "Home Assistant"],
+          "lastActive": "今天",
+          "hotness": 5
+        }
+      ],
+      "overseas": {
+        "platforms": [
+          { "name": "eBay UK", "flag": "🇬🇧", "type": "二手", "priceMin": 35, "priceMax": 55, "currency": "USD", "listings": 28, "url": "https://www.ebay.co.uk/sch/i.html?_nkw=raspberry+pi+4+4gb" },
+          { "name": "eBay DE", "flag": "🇩🇪", "type": "二手", "priceMin": 32, "priceMax": 50, "currency": "USD", "listings": 15, "url": "https://www.ebay.de/sch/i.html?_nkw=raspberry+pi+4+4gb" }
+        ],
+        "referenceUSD": 55,
+        "competitorCount": 28,
+        "note": "竞争较多，建议搭配配件套装出售提升溢价"
+      },
+      "selling": {
+        "normalUSD": [38, 48],
+        "premiumUSD": [50, 65],
+        "recommendedUSD": 45,
+        "suggestedPlatforms": ["eBay UK", "eBay DE", "Reddit r/raspberry_pi [WTS]"]
+      },
+      "demand": {
+        "useCases": ["Home Assistant", "Docker", "RetroPie", "网络监控"],
+        "channels": ["Reddit r/raspberry_pi", "eBay UK/DE"],
+        "links": [
+          { "label": "Reddit r/raspberry_pi", "url": "https://reddit.com/r/raspberry_pi" }
+        ]
+      },
+      "report": {
+        "demandSignals": "Reddit r/raspberry_pi 是最活跃的 SBC 社区之一，每天大量讨论。Pi 4 仍是最主流的入门 SBC，需求稳定。",
+        "targetMarkets": "英国、德国 DIY 用户，教育市场和 homelab 入门用户。",
+        "competitionAnalysis": "eBay 上已有一定数量在售，竞争中等。建议配合配件（外壳+散热+电源）打包出售提高溢价。",
+        "profitLogic": "闲鱼收 ¥180–260，建议卖 $45，1台净利润约 $15–20。",
+        "risks": "竞争较多，需差异化（预装系统或打包配件）。库存价格持续下降，注意控制收货成本。"
+      }
+    },
+    {
+      "id": "nas-n5105",
+      "name": "N5105 四盘位 NAS 主机",
+      "nameEn": "Intel N5105 4-Bay NAS (TrueNAS)",
+      "dataUpdated": "2026-06-02",
+      "category": "NAS",
+      "chip": "Intel N5105 (10W TDP)",
+      "firmware": "TrueNAS",
+      "status": "谨慎",
+      "demandTrend": "上升",
+      "communityHotness": 4,
+      "recommend": 3,
+      "competition": "低",
+      "xianyu": {
+        "avgPrice": 620,
+        "currentListings": 65,
+        "recentSold": 18,
+        "marketAvgPrice": 620,
+        "supplyLevel": "一般",
+        "aiRecommendations": [
+          { "title": "N5105 四盘位NAS 准系统", "price": 580, "url": "https://m.tb.cn/h.gCaS5HI" },
+          { "title": "N5105 NAS主机 8G+256G", "price": 650, "url": "https://m.tb.cn/h.gCaS6JK" },
+          { "title": "N5105 四盘位 ITX机箱", "price": 600, "url": "https://m.tb.cn/h.gCaS7LM" },
+          { "title": "N5105 整机含硬盘位扩展", "price": 620, "url": "https://m.tb.cn/h.gCaS8MN" }
+        ]
+      },
+      "communityData": [
+        {
+          "platform": "Reddit r/homelab",
+          "section": "NAS builds",
+          "lang": "🇺🇸 英语",
+          "url": "https://www.reddit.com/r/homelab/search/?q=N5105+NAS",
+          "posts": 1200,
+          "threads": 95,
+          "hotKeywords": ["N5105", "TrueNAS", "cheap NAS", "4 bay"],
+          "lastActive": "今天",
+          "hotness": 4
+        },
+        {
+          "platform": "TrueNAS Community",
+          "section": "Hardware",
+          "lang": "🌐 英语",
+          "url": "https://forums.truenas.com",
+          "posts": 680,
+          "threads": 52,
+          "hotKeywords": ["N5105", "mini NAS", "ECC"],
+          "lastActive": "3天前",
+          "hotness": 3
+        }
+      ],
+      "overseas": {
+        "platforms": [
+          { "name": "eBay UK", "flag": "🇬🇧", "type": "二手", "priceMin": 90, "priceMax": 140, "currency": "USD", "listings": 3, "url": "https://www.ebay.co.uk/sch/i.html?_nkw=N5105+NAS" },
+          { "name": "Amazon US", "flag": "🇺🇸", "type": "新品", "priceMin": 180, "priceMax": 280, "currency": "USD", "listings": 12, "url": "https://www.amazon.com/s?k=N5105+4+bay+NAS" },
+          { "name": "AliExpress", "flag": "🌐", "type": "新品", "priceMin": 140, "priceMax": 200, "currency": "USD", "listings": 30, "url": "https://www.aliexpress.com/wholesale?SearchText=N5105+NAS" }
+        ],
+        "referenceUSD": 180,
+        "competitorCount": 3,
+        "note": "eBay二手极少，有明显供货缺口"
+      },
+      "selling": {
+        "normalUSD": [110, 140],
+        "premiumUSD": [140, 160],
+        "recommendedUSD": 130,
+        "suggestedPlatforms": ["eBay UK", "eBay DE", "Reddit r/homelab [WTS]"]
+      },
+      "demand": {
+        "useCases": ["TrueNAS", "家庭媒体服务器", "Plex", "数据备份"],
+        "channels": ["Reddit r/homelab", "TrueNAS社区", "eBay UK/DE"],
+        "links": [
+          { "label": "Reddit r/homelab NAS讨论", "url": "https://www.reddit.com/r/homelab/search/?q=N5105+NAS" },
+          { "label": "TrueNAS社区论坛", "url": "https://forums.truenas.com" }
+        ]
+      },
+      "report": {
+        "demandSignals": "Reddit r/homelab 每周都有人讨论 cheap NAS 方案，N5105 因低功耗四盘位被频繁推荐。TrueNAS 社区活跃，用户明确寻找便宜的 x86 NAS 硬件。",
+        "targetMarkets": "英国、德国家庭用户和小型办公室，有明确的数据存储和媒体服务需求。",
+        "competitionAnalysis": "eBay 上二手 N5105 NAS 极少，供货缺口明显。Amazon 新品 $180+ 起，二手价格空间充足。",
+        "profitLogic": "闲鱼收准系统 ¥500–750，预装 TrueNAS 后建议卖 $130，1台净利润约 $20–35。",
+        "risks": "准系统需自配内存和系统盘，增加成本和操作复杂度。体积较大，运费略高。建议整机收货。"
+      }
+    }
+  ],
+  "shipping": [
+    { "method": "中国邮政小包", "costMin": 8, "costMax": 15, "daysMin": 25, "daysMax": 45, "recommend": false, "note": "太慢，买家体验差" },
+    { "method": "专线小包（燕文/云途/4PX）", "costMin": 20, "costMax": 30, "daysMin": 7, "daysMax": 15, "recommend": true, "note": "推荐，性价比最佳" },
+    { "method": "DHL Express", "costMin": 60, "costMax": 120, "daysMin": 3, "daysMax": 5, "recommend": false, "note": "太贵，仅高价值产品考虑" }
+  ],
+  "markets": [
+    { "country": "德国", "flag": "🇩🇪", "score": 5, "vat": 0.19, "reason": "欧洲最大极客社区，愿意付溢价" },
+    { "country": "英国", "flag": "🇬🇧", "score": 5, "vat": 0.20, "reason": "SBC/OpenWrt文化浓厚" },
+    { "country": "法国", "flag": "🇫🇷", "score": 4, "vat": 0.20, "reason": "活跃DIY社区" },
+    { "country": "波兰/捷克", "flag": "🇵🇱", "score": 3, "vat": 0.23, "reason": "二手电子经销商活跃" },
+    { "country": "美国", "flag": "🇺🇸", "score": 0, "vat": 0, "reason": "关税政策混乱，每件$50起，暂时跳过" }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-gl-mt6000",
+      "name": "GL.iNet MT6000 (Flint 2)",
+      "nameEn": "GL.iNet MT6000 Flint 2",
+      "category": "路由器",
+      "chip": "MediaTek MT6000",
+      "firmware": "OpenWrt",
+      "status": "调研中",
+      "source": "OpenWrt Forum",
+      "sourceUrl": "https://forum.openwrt.org/t/gl-inet-mt6000-flint-2/",
+      "signal": "OpenWrt论坛专帖热度持续攀升，论坛帖子 3200+，Reddit提及频繁，eBay二手几乎为零",
+      "communityHotness": 4,
+      "discoveredAt": "2026-06-01",
+      "xianyuEstPrice": 310,
+      "overseasEstPrice": 100,
+      "notes": "MT6000 WiFi6支持完善，套利空间约$20–30，闲鱼货源充足"
+    },
+    {
+      "id": "opp-banana-pi-r4",
+      "name": "Banana Pi BPi-R4",
+      "nameEn": "Banana Pi BPi-R4",
+      "category": "软路由",
+      "chip": "MediaTek MT7988A",
+      "firmware": "OpenWrt",
+      "status": "待调研",
+      "source": "GitHub openwrt/openwrt",
+      "sourceUrl": "https://github.com/openwrt/openwrt/issues",
+      "signal": "MT7988A芯片，10GbE支持，GitHub issues中被多次提及需要二手货源，串口刷机教程热度高",
+      "communityHotness": 3,
+      "discoveredAt": "2026-06-02",
+      "xianyuEstPrice": 500,
+      "overseasEstPrice": 175,
+      "notes": "10GbE家用需求上升，价格较高需验证实际成交率"
+    },
+    {
+      "id": "opp-x86-n6005",
+      "name": "N6005 软路由",
+      "nameEn": "Intel N6005 Mini PC Firewall",
+      "category": "Mini PC",
+      "chip": "Intel N6005",
+      "firmware": "OPNsense",
+      "status": "待调研",
+      "source": "Reddit r/homelab",
+      "sourceUrl": "https://reddit.com/r/homelab",
+      "signal": "r/homelab用户频繁询问N6005和N5105的价格对比，Reddit帖子 420+，认为N6005性价比更高",
+      "communityHotness": 3,
+      "discoveredAt": "2026-06-02",
+      "xianyuEstPrice": 750,
+      "overseasEstPrice": 210,
+      "notes": "N6005比N100稍新，需验证闲鱼货源价格是否合适"
+    },
+    {
+      "id": "opp-radxa-rock5b",
+      "name": "Radxa Rock 5B",
+      "nameEn": "Radxa Rock 5B RK3588",
+      "category": "SBC",
+      "chip": "Rockchip RK3588",
+      "firmware": "Armbian",
+      "status": "已验证",
+      "source": "Armbian Forum",
+      "sourceUrl": "https://forum.armbian.com",
+      "signal": "RK3588芯片，性能远超Pi 4，Armbian论坛帖子 1800+，GitHub stars 12000+，海外二手几乎为零",
+      "communityHotness": 5,
+      "discoveredAt": "2026-05-30",
+      "xianyuEstPrice": 430,
+      "overseasEstPrice": 140,
+      "notes": "已确认闲鱼货源充足，准备移入选品看板"
+    },
+    {
+      "id": "opp-gl-mt3000",
+      "name": "GL.iNet MT3000 (Beryl AX)",
+      "nameEn": "GL.iNet MT3000 Beryl AX",
+      "category": "路由器",
+      "chip": "MediaTek MT3000",
+      "firmware": "OpenWrt",
+      "status": "待调研",
+      "source": "Reddit r/openwrt",
+      "sourceUrl": "https://reddit.com/r/openwrt",
+      "signal": "近7天15个帖子询问购买渠道，eBay无二手在售，社区热度持续",
+      "communityHotness": 4,
+      "discoveredAt": "2026-06-02",
+      "xianyuEstPrice": 180,
+      "overseasEstPrice": 85,
+      "notes": "GL.iNet官方售价$89，闲鱼¥180左右，套利空间待验证"
+    }
+  ],
+  "execution": [
+    {
+      "id": "exec-001",
+      "productId": "n100-firewall",
+      "productName": "N100 四口软路由",
+      "status": "在售",
+      "buyPrice": 880,
+      "buyDate": "2026-05-28",
+      "quantity": 2,
+      "soldQuantity": 1,
+      "sellPriceUSD": 165,
+      "platform": "eBay UK",
+      "listingUrl": "https://ebay.co.uk/itm/example",
+      "realizedProfitUSD": 42,
+      "notes": "第1台已售，第2台在售中"
+    },
+    {
+      "id": "exec-002",
+      "productId": "s905x3",
+      "productName": "S905X3 电视盒子",
+      "status": "已售",
+      "buyPrice": 52,
+      "buyDate": "2026-05-20",
+      "quantity": 5,
+      "soldQuantity": 5,
+      "sellPriceUSD": 38,
+      "platform": "eBay DE",
+      "listingUrl": "https://ebay.de/itm/example",
+      "realizedProfitUSD": 68,
+      "notes": "5台全部售出，平均3天成交"
+    },
+    {
+      "id": "exec-003",
+      "productId": "ax3000t",
+      "productName": "小米 AX3000T",
+      "status": "收货中",
+      "buyPrice": 70,
+      "buyDate": "2026-06-01",
+      "quantity": 3,
+      "soldQuantity": 0,
+      "sellPriceUSD": 58,
+      "platform": "eBay UK",
+      "listingUrl": "",
+      "realizedProfitUSD": 0,
+      "notes": "闲鱼已付款，等待发货"
+    }
+  ]
+}
