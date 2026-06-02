@@ -32,17 +32,67 @@ function hotDots(n) {
 }
 
 // ══════════════════════════════════════════
-// 加载数据
+// 加载数据（SQLite via sql.js）
 // ══════════════════════════════════════════
-fetch('data.json').then(r => r.json()).then(data => {
-  D = data;
-  const metaStr = `更新：${data.meta.updated}  ·  汇率 $1 = ¥${data.meta.exchangeRate}`;
-  document.getElementById('top-meta').textContent = metaStr;
-  const footerMeta = document.getElementById('footer-meta');
-  if (footerMeta) footerMeta.textContent = metaStr;
-  renderToolbar();
-  renderProductList();
-  if (data.products.length > 0) showReport(data.products[0].id);
+initSqlJs({ locateFile: () => 'js/sql-wasm.wasm' }).then(SQL => {
+  return fetch('db/data.db')
+    .then(r => r.arrayBuffer())
+    .then(buf => {
+      const db = new SQL.Database(new Uint8Array(buf));
+
+      // 读取 meta
+      const metaRow = db.exec('SELECT exchange_rate, shipping_base, updated FROM meta')[0].values[0];
+      const meta = {
+        exchangeRate: metaRow[0],
+        shippingBase: metaRow[1],
+        updated:      metaRow[2]
+      };
+
+      // 读取 products，JSON字段直接 parse 还原成对象
+      const prodRes = db.exec(`
+        SELECT id, name, name_en, category, chip, firmware,
+               status, demand_trend, community_hotness, recommend, competition, data_updated,
+               xianyu, community_data, overseas, selling, demand, report
+        FROM products
+      `);
+      const products = (prodRes[0]?.values || []).map(r => ({
+        id:               r[0],
+        name:             r[1],
+        nameEn:           r[2],
+        category:         r[3],
+        chip:             r[4],
+        firmware:         r[5],
+        status:           r[6],
+        demandTrend:      r[7],
+        communityHotness: r[8],
+        recommend:        r[9],
+        competition:      r[10],
+        dataUpdated:      r[11],
+        xianyu:           JSON.parse(r[12]),
+        communityData:    JSON.parse(r[13]),
+        overseas:         JSON.parse(r[14]),
+        selling:          JSON.parse(r[15]),
+        demand:           JSON.parse(r[16]),
+        report:           JSON.parse(r[17]),
+      }));
+
+      db.close();
+
+      // 组装成和原来 data.json 完全一致的结构，其余代码零改动
+      D = { meta, products };
+
+      const metaStr = `更新：${meta.updated}  ·  汇率 $1 = ¥${meta.exchangeRate}`;
+      document.getElementById('top-meta').textContent = metaStr;
+      const footerMeta = document.getElementById('footer-meta');
+      if (footerMeta) footerMeta.textContent = metaStr;
+      renderToolbar();
+      renderProductList();
+      if (products.length > 0) showReport(products[0].id);
+    });
+}).catch(err => {
+  console.error('数据库加载失败', err);
+  document.getElementById('report-panel').innerHTML =
+    `<div class="report-empty" style="color:var(--red)">⚠️ 数据库加载失败：${err.message}</div>`;
 });
 
 // ══════════════════════════════════════════
