@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bpi-r4-pro",
+    "name": "香蕉派 BPI-R4 Pro",
+    "name_en": "Banana Pi BPI-R4 Pro",
+    "investigated_date": "2026-06-03",
+    "result": "skipped",
+    "skip_reason": "闲鱼供货稀缺（仅0条）"
+  },
+  {
+    "id": "cmcc-rax3000m",
+    "name": "中国移动 CMCC RAX3000M",
+    "name_en": "CMCC RAX3000M WiFi6 Router",
+    "investigated_date": "2026-06-03",
+    "result": "skipped",
+    "skip_reason": "海外无价格参考，无法定价"
+  },
+  {
+    "id": "ugoos-am6b-plus",
+    "name": "Ugoos AM6B+",
+    "name_en": "Ugoos AM6B Plus S922X-J TV Box",
+    "investigated_date": "2026-06-03",
+    "result": "skipped",
+    "skip_reason": "闲鱼供货稀缺（仅6条，且均非Ugoos AM6B+型号）"
+  },
+  {
+    "id": "h96-max-m9",
+    "name": "H96 Max M9",
+    "name_en": "H96 Max M9 RK3576 TV Box",
+    "investigated_date": "2026-06-03",
+    "result": "skipped",
+    "skip_reason": "闲鱼供货稀缺（仅0条）"
+  },
+  {
+    "id": "redmi-ax6000",
+    "name": "Redmi AX6000",
+    "name_en": "Xiaomi Redmi Router AX6000",
+    "investigated_date": "2026-06-03",
+    "result": "written",
+    "skip_reason": null
+  }
+]
