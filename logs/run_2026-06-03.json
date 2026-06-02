@@ -2,13 +2,13 @@
   "run_date": "2026-06-03",
   "candidates_total": 5,
   "products_added": [
-    "redmi-ax6000"
+    "redmi-ax3000"
   ],
   "skipped": 4,
   "skip_reasons": {
-    "bpi-r4-pro": "闲鱼供货稀缺（仅0条）",
-    "cmcc-rax3000m": "海外无价格参考，无法定价",
-    "ugoos-am6b-plus": "闲鱼供货稀缺（仅6条，且均非Ugoos AM6B+型号）",
-    "h96-max-m9": "闲鱼供货稀缺（仅0条）"
+    "xiaomi-ax9000": "利润率 15.1% < 30%",
+    "nanopi-r6s": "闲鱼供货稀缺（仅0条，国内无法货源）",
+    "orangepi-5-plus": "利润率 22.6% < 30%",
+    "zte-mf286d": "闲鱼供货稀缺（仅0条，该型号为欧洲运营商定制机，国内无货源）"
   }
 }
