@@ -51,5 +51,25 @@ xianyu/
 4. **验证套利空间** — 三个条件同时满足才写入数据库
 5. **写入数据库** — 操作 `db/data.db`，参考 `db/README.md` 的数据结构说明。
 
+---
 
+## 在kiro等ai工具输入
+
+
+请按照 AGENTS.md 的设计，完整运行一次多智能体选品流程：
+
+1. 【猎手】：读取 db/data.db 的黑名单，然后在海外社区自由搜索，发现 3-6 个有 DIY 需求的硬件候选，写入 candidates.json
+
+2. 【闲鱼专员】：用 Playwright MCP 打开闲鱼，逐个检查每个候选的供货情况，结果追加到 candidates.json。供货稀缺的候选标记 skip:true
+
+3. 【侦察员】：对 skip 不为 true 的候选，搜索 eBay UK/DE/US 等平台查在售价格，结果追加到 candidates.json
+
+4. 【裁判】：读取 candidates.json，计算每个通过的候选的套利利润，符合准入标准的写入 db/data.db，然后 git push，最后输出执行日志
+
+参考文件：
+- AGENTS.md（各 Agent 详细规则）
+- db/README.md（数据库字段说明）
+- goofish-scraper-guide.md（闲鱼操作手册）
+
+完成后报告：新增了哪些产品、在哪一步被淘汰了哪些及原因。
 
